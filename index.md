@@ -19,10 +19,10 @@ As this site originates from the **Materia** community, the strategies are based
 ## Current Tier - Anabaseios
 
 <span class="fs-5">
-[P9S](/p9s){: .btn .btn-green}
-[P10S](/p10s){: .btn .btn-green}
-[P11S](/p11s){: .btn .btn-green}
-[P12S](/p12s){: .btn .btn-green}
+[P9S](/p9s){: .btn }
+[P10S](/p10s){: .btn }
+[P11S](/p11s){: .btn }
+[P12S](/p12s){: .btn }
 </span>
 
 ## Previous Tiers
