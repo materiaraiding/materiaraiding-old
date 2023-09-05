@@ -19,7 +19,8 @@ As this site originates from the **Materia** community, the strategies are based
 [P9S](/p9s){: .btn }
 [P10S](/p10s){: .btn }
 [P11S](/p11s){: .btn }
-[P12S](/p12s){: .btn }
+[P12S P1](/p12s-1){: .btn }
+[P12S P2](/p12s-2){: .btn }
 </span>
 
 ## Previous Tiers
