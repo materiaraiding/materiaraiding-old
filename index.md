@@ -11,11 +11,13 @@ This website is a resource provided by Materia Raiding community, as a one-stop 
 ## Savage Resources (Current Tier)
 Macros and Guides provided by the [Materia Raiding](https://discord.gg/EySn5dRj65) community.
 
+<span class="fs-7">
 [P9S](/p9s){: .btn }
 [P10S](/p10s){: .btn }
 [P11S](/p11s){: .btn }
 [P12S P1](/p12s-1){: .btn }
 [P12S P2](/p12s-2){: .btn }
+</span>
 
 [View Previous Tiers](/oldfights){: .btn }
 
