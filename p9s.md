@@ -1,7 +1,7 @@
 ---
 layout: default
 title: P9S
-nav_order: 9
+nav_order: 5
 ---
 
 {% include custom.html %}

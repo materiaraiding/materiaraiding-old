@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Raiding Terminology
+nav_order: 100
 ---
 
 # Raid Terminology Glossary
