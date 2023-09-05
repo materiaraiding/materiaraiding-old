@@ -61,7 +61,7 @@ Coloured WM to match up with fire/ice pairs and KB pairs
 ```
 {"Name":"Imported","MapID":937,"A":{"X":99.967,"Y":0.0,"Z":87.428,"ID":0,"Active":true},"B":{"X":112.612,"Y":0.0,"Z":99.839,"ID":1,"Active":true},"C":{"X":99.983,"Y":0.0,"Z":112.642,"ID":2,"Active":true},"D":{"X":87.184,"Y":0.0,"Z":99.864,"ID":3,"Active":true},"One":{"X":90.172,"Y":0.0,"Z":90.006,"ID":4,"Active":true},"Two":{"X":109.949,"Y":0.0,"Z":89.894,"ID":5,"Active":true},"Three":{"X":109.967,"Y":0.0,"Z":109.759,"ID":6,"Active":true},"Four":{"X":90.087,"Y":0.0,"Z":109.773,"ID":7,"Active":true}}
 ```
-![image](https://github.com/materiaraiding/materiaraiding/assets/85346345/97355580-9c9a-4754-8ac0-ac1d7abfb31e)
+![image](assets/images/p9sWM.webp)
 
 ## Other Resources
 
