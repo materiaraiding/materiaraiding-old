@@ -21,6 +21,7 @@ Macros and Guides provided by the [Materia Raiding](https://discord.gg/EySn5dRj6
 <span class="fs-4">
 [View Previous Tiers](/oldfights){: .btn }
 </span>
+
 ## Ultimate Resources
 Guides for Ultimate fights, videos, toolboxes and resources. based on the strats from the [Materia Ultimate Raiding](https://discord.gg/ArZz3b8PZV) community.
 
