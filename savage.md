@@ -2,6 +2,7 @@
 layout: default
 title: Savage
 has_children: true
+nav_order: 2
 ---
 
 # Savage Raids
