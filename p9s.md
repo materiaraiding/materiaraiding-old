@@ -19,6 +19,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 ## Macro
 
+### Oppo LC1 (PF Standard)
 Using Oppo for Scrambled Succession (LC1) - compatible with Xeno
 ```
 ■【Dualcast】
@@ -40,7 +41,7 @@ Using Oppo for Scrambled Succession (LC1) - compatible with Xeno
 Note: Before the Chimeric Succession cast is complete, position tanks and melee (MT ST D1 D2) inside the boss hitbox and healers and ranged (H1 H2 D3 D4) outside the boss hitbox to bait 1-4 defamations. (edited)
 June 9, 2023
 
-
+### JP Intercard (Alternate)
 [JP Intercard LC](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/6.0_endwalker/savage_raids/p9s/#scrambled-succession-intercard)
 ```
 ■ Scrambled Succession (Intercard LC1)
@@ -59,7 +60,7 @@ Coloured WM to match up with fire/ice pairs and KB pairs
 ```
 {"Name":"Imported","MapID":937,"A":{"X":99.967,"Y":0.0,"Z":87.428,"ID":0,"Active":true},"B":{"X":112.612,"Y":0.0,"Z":99.839,"ID":1,"Active":true},"C":{"X":99.983,"Y":0.0,"Z":112.642,"ID":2,"Active":true},"D":{"X":87.184,"Y":0.0,"Z":99.864,"ID":3,"Active":true},"One":{"X":90.172,"Y":0.0,"Z":90.006,"ID":4,"Active":true},"Two":{"X":109.949,"Y":0.0,"Z":89.894,"ID":5,"Active":true},"Three":{"X":109.967,"Y":0.0,"Z":109.759,"ID":6,"Active":true},"Four":{"X":90.087,"Y":0.0,"Z":109.773,"ID":7,"Active":true}}
 ```
-![image](https://github.com/materiaraiding/materiaraiding/assets/85346345/8a1520d9-51d2-40f7-a097-7e538afc796b)
+![image](https://github.com/materiaraiding/materiaraiding/assets/85346345/97355580-9c9a-4754-8ac0-ac1d7abfb31e)
 
 ## Other Resources
 
