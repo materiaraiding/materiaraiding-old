@@ -12,23 +12,25 @@ This site was put together to help combine various resources and guides into one
 
 As this site originates from the **Materia** community, the strategies are based on the most commonly adopted strategies on Materia Party Finder and are recommended for PF groups. You can join the discussion about these strats at the discord links at the top of the page.
 
-## Current Tier (Anabaseios)
+[Materia Raiding Discord](https://discord.gg/EySn5dRj65){: .btn }
 
-[P12S](/p12s){: .btn .btn-purple}
-[P11S](/p11s){: .btn .btn-purple}
-[P10S](/p10s){: .btn .btn-purple}
-[P9S](/p9s){: .btn .btn-purple}
+## Current Tier - Anabaseios
 
-# Previous Tiers
+[P12S](/p12s){: .btn .btn-green}
+[P11S](/p11s){: .btn .btn-green}
+[P10S](/p10s){: .btn .btn-green}
+[P9S](/p9s){: .btn .btn-green}
 
-## Abyssos
+## Previous Tiers
+
+### Abyssos
 
 [P8S](/){: .btn }
 [P7S](/){: .btn }
 [P6S](/p6s){: .btn }
 [P5S](/p5s){: .btn }
 
-## Asphodelos
+### Asphodelos
 
 [P4S](/){: .btn }
 [P3S](/){: .btn }
@@ -38,10 +40,12 @@ As this site originates from the **Materia** community, the strategies are based
 ## Important Links
 
 ### [Materia Raiding Discord](https://discord.gg/EySn5dRj65)
-The home of this website.
+Home of Materia Savage strats and the Party Finder and LFM channels.
 
 ### [Materia Ultimate Raiding Discord](https://discord.gg/ArZz3b8PZV)
-Where Materia Strats are born, also great for finding Parties in their PF channels.
+Where Materia Ult Strats are born, also great for finding Ultimate Parties in their PF channels.
 
 ### [The Balance](https://www.thebalanceffxiv.com/)
 Learn how to play your job good.
+
+<iframe src="https://discord.com/widget?id=895516967543390249&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
