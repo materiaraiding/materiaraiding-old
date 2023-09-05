@@ -1,0 +1,82 @@
+- term: Slipstream           # Can contain spaces
+  definition: A heavy hitting cleave attack targetted at the Tank, this can be dodged as the boss will not turn once the cast begins.
+- term: Feather Rain           # Can contain spaces
+  definition: A loud shriek noise is followed by AOE hits on all players, listen for the sound and then move immediately after.
+- term: Searing Wind
+  definition: One of the two healers will be targetted with a debuff, this will last for some time and cause periodic explosions around you, anyone caught in this will die.
+- term: Mistral Song
+  definition: Garuda targets players with a Green Marker, then either Garuda or Clones will launch a line AoE dealing more damage to the first player hit.
+- term: Downburst
+  definition: Heavy hitting tankbuster requiring mitigation.
+- term: AOE
+  definition: Area-of-Effect, typically used to describe any mechanic or ability which affects multiple enemies/players in an area.
+- term: Telegraph
+  definition: The indicators you see before a mechanic goes off, usually orange circles or lines on the ground, but can also be things that appear above players/enemies heads or any other indicator that shows you what is about to happen.
+- term: Enums
+  definition: A mechanic which requires a specific number of players to soak a mechanic, similar to STACK/SOAK but with a specific number of players.
+- term: MT
+  definition: Main Tank, typically the Tank holding the boss aggro the most.
+- term: OT
+  definition: Off Tank, the other tank.
+- term: PBAOE
+  definition: Point-Blank Area-of-Effect, usually an enemy ability that causes a large AOE damage area centered on the enemy.
+- term: Vulcan Burst
+  definition: Large Low-Damage AOE with knockback, needs to be mitigated by applying shields.
+- term: Incinerate
+  definition: Untelegraphed Tankbuster, Triple tankbuster with no broadcast, typically use invlun, darkness damage.
+- term: Eruptions
+  definition: Ifrit will target the furthest players and cast a series of large explosions
+- term: Weight of the Land
+  definition: Several large AOEs appear under all players one after another.
+- term: Landslides
+  definition: Multiple Line AOEs radiating out from boss, when Awakened, these will happen much faster and need to be dodged into for safety.
+- term: Mountain Buster
+  definition: Heavy Tankbuster with Cleave
+- term: Geocrush
+  definition: Titan will turn to a cardinal and jump, crashing down at the side he was facing, Heavy distance AOE based on his landing location. Room will shrink in size.
+- term: Twister
+  definition: At the end of its cast, Twintania will place small tornadoes under players. Must move away at the end of the cast, as running into any of the small tornadoes results in instant death to you and friends.
+- term: Bahamuts Claw
+  definition: Physical tankbuster consisting of 5 successive hits to her target.
+- term: Dalamud Dive
+  definition: Nael jumps onto her target, dealing significant splash damage. Make sure to spread away from the tank to prevent any extra damage.
+- term: Liquid Hell
+  definition: The boss will target further player with 5 consecutive fireballs dropping puddles, staying in a puddle is fatal. At times this can also target a random non-furthest player.
+- term: Death Sentence
+  definition: Tankbuster dealing heavy physical damage to its target, and inflicting a Physical Vulnerability up.
+- term: Fireball
+  definition: Twintania will mark a player with a red triangle, and throw a fireball dealing significant magic damage that can be shared amongst the party.
+- term: Hatch
+  definition: Orb spawns at boss and targets a player, exploding when it reaches them. Survive by standing in a puddle when it explodes on you.
+- term: Plummet
+  definition: Cleave, dealing significant physical damage to its target.
+- term: Neurolink
+  definition: Puddle dropped by boss, standing in it reduces outgoing damage to foes and incoming damage from Hatch.
+- term: Thunderstruck
+  definition: Two players are targeted with the Thunderstruck debuff and need to stay away from the party to avoid killing party members or giving them paralysis.
+- term: Doom
+  definition: Will kill the player when the timer reaches zero.
+- term: Wings of Salvation
+  definition: Large white puddles appear on the ground exploding shortly after.
+- term: Lunar Dynamo
+  definition: A Dount shaped AOE centered on the boss.
+- term: Thermionic Beam
+  definition: Heavy hitting party stack AOE.
+- term: Iron Chariot
+  definition: Large Point-Blank AOE centered on the boss with heavy knockback.
+- term: Raven's Dive
+  definition: Boss will jump to a player and hit them with a small AOE knocking back anyone nearby.
+- term: Meteor Stream
+  definition: Boss dives down on several players hitting them with a heavy attack in an AOE around them.
+- term: Hypernova
+  definition: Boss will target a player with a AoE puddle at their location, staying in the puddle too long is fatal.
+- term: Flare Breath
+  definition: Conal cleave dealing very significant magic damage. Treat it like a mini-tankbuster.
+- term: Flatten
+  definition: Physical tankbuster dealing massive physical damage, that must be mitigated.
+- term: Earth Shaker
+  definition: Large conal AoE targetted towards a player.
+- term: Tempest Wing
+  definition: A teher which eventually explodes with magical splash damage and knockback to other people.
+- term: Gigaflare
+  definition: Raid-wide AoE dealing massive magic damage.

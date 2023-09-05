@@ -1,0 +1,46 @@
+title: Namazu.tools
+description: Tools and Guides provided by the Seat of Namazu Community and other FF14 groups
+theme: just-the-docs
+
+url: https://namazu.tools
+
+ga_tracking: G-57ZCF94YM9
+
+aux_links:
+  Discord: https://discord.gg/Cv5zgPRbby
+  Github: https://github.com/The-Seat-of-Namazu/namazu.tools
+
+favicon_ico: "/assets/images/favicon.ico"
+
+color_scheme: namastyle-dark
+
+emoji:
+  src: "/assets/images/emoji"
+
+plugins:
+  - jekyll-glossary_tooltip
+
+callouts_level: loud
+
+callouts:
+  tanks:
+    title: Tanks
+    color: blue
+  healers:
+    title: Healers
+    color: green
+  note:
+    title: Note
+    color: purple
+  damage:
+    title: Damage
+    color: red
+  warning:
+    title: Warning
+    color: red
+  greed:
+    title: Greed
+    color: red
+  everyone:
+    title: Everyone
+    color: yellow
