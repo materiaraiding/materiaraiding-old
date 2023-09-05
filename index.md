@@ -9,6 +9,10 @@ nav_order: 1
 This website is a resource provided by Materia Raiding community, as a one-stop shop for your Savage and Ultimate Raiding needs.
 
 ## Savage Resources
+
+MR Strats 
+{: .label .label-red }
+
 Macros and Guides provided by the [Materia Raiding](https://discord.gg/EySn5dRj65) community.
 
 #### Anabaseios (Current Tier)
@@ -21,6 +25,10 @@ Macros and Guides provided by the [Materia Raiding](https://discord.gg/EySn5dRj6
 [View Previous Tiers](/oldfights){: .btn }
 
 ## Ultimate Resources
+
+MUR Strats 
+{: .label .label-red }
+
 Guides for Ultimate fights, videos, toolboxes and resources. based on the strats from the [Materia Ultimate Raiding](https://discord.gg/ArZz3b8PZV) community.
 
 [TOP](/top){: .btn }
