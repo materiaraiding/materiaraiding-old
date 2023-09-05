@@ -13,17 +13,14 @@ Please note throughout this website you will see various labels used to identify
 
 We hope you can find this site useful in your adventures in FF14, you can join the conversation at our discord server with the link below or start contributing to this open-source project following the github link.
 
+## Current Tier
 
-## Ultimates
-[TOP](/top){: .btn .btn-purple }
-[DSR](/dsr){: .btn }
-[TEA](/tea){: .btn }
-[UWU](/uwu){: .btn }
-[UCOB](/ucob){: .btn .btn-purple }
+[P9S](/p9s){: .btn .btn-purple}
+[P10S](/p10s){: .btn .btn-purple}
+[P11S](/p11s){: .btn .btn-purple}
+[P12S](/p12s){: .btn .btn-purple}
 
-## Pandaemonium (Coming Soon)
-Coming Soon 
-{: .label .label-red }
+# Previous Tiers
 
 [P1S](/){: .btn }
 [P2S](/){: .btn }
@@ -34,11 +31,6 @@ Coming Soon
 [P6S](/p6s){: .btn }
 [P7S](/){: .btn }
 [P8S](/){: .btn }
-
-[P9S](/p9s){: .btn .btn-purple}
-[P10S](/p10s){: .btn .btn-purple}
-[P11S](/p11s){: .btn .btn-purple}
-[P12S](/p12s){: .btn .btn-purple}
 
 ## Important Links
 

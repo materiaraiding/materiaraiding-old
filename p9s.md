@@ -1,7 +1,6 @@
 ---
 layout: default
 title: P9S
-parent: Savage
 nav_order: 9
 ---
 

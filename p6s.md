@@ -1,7 +1,7 @@
 ---
 layout: default
 title: P6S
-parent: Savage
+parent: Old Fights
 nav_order: 6
 ---
 
