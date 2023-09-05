@@ -28,9 +28,9 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 ### PoVs
 
-[DPS](ADD LINK HERE){: .btn }
-[Healer](ADD LINK HERE){: .btn }
-[Tank](ADD LINK HERE){: .btn }
+[DPS](https://youtu.be/FMr8XWq-mXs){: .btn }
+[Healer (Soon)](ADD LINK HERE){: .btn }
+[Tank](https://www.youtube.com/watch?v=Yex5-s3ITPg){: .btn }
 
 ### Mitigation Plan
 Mitigation Plan Spreadsheet
