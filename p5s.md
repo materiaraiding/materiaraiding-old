@@ -7,6 +7,9 @@ nav_order: 5
 
 # P5S
 
+PF Strats 
+{: .label .label-red }
+
 ## Macro
 
 ```
