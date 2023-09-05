@@ -35,10 +35,6 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 ### PoVs (Soon™)
 {: .no_toc }
 
-[DPS](ADD LINK HERE){: .btn }
-[Healer](ADD LINK HERE){: .btn }
-[Tank](ADD LINK HERE){: .btn }
-
 ### Cheatsheet
 {: .no_toc }
 
