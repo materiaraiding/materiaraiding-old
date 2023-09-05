@@ -21,7 +21,7 @@ MUR Strats
 - Diagrams by Juno, Bird, MUR
 
 ### Toolboxes
-Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner. TOP has multiple Toolboxes, each are listed here in order of phases in the fight.
+Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner. TOP has multiple Toolboxes, each are listed here in order of phases in the fight with some extra toolboxes for more info.
 
 [P1 Beetle](https://ff14.toolboxgaming.space/?id=758088204654761&preview=1){: .btn .btn-blue }
 [P2 M&F](https://ff14.toolboxgaming.space/?id=043186470764761&preview=1){: .btn .btn-blue }
@@ -32,8 +32,14 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 [P5 Dynamis Omega](https://ff14.toolboxgaming.space/?id=078384491946761&preview=1){: .btn .btn-blue }
 [P6 Alpha Omega](https://ff14.toolboxgaming.space/?id=829484027197761&preview=1){: .btn .btn-blue }
 
+[All TOP Positions](https://ff14.toolboxgaming.space/?id=510586440608761&preview=1){: .btn .btn-blue }
+
 ### PoVs (Soon™)
 {: .no_toc }
+
+### Mitigation Plan
+Mitigation plan for all roles.
+[TOP Mitty](http://tinyurl.com/topmitty){: .btn .btn-blue }
 
 ### Cheatsheet
 {: .no_toc }
