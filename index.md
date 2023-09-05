@@ -4,10 +4,6 @@ layout: home
 nav_order: 1
 ---
 
-<span class="fs-5">
-[Join the Materia Raiding Discord](https://discord.gg/EySn5dRj65){: .btn }
-</span>
-
 # Welcome to Materia Raiding
 
 This website is a resources provided by Materia Raiding community, as a one-stop shop for your Savage Raiding needs.
@@ -16,8 +12,9 @@ This site was put together to help combine various resources and guides into one
 
 As this site originates from the **Materia** community, the strategies are based on the most commonly adopted strategies on Materia Party Finder and are recommended for PF groups. You can join the discussion about these strats at the discord links at the top of the page.
 
-## Current Tier - Anabaseios
+## Current Tier
 
+### Anabaseios
 <span class="fs-5">
 [P9S](/p9s){: .btn }
 [P10S](/p10s){: .btn }
@@ -43,13 +40,11 @@ As this site originates from the **Materia** community, the strategies are based
 
 ## Important Links
 
-### [Materia Raiding Discord](https://discord.gg/EySn5dRj65)
+[Materia Raiding Discord](https://discord.gg/EySn5dRj65){: .btn .btn-purple }
 Home of Materia Savage strats and the Party Finder and LFM channels.
 
-### [Materia Ultimate Raiding Discord](https://discord.gg/ArZz3b8PZV)
+[Materia Ultimate Raiding Discord](https://discord.gg/ArZz3b8PZV){: .btn .btn-purple }
 Where Materia Ult Strats are born, also great for finding Ultimate Parties in their PF channels.
 
-### [The Balance](https://www.thebalanceffxiv.com/)
+[The Balance](https://www.thebalanceffxiv.com/){: .btn .btn-blue }
 Learn how to play your job good.
-
-<iframe src="https://discord.com/widget?id=895516967543390249&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
