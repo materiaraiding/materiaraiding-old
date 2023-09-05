@@ -8,8 +8,8 @@ nav_order: 5
 
 # Anabaseios: The Ninth Circle (Savage)
 
-MUR Strats 
-{: .label .label-purple }
+PF Strats 
+{: .label .label-red }
 
 ## Toolboxes
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
