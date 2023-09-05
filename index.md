@@ -16,26 +16,26 @@ As this site originates from the **Materia** community, the strategies are based
 
 ## Current Tier - Anabaseios
 
-[P12S](/p12s){: .btn .btn-green}
-[P11S](/p11s){: .btn .btn-green}
-[P10S](/p10s){: .btn .btn-green}
 [P9S](/p9s){: .btn .btn-green}
+[P10S](/p10s){: .btn .btn-green}
+[P11S](/p11s){: .btn .btn-green}
+[P12S](/p12s){: .btn .btn-green}
 
 ## Previous Tiers
 
 ### Abyssos
 
-[P8S](/){: .btn }
-[P7S](/){: .btn }
-[P6S](/p6s){: .btn }
 [P5S](/p5s){: .btn }
+[P6S](/p6s){: .btn }
+[P7S](/){: .btn }
+[P8S](/){: .btn }
 
 ### Asphodelos
 
-[P4S](/){: .btn }
-[P3S](/){: .btn }
-[P2S](/){: .btn }
 [P1S](/){: .btn }
+[P2S](/){: .btn }
+[P3S](/){: .btn }
+[P4S](/){: .btn }
 
 ## Important Links
 
