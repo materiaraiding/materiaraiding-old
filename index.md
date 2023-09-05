@@ -41,10 +41,13 @@ As this site originates from the **Materia** community, the strategies are based
 ## Important Links
 
 [Materia Raiding Discord](https://discord.gg/EySn5dRj65){: .btn .btn-purple }
+
 Home of Materia Savage strats and the Party Finder and LFM channels.
 
 [Materia Ultimate Raiding Discord](https://discord.gg/ArZz3b8PZV){: .btn .btn-purple }
+
 Where Materia Ult Strats are born, also great for finding Ultimate Parties in their PF channels.
 
 [The Balance](https://www.thebalanceffxiv.com/){: .btn .btn-blue }
+
 Learn how to play your job good.
