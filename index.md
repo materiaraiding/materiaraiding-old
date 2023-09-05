@@ -18,7 +18,8 @@ Macros and Guides provided by the [Materia Raiding](https://discord.gg/EySn5dRj6
 [P12S P1](/p12s-1){: .btn }
 [P12S P2](/p12s-2){: .btn }
 </span>
-<span class="fs-4">
+
+<span class="fs-3">
 [View Previous Tiers](/oldfights){: .btn }
 </span>
 
