@@ -1,8 +1,8 @@
-# Namazu.tools
+# Materia Raiding
 
-Namazu tools is a community driven project to collate the various guides and tools created for raiding in the FF14 Materia Datacenter.
+Materia Raiding is a community driven project to collate the various guides and tools created for raiding in the FF14 Materia Datacenter.
 
-The goal is to create a comprehensive tool with all guides for current Ultimate and Savage content in one consistent open-source website.
+The goal is to create a comprehensive tool with all guides for current Savage content in one consistent open-source website.
 
 ## How to Contribute
 Make a **Fork** of the project and do your edits in the fork, you can then create a **Pull Request** to merge your edits back into the main repository.
@@ -44,4 +44,4 @@ Which will create a tooltip like so...
 ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/e52506ec-e6b8-4a9a-8fd8-c15bebbef5cc)
 
 # Further help
-If your interested with helping on this project, you can get involved and join the discussion in the [The Seat of Namazu Discord](https://discord.gg/Cv5zgPRbby)
+If your interested with helping on this project, you can get involved and join the discussion in the [Materia Raiding Discord](https://discord.gg/EySn5dRj65)

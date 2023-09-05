@@ -3,9 +3,9 @@ title: Home
 layout: home
 ---
 
-# Welcome to Namazu.tools
+# Welcome to Materia Raiding
 
-Namazu Tools is a resources website provided by **The Seat of Namazu** FF14 community, we are a collection of enthusiastic FF14 raiders who get together to take on Ultimates and Savage content. 
+This website is a resources provided by Materia Raiding community, as a one-stop shop for your Savage Raiding needs.
 
 This site was put together to help combine various resources and guides into one comprehensive resource, our strategies are a collaboration of guides and tools from various other FF14 communities, with credits included on the pages and at the bottom of this page also.
 
@@ -13,8 +13,6 @@ Please note throughout this website you will see various labels used to identify
 
 We hope you can find this site useful in your adventures in FF14, you can join the conversation at our discord server with the link below or start contributing to this open-source project following the github link.
 
-{: .note }
-This site is still early in development and we are actively updating it with new content, we apologize if some pages appear unfinished! 🙂
 
 ## Ultimates
 [TOP](/top){: .btn .btn-purple }
@@ -44,7 +42,7 @@ Coming Soon
 
 ## Important Links
 
-### [Seat of Namazu Discord](https://discord.gg/Cv5zgPRbby)
+### [Materia Raiding Discord](https://discord.gg/EySn5dRj65)
 The home of this website.
 
 ### [Materia Ultimate Raiding Discord](https://discord.gg/ArZz3b8PZV)

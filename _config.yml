@@ -1,14 +1,12 @@
-title: Namazu.tools
-description: Tools and Guides provided by the Seat of Namazu Community and other FF14 groups
+title: Materia Raiding
+description: Tools and Guides provided by the Materia Raiding Community
 theme: just-the-docs
 
-url: https://namazu.tools
-
-ga_tracking: G-57ZCF94YM9
+url: https://materiaraiding.com
 
 aux_links:
-  Discord: https://discord.gg/Cv5zgPRbby
-  Github: https://github.com/The-Seat-of-Namazu/namazu.tools
+  Discord: https://discord.gg/EySn5dRj65
+  Github: https://github.com/materiaraiding/materiaraiding
 
 favicon_ico: "/assets/images/favicon.ico"
 
