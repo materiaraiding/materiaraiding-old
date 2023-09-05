@@ -4,6 +4,10 @@ layout: home
 nav_order: 1
 ---
 
+<span class="fs-5">
+[Join the Materia Raiding Discord](https://discord.gg/EySn5dRj65){: .btn }
+</span>
+
 # Welcome to Materia Raiding
 
 This website is a resources provided by Materia Raiding community, as a one-stop shop for your Savage Raiding needs.
@@ -11,10 +15,6 @@ This website is a resources provided by Materia Raiding community, as a one-stop
 This site was put together to help combine various resources and guides into one comprehensive resource, our strategies are a collaboration of guides and tools from various other FF14 communities, with credits included on the pages and at the bottom of this page also.
 
 As this site originates from the **Materia** community, the strategies are based on the most commonly adopted strategies on Materia Party Finder and are recommended for PF groups. You can join the discussion about these strats at the discord links at the top of the page.
-
-<span class="fs-5">
-[Join the Materia Raiding Discord](https://discord.gg/EySn5dRj65){: .btn }
-</span>
 
 ## Current Tier - Anabaseios
 
