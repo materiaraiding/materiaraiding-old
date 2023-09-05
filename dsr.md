@@ -61,6 +61,63 @@ Mitigation Plan Spreadsheet
 
 </details>
 
+### Mitigations
+
+<details markdown=1>
+<summary>View Mitigations</summary>
+
+```
+――【Mitigations】―――――――― 
+3-3-2 Mit Plans
+ 
+Transition, every Akh Morn, and every Gigaflare require Kerachole/Sacred Soil. The correct timing for an Akh Morn kera/SS is immediately after the second trinity in exaflares; this will ensure it catches all of akh morn and will be up for the subsequent giggleflare.
+ 
+==========================
+SCH/AST:
+/p transition: HoL, missionary, samba, improv, collective, spreadlo
+/p akh morn 1: barrier, feint 1, addle, fey illum
+/p gigaflare 1: expedient, seraph, feint 2, collective, neutral
+/p akh morn 2: HoL, missionary, samba
+/p gigaflare 2: feint 1, addle, collective, spreadlo
+/p akh morn 3: expedient, seraph, neutral, feint 2, barrier, fey illum
+========================== 
+ 
+ 
+==========================
+SCH/WHM:
+/p transition: HoL, missionary, samba, improv, spreadlo
+/p akh morn 1: temp, feint 1, addle, barrier, fey illum
+/p gigaflare 1: expedient, seraph, feint 2
+/p akh morn 2: HoL, missionary, samba, bell
+/p gigaflare 2: spreadlo, feint 1, addle
+/p akh morn 3: temp, expedient, seraph, feint 2, barrier, fey illum
+========================== 
+ 
+ 
+==========================
+SGE/AST:
+/p transition: HoL, missionary, samba, improv, barrier, collective (USE PERSONALS, IF NO RDM USE HOLOS)
+/p akh morn 1: panhaima, feint 1, addle, physis
+/p gigaflare 1: feint 2, holos, collective, neutral
+/p akh morn 2: HoL, missionary, samba, barrier, physis
+/p gigaflare 2: feint 1, collective, addle, pneuma
+/p akh morn 3: panhaima, neutral, feint 2, holos, physis
+========================== 
+ 
+ 
+==========================
+SGE/WHM:
+/p transition: HoL, missionary, samba, improv, barrier (USE PERSONALS, IF NO RDM USE HOLOS)
+/p akh morn 1: panhaima, temp, feint 1, physis, addle
+/p gigaflare 1: holos, feint 2, pneuma
+/p akh morn 2: HoL, missionary, samba,  barrier, bell, physis
+/p gigaflare 2: feint 1, addle
+/p akh morn 3: panhaima, temp, holos, feint 2, physis, pneuma
+==========================
+```
+
+</details>
+
 ### Cheatsheet
 
 <details markdown=1>
