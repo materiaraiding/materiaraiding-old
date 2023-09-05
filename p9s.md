@@ -14,8 +14,8 @@ PF Strats
 ## Toolboxes
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
-[Scrambled Succession (Oppo/Xeno)](https://ff14.toolboxgaming.space/?id=056789716945861&preview=1){: .btn .btn-blue }
-[Chimeric Succession (South Stack)](https://ff14.toolboxgaming.space/?id=267884209665861&preview=1){: .btn .btn-blue }
+[Scrambled Succession (Oppo/Xeno)](https://ff14.toolboxgaming.space/?id=056789716945861&preview=1){: .btn }
+[Chimeric Succession (South Stack)](https://ff14.toolboxgaming.space/?id=267884209665861&preview=1){: .btn }
 
 ## Macro
 
