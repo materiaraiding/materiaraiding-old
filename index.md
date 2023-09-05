@@ -12,14 +12,18 @@ This site was put together to help combine various resources and guides into one
 
 As this site originates from the **Materia** community, the strategies are based on the most commonly adopted strategies on Materia Party Finder and are recommended for PF groups. You can join the discussion about these strats at the discord links at the top of the page.
 
+<span class="fs-5">
 [Materia Raiding Discord](https://discord.gg/EySn5dRj65){: .btn }
+</span>
 
 ## Current Tier - Anabaseios
 
+<span class="fs-5">
 [P9S](/p9s){: .btn .btn-green}
 [P10S](/p10s){: .btn .btn-green}
 [P11S](/p11s){: .btn .btn-green}
 [P12S](/p12s){: .btn .btn-green}
+</span>
 
 ## Previous Tiers
 
