@@ -2,7 +2,7 @@
 layout: default
 title: Old Fights
 has_children: true
-nav_order: 99
+nav_order: 19
 ---
 
 # Older Savage Fights
