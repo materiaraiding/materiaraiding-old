@@ -35,7 +35,7 @@ A mechanic which requires a specific number of players to soak a mechanic, simil
 ## FFA (Free for All)
 This is a loot rule where there is no rules, role on whatever you want and hope for the best.
 
-## L>R (Left-to-Right_
+## L>R (Left-to-Right)
 This is a common loot rule used in groups where you are expected to roll on loot in order from left-to-right, if you get an item you are expected to leave the instance and not roll on any further items. This is to ensure loot is distributed evenly.
 
 ## MT
