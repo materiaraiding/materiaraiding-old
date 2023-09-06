@@ -4,12 +4,15 @@ title: Raiding Terminology
 nav_order: 20
 ---
 
-# Raid Terminology Glossary
+# Raiding Terminology Glossary
 
 There are many unusual terms and words used in FF14 raid guides, here we try to explain some of them best we can.
 
 ## AOE
 Area-of-Effect, typically used to describe any mechanic or ability which affects multiple enemies/players in an area. Players will use AOE abilites in a dungeon to deal damage to multiple foes at once.
+
+## A2C
+Advance-to-clear, this is used in Party Finder to indicate a group that has cleared all the mechanics and are confident they can push for a clear. Do not join these groups if you are not confident on all the mechanics in a fight.
 
 ## CHARIOT
 A large circular AOE that surrounds the boss.
@@ -28,6 +31,12 @@ Delayed, sequential attacks that move in a direction. Only the first explosion i
 
 ## ENUMS
 A mechanic which requires a specific number of players to soak a mechanic, similar to STACK/SOAK but with a specific number of players.
+
+## FFA (Free for All)
+This is a loot rule where there is no rules, role on whatever you want and hope for the best.
+
+## L>R (Left-to-Right_
+This is a common loot rule used in groups where you are expected to roll on loot in order from left-to-right, if you get an item you are expected to leave the instance and not roll on any further items. This is to ensure loot is distributed evenly.
 
 ## MT
 Main Tank, typically the Tank holding the boss aggro the most.
