@@ -2,7 +2,7 @@
 layout: default
 title: Criterion
 has_children: true
-nav_order: 20
+nav_order: 4
 ---
 
 # Criterion Dungeons
