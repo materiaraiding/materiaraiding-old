@@ -8,7 +8,7 @@ nav_order: 1
 
 This website is a resource provided by Materia Raiding community, as a one-stop shop for your Savage and Ultimate Raiding needs.
 
-## Savage Resources (Current Tier)
+## Savage Resources
 Macros and Guides provided by the [Materia Raiding](https://discord.gg/EySn5dRj65) community.
 
 <span class="fs-5">

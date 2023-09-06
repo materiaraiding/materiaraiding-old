@@ -2,7 +2,9 @@
 
 Materia Raiding is a community driven project to collate the various guides and tools created for raiding in the FF14 Materia Datacenter.
 
-The goal is to create a comprehensive tool with all guides for current Savage content in one consistent open-source website.
+The goal is to create a comprehensive tool with all guides for current Savage and Ultimate content in one consistent open-source website.
+
+[![Deploy Jekyll site to Pages](https://github.com/materiaraiding/materiaraiding/actions/workflows/pages.yml/badge.svg)](https://github.com/materiaraiding/materiaraiding/actions/workflows/pages.yml)
 
 ## How to Contribute
 Make a **Fork** of the project and do your edits in the fork, you can then create a **Pull Request** to merge your edits back into the main repository.
