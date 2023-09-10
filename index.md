@@ -40,11 +40,8 @@ This website is a resource provided by Materia Raiding community, as a one-stop 
 [EX6](/ex6){: .btn }
 </span>
 
-## Other Content
-
-### Criterion Dungeons
+## Criterion Dungeons
 [Another Mount Rokkon](/amr){: .btn }
-/amr
 
 ## Important Links
 
