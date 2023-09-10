@@ -9,7 +9,6 @@ nav_order: 1
 This website is a resource provided by Materia Raiding community, as a one-stop shop for your Savage and Ultimate Raiding needs.
 
 ## Savage Resources
-Macros and Guides provided by the [Materia Raiding](https://discord.gg/EySn5dRj65) community.
 
 <span class="fs-5">
 [P9S](/p9s){: .btn }
@@ -23,8 +22,17 @@ Macros and Guides provided by the [Materia Raiding](https://discord.gg/EySn5dRj6
 [View Previous Tiers](/oldfights){: .btn }
 </span>
 
-## Ultimate Resources
-Guides for Ultimate fights, videos, toolboxes and resources. based on the strats from the [Materia Ultimate Raiding](https://discord.gg/ArZz3b8PZV) community.
+## Ultimate Resources (By MUR)
+
+<span class="fs-5">
+[TOP](/top){: .btn }
+[DSR](/dsr){: .btn }
+[TEA](/tea){: .btn }
+[UWU](/uwu){: .btn }
+[UCOB](/ucob){: .btn }
+</span>
+
+## Extreme Resources
 
 <span class="fs-5">
 [TOP](/top){: .btn }
