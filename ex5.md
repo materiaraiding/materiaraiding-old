@@ -37,3 +37,11 @@ Even: Cleave NE, Party SE, Tether Order: 8->2->4->6
 ```
 
 ## Diagrams
+
+![image](https://github.com/materiaraiding/materiaraiding/assets/85346345/93a88f8c-7d09-48a1-9572-2b56247e76d7)
+
+![image](https://github.com/materiaraiding/materiaraiding/assets/85346345/77a7c071-ac37-4c02-9b54-c66dc64a0924)
+
+![image](https://github.com/materiaraiding/materiaraiding/assets/85346345/7ade4637-867a-4092-9ba0-112e1560b909)
+
+![image](https://github.com/materiaraiding/materiaraiding/assets/85346345/32bad72d-6406-4284-a607-c78cb81cc1e9)
