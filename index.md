@@ -8,7 +8,7 @@ nav_order: 1
 
 This website is a resource provided by Materia Raiding community, as a one-stop shop for your Savage and Ultimate Raiding needs.
 
-## Savage Resources
+## Savage Raids
 
 <span class="fs-5">
 [P9S](/p9s){: .btn }
@@ -22,7 +22,7 @@ This website is a resource provided by Materia Raiding community, as a one-stop 
 [View Previous Tiers](/oldfights){: .btn }
 </span>
 
-## Ultimate Resources (By MUR)
+## Ultimate Raids (By MUR)
 
 <span class="fs-5">
 [TOP](/top){: .btn }
@@ -32,7 +32,7 @@ This website is a resource provided by Materia Raiding community, as a one-stop 
 [UCOB](/ucob){: .btn }
 </span>
 
-## Extreme Resources
+## Extreme Raids
 
 <span class="fs-5">
 [EX4](/ex4){: .btn }
