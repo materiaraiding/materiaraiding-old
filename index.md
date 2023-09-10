@@ -34,6 +34,12 @@ Guides for Ultimate fights, videos, toolboxes and resources. based on the strats
 [UCOB](/ucob){: .btn }
 </span>
 
+## Other Content
+
+### Criterion Dungeons
+[Another Mount Rokkon](/amr){: .btn }
+/amr
+
 ## Important Links
 
 [Materia Raiding Discord](https://discord.gg/EySn5dRj65){: .btn .btn-purple }
