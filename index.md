@@ -35,11 +35,9 @@ This website is a resource provided by Materia Raiding community, as a one-stop 
 ## Extreme Resources
 
 <span class="fs-5">
-[TOP](/top){: .btn }
-[DSR](/dsr){: .btn }
-[TEA](/tea){: .btn }
-[UWU](/uwu){: .btn }
-[UCOB](/ucob){: .btn }
+[EX4](/ex4){: .btn }
+[EX5](/ex5){: .btn }
+[EX6](/ex6){: .btn }
 </span>
 
 ## Other Content
