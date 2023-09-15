@@ -37,6 +37,10 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 ### PoVs (Soon™)
 {: .no_toc }
 
+[DPS]([ADD LINK HERE](https://www.youtube.com/watch?v=BKGcoU_Entc)){: .btn }
+[Healer](ADD LINK HERE){: .btn }
+[Tank](https://www.youtube.com/watch?v=XHEpxUdz_6Q){: .btn }
+
 ### Mitigation Plan
 Mitigation plan for all roles.
 [TOP Mitty](http://tinyurl.com/topmitty){: .btn .btn-blue }
