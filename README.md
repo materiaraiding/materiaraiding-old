@@ -9,19 +9,52 @@ The goal is to create a comprehensive tool with all guides for current Savage an
 ## How to Contribute
 Make a **Fork** of the project and do your edits in the fork, you can then create a **Pull Request** to merge your edits back into the main repository.
 
-## Pages
-Each page is a single Markdown File (.md) which can be located anywhere in the root folder. Each page begins with a header to specify the page name and details, this will not appear in the final page.
+## Documentation Maintenance Guidelines
 
-![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/ea33a705-6501-4a46-a6c8-155dc35e201c)
+### Folder Structure:
 
-After this, you can use Markdown or HTML formatting to build out the page. Take a look at some of the [existing pages](https://github.com/The-Seat-of-Namazu/namazu.tools/blob/main/top.md?plain=1) for an example. 
+To maintain our documentation efficiently, keep all documentation pages within the folder named "docs" in the root directory of the project. This ensures an organized structure.
 
-[Here is some reference guides for the different types of formatting you can use:
+```bash
+root/
+├── docs/
+│   ├── Page1.md
+│   ├── Page2.md
+│   └── ...
+└── ...
+```
 
-Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+### Page Headers:
 
-This website uses Just-The-Docs, a website generating Jekyll theme that can create special custom components using simple tags inside the page. You can read more about how these work with the link below.
-[Just-The-Docs Documentation](https://just-the-docs.github.io/just-the-docs/docs/ui-components)
+Each documentation page should begin with a header to specify the page name and details. This header will not appear in the final page. Please use the following format in Markdown:
+
+```
+---
+title: Home
+layout: home
+nav_order: 1
+---
+```
+
+### Nested Pages:
+
+If there's a need for nesting pages or creating sections, create subfolders within the "docs" folder. This helps maintain a logical organization.
+
+```bash
+root/
+├── docs/
+│   ├── Section1/
+│   │   ├── Page3.md
+│   │   └── Page4.md
+│   ├── Section2/
+│   │   ├── Page5.md
+│   └── ...
+└── ...
+```
+
+### Theme and Custom Components:
+
+Our documentation uses the Just-The-Docs Jekyll theme, allowing for custom components using simple tags within pages. When making changes or adding custom features, refer to the [Just-The-Docs Documentation](https://just-the-docs.github.io/just-the-docs/docs/ui-components).
 
 ## Glossary
 A custom glossary add-in allows creating mouse-over tooltips that can be inserted into documents. These must be pre-defined in the ./_data/glossary.yml file.
