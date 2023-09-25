@@ -9,7 +9,7 @@ The goal is to create a comprehensive tool with all guides for current Savage an
 ## How to Contribute
 Make a **Fork** of the project and do your edits in the fork, you can then create a **Pull Request** to merge your edits back into the main repository.
 
-## Documentation Maintenance Guidelines
+## Contribution Guidelines
 
 ### Folder Structure:
 
