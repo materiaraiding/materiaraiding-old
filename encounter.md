@@ -2,7 +2,7 @@
 layout: default
 title: Encounter
 parent: Glossary
-nav_order: 1
+nav_order: 2
 ---
 
 # Encounter
