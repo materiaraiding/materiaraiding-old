@@ -19,7 +19,7 @@ Discover common terminology used in the party finder of the Materia date centre.
     </tr>
     <tr>
         <th>Prog</th>
-        <td>"Prog," short for "Progression," in the Party Finder signifies that a group is actively working on mastering a particular mechanic within an encounter. Often, the mechanic's name is specified, like 'LC1 prog.' Feel free to join these groups if your progress matches or exceeds their current level.</td>
+        <td>"Progression" in the Party Finder this signifies that a group is actively working on mastering a particular mechanic within an encounter. Often, the mechanic's name is specified, like 'LC1 prog.' Feel free to join these groups if your progress matches or exceeds their current level.</td>
     </tr>
     <tr>
         <th>Cleanup</th>
@@ -27,11 +27,11 @@ Discover common terminology used in the party finder of the Materia date centre.
     </tr>
     <tr>
         <th>A2C</th>
-        <td>"Aim-to-Clear" or "A2C" in the Party Finder signifies a group that has successfully cleared all mechanics and is confident in their ability to achieve a clear. If you are not proficient in all fight mechanics, avoid joining these groups.</td>
+        <td>"Aim-to-Clear" in the Party Finder this signifies a group that has successfully cleared all mechanics and is confident in their ability to achieve a clear. If you are not proficient in all fight mechanics, avoid joining these groups.</td>
     </tr>
     <tr>
         <th>C41</th>
-        <td>"Clear-for-one" (C41) in the Party Finder indicates that one member of the group has not yet obtained their clear and is seeking assistance to progress past challenging content. When joining these parties, it's reasonable to expect that you'll be contributing more than your fair share to ensure success. Occasionally, you might come across "C4N" parties, where 'N' represents any number greater than one. The overall concept remains the same, but it's advisable to exercise caution when joining such parties if you lack patience. Consider joining at your own discretion.</td>
+        <td>"Clear-for-one" in the Party Finder this indicates that one member of the group has not yet obtained their clear and is seeking assistance to progress past challenging content. When joining these parties, it's reasonable to expect that you'll be contributing more than your fair share to ensure success. Occasionally, you might come across "C4N" parties, where 'N' represents any number greater than one. The overall concept remains the same, but it's advisable to exercise caution when joining such parties if you lack patience. Consider joining at your own discretion.</td>
     </tr>
     <tr>
         <th>Reclear</th>
