@@ -7,7 +7,8 @@ nav_order: 2
 
 # Encounter
 
-## Discover common terminology used within encounters on the Materia data centre.
+Discover common terminology used within encounters on the Materia data centre.
+---
 
 ## General
 

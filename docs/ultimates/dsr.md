@@ -7,14 +7,15 @@ nav_order: 2
 
 {% include custom.html %}
 
-<img src="./assets/images/dkt.webp" alt="DKT" width="150" style="float: right">
+<img src="{{ site.baseurl }}/assets/images/dkt.webp" alt="DKT" width="150" style="float: right">
 
 # Dragonsong Reprise
 
-MUR Strats 
+MUR Strats
 {: .label .label-purple }
 
 ### Toolboxes
+
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner. DSR has multiple Toolboxes, each are listed here in order of phases in the fight.
 
 [Phase 1: Knights](https://ff14.toolboxgaming.space/?id=199680719834861&preview=1){: .btn .btn-blue }
@@ -32,6 +33,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 [Tank](https://www.youtube.com/watch?v=Yex5-s3ITPg){: .btn }
 
 ### Mitigation Plan
+
 Mitigation Plan Spreadsheet
 
 [Mit Plan](https://docs.google.com/spreadsheets/d/1FGF76e57PCD4358zFK7_v3IRze7C_bn6xd3hiM9yfiE/edit#gid=0){: .btn .btn-green }
@@ -42,6 +44,7 @@ Mitigation Plan Spreadsheet
 <summary>View All Macros</summary>
 
 **Playstation Chains**
+
 ```
 ――【Playstation chains】――――――――――――――――――
 　　D△  T× T□
@@ -50,6 +53,7 @@ Mitigation Plan Spreadsheet
 ```
 
 **Haurchefant**
+
 ```
 ――【Haurchefant】――――――――――――――――――
 　　　cleave　cleave　　　※ cleaves towards
@@ -67,11 +71,11 @@ Mitigation Plan Spreadsheet
 <summary>View Mitigations</summary>
 
 ```
-――【Mitigations】―――――――― 
+――【Mitigations】――――――――
 3-3-2 Mit Plans
- 
+
 Transition, every Akh Morn, and every Gigaflare require Kerachole/Sacred Soil. The correct timing for an Akh Morn kera/SS is immediately after the second trinity in exaflares; this will ensure it catches all of akh morn and will be up for the subsequent giggleflare.
- 
+
 ==========================
 SCH/AST:
 /p transition: HoL, missionary, samba, improv, collective, spreadlo
@@ -80,9 +84,9 @@ SCH/AST:
 /p akh morn 2: HoL, missionary, samba
 /p gigaflare 2: feint 1, addle, collective, spreadlo
 /p akh morn 3: expedient, seraph, neutral, feint 2, barrier, fey illum
-========================== 
- 
- 
+==========================
+
+
 ==========================
 SCH/WHM:
 /p transition: HoL, missionary, samba, improv, spreadlo
@@ -91,9 +95,9 @@ SCH/WHM:
 /p akh morn 2: HoL, missionary, samba, bell
 /p gigaflare 2: spreadlo, feint 1, addle
 /p akh morn 3: temp, expedient, seraph, feint 2, barrier, fey illum
-========================== 
- 
- 
+==========================
+
+
 ==========================
 SGE/AST:
 /p transition: HoL, missionary, samba, improv, barrier, collective (USE PERSONALS, IF NO RDM USE HOLOS)
@@ -102,9 +106,9 @@ SGE/AST:
 /p akh morn 2: HoL, missionary, samba, barrier, physis
 /p gigaflare 2: feint 1, collective, addle, pneuma
 /p akh morn 3: panhaima, neutral, feint 2, holos, physis
-========================== 
- 
- 
+==========================
+
+
 ==========================
 SGE/WHM:
 /p transition: HoL, missionary, samba, improv, barrier (USE PERSONALS, IF NO RDM USE HOLOS)
@@ -133,6 +137,7 @@ This phase begins with two targetable bosses: Adelphel and Grinnaux.
 Once pulled, tanks will stack the bosses and the party will stay south.
 
 {: .damage }
+
 > As Adelphel goes untargetable soon after the phase starts, players should spend their buffs and openers on him. Throughought the phase both bossess should be kept as similar health as possible.
 
 After a **Holiest of Holy** raid wide Grinnaux will cast **Empty Dimension**, forming a donut AOE centered on him. At the same time Adelphel will cast **Holy Shield Bash**, a tethered AOE tankbuster that is targeted on a random player. The MT must walk through this tether and bring it north of the bosses to take the tankbuster **with invulnerability**. At the same time the party will take a **Heavensblaze** stack at the south.
@@ -149,14 +154,16 @@ Adelphel will then drop down onto a random cardinal and cast another **Holiest o
 
 Adelphel will then drop onto the player who had the highest emnity on him before he dissappeared, delivering a heavy hitting tank buster that the OT will invuln. Adelphel will then immediately begin casting 1 of 3 instances of **Holiest Hallowing**, an interruptible heal targeted on Grinnaux. The OT will interrupt this and both tanks will position their bosses in the center of the arena for **Playstation Chains**.
 
-Each player will be marked with either a cross, square, circle, or triangle, so that there is two of each symbol. 
+Each player will be marked with either a cross, square, circle, or triangle, so that there is two of each symbol.
 
 {: .note }
+
 > **Healers** can only ever get Cross or Triangle, **Tanks** can only get Cross or Square, and **DPS** can only get Square, Circle or Triangle
 
 The party will form around Grinnaux in the pattern seen below (image), and be knocked back by another **Faith Unmoving** to break their tethers. If unbroken, the resulting AOE will kill any players who have not resolved their tethers.
 
 {: .warning }
+
 > A warning to warrior players; Inner release is perfectly timed in this phase to be up as this mechanic is resolving. This means that you'll be immune to knockback and therefore unable to resolve your tether. You can either prepull inner release earlier in the fight, or simply click the **Inner Strength** buff off during this mechanic.
 
 Immediately after this is resolved, the 2nd **Holiest Hallowing** cast will begin, and the ranged player (or main tank) will interrupt the cast. Both bosses should be stacked middle again for another **Holiest Holy** and either a **Empty** or **Full Dimension**. If it is **Empty** Grinnaux will do a donut AOE around him like before. If it is **Full**, move away from Grinnaux as he will cast a large circular AOE centered on him.
@@ -167,7 +174,7 @@ After dropping their health to 0%, they will immediately become untargetable. Gr
 
 A new boss **Charibert** will then appear at the southern side of the circle and begin to cast **Pure of Heart**, the enrage of phase 1.
 
-**Haurchefant** will run to the side of the circle and block an arrow. This arrow pulses intermittently, dealing damage to the party. 
+**Haurchefant** will run to the side of the circle and block an arrow. This arrow pulses intermittently, dealing damage to the party.
 
 Charibert will then cleave the two players closest to him, applying a 5s debuff **Skyblind**. Once this debuff wears off, an invisible AOE will drop under the players feet that will explode after a few seconds. To resolve this, we have players bait in the order **H → M → R → T**, where the ranged players will drop their AOEs on the east and the melee players will drop them on the west.
 

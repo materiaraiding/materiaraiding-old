@@ -7,14 +7,15 @@ nav_order: 3
 
 {% include custom.html %}
 
-<img src="./assets/images/BJCC2.png" alt="BJCC" width="150" style="float: right">
+<img src="{{ site.baseurl }}/assets/images/BJCC2.png" alt="BJCC" width="150" style="float: right">
 
 # The Epic of Alexander
 
-MUR Strats 
+MUR Strats
 {: .label .label-purple }
 
 ### Credits
+
 Toolboxes by MUR
 PoVs by Kur Rumi
 Cheatsheets by MUR and Em'gram
@@ -40,13 +41,16 @@ TEA has multiple Toolboxes, each are listed here in order of phases in the fight
 [Tank](https://www.youtube.com/watch?v=eNf0gVqOPUk){: .btn }
 
 ### Simulator
+
 Wormhole Simulator (KR Sim) covers multiple strats but only the Wormhole simulator is accurate to OCE strats. Download and run the simulator to practice wormhole mechanic solo. Simulator is in Korean so use the following keybinds to navigate.
+
 ```
 Simulator Keybinds
 Y = Reset
 5 = KB Resist
 Space = Hold to select numbers
 ```
+
 [TEA Simulator Download](https://drive.google.com/file/d/17y-CCkQte_Qj7lNygUarEa9rEHWBACkq/view){: .btn }
 
 ### Mitigation Plan
@@ -64,4 +68,5 @@ Space = Hold to select numbers
 [![](https://cdn.discordapp.com/attachments/1074285128299327508/1105403205246005279/image-19.png)](https://cdn.discordapp.com/attachments/1074285128299327508/1105403205246005279/image-19.png)
 
 ## Written Guide
+
 Coming Soon

@@ -2,44 +2,45 @@ title: Materia Raiding
 description: Tools and Guides provided by the Materia Raiding Community
 theme: just-the-docs
 
+baseurl: ""
 url: https://materiaraiding.com
 
 aux_links:
-  Materia Raiding Discord: https://discord.gg/EySn5dRj65
-  Materia Ultimate Raiding Discord: https://discord.gg/ArZz3b8PZV
-  Github: https://github.com/materiaraiding/materiaraiding
+    Materia Raiding Discord: https://discord.gg/EySn5dRj65
+    Materia Ultimate Raiding Discord: https://discord.gg/ArZz3b8PZV
+    Github: https://github.com/materiaraiding/materiaraiding
 
 favicon_ico: "/assets/images/favicon.ico"
 
 color_scheme: namastyle-dark
 
 emoji:
-  src: "/assets/images/emoji"
+    src: "/assets/images/emoji"
 
 plugins:
-  - jekyll-glossary_tooltip
+    - jekyll-glossary_tooltip
 
 callouts_level: loud
 
 callouts:
-  tanks:
-    title: Tanks
-    color: blue
-  healers:
-    title: Healers
-    color: green
-  note:
-    title: Note
-    color: purple
-  damage:
-    title: Damage
-    color: red
-  warning:
-    title: Warning
-    color: red
-  greed:
-    title: Greed
-    color: red
-  everyone:
-    title: Everyone
-    color: yellow
+    tanks:
+        title: Tanks
+        color: blue
+    healers:
+        title: Healers
+        color: green
+    note:
+        title: Note
+        color: purple
+    damage:
+        title: Damage
+        color: red
+    warning:
+        title: Warning
+        color: red
+    greed:
+        title: Greed
+        color: red
+    everyone:
+        title: Everyone
+        color: yellow

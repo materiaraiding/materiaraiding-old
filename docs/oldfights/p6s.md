@@ -8,9 +8,11 @@ nav_order: 6
 # P6S
 
 ## Macro
+
 There are two common variations of this fight, using different strats for Cachexia 1, be aware of the changes, one focuses on your debuff timer, the other focusses on your role.
 
 ### Role Cachexia
+
 ```
 【Spread】　　【Cachexia】
 　D3　　　D4　　Purple→West　Green→East
@@ -30,6 +32,7 @@ There are two common variations of this fight, using different strats for Cachex
 ```
 
 ### Timer Cachexia
+
 ```
 【Spread】　　【Cachexia】
 　D3　　　D4　　Purple→West　Green→East
@@ -50,4 +53,4 @@ There are two common variations of this fight, using different strats for Cachex
 
 ## Resources
 
-![](./assets/images/p6sref.png)
+![]({{ site.baseurl }}/assets/images/p6sref.png)

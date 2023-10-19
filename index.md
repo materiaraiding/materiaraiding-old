@@ -2,6 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
+permalink: /
 ---
 
 # Welcome to Materia Raiding
@@ -11,37 +12,38 @@ This website is a resource provided by Materia Raiding community, as a one-stop 
 ## Savage Raids
 
 <span class="fs-5">
-[P9S](/p9s){: .btn }
-[P10S](/p10s){: .btn }
-[P11S](/p11s){: .btn }
-[P12S P1](/p12s-1){: .btn }
-[P12S P2](/p12s-2){: .btn }
+[P9S]({% link docs/savage/p9s.md %}){: .btn }
+[P10S]({% link docs/savage/p10s.md %}){: .btn }
+[P11S]({% link docs/savage/p11s.md %}){: .btn }
+[P12S P1]({% link docs/savage/p12s-1.md %}){: .btn }
+[P12S P2]({% link docs/savage/p12s-2.md %}){: .btn }
 </span>
 
 <span class="fs-3">
-[View Previous Tiers](/oldfights){: .btn }
+[View Previous Tiers]({% link docs/oldfights/oldfights.md %}){: .btn }
 </span>
 
 ## Ultimate Raids (By MUR)
 
 <span class="fs-5">
-[TOP](/top){: .btn }
-[DSR](/dsr){: .btn }
-[TEA](/tea){: .btn }
-[UWU](/uwu){: .btn }
-[UCOB](/ucob){: .btn }
+[TOP]({% link docs/ultimates/top.md %}){: .btn }
+[DSR]({% link docs/ultimates/dsr.md %}){: .btn }
+[TEA]({% link docs/ultimates/tea.md %}){: .btn }
+[UWU]({% link docs/ultimates/uwu.md %}){: .btn }
+[UCOB]({% link docs/ultimates/ucob.md %}){: .btn }
 </span>
 
 ## Extreme Raids
 
 <span class="fs-5">
-[EX4](/ex4){: .btn }
-[EX5](/ex5){: .btn }
-[EX6](/ex6){: .btn }
+[EX4]({% link docs/extremes/ex4.md %}){: .btn }
+[EX5]({% link docs/extremes/ex5.md %}){: .btn }
+[EX6]({% link docs/extremes/ex6.md %}){: .btn }
 </span>
 
 ## Criterion Dungeons
-[Another Mount Rokkon](/amr){: .btn }
+
+[Another Mount Rokkon]({% link docs/criterion/amr.md %}){: .btn }
 
 ## Important Links
 
