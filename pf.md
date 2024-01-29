@@ -27,7 +27,7 @@ Discover common terminology used in the party finder of the Materia date centre.
     </tr>
     <tr>
         <th>A2C</th>
-        <td>"Aim-to-Clear" in the Party Finder this signifies a group that has successfully cleared all mechanics and is confident in their ability to achieve a clear. If you are not proficient in all fight mechanics, avoid joining these groups.</td>
+        <td>"Aim-to-Clear" or "Advance-to-Clear" in the Party Finder this signifies a group that has successfully cleared all mechanics and is confident in their ability to achieve a clear. If you are not proficient in all fight mechanics, avoid joining these groups.</td>
     </tr>
     <tr>
         <th>C41</th>
