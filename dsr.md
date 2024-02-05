@@ -125,7 +125,7 @@ SGE/WHM:
 <a href="https://cdn.discordapp.com/attachments/954964022711685201/1118795044636327986/DSR_Materia_Strats_Cheat_Sheet.png" target="_blank"><img src="https://cdn.discordapp.com/attachments/954964022711685201/1118795044636327986/DSR_Materia_Strats_Cheat_Sheet.png"></a>
 </details>
 
-## Fight Writeup
+## Fight Writeup (WIP)
 
 ## Phase 1: Knights
 
@@ -174,3 +174,4 @@ Charibert will then cleave the two players closest to him, applying a 5s debuff 
 Once Charibert is reduced to approximately ~25-30% health, the DPS check is reached and as long as one player survives the transition the party will receive a checkpoint.
 
 ## Phase 2: Thordan
+Coming Soon
