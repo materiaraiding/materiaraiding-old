@@ -20,6 +20,15 @@ MUR Strats
 - Written guide by Juno
 - Diagrams by Juno, Bird, MUR
 
+### Table of Contents
+{: .no_toc }
+
+<details open markdown="block">
+<summary>View Table of Contents</summary>
+1. TOC
+{:toc}
+</details>
+
 ### Toolboxes
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner. TOP has multiple Toolboxes, each are listed here in order of phases in the fight with some extra toolboxes for more info.
 
@@ -27,15 +36,16 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 [P2 M&F](https://ff14.toolboxgaming.space/?id=043186470764761&preview=1){: .btn }
 [P3 Final Omega](https://ff14.toolboxgaming.space/?id=949384711756761&preview=1){: .btn }
 [P4 Blue Screen](https://ff14.toolboxgaming.space/?id=595188367474761&preview=1){: .btn }
+
 [P5 Dynamis Delta](https://ff14.toolboxgaming.space/?id=732288275415761&preview=1){: .btn }
 [P5 Dynamis Sigma](https://ff14.toolboxgaming.space/?id=107380954136761&preview=1){: .btn }
 [P5 Dynamis Omega](https://ff14.toolboxgaming.space/?id=078384491946761&preview=1){: .btn }
+
 [P6 Alpha Omega](https://ff14.toolboxgaming.space/?id=829484027197761&preview=1){: .btn }
 
 [All TOP Positions](https://ff14.toolboxgaming.space/?id=510586440608761&preview=1){: .btn }
 
-### PoVs (Soon™)
-{: .no_toc }
+### PoVs
 
 [DPS](https://www.youtube.com/watch?v=BKGcoU_Entc){: .btn }
 [Healer](ADD LINK HERE){: .btn }
@@ -47,15 +57,13 @@ Mitigation plan for all roles.
 [TOP Mitty](http://tinyurl.com/topmitty){: .btn .btn-green }
 
 ### Cheatsheet
-{: .no_toc }
 
 <details markdown=1>
 <summary>View Cheatsheet</summary>
 <a href="./assets/images/topcheatsheet.png" target="_blank"><img src="./assets/images/topcheatsheet.png"></a>
 </details>
 
-### Waymarks (Soon™)
-{: .no_toc }
+### Waymarks
 Waymarks are incredibly important in TOP as they are used for many mechanics in the fight for easy solves. 
 
 Code for Waymark Plugin
@@ -67,15 +75,6 @@ Code for Waymark Plugin
 ## Fight Summary
 {: .no_toc }
 Guide written by Juno
-
-### Table of Contents
-{: .no_toc }
-
-<details open markdown="block">
-<summary>View Table of Contents</summary>
-1. TOC
-{:toc}
-</details>
 
 ## Phase 1: Omega
 [P1 Beetle Toolbox](https://ff14.toolboxgaming.space/?id=758088204654761&preview=1){: .btn }
