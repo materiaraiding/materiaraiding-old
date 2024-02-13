@@ -324,12 +324,30 @@ After the knockback, AM will apply 1,2,3 markers to the people with jails.
 - Check your number and work out your target raidmarker. Use the central "+" of raidmarkes, with 1 being closest to Titan, 2 being middle and 3 being furthest from Titan.
 - Run up the middle until landslide spawns, sidestep to the edge of landslide next to your raidmarker.
 - As soon as the landslide graphic dissapears, immediately move towards your raidmarker. You should get stunned just as you arrive.
-- After jail explosions, exit to the left of your puddle immediately.
+- After jail explosions, exit to the **left** of your puddle immediately.
 
 {: .important }
 Jails MUST be positioned in-line with the raidmarker. Ideally dead center otherwise the chain of explosions will fail.
 
 ![](./assets/images/jailsfinal.png)
+
+If all three bombs are correctly overlapping, Titan will gain a stacking Wakening buff and become Awoken. This will greatly increase the speed of mechanics and change their patterns throughout the fight.
+
+### Landslides
+{: .no_toc }
+Party will stack on the Left Side looking at Titan, ready to move for {% glossary Weight of the Land %}. Dodge through Titan and prepare for {% glossary Landslides %}. Each landslide set will now be immediately followed by a second set of {% glossary Landslides %} between the first set. 
+
+![](./assets/images/landslides.png)
+
+Watch for the first set, as soon as you see the Landslide visual dissapear, you want to **immediately move into the first set of landslides** to avoid the second set. This is **VERY** fast.
+
+Titan will once again face a direction and use {% glossary Geocrush %}. 
+
+After this, one of the two Healers will be targetted with a Titan Jail. This Healer should move to the middle of the room. Once active, the party will be able to target and damage the jail. Break the healer out of Jail as soon as possible as a set of {% glossary Landslides %} follows shortly after.
+
+Tanks can now pull Titan to a wall for the last set of Mechanics. 
+
+WIP
 
 ## Phase 4: Lahabread
 Coming Soon
