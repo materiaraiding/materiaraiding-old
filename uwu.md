@@ -337,7 +337,7 @@ If all three bombs are correctly overlapping, Titan will gain a stacking Wakenin
 {: .no_toc }
 Party will stack on the Left Side looking at Titan, ready to move for {% glossary Weight of the Land %}. Dodge through Titan and prepare for {% glossary Landslides %}. Each landslide set will now be immediately followed by a second set of {% glossary Landslides %} between the first set. 
 
-![](./assets/images/landslides.png)
+![](./assets/images/landslides.jpg)
 
 Watch for the first set, as soon as you see the Landslide visual dissapear, you want to **immediately move into the first set of landslides** to avoid the second set. This is **VERY** fast.
 
