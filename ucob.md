@@ -25,6 +25,12 @@ Written Guide by Em'gram
 
 PoVs by Kur Rumi
 
+### Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
 ## Toolboxes
 {: .no_toc }
 
@@ -158,18 +164,10 @@ Golden Bahamut Mits
 
 </details>
 
-### Table of Contents
-{: .no_toc }
-
-<details open markdown="block">
-<summary>View Table of Contents</summary>
-1. TOC
-{:toc}
-</details>
-
 ## Phase 1: Twintania
 
 ### Key Mechanics
+{: .no_toc }
 
 {: .everyone }
 > Look out for {% glossary Twister %} cast, you will need to be moving when it finishes otherwise you will die and kill anyone near you. Start moving at 90% and spread out to make sure you have somewhere safe to run.
@@ -194,6 +192,7 @@ Golden Bahamut Mits
 > Just stay outta the way lol.
 
 ### Phase Timeline
+{: .no_toc }
 
 <details markdown=1>
 <summary>Expand Phase Timeline</summary>
@@ -238,6 +237,7 @@ Finally, Stand in a {% glossary Neurolink %} for phase transition.
 </details>
 
 ## Phase 2: Nael
+{: .no_toc }
 
 <details markdown=1>
 <summary>View Nael Timeline</summary>
@@ -294,6 +294,7 @@ The 5 dragons will use various abilities through the phase that players need to 
 > Nael enters with {% glossary Dalamud Dive %} on **Tank with last aggro on Twintania**, followed by {% glossary Bahamuts Claw %}. Use an Invuln here and keep this away from party.
 
 ### First Quotes
+{: .no_toc }
 
 Two players will now get {% glossary Thunderstruck %} followed by the first set of quotes.
 
@@ -301,6 +302,7 @@ Two players will now get {% glossary Thunderstruck %} followed by the first set 
 <summary>Nael Quotes Explained</summary>
 
 #### Nael Quotes Explained
+{: .no_toc }
 
 Through the phase Nael will say various quotes, these are indicators for upcoming mechanics, if you cannot translate the quotes then you will die to the mechanics. Each quote translates to a pair of mechanics in this phase. 
 
@@ -355,6 +357,7 @@ During the first quotes, a player will also get targetted with a **Fire Tether**
 <summary>Fire Tethers Explained</summary>
 
 #### Icebitten and Firescorched Debuffs
+{: .no_toc }
 
 Through the phase, dragons will attack players with iceballs and AOE other players with a fire tether, each applies a debuff or removes the opposite debuff. If you have either debuff and you are hit by the same effect again (ie: hit by fireball and you already have firescorched <img src="./assets/images/icons/firescorched.png" class="bufficon">) you will die.
 
@@ -379,6 +382,7 @@ Second Fire Tether appears and this should be taken **OUT**** of the party stack
 {% glossary Thunderstruck %} will apply to two players after fireball resolves, these need to leave the party stack.
 
 ### Second Quotes
+{: .no_toc }
 
 Party should be stacked in preparation for second quotes.
 
@@ -398,6 +402,7 @@ The player who had to take Second Fire Tether MUST NOT be in the Third Fire Teth
 Nael will follow this up with another {% glossary Bahamuts Claw %} for Tanks.
 
 ### Third Quotes
+{: .no_toc }
 
 Prepare for Third Quotes by pre-spreading as this will always start with a {% glossary Raven's Dive %} spread.
 
@@ -417,6 +422,7 @@ During the quotes, another Fire Tether will target a player and two more players
 Following the fireball will be another set of {% glossary Doom %} and {% glossary Wings of Salvation %} on **Three** players.
 
 ### Divebombs and Fourth Quotes
+{: .no_toc }
 
 Nael will call out the fourth quote:
 
@@ -496,6 +502,7 @@ Nael should now be dead, if not prepared for the other quotes to be recycled and
 </details>
 
 ### Transition
+{: .no_toc }
 After Nael dies, party to stack on south {% glossary Neurolink %} ready for the **Seventh Umbral Era**, a heavy Raid-wide and knockback, this will be followed by three **Calamitous Flame** raid-wides and **Calamitous Blaze** another heavy raid-wide. **Calamitous Blaze** is fatal without Tank LB2, but LB3 is preferred. 
 
 {: .tanks }

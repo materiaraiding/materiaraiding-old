@@ -28,6 +28,12 @@ Written Guide by Em'gram
 Toolboxes by MUR
 PoVs by Kur Rumi
 
+### Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
 ### Toolboxes
 {: .no_toc }
 
@@ -130,15 +136,6 @@ Throughout the first 3 phases, you will be aiming to complete special requiremen
 
 # Phase Summaries
 {: .no_toc }
-
-## Table of Contents
-{: .no_toc }
-
-<details open markdown="block">
-<summary>View Table of Contents</summary>
-1. TOC
-{:toc}
-</details>
 
 ## Phase 1: Garuda
 [Toolbox](https://ff14.toolboxgaming.space/?id=882261013862561&preview=1){: .btn .btn-blue }
