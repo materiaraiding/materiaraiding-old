@@ -23,16 +23,16 @@ MUR Strats
 ### Toolboxes
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner. TOP has multiple Toolboxes, each are listed here in order of phases in the fight with some extra toolboxes for more info.
 
-[P1 Beetle](https://ff14.toolboxgaming.space/?id=758088204654761&preview=1){: .btn .btn-blue }
-[P2 M&F](https://ff14.toolboxgaming.space/?id=043186470764761&preview=1){: .btn .btn-blue }
-[P3 Final Omega](https://ff14.toolboxgaming.space/?id=949384711756761&preview=1){: .btn .btn-blue }
-[P4 Blue Screen](https://ff14.toolboxgaming.space/?id=595188367474761&preview=1){: .btn .btn-blue }
-[P5 Dynamis Delta](https://ff14.toolboxgaming.space/?id=732288275415761&preview=1){: .btn .btn-blue }
-[P5 Dynamis Sigma](https://ff14.toolboxgaming.space/?id=107380954136761&preview=1){: .btn .btn-blue }
-[P5 Dynamis Omega](https://ff14.toolboxgaming.space/?id=078384491946761&preview=1){: .btn .btn-blue }
-[P6 Alpha Omega](https://ff14.toolboxgaming.space/?id=829484027197761&preview=1){: .btn .btn-blue }
+[P1 Beetle](https://ff14.toolboxgaming.space/?id=758088204654761&preview=1){: .btn }
+[P2 M&F](https://ff14.toolboxgaming.space/?id=043186470764761&preview=1){: .btn }
+[P3 Final Omega](https://ff14.toolboxgaming.space/?id=949384711756761&preview=1){: .btn }
+[P4 Blue Screen](https://ff14.toolboxgaming.space/?id=595188367474761&preview=1){: .btn }
+[P5 Dynamis Delta](https://ff14.toolboxgaming.space/?id=732288275415761&preview=1){: .btn }
+[P5 Dynamis Sigma](https://ff14.toolboxgaming.space/?id=107380954136761&preview=1){: .btn }
+[P5 Dynamis Omega](https://ff14.toolboxgaming.space/?id=078384491946761&preview=1){: .btn }
+[P6 Alpha Omega](https://ff14.toolboxgaming.space/?id=829484027197761&preview=1){: .btn }
 
-[All TOP Positions](https://ff14.toolboxgaming.space/?id=510586440608761&preview=1){: .btn .btn-blue }
+[All TOP Positions](https://ff14.toolboxgaming.space/?id=510586440608761&preview=1){: .btn }
 
 ### PoVs (Soon™)
 {: .no_toc }
@@ -43,7 +43,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 ### Mitigation Plan
 Mitigation plan for all roles.
-[TOP Mitty](http://tinyurl.com/topmitty){: .btn .btn-blue }
+[TOP Mitty](http://tinyurl.com/topmitty){: .btn .btn-green }
 
 ### Cheatsheet
 {: .no_toc }
@@ -77,7 +77,7 @@ Guide written by Juno
 </details>
 
 ## Phase 1: Omega
-[P1 Beetle Toolbox](https://ff14.toolboxgaming.space/?id=758088204654761&preview=1){: .btn .btn-blue }
+[P1 Beetle Toolbox](https://ff14.toolboxgaming.space/?id=758088204654761&preview=1){: .btn }
 
 {: .tanks }
 > It is very important in this phase to keep Omega in the center of the arena.
@@ -127,7 +127,7 @@ Omega will then cast two tank buster cleaves on the two furthest players, and 6 
 After this Omega will cast it's enrage: **Atomic Ray**.
 
 ## Phase 2: Omega-M & F
-[P2 M&F Toolbox](https://ff14.toolboxgaming.space/?id=043186470764761&preview=1){: .btn .btn-blue }
+[P2 M&F Toolbox](https://ff14.toolboxgaming.space/?id=043186470764761&preview=1){: .btn }
 
 {: .tanks }
 > Rampart can be cast as Omega "jumps", allowing a usage during the opening tank buster and in Limitless Synergy.
@@ -240,13 +240,13 @@ The debuffs assigned will target 4 players with **Sniper Cannon Fodder** (spread
 
 Players must spread according to their debuff and priority, with the stacks and non-debuff players along the south edge of the arena, and the spread players along the north edge.
 
-Two sets of **Arms** will appear that will cause large circular AOEs, as well as a cascading donut AOE (Wave Repeater) originating from the center. To resolve this, players will dodge Wave Repeater by moving in and out from the edge of the arena, and then dodging into the first arm explosion where they will take their spread or stack. **video**
+Two sets of **Arms** will appear that will cause large circular AOEs, as well as a cascading donut AOE (Wave Repeater) originating from the center. To resolve this, players will dodge Wave Repeater by moving in and out from the edge of the arena, and then dodging into the first arm explosion where they will take their spread or stack. **video** (I need to add this still, I keep forgetting :3 - Juno) 
 
 {: .note }
 > Using **sprint** can help make the 2->1 dodge easier, but isn't required.
 
 ## Phase 3: Reconfigured Omega
-[P3 Final Omega Toolbox](https://ff14.toolboxgaming.space/?id=949384711756761&preview=1){: .btn .btn-blue }
+[P3 Final Omega Toolbox](https://ff14.toolboxgaming.space/?id=949384711756761&preview=1){: .btn }
 
 {: .tanks }
 > There are hard hitting auto-attacks throughout this entire phase. The OT should be using their targeted mitigation on the MT as much as possible to help reduce the strain on the healers.
@@ -336,7 +336,7 @@ If a monitor does not hit 2 players it will randomly select a player. If hit by 
 If solved correctly, Omega will cast it's enrage: **Ion Efflux**.
 
 ## Phase 4: Blue Screen
-[P4 Blue Screen Toolbox](https://ff14.toolboxgaming.space/?id=595188367474761&preview=1){: .btn .btn-blue }
+[P4 Blue Screen Toolbox](https://ff14.toolboxgaming.space/?id=595188367474761&preview=1){: .btn }
 
 {: .damage }
 > Depending on team composition or damage needs, DPS LB3 can be sent at the end of P3 or at the start of P4. Sending in P4 requires 2 minutes raid buffs to be used during **monitors**.
@@ -379,7 +379,7 @@ After Omega-M becomes targetable, he will immediately cast a **Solar Ray** tank 
 After 2 auto-attacks, Omega-M will then cast: 
 
 ### Run: Dynamis (Delta Version)
-[P5 Dynamis Delta Toolbox](https://ff14.toolboxgaming.space/?id=732288275415761&preview=1){: .btn .btn-blue }
+[P5 Dynamis Delta Toolbox](https://ff14.toolboxgaming.space/?id=732288275415761&preview=1){: .btn }
 
 I highly recommend looking at the toolbox for this trio as well as reading this guide. This is a very intensive mechanic that becomes hard to digest through entirely text alone.
 
@@ -433,7 +433,7 @@ After the Monitors resolve, **Beetle Omega** will cleave one side of the arena w
 **Omega-M** will then do another **Solar Ray** tank buster before casting:
 
 ### Run: Dynamis (Sigma Version)
-[P5 Dynamis Sigma Toolbox](https://ff14.toolboxgaming.space/?id=107380954136761&preview=1){: .btn .btn-blue }
+[P5 Dynamis Sigma Toolbox](https://ff14.toolboxgaming.space/?id=107380954136761&preview=1){: .btn }
 
 At the beginning of Sigma, each player will be assigned 1 of 4 symbols and be inflicted with **Mid Glitch** or **Remote Glitch**, identical to **Party Synergy**. Two players will also be assigned a **Hello, Distant World** <img src="./assets/images/icons/distant-world.png" class="bufficon"> and **Hello, Near World** <img src="./assets/images/icons/near-world.png" class="bufficon"> debuff. Two **Arms** will then spawn eitherside of a random cardinal/intercardinal and attach tethers to the two **furthest players** away from them. Directly opposite this is where **Omega-M** will spawn, where the party will move to line up as seen in the MUR cheatsheet. 
 
@@ -478,7 +478,7 @@ Players will then move into their **Hello World** positions as seen below:
 After another **Solar Ray** tank buster, **Omega-F** casts:
 
 ### Run: Dynamis (Omega Version)
-[P5 Dynamis Omega Toolbox](https://ff14.toolboxgaming.space/?id=078384491946761&preview=1){: .btn .btn-blue }
+[P5 Dynamis Omega Toolbox](https://ff14.toolboxgaming.space/?id=078384491946761&preview=1){: .btn }
 
 After the initial raid-wide, 4 players are assigned **Hello World** debuffs. Two players are assigned with **First in Line** <img src="./assets/images/icons/first-in-line.png" class="bufficon">, and two others will be assigned with **Second in Line** <img src="./assets/images/icons/second-in-line.png" class="bufficon">. One player from each pair will be assigned **Hello, Distant World** <img src="./assets/images/icons/distant-world.png" class="bufficon"> and the other **Hello, Near World** <img src="./assets/images/icons/near-world.png" class="bufficon">.
 
@@ -502,7 +502,7 @@ Before the first dodge is made a 2nd set of clones will spawn. As **Final Omega*
 User **sausoftheroll** has compiled a list of possible dodges into a YouTube playlist:
 
 
-[DODGES](https://www.youtube.com/playlist?list=PLFRB_87JHX5WmAGqkThmV0laFQurUdoak){: .btn }
+[Omega Dodges](https://www.youtube.com/playlist?list=PLFRB_87JHX5WmAGqkThmV0laFQurUdoak){: .btn }
 
 
 {: .warning }
@@ -538,7 +538,7 @@ The party will then line up as seen below:
 > Where you are knocked back to is where you will begin the next phase. Everyone should be knocked to **true South** as mitigation is applied early in phase 6.
 
 ## Phase 6: Alpha Omega
-[P6 Alpha Omega Toolbox](https://ff14.toolboxgaming.space/?id=829484027197761&preview=1){: .btn .btn-blue }
+[P6 Alpha Omega Toolbox](https://ff14.toolboxgaming.space/?id=829484027197761&preview=1){: .btn }
 
 {: .everyone }
 > Players should move forward immediately to get out of the killzone. 
