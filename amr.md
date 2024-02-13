@@ -2,7 +2,7 @@
 layout: default
 title: Another Mount Rokkon
 parent: Criterion
-nav_order: 1
+nav_order: 2
 ---
 
 # Another Mount Rokkon

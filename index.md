@@ -8,6 +8,17 @@ nav_order: 1
 
 This website is a resource provided by Materia Raiding community, as a one-stop shop for your Savage and Ultimate Raiding needs.
 
+## Guides
+
+| Savage Raids              | Ultimate Raids       | Extreme Trials     | Criterion Dungeons |
+|:--------------------------|:---------------------|:-------------------|:-------------------|
+|[P9S](/p9s){: .btn }       |[UCOB](/fru){: .btn } |[EX4](/ex4){: .btn }|[AMR](/amr){: .btn }|
+|[P10S](/p10s){: .btn }     |[UWU](/uwu){: .btn }  |[EX5](/ex5){: .btn }|[AAI](/aai){: .btn }|
+|[P11S](/p11s){: .btn }     |[TEA](/tea){: .btn }  |[EX6](/ex6){: .btn }|                    |
+|[P12S P1](/p12s-1){: .btn }|[DSR](/dsr){: .btn }  |                    |                    |
+|[P12S P2](/p12s-2){: .btn }|[TOP](/top){: .btn }  |                    |                    |
+|                           |[FRU](/fru){: .btn }  |                    |                    |
+
 ## Savage Raids
 
 <span class="fs-5">
