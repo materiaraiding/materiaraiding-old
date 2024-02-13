@@ -14,6 +14,10 @@ nav_order: 3
 MUR Strats 
 {: .label .label-purple }
 
+### Credits
+- Written guide by Juno
+- Diagrams by Juno, MUR, [Tessan Twintails](https://www.youtube.com/watch?v=A-P1eXE18ko)
+
 ### Toolboxes
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner. DSR has multiple Toolboxes, each are listed here in order of phases in the fight.
 
@@ -145,7 +149,7 @@ After this stack and tankbuster combo, Adelphel will become untargetable and Gri
 
 ### **Hyperdimensional Slash**
 
-4 random players will be chosen with prey markers and they must spread to the north of Grinnaux at max melee, where they will take a line AOE. The positions each player will take are designated by waymarks (image). The end point (edge of the arena) of this AOE will drop a purple portal. If two portals are too close to one another, they will tether to eachother and wipe the raid. Similarly, if a player stands too close to a portal they will become tethered and die.
+4 random players will be chosen with prey markers and they must spread to the north of Grinnaux at max melee, where they will take a line AOE. The positions each player will take are designated by waymarks. This AOE will drop a purple portal on the edge of the arena wherever it was aimed. If two portals are too close to one another, they will tether to eachother and wipe the raid. Similarly, if a player stands too close to a portal they will become tethered and die.
 
 At the same time as the prey markers move north, the remaining party members will stack south of Grinnaux and take a large conal AOE stack that gets baited on a random non-prey player.
 
