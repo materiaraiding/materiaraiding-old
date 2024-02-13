@@ -125,7 +125,7 @@ SGE/WHM:
 <a href="https://cdn.discordapp.com/attachments/954964022711685201/1118795044636327986/DSR_Materia_Strats_Cheat_Sheet.png" target="_blank"><img src="https://cdn.discordapp.com/attachments/954964022711685201/1118795044636327986/DSR_Materia_Strats_Cheat_Sheet.png"></a>
 </details>
 
-## Fight Writeup
+## Fight Writeup (WIP)
 
 ## Phase 1: Knights
 
@@ -190,3 +190,4 @@ After moving to the center, Thordan will cast the first trio of the fight:
 Thordan will become untargetable and jump from the arena, and both Light parties will split East/West. 
 
 3 Knights will then cleave 3 random cardinals/intercardinals, leaving only 1 safespot either side of the arena. Within each of these safespots, the light party will have to spread to resolve lightning AOEs on each player.
+

@@ -37,7 +37,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 ### PoVs (Soon™)
 {: .no_toc }
 
-[DPS]([ADD LINK HERE](https://www.youtube.com/watch?v=BKGcoU_Entc)){: .btn }
+[DPS](https://www.youtube.com/watch?v=BKGcoU_Entc){: .btn }
 [Healer](ADD LINK HERE){: .btn }
 [Tank](https://www.youtube.com/watch?v=XHEpxUdz_6Q){: .btn }
 
@@ -111,7 +111,9 @@ Players will need to **split into groups of 4**, with each group containing only
 
 This is done by the priority system used in program loop, with the lower priority player of the two flexing to the opposite side.
 
-If Omega cleaves the NE and SW waymarkers first then each party rotates to the safespot clockwise of their original position. **(image here)**
+If Omega cleaves the NE and SW waymarkers first then each party rotates to the safespot clockwise of their original position.
+
+![](https://github.com/materiaraiding/materiaraiding/assets/104756079/50502fe5-a598-4713-a7cb-2b901fc31c12)
 
 The cleaves will then either rotate clockwise or counter-clockwise. As the cleaves rotate each player will also leave behind puddles. The party stacks together at the rear cleave to take a **3 player line-stack**, whilst the numbers leave to take their AOE away from the group before joining back to the party. This process repeats until each number has taken their AOE and the cleaves cease.
 
@@ -553,9 +555,10 @@ The **Brilliant Dynamis** <img src="./assets/images/icons/brilliant-dynamis.png"
 {: .warning }
 > **Brilliant Dynamis** <img src="./assets/images/icons/brilliant-dynamis.png" class="bufficon"> and **Spark of Dynamis** <img src="./assets/images/icons/spark-dynamis.png" class="bufficon"> buffs are lost upon death so it is imperative players do not die during this phase until the very end.
 
-**Alpha Omega** will then cast **Cosmo Arrow** (aka **Exasquares**), and will perform 1 of 2 patterns of AOEs. These patterns are referred to as plus (in), or square/box (out):
+**Alpha Omega** will then cast **Cosmo Arrow** (aka **Exasquares**), and will perform 1 of 2 patterns of AOEs. These patterns are referred to as plus (in), or square/box (out). These can be seen in the videos by user **sausoftheroll** below:
 
-(image)
+[Plus Pattern](https://www.youtube.com/watch?v=h771DAoI0pI){: .btn .btn-blue }
+[Box Pattern](https://www.youtube.com/watch?v=M7x5ORZteWE){: .btn .btn-blue }
 
 Players must dodge these together at South West and mitigate as **Alpha Omega** will begin to cast **Cosmo Dive** as players are dodging the exasquares.
 
