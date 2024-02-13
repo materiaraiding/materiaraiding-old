@@ -43,6 +43,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 ### Mitigation Plan
 Mitigation plan for all roles.
+
 [TOP Mitty](http://tinyurl.com/topmitty){: .btn .btn-green }
 
 ### Cheatsheet
