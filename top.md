@@ -558,8 +558,8 @@ The **Brilliant Dynamis** <img src="./assets/images/icons/brilliant-dynamis.png"
 
 **Alpha Omega** will then cast **Cosmo Arrow** (aka **Exasquares**), and will perform 1 of 2 patterns of AOEs. These patterns are referred to as plus (in), or square/box (out). These can be seen in the videos by user **sausoftheroll** below:
 
-[Plus Pattern](https://www.youtube.com/watch?v=h771DAoI0pI){: .btn .btn-blue }
-[Box Pattern](https://www.youtube.com/watch?v=M7x5ORZteWE){: .btn .btn-blue }
+[Plus Pattern](https://www.youtube.com/watch?v=h771DAoI0pI){: .btn }
+[Box Pattern](https://www.youtube.com/watch?v=M7x5ORZteWE){: .btn }
 
 Players must dodge these together at South West and mitigate as **Alpha Omega** will begin to cast **Cosmo Dive** as players are dodging the exasquares.
 
