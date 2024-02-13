@@ -14,6 +14,10 @@ nav_order: 3
 MUR Strats 
 {: .label .label-purple }
 
+### Credits
+- Written guide by Juno
+- Diagrams by Juno, MUR, [Tessan Twintails](https://www.youtube.com/watch?v=A-P1eXE18ko)
+
 ### Toolboxes
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner. DSR has multiple Toolboxes, each are listed here in order of phases in the fight.
 
