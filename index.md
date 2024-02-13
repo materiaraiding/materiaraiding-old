@@ -25,6 +25,7 @@ This website is a resource provided by Materia Raiding community, as a one-stop 
 ## Ultimate Raids (By MUR)
 
 <span class="fs-5">
+[FRU](/fru){: .btn }
 [TOP](/top){: .btn }
 [DSR](/dsr){: .btn }
 [TEA](/tea){: .btn }
