@@ -563,7 +563,7 @@ The **Brilliant Dynamis** <img src="./assets/images/icons/brilliant-dynamis.png"
 
 Players must dodge these together at South West and mitigate as **Alpha Omega** will begin to cast **Cosmo Dive** as players are dodging the exasquares.
 
-**Cosmo Dive** will target the furthest player away with a stack AOE, and the two closest players with tankbuster AOEs.
+**Cosmo Dive** will target the furthest player away with a stack AOE, and the two closest players with tankbuster AOEs. So immediately after the final exaquare dodge the MT will move forward and to the left of Alpha Omega, and the OT will move forward and to the right. The rest of the party will stack on the 3 waymarker.
 
 After 2 auto-attacks **Alpha Omega** will cast **Unlimited Wave Cannon** (aka **Exaflares**). Each player will stack under the boss to bait puddles, and move to the side of the **first exaflare** that spawned. They will then rotate **into** the exaflare and along the edge of the boss's hitbox until **6 puddles** have been dropped.
 
@@ -578,7 +578,7 @@ After 2 more auto-attacks, **Alpha Omega** will then cast another **Cosmo Arrow*
 
 After taking their line AOEs, players will stack on C as the **Wave Cannon** cast finishes.
 
-**Alpha Omega** will then cast another **Unlimited Wave Cannon** followed by a **Cosmo Dive**. After the 6th puddle drop, the party will stay onm the edge of the hitbox whilst tanks move in to bait the tankbusters.
+**Alpha Omega** will then cast another **Unlimited Wave Cannon** followed by a **Cosmo Dive**. After the 6th puddle drop, the party will stay on the edge of the hitbox whilst tanks move in (MT left OT right) to bait the tankbusters.
 
 Both melee DPS will use their LB3's after **Unlimited Wave Cannon**, and after two auto-attacks, everyone will group up under **Alpha Omega** as it casts:
 
