@@ -11,6 +11,20 @@ The goal is to create a comprehensive tool with all guides for current Savage an
 ## How to Contribute
 Make a **Fork** of the project and do your edits in the fork, you can then create a **Pull Request** to merge your edits back into the main repository.
 
+1. Make a Fork using the Fork Button on the Materia Raiding Repo Page (fork is like your own copy of the website)
+
+![image](https://github.com/materiaraiding/materiaraiding/assets/85346345/3bb113b8-bdd6-4463-b597-cb0e9be5227c)
+
+2. Make Changes on your Fork, edit files and commit the changes to your Fork
+
+![image](https://github.com/materiaraiding/materiaraiding/assets/85346345/041b63df-2449-430c-8d91-07fbe0b9a442)
+
+3. Push your changes back to the main repo by creating a Pull Request from your Fork
+
+![image](https://github.com/materiaraiding/materiaraiding/assets/85346345/fde900bb-48e3-4be0-8518-5c02d04b1fa7)
+
+4. Once your pull request is approved, your changes will appear on the website.
+
 ## Pages
 Each page is a single Markdown File (.md) which can be located anywhere in the root folder. Each page begins with a header to specify the page name and details, this will not appear in the final page.
 
