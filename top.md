@@ -7,7 +7,7 @@ nav_order: 2
 
 {% include custom.html %}
 
-<img src="./assets/images/alphaomega.webp" alt="Bahamut" width="150" style="float: right">
+<img src="./assets/images/alphaomega.webp" alt="AlphaOmega" width="150" style="float: right">
 
 # The Omega Protocol
 {: .no_toc }
@@ -27,7 +27,7 @@ MUR Strats
 {:toc}
 
 ### Toolboxes
-Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner. TOP has multiple Toolboxes, each are listed here in order of phases in the fight with some extra toolboxes for more info.
+Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
 [P1 Beetle](https://ff14.toolboxgaming.space/?id=758088204654761&preview=1){: .btn }
 [P2 M&F](https://ff14.toolboxgaming.space/?id=043186470764761&preview=1){: .btn }
@@ -42,14 +42,15 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 [All TOP Positions](https://ff14.toolboxgaming.space/?id=510586440608761&preview=1){: .btn }
 
-### PoVs
+### PoV Videos
+Videos covering clears by different roles.
 
 [DPS](https://www.youtube.com/watch?v=BKGcoU_Entc){: .btn }
 [Healer](ADD LINK HERE){: .btn }
 [Tank](https://www.youtube.com/watch?v=XHEpxUdz_6Q){: .btn }
 
 ### Mitigation Plan
-Mitigation plan for all roles.
+Mitigation plan spreadsheet
 
 [TOP Mitty](http://tinyurl.com/topmitty){: .btn .btn-green }
 

@@ -10,16 +10,24 @@ nav_order: 3
 <img src="./assets/images/dkt.webp" alt="DKT" width="150" style="float: right">
 
 # Dragonsong Reprise
+{: .no_toc }
 
 MUR Strats 
 {: .label .label-purple }
 
 ### Credits
+{: .no_toc }
 - Written guide by Juno
 - Diagrams by Juno, MUR, [Tessan Twintails](https://www.youtube.com/watch?v=A-P1eXE18ko)
 
+### Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
 ### Toolboxes
-Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner. DSR has multiple Toolboxes, each are listed here in order of phases in the fight.
+Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
 [Phase 1: Knights](https://ff14.toolboxgaming.space/?id=199680719834861&preview=1){: .btn }
 [Phase 2: Thordan](https://ff14.toolboxgaming.space/?id=110786314454861&preview=1){: .btn }
@@ -30,7 +38,8 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 [Phase 6: Double Dragons](https://ff14.toolboxgaming.space/?id=610785126654861&preview=1){: .btn }
 [Phase 7: Dragon King Thordan](){: .btn }
 
-### PoVs
+### PoVs Videos
+Videos covering clears by different roles.
 
 [DPS](https://youtu.be/FMr8XWq-mXs){: .btn }
 [Tank](https://www.youtube.com/watch?v=Yex5-s3ITPg){: .btn }
@@ -130,8 +139,10 @@ SGE/WHM:
 </details>
 
 ## Fight Writeup (WIP)
+{: .no_toc }
 
 ## Fight Writeup
+{: .no_toc }
 
 Guide written by Juno
 
