@@ -129,6 +129,8 @@ SGE/WHM:
 
 ## Fight Writeup
 
+Guide written by Juno
+
 ## Phase 1: Knights
 
 This phase begins with two targetable bosses: Adelphel and Grinnaux.
@@ -139,35 +141,48 @@ Once pulled, tanks will stack the bosses and the party will stay south.
 
 After a **Holiest of Holy** raid wide Grinnaux will cast **Empty Dimension**, forming a donut AOE centered on him. At the same time Adelphel will cast **Holy Shield Bash**, a tethered AOE tankbuster that is targeted on a random player. The MT must walk through this tether and bring it north of the bosses to take the tankbuster **with invulnerability**. At the same time the party will take a **Heavensblaze** stack at the south.
 
-Afterwards, Adelphel will dissappear and Grinnaux will cast **Hyperdimensional Slash**.
+After this stack and tankbuster combo, Adelphel will become untargetable and Grinnaux will cast:
+
+### **Hyperdimensional Slash**
 
 4 random players will be chosen with prey markers and they must spread to the north of Grinnaux at max melee, where they will take a line AOE. The positions each player will take are designated by waymarks (image). The end point (edge of the arena) of this AOE will drop a purple portal. If two portals are too close to one another, they will tether to eachother and wipe the raid. Similarly, if a player stands too close to a portal they will become tethered and die.
 
 At the same time as the prey markers move north, the remaining party members will stack south of Grinnaux and take a large conal AOE stack that gets baited on a random non-prey player.
 
-This repeats twice, where the 2nd set of prey markers will instead spread south and the initial prey players will stack north.
+![](https://github.com/materiaraiding/materiaraiding/assets/104756079/dffcadb9-58f8-4526-95ed-f950a5434b09)
 
-Adelphel will then drop down onto a random cardinal and cast another **Holiest of Holy** and Grinnaux will cast **Faith Unmoving** which will knock players backwards. Players will use anti-knockback and position themselves so Grinnaux is between them and Adelphel, as Adelphel will then begin to dash across the arena in an hourglass shape. Adelphel will start this dodge by either moving left or right, and the party will move the same direction and stand on the tip of a pattern in the arena . (image)
+_Image taken from Tessan Twintails DSR video guide_
 
-Adelphel will then drop onto the player who had the highest emnity on him before he dissappeared, delivering a heavy hitting AOE tank buster that the OT will invuln. To avoid hitting the party with this, the OT will follow the party to the safe spot and then move into another safespot adjacent to the party. Adelphel will then immediately begin casting 1 of 3 instances of **Holiest Hallowing**, an interruptible heal targeted on Grinnaux. The OT will interrupt this and both tanks will position their bosses in the center of the arena for **Playstation Chains**.
+This process repeats twice, where the 2nd set of prey markers will instead spread south and the initial prey players will stack north.
+
+Adelphel will then drop down onto a random cardinal and cast another **Holiest of Holy** and Grinnaux will cast **Faith Unmoving** which will knock players away from Grinnaux (who is still in the center of the arena). Players will use anti-knockback and position themselves so Grinnaux is between them and Adelphel, as Adelphel will then begin to dash across the arena in an hourglass shape. Adelphel will start this dodge by either moving left or right, and the party will move the same direction and stand on the tip of an arrow shaped pattern in the arena . **(I'll try get a video for this - Juno)**
+
+Adelphel will then drop onto the player who had the highest emnity on him before he dissappeared, delivering a heavy hitting AOE tank buster that the OT will invuln. To avoid hitting the party with this, the OT will follow the party to the safe spot and then **continue moving past the party**. Adelphel will then immediately begin casting 1 of 3 instances of **Holiest Hallowing**, an interruptible heal targeted on Grinnaux. The OT will interrupt this and both tanks will position their bosses in the center of the arena for:
+
+### **Playstation Chains**
 
 Each player will be marked with either a cross, square, circle, or triangle, so that there is two of each symbol. 
 
 {: .note }
 > **Healers** can only ever get Cross or Triangle, **Tanks** can only get Cross or Square, and **DPS** can only get Square, Circle or Triangle
 
-The party will form around Grinnaux in the pattern seen below (image), and be knocked back by another **Faith Unmoving** to break their tethers. If unbroken, the resulting AOE will kill any players who have not resolved their tethers.
+The party will form around Grinnaux in the pattern seen below, and be knocked back by another **Faith Unmoving** to break their tethers. If unbroken, the resulting AOE will kill any players who have not resolved their tethers.
+
+![](https://github.com/materiaraiding/materiaraiding/assets/104756079/ada530eb-b49d-4266-92cc-abe22b95df1c)
+
 
 {: .warning }
 > A warning to warrior players; Inner release is perfectly timed in this phase to be up as this mechanic is resolving. This means that you'll be immune to knockback and therefore unable to resolve your tether. You can either prepull inner release earlier in the fight, or simply click the **Inner Strength** buff off during this mechanic.
 
-Immediately after this is resolved, the 2nd **Holiest Hallowing** cast will begin, and the ranged player (or main tank) will interrupt the cast. Both bosses should be stacked middle again for another **Holiest Holy** and either a **Empty** or **Full Dimension**. If it is **Empty** Grinnaux will do a donut AOE around him like before. If it is **Full**, move away from Grinnaux as he will cast a large circular AOE centered on him.
+Immediately after this is resolved, the 2nd **Holiest Hallowing** cast will begin, and the ranged player (or main tank) will interrupt the cast. Both bosses should be stacked middle again for another **Holiest Holy** and either an **Empty** or **Full Dimension**. If it is **Empty** Grinnaux will do a donut AOE around him like before. If it is **Full**, move away from Grinnaux as he will cast a large circular AOE centered on him.
 
-The final **Holiest Hallowing** will be interrupted by the OT again. At this point, if one of them dies before the other, they will begin to cast their enrage: either **Bull's Steel** or **Brightblade's Steel**.
+The final **Holiest Hallowing** will be interrupted by the OT again. At this point, if one of them dies before the other, they will begin to cast their enrage: either **Bull's Steel** or **Brightblade's Steel**. As such both bosses must be killed at roughly the same time.
 
 After dropping their health to 0%, they will immediately become untargetable. Grinnaux will then **holmgang** the entire party to the western side of the arena, chaining them in a small circle. Attempting to leave this circle will kill the player immediately.
 
 A new boss **Charibert** will then appear at the southern side of the circle and begin to cast **Pure of Heart**, the enrage of phase 1.
+
+### **Pure of Heart**
 
 **Haurchefant** will run to the side of the circle and block an arrow. This arrow pulses intermittently, dealing damage to the party. 
 
