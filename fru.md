@@ -7,7 +7,7 @@ nav_order: 1
 
 {% include custom.html %}
 
-<img src="./assets/images/eden.jpg" alt="Bahamut" width="150" style="float: right">
+<img src="./assets/images/eden.jpg" alt="eden" width="150" style="float: right">
 
 # Futures Rewritten
 {: .no_toc }
