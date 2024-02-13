@@ -35,27 +35,25 @@ PoVs by Kur Rumi
 {:toc}
 
 ### Toolboxes
-{: .no_toc }
-
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 UWU has multiple Toolboxes, each are listed here in order of phases in the fight.
 
-[Garuda](https://ff14.toolboxgaming.space/?id=882261013862561&preview=1){: .btn .btn-blue }
-[Ifrit](https://ff14.toolboxgaming.space/?id=562530446784261&preview=1){: .btn .btn-blue }
-[Titan](https://ff14.toolboxgaming.space/?id=982261963862561&preview=1){: .btn .btn-blue }
-[Lahabrea](https://ff14.toolboxgaming.space/?id=430631425646261&preview=1){: .btn .btn-blue }
-[Predation](https://ff14.toolboxgaming.space/?id=530635345646261&preview=1){: .btn .btn-blue }
-[Annihilation](https://ff14.toolboxgaming.space/?id=930637786646261&preview=1){: .btn .btn-blue }
-[Suppression](https://ff14.toolboxgaming.space/?id=192261294862561&preview=1){: .btn .btn-blue }
+[Garuda](https://ff14.toolboxgaming.space/?id=882261013862561&preview=1){: .btn }
+[Ifrit](https://ff14.toolboxgaming.space/?id=562530446784261&preview=1){: .btn }
+[Titan](https://ff14.toolboxgaming.space/?id=982261963862561&preview=1){: .btn }
+[Lahabrea](https://ff14.toolboxgaming.space/?id=430631425646261&preview=1){: .btn }
+[Predation](https://ff14.toolboxgaming.space/?id=530635345646261&preview=1){: .btn }
+[Annihilation](https://ff14.toolboxgaming.space/?id=930637786646261&preview=1){: .btn }
+[Suppression](https://ff14.toolboxgaming.space/?id=192261294862561&preview=1){: .btn }
 
 ### Waymarks
-{: .no_toc }
 These can be imported using an XIV Launcher Plugin.
 
-[Waymarks Pastebin](https://pastebin.com/KvHDCE6e){: .btn }
+```
+{"Name":"Imported","MapID":539,"A":{"X":100.061,"Y":0.0,"Z":92.092,"ID":0,"Active":true},"B":{"X":106.897,"Y":0.0,"Z":100.122,"ID":1,"Active":true},"C":{"X":100.219,"Y":0.0,"Z":107.013,"ID":2,"Active":true},"D":{"X":93.161,"Y":0.0,"Z":100.149,"ID":3,"Active":true},"One":{"X":100.119,"Y":0.0,"Z":100.181,"ID":4,"Active":true},"Two":{"X":100.138,"Y":0.0,"Z":81.841,"ID":6,"Active":true},"Three":{"X":87.332,"Y":0.0,"Z":87.27,"ID":5,"Active":true},"Four":{"X":107.157,"Y":0.0,"Z":107.792,"ID":7,"Active":true}}
+```
 
 ### PoV Videos
-{: .no_toc }
 by Kur Rumi
 
 [DPS](https://www.youtube.com/watch?v=tD4w2xntOaI){: .btn }
@@ -63,7 +61,6 @@ by Kur Rumi
 [Tank](https://www.youtube.com/watch?v=vcBajEouNNI&t){: .btn }
 
 ### Macros
-{: .no_toc }
 
 <details markdown=1>
 <summary>View All Macros</summary>
@@ -129,7 +126,7 @@ D3                                D4
 </details>
 
 ### Puddles (Candy)
-{: .no_toc }
+
 Throughout the first 3 phases, you will be aiming to complete special requirements to **Awaken** all three primals, once awoken their mechanics may change and they will drop a puddle (Candy) when they die, this must be picked up in a specific order, these will give you extra LB3's later which are required to clear the fight.
 
 **Healer (Garuda) > Caster (Ifrit) > Melee (Titan)**
@@ -141,6 +138,7 @@ Throughout the first 3 phases, you will be aiming to complete special requiremen
 [Toolbox](https://ff14.toolboxgaming.space/?id=882261013862561&preview=1){: .btn .btn-blue }
 
 ### Important Mechanics
+{: .no_toc }
 
 {: .everyone }
 > {% glossary Feather Rain %} Garuda will make a shriek sound and without any castbar, feathers will drop on all players, this will happen many times during the fight.
@@ -157,6 +155,7 @@ This summary is written to accompany the above toolbox, use it as a reference.
 The phase starts with the {% glossary MT %} pulling boss to mid and facing boss north. DPS should be behind boss and {% glossary OT %} and Healers stay east with the {% glossary OT %} between Healers and the boss. One Healer will get {% glossary Mistral Song %}, the boss will send a ranged attacked to Healers and {% glossary OT %} will soak the hit with Healers (first hit takes more damage)
 
 ### Plumes
+{: .no_toc }
 Multiple Plumes will spawn around the arena. {% glossary OT %} needs to grab the Spiny plume and be ready for heavy damage.
 
 {: .warning }
@@ -167,6 +166,7 @@ Once the plumes have gathered on the party, {% glossary AOE %} them down leaving
 After {% glossary Feather Rain %}, wait for {% glossary OT %} to take second hit from Spiny Plume, then kill the spiny plume to spawn a bubble, party can then move into this ready for cleanses.
 
 ### Cleanses
+{: .no_toc }
 The following is a mechanic where we will take turns to gain and cleanse Friction stacks by entering and leaving bubble, the order is very precise and required to be able to clear the fight, if you fail the order but survive the mechanic, you will fail later mechanics. You will gain Friction stacks if you are outside the bubble when Friction hits you. You will lose friction stacks when you enter the bubble dealing a heavy raidwide damage.
 
 {: .tanks }
@@ -190,6 +190,7 @@ Stay relatively stacked during this mechanic, friction is a small range and can 
 If you did this mechanic correctly, the boss will now have 3 stacks of awakened. The last stack to Awaken the boss will apply later.
 
 ### Twins
+{: .no_toc }
 Party to stack on **Waymark 4**, {% glossary Mistral Song %} will target two non-tanks from sisters. {% glossary MT %} and {% glossary OT %} dodge Wicked Wheel ({% glossary PBAOE %}) and stand on a cardinal in-front of each sister against edge of blue circle, intercepting one of the {% glossary Mistral Song %}s each.
 
 {: .tanks }
@@ -204,6 +205,7 @@ After {% glossary Feather Rain %}, Party and Tanks to dodge Tornadoes (Spawning 
 If Tornadoes are on SOUTH and EAST, ranged can dodge out towards wall for safety.
 
 ### Tethers
+{: .no_toc }
 Second plumes spawn, wait for them to gather and {% glossary AOE %} them down as fast as possible. {% glossary OT %} takes WEST Tether, Caster take EAST Tether, walk Tether to edge of blue circle. Heavy Raidwide and {% glossary Downburst %} on {% glossary MT %}, followed by {% glossary Feather Rain %}.
 
 Party stack behind Garuda and burn down the boss, you should phase at this point.
@@ -218,6 +220,7 @@ When you kill Garuda, DPS and Tanks stack middle, Healer grab the Glowing Puddle
 [Toolbox](https://ff14.toolboxgaming.space/?id=562530446784261&preview=1){: .btn .btn-blue }
 
 ### Important Mechanics
+{: .no_toc }
 
 {: .tanks }
 > {% glossary Incinerate %} Untelegraphed Tankbuster, Triple tankbuster with no broadcast, typically use invlun, darkness damage.
@@ -235,6 +238,7 @@ Start the phase by stacking mid, orient to face Ifrit and dodge left or right ba
 **Shield Healer** prepare for {% glossary Vulcan Burst %} with shields and **Tanks** prepare for {% glossary Incinerate %} with a invuln.
 
 ### Nails
+{: .no_toc }
 
 Four nails will spawn, orient yourself so the closest two nails are north. One Healer will get {% glossary Searing Wind %}, take this to relative south and stay on the wall, top yourself up as necessary and focus boss.
 
@@ -256,6 +260,7 @@ One Healer will get {% glossary Searing Wind %}, go to WEST relative party and p
 If DPS is good, you will phase just as the second healer gets {% glossary Searing Wind %}. Second {% glossary Searing Wind %} should be run-out of the party either south or east if you are about to skip dashes.
 
 ### Dashes
+{: .no_toc }
 
 If you do not phase the boss, party to stack on boss, with second {% glossary Searing Wind %} healer opposite the party.
 
@@ -271,6 +276,7 @@ Move to the wall, ready for Titan to spawn. After titan drops, **Caster** to gra
 The following is written to accompany the diagrams in the above toolbox.
 
 ### Important Mechanics
+{: .no_toc }
 {: .everyone }
 > {% glossary Weight of the Land %} - Several large AOEs appear under all players one after another.
 >
@@ -282,6 +288,7 @@ The following is written to accompany the diagrams in the above toolbox.
 > {% glossary Mountain Buster %} - Heavy Tankbuster with Cleave
 
 ### Summary
+{: .no_toc }
 
 Fight starts with a heavy raidwide, healers will need to be prepared for this at the end of Ifrit.
 
@@ -293,6 +300,7 @@ Following the Toolbox, party starts on A marker, dodges {% glossary Weight of th
 Geocrush is very fast, Titan will start turning towards a cardinal and then jump, you MUST watch titan carefully to work out which cardinal he is jumping too. Tanks should always try move boss to the middle of the room before this happens otherwise it can be very difficult to tell which cardinal he is jumping too.
 
 ### Jails
+{: .no_toc }
 
 {: .important }
 > Don't tell yoshi-p but most parties and PF will use an Addon called "AM" or "Auto-markers", this automatically numbers players based on their debuffs and simplifies this mechanic greatly. This can be found in the Dalamud plugins download page. This guide will assume you are using AM as its the most common strat.
@@ -337,8 +345,3 @@ Coming Soon
 
 ## Phase 5.4: Roulette
 Coming Soon
-
-## Credits
-- MUR Discord for Toolboxes and Strats
-- Kur Rumi for PoVs
-- Notes by Em'gram

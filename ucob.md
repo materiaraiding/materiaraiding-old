@@ -35,12 +35,12 @@ PoVs by Kur Rumi
 {: .no_toc }
 
 ### Bahamut Toolboxes
-[QMT](https://ff14.toolboxgaming.space/?id=877146678916361&preview=1){: .btn .btn-blue }
-[BFT](https://ff14.toolboxgaming.space/?id=838145884536361&preview=1){: .btn .btn-blue }
-[FRT](https://ff14.toolboxgaming.space/?id=810783368854861&preview=1){: .btn .btn-blue }
-[HFT](https://ff14.toolboxgaming.space/?id=740246169786361&preview=1){: .btn .btn-blue }
-[TST](https://ff14.toolboxgaming.space/?id=141245760517361&preview=1){: .btn .btn-blue }
-[GO](https://ff14.toolboxgaming.space/?id=803246524767361&preview=1){: .btn .btn-blue }
+[QMT](https://ff14.toolboxgaming.space/?id=877146678916361&preview=1){: .btn }
+[BFT](https://ff14.toolboxgaming.space/?id=838145884536361&preview=1){: .btn }
+[FRT](https://ff14.toolboxgaming.space/?id=810783368854861&preview=1){: .btn }
+[HFT](https://ff14.toolboxgaming.space/?id=740246169786361&preview=1){: .btn }
+[TST](https://ff14.toolboxgaming.space/?id=141245760517361&preview=1){: .btn }
+[GO](https://ff14.toolboxgaming.space/?id=803246524767361&preview=1){: .btn }
 
 ## PoVs
 {: .no_toc }
