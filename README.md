@@ -2,6 +2,8 @@
 
 Materia Raiding is a community driven project to collate the various guides and tools created for raiding in the FF14 Materia Datacenter.
 
+This Repo is for the Materia Raiding website, a Github Pages site built with Jekyll using the "Just the Docs" template. You can find the website here: [Materia Raiding Website](https://materiaraiding.com/)
+
 The goal is to create a comprehensive tool with all guides for current Savage and Ultimate content in one consistent open-source website.
 
 [![Deploy Jekyll site to Pages](https://github.com/materiaraiding/materiaraiding/actions/workflows/pages.yml/badge.svg)](https://github.com/materiaraiding/materiaraiding/actions/workflows/pages.yml)
