@@ -145,7 +145,7 @@ After this stack and tankbuster combo, Adelphel will become untargetable and Gri
 
 ### **Hyperdimensional Slash**
 
-4 random players will be chosen with prey markers and they must spread to the north of Grinnaux at max melee, where they will take a line AOE. The positions each player will take are designated by waymarks (image). The end point (edge of the arena) of this AOE will drop a purple portal. If two portals are too close to one another, they will tether to eachother and wipe the raid. Similarly, if a player stands too close to a portal they will become tethered and die.
+4 random players will be chosen with prey markers and they must spread to the north of Grinnaux at max melee, where they will take a line AOE. The positions each player will take are designated by waymarks. This AOE will drop a purple portal on the edge of the arena wherever it was aimed. If two portals are too close to one another, they will tether to eachother and wipe the raid. Similarly, if a player stands too close to a portal they will become tethered and die.
 
 At the same time as the prey markers move north, the remaining party members will stack south of Grinnaux and take a large conal AOE stack that gets baited on a random non-prey player.
 
