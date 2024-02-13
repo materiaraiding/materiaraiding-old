@@ -8,7 +8,7 @@ nav_order: 1
 
 This website is a resource provided by Materia Raiding community, as a one-stop shop for your Savage and Ultimate Raiding needs.
 
-## Guides
+## Guides and Resources
 
 | Savage Raids              | Ultimate Raids       | Extreme Trials     | Criterion Dungeons |
 |:--------------------------|:---------------------|:-------------------|:-------------------|
@@ -18,42 +18,6 @@ This website is a resource provided by Materia Raiding community, as a one-stop 
 |[P12S P1](/p12s-1){: .btn }|[DSR](/dsr){: .btn }  |                    |                    |
 |[P12S P2](/p12s-2){: .btn }|[TOP](/top){: .btn }  |                    |                    |
 |                           |[FRU](/fru){: .btn }  |                    |                    |
-
-## Savage Raids
-
-<span class="fs-5">
-[P9S](/p9s){: .btn }
-[P10S](/p10s){: .btn }
-[P11S](/p11s){: .btn }
-[P12S P1](/p12s-1){: .btn }
-[P12S P2](/p12s-2){: .btn }
-</span>
-
-<span class="fs-3">
-[View Previous Tiers](/oldfights){: .btn }
-</span>
-
-## Ultimate Raids (By MUR)
-
-<span class="fs-5">
-[FRU](/fru){: .btn }
-[TOP](/top){: .btn }
-[DSR](/dsr){: .btn }
-[TEA](/tea){: .btn }
-[UWU](/uwu){: .btn }
-[UCOB](/ucob){: .btn }
-</span>
-
-## Extreme Raids
-
-<span class="fs-5">
-[EX4](/ex4){: .btn }
-[EX5](/ex5){: .btn }
-[EX6](/ex6){: .btn }
-</span>
-
-## Criterion Dungeons
-[Another Mount Rokkon](/amr){: .btn }
 
 ## About
 
