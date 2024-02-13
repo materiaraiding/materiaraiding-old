@@ -159,6 +159,7 @@ After a **Holiest of Holy** raid wide Grinnaux will cast **Empty Dimension**, fo
 After this stack and tankbuster combo, Adelphel will become untargetable and Grinnaux will cast:
 
 ### **Hyperdimensional Slash**
+{: .no_toc }
 
 4 random players will be chosen with prey markers and they must spread to the north of Grinnaux at max melee, where they will take a line AOE. The positions each player will take are designated by waymarks. This AOE will drop a purple portal on the edge of the arena wherever it was aimed. If two portals are too close to one another, they will tether to eachother and wipe the raid. Similarly, if a player stands too close to a portal they will become tethered and die.
 
@@ -175,6 +176,7 @@ Adelphel will then drop down onto a random cardinal and cast another **Holiest o
 Adelphel will then drop onto the player who had the highest emnity on him before he dissappeared, delivering a heavy hitting AOE tank buster that the OT will invuln. To avoid hitting the party with this, the OT will follow the party to the safe spot and then **continue moving past the party**. Adelphel will then immediately begin casting 1 of 3 instances of **Holiest Hallowing**, an interruptible heal targeted on Grinnaux. The OT will interrupt this and both tanks will position their bosses in the center of the arena for:
 
 ### **Playstation Chains**
+{: .no_toc }
 
 Each player will be marked with either a cross, square, circle, or triangle, so that there is two of each symbol. 
 
@@ -198,6 +200,7 @@ After dropping their health to 0%, they will immediately become untargetable. Gr
 A new boss **Charibert** will then appear at the southern side of the circle and begin to cast **Pure of Heart**, the enrage of phase 1.
 
 ### **Pure of Heart**
+{: .no_toc }
 
 **Haurchefant** will run to the side of the circle and block an arrow. This arrow pulses intermittently, dealing damage to the party. 
 
@@ -218,6 +221,7 @@ Thordan will then slash 3 times at the Main Tank with a tank buster **Ascalon's 
 After moving to the center, Thordan will cast the first trio of the fight:
 
 ### Strength of the Ward
+{: .no_toc }
 
 Thordan will become untargetable and jump from the arena, and both Light parties will split East/West. 
 
