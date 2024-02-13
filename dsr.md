@@ -139,15 +139,15 @@ After a **Holiest of Holy** raid wide Grinnaux will cast **Empty Dimension**, fo
 
 Afterwards, Adelphel will dissappear and Grinnaux will cast **Hyperdimensional Slash**.
 
-4 random players will be chosen with prey markers and they must spread to the north of Grinnaux at max melee, where they will take a line AOE. The end point (edge of the arena) of this AOE will drop a purple portal. If two portals are too close to one another, they will tether to eachother and wipe the raid. Similarly, if a player stands too close to a portal they will become tethered and die.
+4 random players will be chosen with prey markers and they must spread to the north of Grinnaux at max melee, where they will take a line AOE. The positions each player will take are designated by waymarks (image). The end point (edge of the arena) of this AOE will drop a purple portal. If two portals are too close to one another, they will tether to eachother and wipe the raid. Similarly, if a player stands too close to a portal they will become tethered and die.
 
 At the same time as the prey markers move north, the remaining party members will stack south of Grinnaux and take a large conal AOE stack that gets baited on a random non-prey player.
 
 This repeats twice, where the 2nd set of prey markers will instead spread south and the initial prey players will stack north.
 
-Adelphel will then drop down onto a random cardinal and cast another **Holiest of Holy** and Grinnaux will cast **Faith Unmoving** which will knock players backwards. Players will use anti-knockback and position themselves so Grinnaux is between them and Adelphel, as Adelphel will then begin to dash across the arena in an hourglass shape. The players will move the same direction that Adelphel first dashes to, and stand on the tip of a pattern in the arena . (image)
+Adelphel will then drop down onto a random cardinal and cast another **Holiest of Holy** and Grinnaux will cast **Faith Unmoving** which will knock players backwards. Players will use anti-knockback and position themselves so Grinnaux is between them and Adelphel, as Adelphel will then begin to dash across the arena in an hourglass shape. Adelphel will start this dodge by either moving left or right, and the party will move the same direction and stand on the tip of a pattern in the arena . (image)
 
-Adelphel will then drop onto the player who had the highest emnity on him before he dissappeared, delivering a heavy hitting tank buster that the OT will invuln. Adelphel will then immediately begin casting 1 of 3 instances of **Holiest Hallowing**, an interruptible heal targeted on Grinnaux. The OT will interrupt this and both tanks will position their bosses in the center of the arena for **Playstation Chains**.
+Adelphel will then drop onto the player who had the highest emnity on him before he dissappeared, delivering a heavy hitting AOE tank buster that the OT will invuln. To avoid hitting the party with this, the OT will follow the party to the safe spot and then move into another safespot adjacent to the party. Adelphel will then immediately begin casting 1 of 3 instances of **Holiest Hallowing**, an interruptible heal targeted on Grinnaux. The OT will interrupt this and both tanks will position their bosses in the center of the arena for **Playstation Chains**.
 
 Each player will be marked with either a cross, square, circle, or triangle, so that there is two of each symbol. 
 
@@ -174,4 +174,20 @@ Charibert will then cleave the two players closest to him, applying a 5s debuff 
 Once Charibert is reduced to approximately ~25-30% health, the DPS check is reached and as long as one player survives the transition the party will receive a checkpoint.
 
 ## Phase 2: Thordan
-Coming Soon
+
+Phase 2 will begin with the MT facing Thordan north for 2 auto-attacks before he will begin casting **Ascalon's Mercy**, a baited protean on every member of the party.
+The party will stack up behind Thordan before dodging to the side to avoid the cleave. 
+
+{: .note }
+> The tell to move for this attack can either be the end of the castbar, or when Thordan raises his sword slightly.
+
+Thordan will then slash 3 times at the Main Tank with a tank buster **Ascalon's Might**.
+
+After moving to the center, Thordan will cast the first trio of the fight:
+
+### Strength of the Ward
+
+Thordan will become untargetable and jump from the arena, and both Light parties will split East/West. 
+
+3 Knights will then cleave 3 random cardinals/intercardinals, leaving only 1 safespot either side of the arena. Within each of these safespots, the light party will have to spread to resolve lightning AOEs on each player.
+
