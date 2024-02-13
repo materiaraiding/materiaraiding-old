@@ -21,13 +21,13 @@ MUR Strats
 ### Toolboxes
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner. DSR has multiple Toolboxes, each are listed here in order of phases in the fight.
 
-[Phase 1: Knights](https://ff14.toolboxgaming.space/?id=199680719834861&preview=1){: .btn .btn-blue }
-[Phase 2: Thordan](https://ff14.toolboxgaming.space/?id=110786314454861&preview=1){: .btn .btn-blue }
-[Phase 3: Nidhogg](https://ff14.toolboxgaming.space/?id=654299805191961&preview=1){: .btn .btn-blue }
-[Phase 4: Eyes](https://ff14.toolboxgaming.space/?id=674291612991961&preview=1){: .btn .btn-blue }
-[Phase 5: Dark Thordan: Wrath](https://ff14.toolboxgaming.space/?id=143466228734561&preview=1){: .btn .btn-blue }
-[Phase 5: Dark Thordan: Death](https://ff14.toolboxgaming.space/?id=268588669900861&preview=1){: .btn .btn-blue }
-[Phase 6: Double Dragons](https://ff14.toolboxgaming.space/?id=610785126654861&preview=1){: .btn .btn-blue }
+[Phase 1: Knights](https://ff14.toolboxgaming.space/?id=199680719834861&preview=1){: .btn }
+[Phase 2: Thordan](https://ff14.toolboxgaming.space/?id=110786314454861&preview=1){: .btn }
+[Phase 3: Nidhogg](https://ff14.toolboxgaming.space/?id=654299805191961&preview=1){: .btn }
+[Phase 4: Eyes](https://ff14.toolboxgaming.space/?id=674291612991961&preview=1){: .btn }
+[Phase 5: Dark Thordan: Wrath](https://ff14.toolboxgaming.space/?id=143466228734561&preview=1){: .btn }
+[Phase 5: Dark Thordan: Death](https://ff14.toolboxgaming.space/?id=268588669900861&preview=1){: .btn }
+[Phase 6: Double Dragons](https://ff14.toolboxgaming.space/?id=610785126654861&preview=1){: .btn }
 [Phase 7: Dragon King Thordan](){: .btn }
 
 ### PoVs
