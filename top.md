@@ -23,11 +23,8 @@ MUR Strats
 ### Table of Contents
 {: .no_toc }
 
-<details open markdown="block">
-<summary>View Table of Contents</summary>
 1. TOC
 {:toc}
-</details>
 
 ### Toolboxes
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner. TOP has multiple Toolboxes, each are listed here in order of phases in the fight with some extra toolboxes for more info.
