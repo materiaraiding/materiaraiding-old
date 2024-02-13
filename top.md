@@ -82,6 +82,7 @@ Guide written by Juno
 The phase begins with heavy hitting auto-attacks before starting the first mechanic:
 
 ### Program Loop
+{: .no_toc }
 
 Program loop begins with each player being assigned a number from 1 to 4, with two of each across the party. This mechanic requires 4 sets of 2 towers to be soaked in a sequential order **(<img src="./assets/images/icons/first-in-line.png" class="bufficon"> → <img src="./assets/images/icons/second-in-line.png" class="bufficon"> → <img src="./assets/images/icons/third-in-line.png" class="bufficon"> → <img src="./assets/images/icons/fourth-in-line.png" class="bufficon">)** that will deal significant damage to the player inside. 
 
@@ -98,6 +99,7 @@ These tethers will explode in a large AOE on the targeted player and inflict a H
 As this mechanic can become messy with players grabbing tethers from others and taking different towers, a priority system is used to facilitate the movement of players. The priority used by MUR PF is seen in the cheatsheet.
 
 ### Pantokrator
+{: .no_toc }
 
 {: .healers }
 > Pantokrator has a lot of damage going out from the stacks and spreads, and requires heavy mitigation before spreading into your light parties.
@@ -145,6 +147,7 @@ Both bosses will then tank buster the player with highest emnity to them, follow
 Omega-M and Omega-F will then cast:
 
 ### Party Synergy
+{: .no_toc }
 
 Both bosses will become untargetable and disappear as the mechanic begins. 
 
@@ -194,6 +197,7 @@ If the stack players are part of the **same light party** the north most stack r
 After ~5 auto-attacks from each boss, both Omega-M and Omega-F will cast:
 
 ### Limitless Synergy
+{: .no_toc }
 
 {: .everyone }
 > The party should pre-position at South-South-West for this mechanic.
@@ -224,6 +228,7 @@ Throughout this whole mechanic Omega F has been casting her enrage **Laser Showe
 Upon defeating Omega-F, the transition begins:
 
 ### Phase 2 -> Phase 3 Transition
+{: .no_toc }
 
 {: .everyone }
 >The party should line-up from East to West as seen in the cheatsheet before debuffs are assigned.
@@ -254,6 +259,7 @@ Two sets of **Arms** will appear that will cause large circular AOEs, as well as
 The phase begins with a hard-hitting raid wide cast:
 
 ### Hello World
+{: .no_toc }
 
 This mechanic assigns **a lot** of debuffs to players. Thankfully, a few of them can be ignored as they will resolve themselves simply by doing the mechanic and are only present as fail conditions for doing it *incorrectly*.
 
@@ -316,6 +322,7 @@ This mechanic repeats **Latent Defect** a total of 4 times, where for the final 
 After rots expire Omega will cast another hard hitting raid wide **Critical Error**, before starting the next mechanic:
 
 ### Monitors
+{: .no_toc }
 
 {: .everyone }
 > The party should pre-position in the cheatsheet lineup for monitors to quickly find their spots.
@@ -579,6 +586,7 @@ After taking their line AOEs, players will stack on C as the **Wave Cannon** cas
 Both melee DPS will use their LB3's after **Unlimited Wave Cannon**, and after two auto-attacks, everyone will group up under **Alpha Omega** as it casts:
 
 ### Cosmo Meteor
+{: .no_toc }
 
 {: .everyone }
 > The physical ranged player of the group will take the North waymark for this mechanic, with the MT moving to the North West waymark to replace them.
@@ -603,6 +611,7 @@ A random **non-flare** player will then be targeted with a non-telegraphed stack
 **Alpha Omega** will then begin to cast:
 
 ### Magic Number
+{: .no_toc }
 
 **Alpha Omega** will then cast the first **Magic Number**. Tanks must LB3 this to survive. Shortly after the hit a 6s **Magic Number** <img src="./assets/images/icons/magic-number.png" class="bufficon"> debuff will be applied to the party, killing the player once the debuff falls off. This debuff is cleansed by a healer LB3.
 
