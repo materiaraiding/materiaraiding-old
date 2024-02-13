@@ -44,20 +44,6 @@ This website is a resource provided by Materia Raiding community, as a one-stop 
 ## Criterion Dungeons
 [Another Mount Rokkon](/amr){: .btn }
 
-## Important Links
-
-[Materia Raiding Discord](https://discord.gg/EySn5dRj65){: .btn .btn-purple }
-
-Home of Materia Savage strats and the Party Finder and LFM channels.
-
-[Materia Ultimate Raiding Discord](https://discord.gg/ArZz3b8PZV){: .btn .btn-purple }
-
-Where Materia Ult Strats are born, also great for finding Ultimate Parties in their PF channels.
-
-[The Balance](https://www.thebalanceffxiv.com/){: .btn .btn-blue }
-
-Learn how to play your job good.
-
 ## About
 
 This site was put together to help combine various resources and guides into one comprehensive resource, our strategies are a collaboration of guides and tools from various other FF14 communities, with credits included on the pages and at the bottom of this page also.
@@ -67,3 +53,8 @@ As this site originates from the **Materia** community, the strategies are based
 This website uses github pages, you can submit your own changes and suggestions using Github PR requests at the link below!
 
 [Contribute](https://github.com/materiaraiding/materiaraiding){: .btn }
+
+Or join the discussion on Discord!
+
+[Materia Raiding Discord](https://discord.gg/EySn5dRj65){: .btn .btn-purple }
+[Materia Ultimate Raiding Discord](https://discord.gg/ArZz3b8PZV){: .btn .btn-purple }
