@@ -127,6 +127,8 @@ SGE/WHM:
 
 ## Fight Writeup (WIP)
 
+## Fight Writeup
+
 ## Phase 1: Knights
 
 This phase begins with two targetable bosses: Adelphel and Grinnaux.
