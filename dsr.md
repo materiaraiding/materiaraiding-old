@@ -174,8 +174,7 @@ This process repeats twice, where the 2nd set of prey markers will instead sprea
 
 Adelphel will then drop down onto a random cardinal and cast another **Holiest of Holy** and Grinnaux will cast **Faith Unmoving** which will knock players away from Grinnaux (who is still in the center of the arena). Players will use anti-knockback and position themselves so Grinnaux is between them and Adelphel, as Adelphel will then begin to dash across the arena in an hourglass shape. Adelphel will start this dodge by either moving left or right, and the party will move the same direction and stand on the tip of an arrow shaped pattern in the arena . **(I'll try get a video for this - Juno)**
 
-Adelphel will then drop onto the player who had the highest emnity on him before he dissappeared, delivering a heavy hitting AOE tank buster that the OT will invuln. To avoid hitting the party with this, the OT will follow the party to the safe spot and then **continue moving past the party**. 
-
+After completing his dashes, Adelphel will drop onto the player who had the highest emnity on him before he dissappeared, delivering a heavy hitting AOE tank buster that the OT will invuln. To avoid hitting the party with this, the OT will follow the party to the safe spot and then **continue moving past the party**. 
 
 Adelphel will then immediately begin casting 1 of 3 instances of **Holiest Hallowing**, an interruptible heal targeted on Grinnaux. The OT will interrupt this and both tanks will position their bosses in the center of the arena for:
 
