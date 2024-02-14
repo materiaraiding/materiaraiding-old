@@ -223,7 +223,7 @@ The party will stack up behind Thordan before dodging to the side to avoid the c
 Thordan will then slash 3 times at the Main Tank with a tank buster **Ascalon's Might**.
 
 {: .tanks }
-> Due to the mit plan that MUR uses, if the MR is a **WAR** they can use their invincibility here for free.
+> Due to the mit plan that MUR PF uses, if the MT is a **WAR** they can use their invincibility here for free.
 
 After moving to the center, Thordan will cast the first trio of the fight:
 
