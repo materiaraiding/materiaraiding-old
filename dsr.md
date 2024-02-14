@@ -152,7 +152,7 @@ This phase begins with two targetable bosses: Adelphel and Grinnaux.
 Once pulled, tanks will stack the bosses and the party will stay south.
 
 {: .damage }
-> As Adelphel goes untargetable soon after the phase starts, players should spend their buffs and openers on him. Throughought the phase both bossess should be kept as similar health as possible.
+> As Adelphel goes untargetable soon after the phase starts, players should spend their buffs and openers on him. Throughout the phase both bossess should be kept as similar health as possible.
 
 After a **Holiest of Holy** raid wide Grinnaux will cast **Empty Dimension**, forming a donut AOE centered on him. At the same time Adelphel will cast **Holy Shield Bash**, a tethered AOE tankbuster that is targeted on a random player. The MT must walk through this tether and bring it north of the bosses to take the tankbuster **with invulnerability**. At the same time the party will take a **Heavensblaze** stack at the south.
 
@@ -217,6 +217,9 @@ The party will stack up behind Thordan before dodging to the side to avoid the c
 > The tell to move for this attack can either be the end of the castbar, or when Thordan raises his sword slightly.
 
 Thordan will then slash 3 times at the Main Tank with a tank buster **Ascalon's Might**.
+
+{: .tanks }
+> Due to the mit plan that MUR uses, if the MR is a **WAR** they can use their invincibility here for free.
 
 After moving to the center, Thordan will cast the first trio of the fight:
 
