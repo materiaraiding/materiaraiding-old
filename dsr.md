@@ -233,3 +233,5 @@ Thordan will become untargetable and jump from the arena, and both Light parties
 
 3 Knights will then cleave 3 random cardinals/intercardinals, leaving only 1 safespot either side of the arena. Within each of these safespots, the light party will have to spread to resolve lightning AOEs on each player.
 
+The way that the waymarkers are set up means that **Light Party 1** will always be on a **number** waymark, and **Light Party 2** will always be on a **letter** waymark. Two waymarks on opposite sides of the arena will also be the same colour, allowing us to simply call out a single colour to determine both safe spots. (image)
+
