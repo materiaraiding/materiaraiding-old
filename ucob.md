@@ -198,6 +198,7 @@ Golden Bahamut Mits
 <summary>Expand Phase Timeline</summary>
 
 ### 100% -> 74% Mini-Phase
+{: .no_toc }
 1. Pull Twintania to waymark 1.
 1. {% glossary Plummet %} on Tanks.
 1. {% glossary Twister %} Dodge.
@@ -206,6 +207,7 @@ Golden Bahamut Mits
 1. Push to 74% and drop {% glossary Neurolink %}.
 
 ### 74% -> 44% Mini-Phase
+{: .no_toc }
 1. Move boss to next marker.
 1. {% glossary Liquid Hell %} on furthest player.
 1. {% glossary Hatch %} to {% glossary Neurolink %}.
@@ -215,6 +217,7 @@ Golden Bahamut Mits
 1. Push to 44% and drop {% glossary Neurolink %}.
 
 ### 44% -> 0% Mini-Phase
+{: .no_toc }
 1. Move boss to next marker.
 1. {% glossary Liquid Hell %} on furthest player.
 1. {% glossary Hatch %} **x2** to {% glossary Neurolink %}.
@@ -603,13 +606,13 @@ The Trio will be in a random order with Nael positioned either Left, Middle or R
 
 Screenshots from the toolbox below show the possible spawns and respective spreads, Nael is highlighted **RED**.
 
-#### Nael Left
+**Nael Left**
 ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/3dca53e3-88c6-4fc7-b04f-d7f05a62f4d1)
 
-#### Nael Right
+**Nael Right**
 ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/52a6c820-214a-4e31-96eb-bab73657f889)
 
-#### Nael Middle
+**Nael Middle**
 ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/2935b116-f5ca-4e7e-b9b8-20f587702bd5)
 
 Pay attention to the position of Nael and spread out in the safe spaces that are not being dived. When the dive goes off, move inwards to avoid a {% glossary Twister %}. Players will drop megaflare puddles as they move in, do not rush in otherwise you might place these too close to the middle. 
