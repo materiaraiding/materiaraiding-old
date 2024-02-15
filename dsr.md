@@ -251,12 +251,14 @@ Thordan will then jump again and land on a random cardinal or intercardinal, as 
 
 3 players will then get marked with a large blue defamation marker (named Skyward Leap), and large red puddles will begin to grow on the ground. Each of the 2 knights will also tether two random non-tank players (who do not have Skyward Leap) with **Holy Shieldbash/Bladedance**.
 
-Everyone who was not marked with Skyward Leap should quickly find Thordan and make their way to him. The Tanks will take their respective tether (MT left knight facing Thordan, ST right knight facing Thordan) and criss-cross them into the safe spot under Thordan to stretch them further for reduced damage. Just before everything goes off, 6 towers will appear in the middle of the Arena that must be soaked by every player other than the tanks. 
+Everyone who was not marked with Skyward Leap should quickly find Thordan and make their way to him. The Tanks will take their respective tether (MT left knight facing Thordan, ST right knight facing Thordan) and criss-cross them into the safe spot under Thordan to stretch them further for reduced damage. 
 
-![](https://github.com/RancidDax/materiaraiding/assets/104756079/aa1aada6-327a-4696-b2f2-ab63b6794411)
+![](https://github.com/materiaraiding/materiaraiding/assets/104756079/3b2f74c0-1881-48e7-9ffb-febb332c0782)
 
 {: .warning}
 > The relative West and East Skyward Leap players should stand on the **edge of the waymark** as seen in the image. If you stand in the middle of your waymark you are likely to kill one of the Tanks next to Thordan.
+
+Just before everything goes off, 6 towers will appear in the middle of the Arena that must be soaked by every player other than the tanks. 
 
 The 3 non Skyward Leap players should line up against the wall below Thordan to indicate which tower they are taking before standing together for a stack that will be shared with both tanks.
 
