@@ -234,11 +234,11 @@ Thordan will become untargetable and jump from the arena, and both Light parties
 
 The way that the waymarkers are set up means that **Light Party 1** will always be on a **number** waymark, and **Light Party 2** will always be on a **letter** waymark. Two waymarks on opposite sides of the arena will also be the same colour, allowing us to simply call out a single colour to determine both safe spots. 
 
-![](https://github.com/RancidDax/materiaraiding/assets/104756079/cef706b2-eeee-4b39-a47c-e236ff4d4bbf)
+![](https://github.com/materiaraiding/materiaraiding/assets/104756079/7ec956a3-f135-48b0-94d0-ebef5a898830)
 
 > In the image above we can see the purple, yellow, and blue waymarks have knights on them. Thus we can simply call out "Red" and both parties will know where they have to go.
 
-Within both of those safespots, each light party will have to spread to avoid overlapping lightning AOEs that are about to drop on each player. The exact way that each player spreads can be seen in the MUR PF cheatsheet. These lightning AOEs will go off at the same time as the dashes go off.
+Within both of those safespots, each light party will have to spread to avoid overlapping lightning AOEs that are about to drop on each player. These lightning AOEs will go off at the same time as the dashes go off.
 
 While the parties are getting into position **Grinnaux** and **Thordan** appear again, with Grinnaux being placed somewhere near the center of the arena and Thordan in the direct center. After everything resolves Grinnaux will begin to cast an earthshaker that will expand out towards each light party. Avoiding this is simple, just waiting until it is safe to walk forward and doing so. 
 
