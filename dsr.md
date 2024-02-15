@@ -255,6 +255,9 @@ Everyone who was not marked with Skyward Leap should quickly find Thordan and ma
 
 ![](https://github.com/RancidDax/materiaraiding/assets/104756079/aa1aada6-327a-4696-b2f2-ab63b6794411)
 
+{: .warning}
+> The relative West and East Skyward Leap players should stand on the **edge of the waymark** as seen in the image. If you stand in the middle of your waymark you are likely to kill one of the Tanks next to Thordan.
+
 The 3 non Skyward Leap players should line up against the wall below Thordan to indicate which tower they are taking before standing together for a stack that will be shared with both tanks.
 
 {: .tanks}
