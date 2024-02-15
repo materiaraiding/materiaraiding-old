@@ -234,7 +234,7 @@ Thordan will become untargetable and jump from the arena, and both Light parties
 
 The way that the waymarkers are set up means that **Light Party 1** will always be on a **number** waymark, and **Light Party 2** will always be on a **letter** waymark. Two waymarks on opposite sides of the arena will also be the same colour, allowing us to simply call out a single colour to determine both safe spots. 
 
-![](https://github.com/materiaraiding/materiaraiding/assets/104756079/7ec956a3-f135-48b0-94d0-ebef5a898830)
+![](https://github.com/materiaraiding/materiaraiding/assets/104756079/5b0b7ee8-5211-4406-a75a-f00c5b58e486)
 
 > In the image above we can see the purple, yellow, and blue waymarks have knights on them. Thus we can simply call out "Red" and both parties will know where they have to go.
 
