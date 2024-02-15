@@ -246,7 +246,7 @@ While the party is dodging this, Thordan will cast another **Ascalon's Mercy**. 
 
 Thordan will then jump again and land on a random cardinal or intercardinal, as well as 2 other knights dropping onto the arena. For this section of the Trio we will treat **Thordan as our new north**. 
 
-{ .note } 
+{: .note } 
 > Thordan can be tricky to find here if you're spinning your camera around. What you should do instead is look at the 2 knights, who will always be further away from and facing Thordan.
 
 3 players will then get marked with a large blue defamation marker (named Skyward Leap), and large red puddles will begin to grow on the ground. Each of the 2 knights will also tether two random non-tank players (who do not have Skyward Leap) with **Holy Shieldbash/Bladedance**.
@@ -257,7 +257,7 @@ Everyone who was not marked with Skyward Leap should quickly find Thordan and ma
 
 The 3 non Skyward Leap players should line up against the wall below Thordan to indicate which tower they are taking before standing together for a stack that will be shared with both tanks.
 
-{ .tanks}
+{: .tanks}
 > Each Tank can stand in front of their respective knight to ensure they are the one to grab the tether, before using sprint to comfortably make it to the safe spot.
 
 
