@@ -138,10 +138,7 @@ SGE/WHM:
 <a href="https://cdn.discordapp.com/attachments/954964022711685201/1118795044636327986/DSR_Materia_Strats_Cheat_Sheet.png" target="_blank"><img src="https://cdn.discordapp.com/attachments/954964022711685201/1118795044636327986/DSR_Materia_Strats_Cheat_Sheet.png"></a>
 </details>
 
-## Fight Writeup (WIP)
-{: .no_toc }
-
-## Fight Writeup
+## Fight Writeup (W.I.P)
 {: .no_toc }
 
 Guide written by Juno
@@ -172,7 +169,9 @@ _Image taken from Tessan Twintails DSR video guide_
 This process repeats twice, where the 2nd set of prey markers will instead spread south and the initial prey players will stack north.
 
 
-Adelphel will then drop down onto a random cardinal and cast another **Holiest of Holy** and Grinnaux will cast **Faith Unmoving** which will knock players away from Grinnaux (who is still in the center of the arena). Players will use anti-knockback and position themselves so Grinnaux is between them and Adelphel, as Adelphel will then begin to dash across the arena in an hourglass shape. Adelphel will start this dodge by either moving left or right, and the party will move the same direction and stand on the tip of an arrow shaped pattern in the arena . **(I'll try get a video for this - Juno)**
+Adelphel will then drop down onto a random cardinal and cast another **Holiest of Holy** and Grinnaux will cast **Faith Unmoving** which will knock players away from Grinnaux (who is still in the center of the arena). Players will use anti-knockback and position themselves so Grinnaux is between them and Adelphel, as Adelphel will then begin to dash across the arena in an hourglass shape.
+
+Adelphel will start this dodge by either moving left or right, and the party will move the same direction and stand on the tip of an arrow shaped pattern in the arena . **(I'll try get a video for this - Juno)**
 
 After completing his dashes, Adelphel will drop onto the player who had the highest emnity on him before he dissappeared, delivering a heavy hitting AOE tank buster that the OT will invuln. To avoid hitting the party with this, the OT will follow the party to the safe spot and then **continue moving past the party**. 
 
@@ -231,7 +230,35 @@ After moving to the center, Thordan will cast the first trio of the fight:
 
 Thordan will become untargetable and jump from the arena, and both Light parties will split East/West. 
 
-3 Knights will then cleave 3 random cardinals/intercardinals, leaving only 1 safespot either side of the arena. Within each of these safespots, the light party will have to spread to resolve lightning AOEs on each player.
+3 Knights will then cleave 3 random cardinals/intercardinals, leaving only 1 safespot either side of the arena. 
 
-The way that the waymarkers are set up means that **Light Party 1** will always be on a **number** waymark, and **Light Party 2** will always be on a **letter** waymark. Two waymarks on opposite sides of the arena will also be the same colour, allowing us to simply call out a single colour to determine both safe spots. (image)
+The way that the waymarkers are set up means that **Light Party 1** will always be on a **number** waymark, and **Light Party 2** will always be on a **letter** waymark. Two waymarks on opposite sides of the arena will also be the same colour, allowing us to simply call out a single colour to determine both safe spots. 
+
+![](https://github.com/RancidDax/materiaraiding/assets/104756079/cef706b2-eeee-4b39-a47c-e236ff4d4bbf)
+
+> In the image above we can see the purple, yellow, and blue waymarks have knights on them. Thus we can simply call out "Red" and both parties will know where they have to go.
+
+Within both of those safespots, each light party will have to spread to avoid overlapping lightning AOEs that are about to drop on each player. The exact way that each player spreads can be seen in the MUR PF cheatsheet. These lightning AOEs will go off at the same time as the dashes go off.
+
+While the parties are getting into position **Grinnaux** and **Thordan** appear again, with Grinnaux being placed somewhere near the center of the arena and Thordan in the direct center. After everything resolves Grinnaux will begin to cast an earthshaker that will expand out towards each light party. Avoiding this is simple, just waiting until it is safe to walk forward and doing so. 
+
+While the party is dodging this, Thordan will cast another **Ascalon's Mercy**. Each light party must quickly make their way toward Thordan and stack up tightly on either side of him to bait the proteans.
+
+Thordan will then jump again and land on a random cardinal or intercardinal, as well as 2 other knights dropping onto the arena. For this section of the Trio we will treat **Thordan as our new north**. 
+
+{ .note } 
+> Thordan can be tricky to find here if you're spinning your camera around. What you should do instead is look at the 2 knights, who will always be further away from and facing Thordan.
+
+3 players will then get marked with a large blue defamation marker (named Skyward Leap), and large red puddles will begin to grow on the ground. Each of the 2 knights will also tether two random non-tank players (who do not have Skyward Leap) with **Holy Shieldbash/Bladedance**.
+
+Everyone who was not marked with Skyward Leap should quickly find Thordan and make their way to him. The Tanks will take their respective tether and criss cross them into the safe spot under Thordan to stretch them further for reduced damage. Just before everything goes off, 6 towers appear in the middle of the Arena that must be soaked by every player other than the tanks. 
+
+The 3 non Skyward Leap players should line up against the wall below Thordan to indicate which tower they are taking before standing together for a stack that will be shared with both tanks.
+
+{ .tanks}
+> Each Tank can stand in front of their respective knight to ensure they are the one to grab the tether, before using sprint to comfortably make it to the safe spot.
+
+
+
+
 
