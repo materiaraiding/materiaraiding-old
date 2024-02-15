@@ -103,3 +103,15 @@ Here's a screenshot taken directly from the MUR toolbox which shows all of that.
 Take note that in this scenario, as CC is on the right, the BLM with the blue tether is a little more inwards and not on the wall to ensure they bait that 3rd CC cleave. If CC was on the left instead, the BLM would be the wall, the Aggravated Assault players on the right with the BLM (as BJ would be there) and the DRK with blue tether would be a little more inwards to bait the CC cleave.
 
 Useful tip note: even though buff and cooldown timers freeze, their effects still apply. For example, if you have Lucid Dreaming active during the timestop, the buff timer doesn't go down but the mana regen still ticks, giving you a little extra mana from the spell than it normally would.
+
+Once done, time till resume, BJ and CC will leave and Alexander Prime will spawn in the middle of the arena.
+
+## Alexander Prime
+
+The phase begins with **Chastening Heat**, which is a tankbuster on the current aggro'd player that applies a Magic Vulnerability Up. This is then followed by 3× **Divine Spear**s, tankbusters that deal magic damage. Thus, this should be dealt with via an invulnerability or tank swap.
+
+Alexander Prime then casts his first mechanic.
+
+### Inception Formation
+
+Alexander Prime is untargetable for the duration of this mechanic.
