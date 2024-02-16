@@ -76,7 +76,7 @@ Once BJ and CC go down, the arena changes and they will reappear next to each ot
 
 After their landing, party members will receive some debuffs. Players have approximately 8 seconds to run to their positions, in which then time will stop, freezing all players in place and the debuffs will resolve. While frozen, players cannot move or cast any abilities and their buff and cooldown timers also pause. 
 
-Once the debuffs resolve, BJ will cast Flamethrower (conal AoE) to the 2 closest players and CC will cast Alpha Sword (conal AoE) to the 3 closest players.
+Once the debuffs resolve, BJ will cast Flarethrower (conal AoE) to the 2 closest players and CC will cast Alpha Sword (conal AoE) to the 3 closest players.
 
 ### Debuffs
 
@@ -95,7 +95,7 @@ So, this is where everyone will stand to make this work:
 - Both **Aggravated Assault** players run hard east/west to the wall, whichever one BJ is closest to. This ensures they are far enough to not be hit by anything.
 - **No debuff** players go towards the left boss. The support will go north of the boss and the DPS will go south of the boss to bait their cleaves.
 - **Christmas tether** players go towards the right boss. The support will go north of the boss and the DPS will go south of the boss to bait their cleaves. You will notice the (1) waymark will be under this boss - the width of the waymark is approximately how far the 2 players should be for the Christmas tether to resolve safely. Here's a screenshot that demonstrates that: ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/4f371937-6aab-4332-8bc7-c2a6271c8245)
-- Players with the **blue tether** will be across the room from each other - support to the west, DPS to the east. The player on the side nearest BJ should stand on the wall, with the Aggravated Assault players as they will not be baiting his flamethrower. **However**, the player on the side nearest CC should stand more inwards to ensure they bait his 3rd cleave (the D and 2 waymarks are good indicators on where to stand).
+- Players with the **blue tether** will be across the room from each other - support to the west, DPS to the east. The player on the side nearest BJ should stand on the wall, with the Aggravated Assault players as they will not be baiting his flarethrower. **However**, the player on the side nearest CC should stand more inwards to ensure they bait his 3rd cleave (the D and 2 waymarks are good indicators on where to stand).
 
 Here's a screenshot taken directly from the MUR toolbox which shows all of that.
 ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/e18a89e7-eaf3-4af8-8df6-5cac190e790b)
@@ -131,8 +131,67 @@ At the end of Wormhole, a party member will be marked with a stack marker which 
 
 After, 2 DPS will have enumeration rings which must have exactly 3 people inside the circle to resolve. Facing Alexander Prime, one should move left and the other to the right. Simply use eyes and adjust on the fly. To ensure there are 3 players in each ring, both tanks should move into the left enumeration, while both healers move into the right. The 2 remaining DPS with nothing should steer clear.
 
-Once the enumerations resolve, Alexander Prime will once again be targetable and respawn in the middle of the arena, where he will cast **Mega Holy** twice, a hardhitting raidwide which requires mitigation and healing in between.
+Once the enumerations resolve, Alexander Prime once again becomes targetable and respawn in the middle of the arena, where he castS **Mega Holy** twice, a hardhitting raidwide which requires mitigation and healing in between.
 
 Alexander Prime will then begin casting **Summon Alexander**, the final part of this phase.
 
 ### Summon Alexander
+
+Alexander will spawn north, with BJ south west and CC south east of him. He begins casting **Divine Judgment**, which is an extremely long enrage timer. While BJ and CC are alive, Alexander is invulnerable, so we must kill them before we finish off Alexander.
+
+CC will be casting **Eternal Darkness**, which wipes the party should the cast finish. 
+
+Meanwhile, BJ enters with **J Storm**, a hard hitting raidwide. From there, every few seconds, BJ casts **J Wave**, hard hitting raidwide that also grants him a stacking damage up buff. These J Waves will require a lot of mitigation and healing - this is probably the most intensive part of the fight for healers.
+
+The party should focus on taking down CC first, then BJ, then finishing off Alexander Prime.
+
+Once Alexander Prime is defeated, he begins counting down for **Judgment Protocol**. A tank will need to use **Limit Break 3** when there is 4 seconds left till the cast (indicated by the chat bubble) for the party to survive this attack.
+
+After Judgment Protocol, you will watch Perfect Alexander come to life.
+
+## Phase 4: Perfect Alexander
+
+The final phase of this fight involves several debuffs which can be simply resolved by, "stand in this location," but as usual I will explain what's happening so you can understand **why**.
+
+### The Final Word
+
+Perfect Alexander begins by casting The Final Word and everyone will receive a debuff. 
+
+1 player will be the light beacon ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/a327616d-4f59-4293-bfc5-0c1fbc081e92) and 3 will be light arrows ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/8fc1a88e-de65-4f6e-bc04-99a2bb186fe1). When the debuff expires, the light arrows are forced to march towards the light beacon for a fixed duration. In this time, if a light arrow makes contact with the light beacon they die.
+
+1 player will be the dark beacon ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/01d3f745-ff2f-4c6e-8327-c746ab7379a1) and 3 will be dark arrows ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/dfc13608-2195-410a-99d1-c3acbc15c1bb). When the debuff expires, the dark arrows are forced to march away from the dark beacon for a fixed duration. In this time, if a dark arrow makes contact or is too far away from the dark beacon they die.
+
+As soon as players get their debuffs, they should begin to preposition as per the toolbox screenshot below. This positioning ensure all the criteria are met for the debuffs to resolve without any deaths.
+
+![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/c8692192-e30e-459a-bbff-9febe84ae051)
+
+While prepositioning, Perfect Alexander will begin casting Ordained Stillness or Ordained Motion.
+
+If he is casting motion, your character must be moving at the end of the cast or you will die. Jump around, use your abilities freely, I only don't recommend physically moving around otherwise you might put yourself out of position for the mechanic.
+
+The completion of this mechanic will be denoted by a light sword falling above you.
+
+If he is casting stillness, your character must be completely still at the end of the cast or you will die, and I mean STILL. No emoting, not mid animation of an ability cast, no autoattacks, NOTHING. This mechanic can be resolved by pressing the escape key twice and taking your hands off your keyboard (or controller).
+
+The completion of this mechanic will be denoted by a dark sword falling above you. 
+
+After the first Ordained Stillness/Motion, the beacon debuffs will resolve, and then Perfect Alexander will do another Ordained Stillness/Motion, the opposite of whatever he did first.
+
+It should be noted that if a beacon dies, all arrows of the corresponding colour will die. For instance, if your light beacon moves during stillness and dies, all light arrows will also die and the pull is basically over.
+
+After the Final Word, Perfect Alexander will cast Optical Sight. This will be either spreads into 2 sets of stacks, or 2 sets of stacks into spreads.
+
+The 2 party stacks do not actually need to be perfectly balanced - as long as there's more than 1 person in a stack and they aren't overlapping, the mechanic is survivable and you do not need to be pedantic about splitting the light parties perfectly.
+
+### Fate Calibration Alpha
+
+After, Perfect Alexander begins casting Fate Calibration Alpha and spawns 4 clones of himself north and a clone of your own character will also appear. This clone appears thanks to the Enigma Codex true sight buff you received in Phase 3: Alexander Prime. 
+
+He will then do another long Fate Calibration Alpha cast. During his long cast, you see the entire mechanic play out then once the cast is finished, he becomes untargetable and you do the mechanic for real. In this mechanic, instead of getting debuffs on your buff bar, you watch debuff happen on your clone. 
+
+First, a dark or light sword will fall above you, indicating stillness or motion for the first part of the mechanic. Everyone will receive the same sword.
+
+Then, the individual debuffs will show up. These include:
+- **Defamation** for 1 player: can be identified by a spherical cog and an enormous explosion emitting from the player. Defamations must be taken far away from the party.
+- **Shared Sentence** 1 player: identified by a flat cog with 4 circles inside. This is a small AoE that must be shared with 3 other people to survive.
+- **Aggravated Assault** for 3 players: identified 
