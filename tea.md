@@ -102,8 +102,8 @@ Here's a screenshot taken directly from the MUR toolbox which shows all of that.
 
 Take note that in this scenario, as CC is on the right, the BLM with the blue tether is a little more inwards and not on the wall to ensure they bait that 3rd CC cleave. If CC was on the left instead, the BLM would be the wall, the Aggravated Assault players on the right with the BLM (as BJ would be there) and the DRK with blue tether would be a little more inwards to bait the CC cleave.
 
-{: .note } 
-even though buff and cooldown timers freeze, their effects still apply. For example, if you have Lucid Dreaming active during the timestop, the buff timer doesn't go down but the mana regen still ticks, giving you a little extra mana from the spell than it normally would.
+{: .note }
+Even though buff and cooldown timers freeze, their effects still apply. For example, if you have Lucid Dreaming active during the timestop, the buff timer doesn't go down but the mana regen still ticks, giving you a little extra mana from the spell than it normally would.
 
 Once done, time till resume, BJ and CC will leave and Alexander Prime will spawn in the middle of the arena.
 
@@ -157,9 +157,9 @@ The final phase of this fight involves several debuffs which can be simply resol
 
 Perfect Alexander begins by casting The Final Word and everyone will receive a debuff. 
 
-1 player will be the light beacon ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/a327616d-4f59-4293-bfc5-0c1fbc081e92) and 3 will be light arrows ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/8fc1a88e-de65-4f6e-bc04-99a2bb186fe1). When the debuff expires, the light arrows are forced to march towards the light beacon for a fixed duration. In this time, if a light arrow makes contact with the light beacon they die.
+- 1 player will be the light beacon ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/a327616d-4f59-4293-bfc5-0c1fbc081e92) and 3 will be light arrows ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/8fc1a88e-de65-4f6e-bc04-99a2bb186fe1). When the debuff expires, the light arrows are forced to march towards the light beacon for a fixed duration. In this time, if a light arrow makes contact with the light beacon they die.
 
-1 player will be the dark beacon ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/01d3f745-ff2f-4c6e-8327-c746ab7379a1) and 3 will be dark arrows ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/dfc13608-2195-410a-99d1-c3acbc15c1bb). When the debuff expires, the dark arrows are forced to march away from the dark beacon for a fixed duration. In this time, if a dark arrow makes contact or is too far away from the dark beacon they die.
+- 1 player will be the dark beacon ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/01d3f745-ff2f-4c6e-8327-c746ab7379a1) and 3 will be dark arrows ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/dfc13608-2195-410a-99d1-c3acbc15c1bb). When the debuff expires, the dark arrows are forced to march away from the dark beacon for a fixed duration. In this time, if a dark arrow makes contact or is too far away from the dark beacon they die.
 
 As soon as players get their debuffs, they should begin to preposition as per the toolbox screenshot below. This positioning ensure all the criteria are met for the debuffs to resolve without any deaths.
 
@@ -177,6 +177,7 @@ The completion of this mechanic will be denoted by a dark sword falling above yo
 
 After the first Ordained Stillness/Motion, the beacon debuffs will resolve, and then Perfect Alexander will do another Ordained Stillness/Motion, the opposite of whatever he did first.
 
+{: .note }
 It should be noted that if a beacon dies, all arrows of the corresponding colour will die. For instance, if your light beacon moves during stillness and dies, all light arrows will also die and the pull is basically over.
 
 After the Final Word, Perfect Alexander will cast Optical Sight. This will be either spreads into 2 sets of stacks, or 2 sets of stacks into spreads.
@@ -194,4 +195,11 @@ First, a dark or light sword will fall above you, indicating stillness or motion
 Then, the individual debuffs will show up. These include:
 - **Defamation** for 1 player: can be identified by a spherical cog and an enormous explosion emitting from the player. Defamations must be taken far away from the party.
 - **Shared Sentence** 1 player: identified by a flat cog with 4 circles inside. This is a small AoE that must be shared with 3 other people to survive.
-- **Aggravated Assault** for 3 players: identified 
+- **Aggravated Assault** for 3 players: identified a small cog that strikes the players. As these leave vulnerabilities on affected players, they must not take any other damage in this mechanic.
+- 3 players will receive **no debuffs** and will assist shared sentence with their stack.
+
+Once these debuffs present themselves, another dark/light sword falls indicating the next stillness/motion. This is once again the same for everyone.
+
+Next, 3 of 4 of the north Perfect Alexander clones will shoot **Sacrament** lasers, leaving 2 safe zones in the arena. The Alexander clone that does not shoot will **always** be one of the 2 middle ones,
+
+![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/89e2f6c2-a815-4493-a6f8-b6aaa150342b)
