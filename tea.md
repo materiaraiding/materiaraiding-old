@@ -68,19 +68,19 @@ Space = Hold to select numbers
 
 Phases 1 (LL) and 2 (BJCC) coming soon. Working on it!
 
-## Temporal Stasis Timestop
+## Temporal Stasis
 
 This is a short "you have this debuff, so stand in this position," mechanic, but I will explain the debuffs so you can understand why the mechanic solves.
 
-Once BJ and CC go down, the arena will change and they will reappear next to each other, left and right from the centre of the room. 
+Once BJ and CC go down, the arena changes and they will reappear next to each other, left and right from the centre of the room. BJ and CC can be in either position. 
 
-BJ and CC can be in either position. After their landing, party members will receive some debuffs. You will have several seconds to run to your position, in which then time will stop and the debuffs resolve. You will not be able to move, cast any abilities and your buff and cooldown timers also freeze. 
+After their landing, party members will receive some debuffs. Players have approximately 8 seconds to run to their positions, in which then time will stop, freezing all players in place and the debuffs will resolve. While frozen, players cannot move or cast any abilities and their buff and cooldown timers also pause. 
 
 Once the debuffs resolve, BJ will cast Flamethrower (conal AoE) to the 2 closest players and CC will cast Alpha Sword (conal AoE) to the 3 closest players.
 
 ### Debuffs
 
-The debuffs are as below. They are **role-based**, One DPS and one support will one of the following:
+The debuffs are as below. They are **role-based**, One DPS and one support will receive one of the following:
 - **Aggravated Assault**, shown by lightning symbol ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/36aa1af3-daa6-4c3b-8ec2-fa2e04a53f6f)
  in the debuff. These 2 players will take moderate damage and receive physical and magic vulnerabilities and therefore cannot take any other damage during the timestop, otherwise they will die.
 - **Blue tether**. ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/163d6d46-601c-412c-9351-b73f1acabad2)
@@ -102,11 +102,12 @@ Here's a screenshot taken directly from the MUR toolbox which shows all of that.
 
 Take note that in this scenario, as CC is on the right, the BLM with the blue tether is a little more inwards and not on the wall to ensure they bait that 3rd CC cleave. If CC was on the left instead, the BLM would be the wall, the Aggravated Assault players on the right with the BLM (as BJ would be there) and the DRK with blue tether would be a little more inwards to bait the CC cleave.
 
-Useful tip note: even though buff and cooldown timers freeze, their effects still apply. For example, if you have Lucid Dreaming active during the timestop, the buff timer doesn't go down but the mana regen still ticks, giving you a little extra mana from the spell than it normally would.
+{: .note } 
+even though buff and cooldown timers freeze, their effects still apply. For example, if you have Lucid Dreaming active during the timestop, the buff timer doesn't go down but the mana regen still ticks, giving you a little extra mana from the spell than it normally would.
 
 Once done, time till resume, BJ and CC will leave and Alexander Prime will spawn in the middle of the arena.
 
-## Alexander Prime
+## Phase 3: Alexander Prime
 
 The phase begins with **Chastening Heat**, which is a tankbuster on the current aggro'd player that applies a Magic Vulnerability Up. This is then followed by 3× **Divine Spear**s, tankbusters that deal magic damage. Thus, this should be dealt with via an invulnerability or tank swap.
 
@@ -115,3 +116,23 @@ Alexander Prime then casts his first mechanic.
 ### Inception Formation
 
 Alexander Prime is untargetable for the duration of this mechanic.
+
+Locate Alexander Prime's new location on the wall and consider this your new 'north.'
+
+--this is a work in progress!--
+
+### Wormhole Formation
+
+Alexander Prime is untargetable for the duration of this mechanic.
+
+--this is a work in progress!--
+
+At the end of Wormhole, a party member will be marked with a stack marker which everyone should run to the centre to take. This stack requires mitigation and as everyone runs in, healers should ensure players are topped.
+
+After, 2 DPS will have enumeration rings which must have exactly 3 people inside the circle to resolve. Facing Alexander Prime, one should move left and the other to the right. Simply use eyes and adjust on the fly. To ensure there are 3 players in each ring, both tanks should move into the left enumeration, while both healers move into the right. The 2 remaining DPS with nothing should steer clear.
+
+Once the enumerations resolve, Alexander Prime will once again be targetable and respawn in the middle of the arena, where he will cast **Mega Holy** twice, a hardhitting raidwide which requires mitigation and healing in between.
+
+Alexander Prime will then begin casting **Summon Alexander**, the final part of this phase.
+
+### Summon Alexander
