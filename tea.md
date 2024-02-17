@@ -66,9 +66,27 @@ Space = Hold to select numbers
 
 ## Written Guide
 
-Phases 1 (LL) and 2 (BJCC) coming soon. Working on it!
+## Phase 1: Living Liquid
 
-## Temporal Stasis
+Coming soon I promise
+
+## Phase 2: Brute Justice and Cruise Chaser (TEMPORARY NOTE: WORK IN PROGRESS)
+
+The next phase involves taking on both Brute Justice (BJ) and Cruise Chaser (CC) simultaneously. MUR follows the split bosses strat for BJCC.
+
+In this phase, there is **a lot** going on. In saying that, depending on which role you are, a lot of these mechanics may not involve you **but it's still good to be aware of them so you are not in anyone's way and do not get hit by something you're not supposed to**.
+
+I also do not want to clutter this section with toolbox screenshots, so please refer to the actual toolbox for exact positioning throughout this phase. Instead, this guide will focus on what events occur between each Nisi pass (and of course, if you are new to TEA, I will explain what Nisi is).
+
+### Intro: Before First Nisi Pass
+
+At the end of Limit Cut, players should preposition in their assigned clock spots within the green circle in the middle of the arena. This phase begins with CC appearing in the arena and BJ slamming down with **J Kick**, a heavy raidwide. 
+
+MT takes aggro of BJ and OT takes aggro of CC. The tanks should then pull the bosses to the centre for cleave damage before taking their clock spots. As a _general guide_ melee DPS should focus hitting BJ and ranged attacking CC.
+
+CC then casts Whirlwind, a raidwide. Then, BJ will cast Judgment Nisi, inflicting a debuff that be call Nisi on either all supports or all DPS. There will be a blue, purple, orange and green Nisi, as shown below:
+
+## Temporal Stasis (TEMPORARY NOTE: THIS ONE IS FINISHED)
 
 This is a short "you have this debuff, so stand in this position," mechanic, but I will explain the debuffs so you can understand why the mechanic solves.
 
