@@ -73,7 +73,7 @@ Space = Hold to select numbers
 
 Coming soon I promise
 
-## Phase 2: Brute Justice and Cruise Chaser (TEMPORARY NOTE: WORK IN PROGRESS)
+## Phase 2: Brute Justice and Cruise Chaser (WORK IN PROGRESS)
 
 The next phase involves taking on both Brute Justice (BJ) and Cruise Chaser (CC) simultaneously. MUR follows the split bosses strat for BJCC.
 
@@ -87,9 +87,43 @@ At the end of Limit Cut, players should preposition in their assigned clock spot
 
 MT takes aggro of BJ and OT takes aggro of CC. The tanks should then pull the bosses to the centre for cleave damage before taking their clock spots. As a _general guide_ melee DPS should focus hitting BJ and ranged attacking CC.
 
-CC then casts Whirlwind, a raidwide. Then, BJ will cast Judgment Nisi, inflicting a debuff that be call Nisi on either all supports or all DPS. There will be a blue, purple, orange and green Nisi, as shown below:
+CC then casts Whirlwind, a raidwide. Then, BJ will cast Judgment Nisi, inflicting a debuff that be call Nisi on either all supports or all DPS. There will be a blue (alpha), purple (gamma), orange (beta) and green (delta) Nisi, as shown below:
 
-## Temporal Stasis (TEMPORARY NOTE: THIS ONE IS FINISHED)
+![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/d7651f8d-6757-493c-a4f5-94e73600bbed)
+
+A player carrying a Nisi will take mild DoT damage. The debuff lasts around 36 seconds in which afterwards the Nisi falls off. If a player with Nisi and a player with no debuff come in contact, the player with nothing receives the same Nisi with a fresh 36 second timer.
+
+This is important as later in the phase, BJ will cast **Verdict** which is essentially BJ telling you, "You must have this particular colour Nisi by the end of this mechanic or wipe." So, for the first part of this phase we will just focus on juggling the Nisi around to keep all 4 colours active.
+
+{: .warning }
+If 2 players with different Nisi's combine, both players will die and as some Nisi have been lost, it will result in a wipe as you will not survive Verdict. Thus, throughout this phase, everyone must be aware of their surroundings and move carefully and with purpose, to avoid any collisions.
+
+BJ will then cast **Link-Up**, which inflicts 1 healer with a **water debuff** and 1 DPS with a **lightning debuff**. At the end of the debuff timers, they explode - the damage of the water explosion needs to be split between at least 3 players and the lightning with at least 2 players. The debuffs are then passed onto someone who was in the stack. This won't resolve for a little while so don't worry about it just yet.
+
+As the debuffs appear, 2 chakrams will appear on the wall 180 degrees from each other and will bait onto a random player - this is why everyone spreads closely in the middle, to ensure they pass through the middle. Everyone will then run outwards to the wall (while not being in line with a chakram) to avoid the chakrams as they cut across the arena.
+
+{: .warning }
+Since chakrams are baited they may not necessarily do a straight line across the arena and might cut in at a weird angle - when you run to the wall, make sure you are a good distance away from a chakram so you don't accidentally get clipped.
+
+Before the chakrams go off, CC will cast **Optical Sight**. This leaves a large untelegraphed AoE below every player that will shortly explode. Once the chakrams go off, everyone should return to their clock spots in the middle green circle to dodge the explosion.
+
+CC then casts **Photon**, which reduces everyone to 1HP and healers should quickly top players up.
+
+{: .healers }
+As Nisi's have a mild DoT, the shield healer should ensure everyone is shielded before Photon to ensure no one dies to the DoT.
+
+After Photon, DPS will stand over their pre-assigned support partner to pass / receive their Nisi.
+
+- D1 passes to MT
+- D2 passes to H1
+- D3 passes to OT
+- D4 passes to H2
+
+### After First Pass
+
+Soon
+
+## Temporal Stasis (Finished but needs proof reading)
 
 This is a short "you have this debuff, so stand in this position," mechanic, but I will explain the debuffs so you can understand why the mechanic solves.
 
@@ -128,7 +162,7 @@ Even though buff and cooldown timers freeze, their effects still apply. For exam
 
 Once done, time till resume, BJ and CC will leave and Alexander Prime will spawn in the middle of the arena.
 
-## Phase 3: Alexander Prime (TEMPORARY NOTE: WORK IN PROGRESS)
+## Phase 3: Alexander Prime (WORK IN PROGRESS)
 
 The phase begins with **Chastening Heat**, which is a tankbuster on the current aggro'd player that applies a Magic Vulnerability Up. This is then followed by 3× **Divine Spear**s, tankbusters that deal magic damage. Thus, this should be dealt with via an invulnerability or tank swap.
 
@@ -170,7 +204,7 @@ Once Alexander Prime is defeated, he begins counting down for **Judgment Protoco
 
 After Judgment Protocol, you will watch Perfect Alexander come to life.
 
-## Phase 4: Perfect Alexander (TEMPORARY NOTE: WORK IN PROGRESS)
+## Phase 4: Perfect Alexander (WORK IN PROGRESS)
 
 The final phase of this fight involves several debuffs which can be simply resolved by, "stand in this location," but as usual I will explain what's happening so you can understand **why**.
 
@@ -198,8 +232,8 @@ The completion of this mechanic will be denoted by a dark sword falling above yo
 
 After the first Ordained Stillness/Motion, the beacon debuffs will resolve, and then Perfect Alexander will do another Ordained Stillness/Motion, the opposite of whatever he did first.
 
-{: .note }
-It should be noted that if a beacon dies, all arrows of the corresponding colour will die. For instance, if your light beacon moves during stillness and dies, all light arrows will also die and the pull is basically over.
+{: .warning }
+If a beacon dies, all arrows of the corresponding colour will die. For instance, if your light beacon moves during stillness and dies, all light arrows will also die and the pull is basically over.
 
 After the Final Word, Perfect Alexander will cast Optical Sight. This will be either spreads into 2 sets of stacks, or 2 sets of stacks into spreads.
 
