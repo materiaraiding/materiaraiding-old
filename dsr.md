@@ -267,6 +267,8 @@ The 3 non Skyward Leap players should line up against the wall below Thordan to 
 {: .tanks}
 > Each Tank can stand in front of their respective knight to ensure they are the one to grab the tether, before using sprint to comfortably make it to the safe spot.
 
+W.I.P
+
 
 
 
