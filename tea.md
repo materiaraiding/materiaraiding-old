@@ -272,6 +272,32 @@ Then, the individual debuffs will show up. These include:
 
 Once these debuffs present themselves, another dark/light sword falls indicating the next stillness/motion. This is once again the same for everyone.
 
-Next, 3 of 4 of the north Perfect Alexander clones will shoot **Sacrament** lasers, leaving 2 safe zones in the arena. The Alexander clone that does not shoot will **always** be one of the 2 middle ones,
+Next, 3 of 4 of the north Perfect Alexander clones will shoot **Sacrament** lasers, leaving 2 safe zones in the arena. The Alexander clone that does not shoot will **always** be one of the 2 middle ones - looking at the diagram below, if (out of the 2 middle ones), the left does not shoot, the blue areas are safe and if the right one does not shoot, the green areas are safe.
 
 ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/89e2f6c2-a815-4493-a6f8-b6aaa150342b)
+
+The defamation should stand on the in the northern safe zone so their explosion does not hit anyone.
+
+As for everyone else - notice how in the bottom safe zones, each zone looks to be divided into 2 halves divided by the finger-like shape. The shared sentence and no debuffs will stack on the left, while the aggravated assaults hang around on the right, out of harm's way.
+
+Once Perfect Alexander finishes the long Fate Calibration Alpha cast, simply stay in your spot while doing the 2 sets of stillness or motion while all the debuffs resolve.
+
+Perfect Alexander becomes targettable again and will cast **Ordained Capital Punishment** on the highest emnity player (which should be the MT), which is a triple-hit tankbuster. Then, Perfect Alexander follows with **Ordained Punishment**, which is a single heavy tankbuster that leaves a **Physical Vulnerability Up**.
+
+For the triple-hit, the tanks should kitchen sink their mitigations then during the cast of Ordained Punishment, the tanks should separate and the OT provokes. The MT will take the large tankbuster hit alone, then as OT will have aggro the MT with the physical vulnerability will not die an autoattack.
+
+### Fate Calibration Beta
+
+The next mechanic is **Fate Calibration Beta**, which is another watch-your-clone mechanic. Similar to the previous mechanic, Fate Calibration Beta will start with Perfect Alexander doing a short cast to signify the start of the mechanic, then a long cast to display all the upcoming mechanics.
+
+After your clone wanders around for a couple seconds, all the debuffs will appear - it will be the same beacon / forced march mechanic from The Final Word.
+- **Light Beacon**: you have a light symbol above your head, your character stands near the wall and **DOES NOT MOVE**.
+- **Dark Beacon**: you have a dark symbol above your head, your character stands near the wall and **DOES NOT MOVE**.
+- **Light with Nothing**: if your character moves, you are not the beacon, but "light with nothing."
+- **Light with Blue Tether**: you are tethered to Dark with Blue Tether and must be far from them at the end of the forced march.
+- **Light with Christmas Tether**: you are tethered to Dark with Christmas Tether and must be close to them at the end of the forced march.
+- **Dark with Nothing**: if your character moves, you are not the beacon, but "dark with nothing."
+- **Dark with Blue Tether**: you are tethered to Light with Blue Tether and must be far from them at the end of the forced march.
+- **Dark with Christmas Tether**: you are tethered to Light with Christmas Tether and must be close to them at the end of the forced march.
+
+While this looks like a lot of debuffs, the resolution is very simple.
