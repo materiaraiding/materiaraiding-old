@@ -73,6 +73,22 @@ Space = Hold to select numbers
 
 Coming soon I promise
 
+### Jagd Dolls
+
+-words-
+
+### Proteans and Splashes
+
+-words-
+
+### Throttles and More Proteans
+
+-words-
+
+## Intermission: Limit Cut
+
+Coming soon I promise
+
 ## Phase 2: Brute Justice and Cruise Chaser (WORK IN PROGRESS)
 
 The next phase involves taking on both Brute Justice (BJ) and Cruise Chaser (CC) simultaneously. MUR follows the split bosses strat for BJCC.
@@ -152,10 +168,11 @@ So, this is where everyone will stand to make this work:
 - **Christmas tether** players go towards the right boss. The support will go north of the boss and the DPS will go south of the boss to bait their cleaves. You will notice the (1) waymark will be under this boss - the width of the waymark is approximately how far the 2 players should be for the Christmas tether to resolve safely. Here's a screenshot that demonstrates that: ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/4f371937-6aab-4332-8bc7-c2a6271c8245)
 - Players with the **blue tether** will be across the room from each other - support to the west, DPS to the east. The player on the side nearest BJ should stand on the wall, with the Aggravated Assault players as they will not be baiting his flarethrower. **However**, the player on the side nearest CC should stand more inwards to ensure they bait his 3rd cleave (the D and 2 waymarks are good indicators on where to stand).
 
-Here's a screenshot taken directly from the MUR toolbox which shows all of that.
-![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/e18a89e7-eaf3-4af8-8df6-5cac190e790b)
+Here is a diagram demonstrating the above information. Credits to Juno Dax for making this image.
 
-Take note that in this scenario, as CC is on the right, the BLM with the blue tether is a little more inwards and not on the wall to ensure they bait that 3rd CC cleave. If CC was on the left instead, the BLM would be the wall, the Aggravated Assault players on the right with the BLM (as BJ would be there) and the DRK with blue tether would be a little more inwards to bait the CC cleave.
+![TemporalStasisJuno](https://github.com/nozzyxx/materiaraiding/assets/160133948/31845dfb-fc41-4ad0-8f3c-5f6972c61b5a)
+
+Take note that in this scenario, as CC is on the right, D2 with the blue tether is a little more inwards and not on the wall to ensure they bait that 3rd CC cleave. If CC was on the left instead, D2 would be on the wall, the Aggravated Assault players on the right with D2 (as BJ would be there) and the DH1 with blue tether would be a little more inwards to bait the CC cleave.
 
 {: .note }
 Even though buff and cooldown timers freeze, their effects still apply. For example, if you have Lucid Dreaming active during the timestop, the buff timer doesn't go down but the mana regen still ticks, giving you a little extra mana from the spell than it normally would.
