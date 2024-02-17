@@ -16,9 +16,12 @@ MUR Strats
 
 ### Credits
 Toolboxes by MUR
+
 PoVs by Kur Rumi
-Cheatsheets by MUR and Em'gram
-Written guide by Noz, edited by Juno
+
+Cheatsheets by MUR and Em Quackingway
+
+Written guide in progress by Noz Leafhill
 
 ### Toolboxes
 
@@ -125,7 +128,7 @@ Even though buff and cooldown timers freeze, their effects still apply. For exam
 
 Once done, time till resume, BJ and CC will leave and Alexander Prime will spawn in the middle of the arena.
 
-## Phase 3: Alexander Prime
+## Phase 3: Alexander Prime (TEMPORARY NOTE: WORK IN PROGRESS)
 
 The phase begins with **Chastening Heat**, which is a tankbuster on the current aggro'd player that applies a Magic Vulnerability Up. This is then followed by 3× **Divine Spear**s, tankbusters that deal magic damage. Thus, this should be dealt with via an invulnerability or tank swap.
 
@@ -167,7 +170,7 @@ Once Alexander Prime is defeated, he begins counting down for **Judgment Protoco
 
 After Judgment Protocol, you will watch Perfect Alexander come to life.
 
-## Phase 4: Perfect Alexander
+## Phase 4: Perfect Alexander (TEMPORARY NOTE: WORK IN PROGRESS)
 
 The final phase of this fight involves several debuffs which can be simply resolved by, "stand in this location," but as usual I will explain what's happening so you can understand **why**.
 
