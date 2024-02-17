@@ -73,7 +73,23 @@ Space = Hold to select numbers
 
 Coming soon I promise
 
-## Phase 2: Brute Justice and Cruise Chaser (TEMPORARY NOTE: WORK IN PROGRESS)
+### Jagd Dolls
+
+-words-
+
+### Proteans and Splashes
+
+-words-
+
+### Throttles and More Proteans
+
+-words-
+
+## Intermission: Limit Cut
+
+Coming soon I promise
+
+## Phase 2: Brute Justice and Cruise Chaser (WORK IN PROGRESS)
 
 The next phase involves taking on both Brute Justice (BJ) and Cruise Chaser (CC) simultaneously. MUR follows the split bosses strat for BJCC.
 
@@ -87,9 +103,43 @@ At the end of Limit Cut, players should preposition in their assigned clock spot
 
 MT takes aggro of BJ and OT takes aggro of CC. The tanks should then pull the bosses to the centre for cleave damage before taking their clock spots. As a _general guide_ melee DPS should focus hitting BJ and ranged attacking CC.
 
-CC then casts Whirlwind, a raidwide. Then, BJ will cast Judgment Nisi, inflicting a debuff that be call Nisi on either all supports or all DPS. There will be a blue, purple, orange and green Nisi, as shown below:
+CC then casts Whirlwind, a raidwide. Then, BJ will cast Judgment Nisi, inflicting a debuff that be call Nisi on either all supports or all DPS. There will be a blue (alpha), purple (gamma), orange (beta) and green (delta) Nisi, as shown below:
 
-## Temporal Stasis (TEMPORARY NOTE: THIS ONE IS FINISHED)
+![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/d7651f8d-6757-493c-a4f5-94e73600bbed)
+
+A player carrying a Nisi will take mild DoT damage. The debuff lasts around 36 seconds in which afterwards the Nisi falls off. If a player with Nisi and a player with no debuff come in contact, the player with nothing receives the same Nisi with a fresh 36 second timer.
+
+This is important as later in the phase, BJ will cast **Verdict** which is essentially BJ telling you, "You must have this particular colour Nisi by the end of this mechanic or wipe." So, for the first part of this phase we will just focus on juggling the Nisi around to keep all 4 colours active.
+
+{: .warning }
+If 2 players with different Nisi's combine, both players will die and as some Nisi have been lost, it will result in a wipe as you will not survive Verdict. Thus, throughout this phase, everyone must be aware of their surroundings and move carefully and with purpose, to avoid any collisions.
+
+BJ will then cast **Link-Up**, which inflicts 1 healer with a **water debuff** and 1 DPS with a **lightning debuff**. At the end of the debuff timers, they explode - the damage of the water explosion needs to be split between at least 3 players and the lightning with at least 2 players. The debuffs are then passed onto someone who was in the stack. This won't resolve for a little while so don't worry about it just yet.
+
+As the debuffs appear, 2 chakrams will appear on the wall 180 degrees from each other and will bait onto a random player - this is why everyone spreads closely in the middle, to ensure they pass through the middle. Everyone will then run outwards to the wall (while not being in line with a chakram) to avoid the chakrams as they cut across the arena.
+
+{: .warning }
+Since chakrams are baited they may not necessarily do a straight line across the arena and might cut in at a weird angle - when you run to the wall, make sure you are a good distance away from a chakram so you don't accidentally get clipped.
+
+Before the chakrams go off, CC will cast **Optical Sight**. This leaves a large untelegraphed AoE below every player that will shortly explode. Once the chakrams go off, everyone should return to their clock spots in the middle green circle to dodge the explosion.
+
+CC then casts **Photon**, which reduces everyone to 1HP and healers should quickly top players up.
+
+{: .healers }
+As Nisi's have a mild DoT, the shield healer should ensure everyone is shielded before Photon to ensure no one dies to the DoT.
+
+After Photon, DPS will stand over their pre-assigned support partner to pass / receive their Nisi.
+
+- D1 passes to MT
+- D2 passes to H1
+- D3 passes to OT
+- D4 passes to H2
+
+### After First Pass
+
+Soon
+
+## Temporal Stasis (Finished but needs proof reading)
 
 This is a short "you have this debuff, so stand in this position," mechanic, but I will explain the debuffs so you can understand why the mechanic solves.
 
@@ -118,17 +168,18 @@ So, this is where everyone will stand to make this work:
 - **Christmas tether** players go towards the right boss. The support will go north of the boss and the DPS will go south of the boss to bait their cleaves. You will notice the (1) waymark will be under this boss - the width of the waymark is approximately how far the 2 players should be for the Christmas tether to resolve safely. Here's a screenshot that demonstrates that: ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/4f371937-6aab-4332-8bc7-c2a6271c8245)
 - Players with the **blue tether** will be across the room from each other - support to the west, DPS to the east. The player on the side nearest BJ should stand on the wall, with the Aggravated Assault players as they will not be baiting his flarethrower. **However**, the player on the side nearest CC should stand more inwards to ensure they bait his 3rd cleave (the D and 2 waymarks are good indicators on where to stand).
 
-Here's a screenshot taken directly from the MUR toolbox which shows all of that.
-![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/e18a89e7-eaf3-4af8-8df6-5cac190e790b)
+Here is a diagram demonstrating the above information. Credits to Juno Dax for making this image.
 
-Take note that in this scenario, as CC is on the right, the BLM with the blue tether is a little more inwards and not on the wall to ensure they bait that 3rd CC cleave. If CC was on the left instead, the BLM would be the wall, the Aggravated Assault players on the right with the BLM (as BJ would be there) and the DRK with blue tether would be a little more inwards to bait the CC cleave.
+![TemporalStasisJuno](https://github.com/nozzyxx/materiaraiding/assets/160133948/31845dfb-fc41-4ad0-8f3c-5f6972c61b5a)
+
+Take note that in this scenario, as CC is on the right, D2 with the blue tether is a little more inwards and not on the wall to ensure they bait that 3rd CC cleave. If CC was on the left instead, D2 would be on the wall, the Aggravated Assault players on the right with D2 (as BJ would be there) and the DH1 with blue tether would be a little more inwards to bait the CC cleave.
 
 {: .note }
 Even though buff and cooldown timers freeze, their effects still apply. For example, if you have Lucid Dreaming active during the timestop, the buff timer doesn't go down but the mana regen still ticks, giving you a little extra mana from the spell than it normally would.
 
 Once done, time till resume, BJ and CC will leave and Alexander Prime will spawn in the middle of the arena.
 
-## Phase 3: Alexander Prime (TEMPORARY NOTE: WORK IN PROGRESS)
+## Phase 3: Alexander Prime (WORK IN PROGRESS)
 
 The phase begins with **Chastening Heat**, which is a tankbuster on the current aggro'd player that applies a Magic Vulnerability Up. This is then followed by 3× **Divine Spear**s, tankbusters that deal magic damage. Thus, this should be dealt with via an invulnerability or tank swap.
 
@@ -170,7 +221,7 @@ Once Alexander Prime is defeated, he begins counting down for **Judgment Protoco
 
 After Judgment Protocol, you will watch Perfect Alexander come to life.
 
-## Phase 4: Perfect Alexander (TEMPORARY NOTE: WORK IN PROGRESS)
+## Phase 4: Perfect Alexander (WORK IN PROGRESS)
 
 The final phase of this fight involves several debuffs which can be simply resolved by, "stand in this location," but as usual I will explain what's happening so you can understand **why**.
 
@@ -198,8 +249,8 @@ The completion of this mechanic will be denoted by a dark sword falling above yo
 
 After the first Ordained Stillness/Motion, the beacon debuffs will resolve, and then Perfect Alexander will do another Ordained Stillness/Motion, the opposite of whatever he did first.
 
-{: .note }
-It should be noted that if a beacon dies, all arrows of the corresponding colour will die. For instance, if your light beacon moves during stillness and dies, all light arrows will also die and the pull is basically over.
+{: .warning }
+If a beacon dies, all arrows of the corresponding colour will die. For instance, if your light beacon moves during stillness and dies, all light arrows will also die and the pull is basically over.
 
 After the Final Word, Perfect Alexander will cast Optical Sight. This will be either spreads into 2 sets of stacks, or 2 sets of stacks into spreads.
 
@@ -221,6 +272,32 @@ Then, the individual debuffs will show up. These include:
 
 Once these debuffs present themselves, another dark/light sword falls indicating the next stillness/motion. This is once again the same for everyone.
 
-Next, 3 of 4 of the north Perfect Alexander clones will shoot **Sacrament** lasers, leaving 2 safe zones in the arena. The Alexander clone that does not shoot will **always** be one of the 2 middle ones,
+Next, 3 of 4 of the north Perfect Alexander clones will shoot **Sacrament** lasers, leaving 2 safe zones in the arena. The Alexander clone that does not shoot will **always** be one of the 2 middle ones - looking at the diagram below, if (out of the 2 middle ones), the left does not shoot, the blue areas are safe and if the right one does not shoot, the green areas are safe.
 
 ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/89e2f6c2-a815-4493-a6f8-b6aaa150342b)
+
+The defamation should stand on the in the northern safe zone so their explosion does not hit anyone.
+
+As for everyone else - notice how in the bottom safe zones, each zone looks to be divided into 2 halves divided by the finger-like shape. The shared sentence and no debuffs will stack on the left, while the aggravated assaults hang around on the right, out of harm's way.
+
+Once Perfect Alexander finishes the long Fate Calibration Alpha cast, simply stay in your spot while doing the 2 sets of stillness or motion while all the debuffs resolve.
+
+Perfect Alexander becomes targettable again and will cast **Ordained Capital Punishment** on the highest emnity player (which should be the MT), which is a triple-hit tankbuster. Then, Perfect Alexander follows with **Ordained Punishment**, which is a single heavy tankbuster that leaves a **Physical Vulnerability Up**.
+
+For the triple-hit, the tanks should kitchen sink their mitigations then during the cast of Ordained Punishment, the tanks should separate and the OT provokes. The MT will take the large tankbuster hit alone, then as OT will have aggro the MT with the physical vulnerability will not die an autoattack.
+
+### Fate Calibration Beta
+
+The next mechanic is **Fate Calibration Beta**, which is another watch-your-clone mechanic. Similar to the previous mechanic, Fate Calibration Beta will start with Perfect Alexander doing a short cast to signify the start of the mechanic, then a long cast to display all the upcoming mechanics.
+
+After your clone wanders around for a couple seconds, all the debuffs will appear - it will be the same beacon / forced march mechanic from The Final Word.
+- **Light Beacon**: you have a light symbol above your head, your character stands near the wall and **DOES NOT MOVE**.
+- **Dark Beacon**: you have a dark symbol above your head, your character stands near the wall and **DOES NOT MOVE**.
+- **Light with Nothing**: if your character moves, you are not the beacon, but "light with nothing."
+- **Light with Blue Tether**: you are tethered to Dark with Blue Tether and must be far from them at the end of the forced march.
+- **Light with Christmas Tether**: you are tethered to Dark with Christmas Tether and must be close to them at the end of the forced march.
+- **Dark with Nothing**: if your character moves, you are not the beacon, but "dark with nothing."
+- **Dark with Blue Tether**: you are tethered to Light with Blue Tether and must be far from them at the end of the forced march.
+- **Dark with Christmas Tether**: you are tethered to Light with Christmas Tether and must be close to them at the end of the forced march.
+
+While this looks like a lot of debuffs, the resolution is very simple.
