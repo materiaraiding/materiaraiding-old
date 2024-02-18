@@ -246,7 +246,7 @@ Perfect Alexander begins by casting The Final Word and everyone will receive a d
 As soon as players get their debuffs, they should begin to preposition as per follows:
 - **Light Beacon** plants towards the western part of the D waymark
 - **Dark Beacon** plants dead centre of the 2 waymark
-- All over the players between 1 and 2 waymarks (learning towards the west wall of the 2 waymark is safest)
+- All other the players between 1 and 2 waymarks (leaning towards the west wall of the 2 waymark is safest)
 
 Below is a screenshot from the toolbox which demonstrates the above positioning.
 
