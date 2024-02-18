@@ -235,7 +235,7 @@ Perfect Alexander begins by casting The Final Word and everyone will receive a d
 
 As soon as players get their debuffs, they should begin to preposition as per the toolbox screenshot below. This positioning ensures that all the criteria are met for the debuffs to resolve without any deaths.
 
-![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/c8692192-e30e-459a-bbff-9febe84ae051)
+![FCB](https://github.com/nozzyxx/materiaraiding/assets/160133948/a882a1da-56df-4368-b56f-1a7fd00caff9)
 
 While prepositioning, Perfect Alexander will begin casting Ordained Stillness or Ordained Motion.
 
@@ -260,37 +260,37 @@ The 2 party stacks do not actually need to be perfectly balanced - as long as th
 
 After, Perfect Alexander begins a short cast, spawning 4 clones of himself north and a clone of your own character will also appear. This clone appears thanks to the Enigma Codex true sight buff you received in Phase 3: Alexander Prime. 
 
-He will then do another long Fate Calibration Alpha cast. During his long cast, you see the entire mechanic play out then once the cast is finished, he becomes untargetable and you do the mechanic for real. In this mechanic, instead of getting debuffs on your buff bar, you watch debuff happen on your clone. 
+He will then do another long Fate Calibration Alpha cast. During his long cast, you see the entire mechanic play out then once the cast is finished, he becomes untargetable and you do the mechanic for real. In this mechanic, instead of getting debuffs on your buff bar, you watch the debuff happen on your clone. 
 
 First, a dark or light sword will fall above you, indicating stillness or motion for the first part of the mechanic. Everyone will receive the same sword.
 
 Then, the individual debuffs will show up. These include:
 - **Defamation** for 1 player: can be identified by a spherical cog and an enormous explosion emitting from the player. Defamations must be taken far away from the party.
-- **Shared Sentence** 1 player: identified by a flat cog with 4 circles inside. This is a small AoE that must be shared with 3 other people to survive.
-- **Aggravated Assault** for 3 players: identified a small cog that strikes the players. As these leave vulnerabilities on affected players, they must not take any other damage in this mechanic.
+- **Shared Sentence** for 1 player: identified by a flat cog with 4 circles inside. This is a small AoE that must be shared with 3 other people to survive.
+- **Aggravated Assault** for 3 players: identified by a small cog that strikes the players. As these leave vulnerabilities on affected players, they must not take any other damage in this mechanic.
 - 3 players will receive **no debuffs** and will assist shared sentence with their stack.
 
 Once these debuffs present themselves, another dark/light sword falls indicating the next stillness/motion. This is once again the same for everyone.
 
-Next, 3 of 4 of the north Perfect Alexander clones will shoot **Sacrament** lasers, leaving 2 safe zones in the arena. The Alexander clone that does not shoot will **always** be one of the 2 middle ones - looking at the diagram below, if (out of the 2 middle ones), the left does not shoot, the blue areas are safe and if the right one does not shoot, the green areas are safe.
+Next, 3 of 4 of the north Perfect Alexander clones will shoot **Sacrament** line lasers, leaving 2 safe zones in the arena. The Alexander clone that does not shoot will **always** be one of the 2 middle ones - looking at the diagram below, if (out of the 2 middle ones), the left does not shoot, the blue areas are safe and if the right one does not shoot, the green areas are safe.
 
-![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/89e2f6c2-a815-4493-a6f8-b6aaa150342b)
+![FCA](https://github.com/nozzyxx/materiaraiding/assets/160133948/9492ad23-92fd-433d-9b6c-4b28c71cb3f3)
 
-The defamation should stand on the in the northern safe zone so their explosion does not hit anyone.
+The defamation should stand in the northern safe zone so their explosion does not hit anyone.
 
-As for everyone else - notice how in the bottom safe zones, each zone looks to be divided into 2 halves divided by the finger-like shape. The shared sentence and no debuffs will stack on the left, while the aggravated assaults hang around on the right, out of harm's way.
+As for everyone else - notice how in the bottom safe zones, each one looks to be divided into 2 halves by the finger-like shape. The shared sentence and no debuffs will stack on the left, while the aggravated assaults hang around on the right, out of harm's way.
 
 Once Perfect Alexander finishes the long Fate Calibration Alpha cast, simply stay in your spot while handling the 2 sets of stillness or motion while all the debuffs resolve.
 
-Perfect Alexander becomes targettable again and will cast **Ordained Capital Punishment** on the highest emnity player (which should be the MT), which is a triple-hit tankbuster. Then, Perfect Alexander follows with **Ordained Punishment**, which is a single heavy tankbuster that leaves a **Physical Vulnerability Up**.
+Perfect Alexander becomes targetable again and will cast **Ordained Capital Punishment** on the highest emnity player (which should be the MT) - this is a triple-hit tankbuster. Then, Perfect Alexander follows with **Ordained Punishment**, which is a single heavy tankbuster that leaves a **Physical Vulnerability Up**.
 
-For the triple-hit, the tanks should kitchen sink their mitigations then during the cast of Ordained Punishment, the tanks should separate and the OT provokes. The MT will take the large tankbuster hit alone, then as OT will have aggro the MT with the physical vulnerability will not die an autoattack.
+For the triple-hit, the tanks should share the damage and kitchen sink their mitigations. Then, during the cast of Ordained Punishment, the tanks should separate and the OT provokes. The MT will take the large tankbuster hit alone, then as OT will have aggro the MT with the physical vulnerability will not die to an autoattack.
 
 ### Fate Calibration Beta
 
 The next mechanic is **Fate Calibration Beta**, which is another watch-your-clone mechanic. Similar to the previous mechanic, Fate Calibration Beta will start with Perfect Alexander doing a short cast to signify the start of the mechanic, then a long cast to preview all the upcoming mechanics.
 
-After your clone wanders around for a couple seconds, all the debuffs will appear - it will be the same beacon / forced march mechanic from The Final Word.
+After your clone wanders around for a couple seconds, all the debuffs will appear - it will be the same beacon / forced march mechanic from The Final Word with a few extra bits.
 - **Light Beacon**: you have a light symbol above your head, your character stands near the wall and **DOES NOT MOVE**.
 - **Dark Beacon**: you have a dark symbol above your head, your character stands near the wall and **DOES NOT MOVE**.
 - **Light with Nothing**: if your character moves, you are not the beacon, but "light with nothing."
@@ -300,7 +300,7 @@ After your clone wanders around for a couple seconds, all the debuffs will appea
 - **Dark with Blue Tether**: you are tethered to Light with Blue Tether and must be far from them at the end of the forced march.
 - **Dark with Christmas Tether**: you are tethered to Light with Christmas Tether and must be close to them at the end of the forced march.
 
-Then, after the forced marches, 3 Perfect Alexander clones will **Super Jump** to the west, south and east walls. These jumps will need to be baited by 3 players. After, the Perfect Alexander behind the wall at north will cast **Optical Sight**, which will be either 2 sets of light party stacks, or everyone spread out.
+Then, after the forced marches, 3 Perfect Alexander clones will **Super Jump** to the west, south and east cardinals, near the wall. These jumps will need to be baited by 3 players. After, the Perfect Alexander behind the wall at north will cast **Optical Sight**, which will be either 2 sets of light party stacks, or everyone needs spread out.
 - If there are 2 green balls to his left and right, it is **2 light party stacks**
 - If there are multiple small green orbs, it is **spreads**.
 
@@ -328,17 +328,17 @@ After the tethers, shared sentence and Super Jumps resolve, players should posit
 
 Upon the resolution of Optical Sight, everyone runs (sprint is helpful here) to the safe Perfect Alexander clone to survive Radiant Sacrament (donut AoE).
 
-Perfect Alexander becomes targetable again will cast another **Ordained Capital Punishment** and **Ordained Punishment** tankbuster combo on the highest emnity target again. At this point, OT should have aggro and use their invulnerability for the entire tankbuster, with the MT provoking during the long Ordained Punishment Cast.
+Perfect Alexander becomes targetable again and will cast another **Ordained Capital Punishment** and **Ordained Punishment** tankbuster combo on the highest emnity target. At this point, OT should have aggro and use their invulnerability for the entire tankbuster, with the MT provoking during the long Ordained Punishment Cast.
 
 ### Trines
 
-This is the last new mechanic of the phase. Perfect Alexander casts **Almighty Judgment**, which previews 3 sets of AoE's (which we call **Trines**) on the ground. He then recasts the same 3 sets of AoE's for real, in which then players must dodge into the safe spots. 
+This is the last new mechanic of the fight. Perfect Alexander casts **Almighty Judgment**, which previews 3 sets of AoE's (which we call **Trines**) on the ground. He then recasts the same 3 sets of AoE's for real, in which then players must dodge into the safe spots. 
 
 The trines are set up in a way that you only need to focus on 4 points - the centre of the arena and the 1, 3 and 4 waymarks. You will only need to make 1 straight (not diagonal) movement from one point to another. To identify this, find a point that is safe for the first 2 trines (starting point), then an adjacent point that is safe for the last 2 trines (ending point). You can move from your starting point to the ending point after the 1st trine.
 
 Players will need to move as a group because after the final trine, Perfect Alexander casts **Irresistible Grace**, a heavy-hitting stack on a random player.
 
-After, Perfect Alexander casts another **Ordained Capital Punishment** and **Ordained Punishment** tankbuster set. MT should take te entire with their invulnerability, with OT provoking during the Ordained Punishment Cast.
+After, Perfect Alexander casts another **Ordained Capital Punishment** and **Ordained Punishment** tankbuster set. MT should take this entirely with their invulnerability, with OT provoking during the Ordained Punishment Cast.
 
 Then, Perfect Alexander will do another set of trines, same mechanic as before, including the party stack. Afterwards, Perfect Alexander casts **Temporal Interference**, which initiates his enrage.
 
@@ -350,9 +350,9 @@ Perfect Alexander begins casting **Temporal Prison** which is his enrage. During
 
 Starting from the top right circle, going clockwise, Perfect Alexander will gradually place the time jails on each circle. A player MUST be in a jail as it falls, otherwise it will be an instant wipe.
 
-Lowest damaging players should take the first jails, with highest damaging players taking the final ones. Generally speaking, the jail order should be healers -> tanks -> ranged DPS -> melee DPS. However, DPS who have died throughout the phase and / or have weakness should take an earlier jail.
+Lowest damaging players should take the first jails, with highest damaging players taking the final ones. Generally speaking, the jail order should be healers -> tanks -> ranged DPS -> melee DPS. However, if for instance, a melee DPS throughout the phase has died and / or has a weakness, they should move up ahead in the jail queue.
 
 {: .note }
 If your job has a DoT ability, be sure to reapply it before your jail lands on you!
 
-With solid DPS and maybe 1-2 recoverable deaths, a party should be able to kill Perfect Alexander before the first jail even lands. If he is not dead by the end of Temporal Prison, Perfect Alexander will send you back to **Phase 1: Living Liquid**.
+With solid DPS and maybe 1-2 recoverable deaths, a party should be able to kill Perfect Alexander before the first jail even lands. If he is not dead by the end of Temporal Prison, Perfect Alexander will send you back to **Phase 1: Living Liquid**. Otherwise, **congratulations on ruling the world**!
