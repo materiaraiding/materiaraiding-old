@@ -114,7 +114,13 @@ This is important as later in the phase, BJ will cast **Verdict** which is essen
 {: .warning }
 If 2 players with different Nisi's combine, both players will die and as some Nisi have been lost, it will result in a wipe as you will not survive Verdict. Thus, throughout this phase, everyone must be aware of their surroundings and move carefully and with purpose, to avoid any collisions.
 
-BJ will then cast **Link-Up**, which inflicts 1 healer with a **water debuff** and 1 DPS with a **lightning debuff**. At the end of the debuff timers, they explode - the damage of the water explosion needs to be split between at least 3 players and the lightning with at least 2 players. The debuffs are then passed onto someone who was in the stack. This won't resolve for a little while so don't worry about it just yet.
+BJ will then cast **Link-Up**, which inflicts 1 healer with a **water debuff** and 1 DPS with a **lightning debuff**. At the end of the debuff timers, they explode: 
+- The damage of the water explosion needs to be split between at least 3 players and
+- The lightning explosion damage needs to be split between at least 2 players.
+
+The debuffs are then passed onto someone who was in the stack. Players who have wielded a debuff will then have a **resistance down** to what they had. So, someone who just passed a water debuff cannot be in any future water stacks and someone who just passed a lightning debuff cannot be in another lightning explosion.
+
+This part won't resolve for a little while so don't worry about it just yet.
 
 As the debuffs appear, 2 chakrams will appear on the wall 180 degrees from each other and will bait onto a random player - this is why everyone spreads closely in the middle, to ensure they pass through the middle. Everyone will then run outwards to the wall (while not being in line with a chakram) to avoid the chakrams as they cut across the arena.
 
@@ -137,7 +143,11 @@ After Photon, DPS will stand over their pre-assigned support partner to pass / r
 
 ### After First Pass
 
-Soon
+From this point, MT takes BJ north and OT takes CC south. The DPS carrying lightning should stand beside the MT to share the damage and pass the debuff onto them. Meanwhile, the water healer should stand west in the D waymark, with the other healer and at least 1 other ranged DPS surrounding them to share the damage. 
+
+CC will cast **Spin Crusher**, an untelegraphed frontal cleave. Only the OT needs to worry about dodging this.
+
+The lightning 
 
 ## Temporal Stasis (Finished but needs proof reading)
 
@@ -179,7 +189,7 @@ Even though buff and cooldown timers freeze, their effects still apply. For exam
 
 Once done, time till resume, BJ and CC will leave and Alexander Prime will spawn in the middle of the arena.
 
-## Phase 3: Alexander Prime (WORK IN PROGRESS)
+## Phase 3: Alexander Prime (FINISHED, PROOF-READING)
 
 The phase begins with **Chastening Heat**, which is a tankbuster on the current aggro'd player that applies a Magic Vulnerability Up. This is then followed by 3× **Divine Spear**s, tankbusters that deal magic damage. Thus, this should be dealt with via an invulnerability or tank swap.
 
