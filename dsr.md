@@ -267,9 +267,15 @@ The 3 non Skyward Leap players should line up against the wall below Thordan to 
 {: .tanks}
 > Each Tank can stand in front of their respective knight to ensure they are the one to grab the tether, before using sprint to comfortably make it to the safe spot.
 
-W.I.P
+Each player will then walk forward into their respective tower and soak the damage. If one tower is missed a high amount of damage will hit the party, likely wiping the group.
 
+Thordan will then drop into the center of the arena and cast **Ancient Quaga** and heavy hitting raidwide, followed by **Heavenly Heel** into **Ascalon's Mercy**. **Heel** inflicts a **slashing resistance down** debuff, requiring a tank swap.
 
+He will then begin to the cast the next trio of the fight:
 
+### **Sanctity of the Ward**
 
+Thordan will then leave the arena and 2 knights will drop down near the center, on opposite sides to each other. These knights can either be facing clockwise or counter-clockwise, which will determine the way they are about to dash across the arena. A third knight will also spawn on one of the waymarks near the outside of the arena.
+
+The knight at the edge of the arena will then target 2 people for distance-based stacks, indicated by either a single sword or 2 swords above the players head. The player with 2 swords should move _behind_ the third knight, and the single sword player should move to the opposite side of the arena on the same axis as the knight (i.e. if the knight spawns on a blue waymark, the single sword moves to the opposite blue waymark).
 
