@@ -233,7 +233,7 @@ Perfect Alexander begins by casting The Final Word and everyone will receive a d
 
 - 1 player will be the dark beacon ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/01d3f745-ff2f-4c6e-8327-c746ab7379a1) and 3 will be dark arrows ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/dfc13608-2195-410a-99d1-c3acbc15c1bb). When the debuff expires, the dark arrows are forced to march away from the dark beacon for a fixed duration. In this time, if a dark arrow makes contact or is too far away from the dark beacon they die.
 
-As soon as players get their debuffs, they should begin to preposition as per the toolbox screenshot below. This positioning ensure all the criteria are met for the debuffs to resolve without any deaths.
+As soon as players get their debuffs, they should begin to preposition as per the toolbox screenshot below. This positioning ensures that all the criteria are met for the debuffs to resolve without any deaths.
 
 ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/c8692192-e30e-459a-bbff-9febe84ae051)
 
@@ -344,8 +344,15 @@ Then, Perfect Alexander will do another set of trines, same mechanic as before, 
 
 ### Enrage
 
-Perfect Alexander begins casting **Temporal Prison**, during in which he will freeze each player. Notice how in the arena (image below), there's 7 circles.
+Perfect Alexander begins casting **Temporal Prison** which is his enrage. During this long enrage cast, Perfect Alexander will gradually imprison each player in a time jail, essentially killing them. Notice how in the arena (image below), there's 7 circles.
 
 ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/3c4d3553-2f42-4656-9f95-9be5180b2b79)
 
-Starting from the top right circle, going clockwise, Perfect Alexander will gradually place jails 
+Starting from the top right circle, going clockwise, Perfect Alexander will gradually place the time jails on each circle. A player MUST be in a jail as it falls, otherwise it will be an instant wipe.
+
+Lowest damaging players should take the first jails, with highest damaging players taking the final ones. Generally speaking, the jail order should be healers -> tanks -> ranged DPS -> melee DPS. However, DPS who have died throughout the phase and / or have weakness should take an earlier jail.
+
+{: .note }
+If your job has a DoT ability, be sure to reapply it before your jail lands on you!
+
+With solid DPS and maybe 1-2 recoverable deaths, a party should be able to kill Perfect Alexander before the first jail even lands. If he is not dead by the end of Temporal Prison, Perfect Alexander will send you back to **Phase 1: Living Liquid**.
