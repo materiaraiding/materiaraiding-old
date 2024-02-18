@@ -239,9 +239,9 @@ The final phase of this fight involves several debuffs which can be simply resol
 
 Perfect Alexander begins by casting **The Final Word** and everyone will receive a debuff. 
 
-- 1 player will be the light beacon ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/a327616d-4f59-4293-bfc5-0c1fbc081e92) and 3 will be light arrows ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/8fc1a88e-de65-4f6e-bc04-99a2bb186fe1). When the debuff expires, the light arrows are forced to march **towards** the light beacon for a fixed duration. In this time, if a light arrow makes contact with the light beacon they die.
+- 1 player will be the **light beacon** ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/a327616d-4f59-4293-bfc5-0c1fbc081e92) and 3 will be **light arrows** ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/8fc1a88e-de65-4f6e-bc04-99a2bb186fe1). When the debuff expires, the light arrows are forced to march **towards** the light beacon for a fixed duration. In this time, if a light arrow makes contact with the light beacon they die.
 
-- 1 player will be the dark beacon ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/01d3f745-ff2f-4c6e-8327-c746ab7379a1) and 3 will be dark arrows ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/dfc13608-2195-410a-99d1-c3acbc15c1bb). When the debuff expires, the dark arrows are forced to march **away** from the dark beacon for a fixed duration. In this time, if a dark arrow makes contact or is too far away from the dark beacon they die.
+- 1 player will be the **dark beacon** ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/01d3f745-ff2f-4c6e-8327-c746ab7379a1) and 3 will be **dark arrows** ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/dfc13608-2195-410a-99d1-c3acbc15c1bb). When the debuff expires, the dark arrows are forced to march **away** from the dark beacon for a fixed duration. In this time, if a dark arrow makes contact or is too far away from the dark beacon they die.
 
 As soon as players get their debuffs, everyone should begin to preposition as per follows:
 - **Light Beacon** plants towards the western part of the D waymark
