@@ -95,7 +95,7 @@ The next phase involves taking on both Brute Justice (BJ) and Cruise Chaser (CC)
 
 In this phase, there is **a lot** going on. In saying that, depending on which role you are, a lot of these mechanics may not involve you **but it's still good to be aware of them so you are not in anyone's way and do not get hit by something you're not supposed to**.
 
-I also do not want to clutter this section with toolbox screenshots, so please refer to the actual toolbox for exact positioning throughout this phase. Instead, this guide will focus on what events occur between each Nisi pass (and of course, if you are new to TEA, I will explain what Nisi is).
+I also do not want to clutter this section with toolbox screenshots, so please refer to the actual toolbox for exact positioning throughout this phase. Instead, this section will focus on what events occur between each Nisi pass (and of course, if you are new to TEA, I will explain what Nisi is).
 
 ### Intro: Before First Nisi Pass
 
@@ -189,7 +189,7 @@ Even though buff and cooldown timers freeze, their effects still apply. For exam
 
 Once done, time till resume, BJ and CC will leave and Alexander Prime will spawn in the middle of the arena.
 
-## Phase 3: Alexander Prime (FINISHED, PROOF-READING)
+## Phase 3: Alexander Prime (WIP)
 
 The phase begins with **Chastening Heat**, which is a tankbuster on the current aggro'd player that applies a Magic Vulnerability Up. This is then followed by 3× **Divine Spear**s, tankbusters that deal magic damage. Thus, this should be dealt with via an invulnerability or tank swap.
 
@@ -231,7 +231,7 @@ Once Alexander Prime is defeated, he begins counting down for **Judgment Protoco
 
 After Judgment Protocol, you will watch Perfect Alexander come to life.
 
-## Phase 4: Perfect Alexander (WORK IN PROGRESS)
+## Phase 4: Perfect Alexander
 
 The final phase of this fight involves several debuffs which can be simply resolved by, "stand in this location," but as usual I will explain what's happening so you can understand **why**.
 
@@ -243,9 +243,16 @@ Perfect Alexander begins by casting The Final Word and everyone will receive a d
 
 - 1 player will be the dark beacon ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/01d3f745-ff2f-4c6e-8327-c746ab7379a1) and 3 will be dark arrows ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/dfc13608-2195-410a-99d1-c3acbc15c1bb). When the debuff expires, the dark arrows are forced to march away from the dark beacon for a fixed duration. In this time, if a dark arrow makes contact or is too far away from the dark beacon they die.
 
-As soon as players get their debuffs, they should begin to preposition as per the toolbox screenshot below. This positioning ensures that all the criteria are met for the debuffs to resolve without any deaths.
+As soon as players get their debuffs, they should begin to preposition as per follows:
+- **Light Beacon** plants towards the western part of the D waymark
+- **Dark Beacon** plants dead centre of the 2 waymark
+- All over the players between 1 and 2 waymarks (learning towards the west wall of the 2 waymark is safest)
+
+Below is a screenshot from the toolbox which demonstrates the above positioning.
 
 ![FCB](https://github.com/nozzyxx/materiaraiding/assets/160133948/a882a1da-56df-4368-b56f-1a7fd00caff9)
+
+This positioning ensures that all the criteria are met for the debuffs to resolve without any deaths.
 
 While prepositioning, Perfect Alexander will begin casting Ordained Stillness or Ordained Motion.
 
