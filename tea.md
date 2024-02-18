@@ -237,13 +237,13 @@ The final phase of this fight involves several debuffs which can be simply resol
 
 ### The Final Word
 
-Perfect Alexander begins by casting The Final Word and everyone will receive a debuff. 
+Perfect Alexander begins by casting **The Final Word** and everyone will receive a debuff. 
 
-- 1 player will be the light beacon ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/a327616d-4f59-4293-bfc5-0c1fbc081e92) and 3 will be light arrows ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/8fc1a88e-de65-4f6e-bc04-99a2bb186fe1). When the debuff expires, the light arrows are forced to march towards the light beacon for a fixed duration. In this time, if a light arrow makes contact with the light beacon they die.
+- 1 player will be the light beacon ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/a327616d-4f59-4293-bfc5-0c1fbc081e92) and 3 will be light arrows ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/8fc1a88e-de65-4f6e-bc04-99a2bb186fe1). When the debuff expires, the light arrows are forced to march **towards** the light beacon for a fixed duration. In this time, if a light arrow makes contact with the light beacon they die.
 
-- 1 player will be the dark beacon ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/01d3f745-ff2f-4c6e-8327-c746ab7379a1) and 3 will be dark arrows ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/dfc13608-2195-410a-99d1-c3acbc15c1bb). When the debuff expires, the dark arrows are forced to march away from the dark beacon for a fixed duration. In this time, if a dark arrow makes contact or is too far away from the dark beacon they die.
+- 1 player will be the dark beacon ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/01d3f745-ff2f-4c6e-8327-c746ab7379a1) and 3 will be dark arrows ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/dfc13608-2195-410a-99d1-c3acbc15c1bb). When the debuff expires, the dark arrows are forced to march **away** from the dark beacon for a fixed duration. In this time, if a dark arrow makes contact or is too far away from the dark beacon they die.
 
-As soon as players get their debuffs, they should begin to preposition as per follows:
+As soon as players get their debuffs, everyone should begin to preposition as per follows:
 - **Light Beacon** plants towards the western part of the D waymark
 - **Dark Beacon** plants dead centre of the 2 waymark
 - All other the players between 1 and 2 waymarks (leaning towards the west wall of the 2 waymark is safest)
@@ -254,13 +254,13 @@ Below is a screenshot from the toolbox which demonstrates the above positioning.
 
 This positioning ensures that all the criteria are met for the debuffs to resolve without any deaths.
 
-While prepositioning, Perfect Alexander will begin casting Ordained Stillness or Ordained Motion.
+While prepositioning, Perfect Alexander will begin casting **Ordained Stillness** or **Ordained Motion**.
 
-If he is casting motion, your character must be moving at the end of the cast or you will die. Jump around, use your abilities freely, I only don't recommend physically moving around otherwise you might put yourself out of position for the mechanic.
+If he is casting motion, your character must be moving at the end of the cast or you will die. Jump around, use abilities freely, I only don't recommend physically moving around otherwise you might put yourself out of position for the mechanic.
 
 The completion of this mechanic will be denoted by a light sword falling above you.
 
-If he is casting stillness, your character must be completely still at the end of the cast or you will die, and I mean STILL. No emoting, not mid animation of an ability cast, no autoattacks, NOTHING. This mechanic can be resolved by pressing the escape key twice and taking your hands off your keyboard (or controller).
+If he is casting stillness, your character must be **completely still** at the end of the cast or you will die, and I mean **STILL**. No emoting, not mid animation of an ability cast, no autoattacks, NOTHING. This mechanic can be resolved by pressing the escape key twice and taking your hands off your keyboard (or controller).
 
 The completion of this mechanic will be denoted by a dark sword falling above you. 
 
@@ -269,7 +269,7 @@ After the first Ordained Stillness/Motion, the beacon debuffs will resolve, and 
 {: .warning }
 If a beacon dies, all arrows of the corresponding colour will die. For instance, if your light beacon moves during stillness and dies, all light arrows will also die and the pull is basically over.
 
-After the Final Word, Perfect Alexander will cast Optical Sight. This will be either spreads into 2 sets of stacks, or 2 sets of stacks into spreads.
+After the Final Word, Perfect Alexander will cast **Optical Sight**. This will be either spreads into 2 sets of stacks, or 2 sets of stacks into spreads.
 
 The 2 party stacks do not actually need to be perfectly balanced - as long as there's more than 1 person in a stack and they aren't overlapping, the mechanic is survivable and you do not need to be pedantic about splitting the light parties perfectly.
 
@@ -277,9 +277,9 @@ The 2 party stacks do not actually need to be perfectly balanced - as long as th
 
 After, Perfect Alexander begins a short cast, spawning 4 clones of himself north and a clone of your own character will also appear. This clone appears thanks to the Enigma Codex true sight buff you received in Phase 3: Alexander Prime. 
 
-He will then do another long Fate Calibration Alpha cast. During his long cast, you see the entire mechanic play out then once the cast is finished, he becomes untargetable and you do the mechanic for real. In this mechanic, instead of getting debuffs on your buff bar, you watch the debuff happen on your clone. 
+He will then do another long **Fate Calibration Alpha** cast. During his long cast, you see the entire mechanic play out then once the cast is finished, he becomes untargetable and you do the mechanic for real. In this mechanic, instead of getting debuffs on your buff bar, you watch the debuff happen on your clone. 
 
-First, a dark or light sword will fall above you, indicating stillness or motion for the first part of the mechanic. Everyone will receive the same sword.
+First, a dark or light sword will fall above you, indicating **stillness or motion** for the first part of the mechanic. Everyone will receive the same sword.
 
 Then, the individual debuffs will show up. These include:
 - **Defamation** for 1 player: can be identified by a spherical cog and an enormous explosion emitting from the player. Defamations must be taken far away from the party.
@@ -287,15 +287,17 @@ Then, the individual debuffs will show up. These include:
 - **Aggravated Assault** for 3 players: identified by a small cog that strikes the players. As these leave vulnerabilities on affected players, they must not take any other damage in this mechanic.
 - 3 players will receive **no debuffs** and will assist shared sentence with their stack.
 
-Once these debuffs present themselves, another dark/light sword falls indicating the next stillness/motion. This is once again the same for everyone.
+Once these debuffs present themselves, another dark/light sword falls indicating the next **stillness/motion**. This is once again the same for everyone.
 
 Next, 3 of 4 of the north Perfect Alexander clones will shoot **Sacrament** line lasers, leaving 2 safe zones in the arena. The Alexander clone that does not shoot will **always** be one of the 2 middle ones - looking at the diagram below, if (out of the 2 middle ones), the left does not shoot, the blue areas are safe and if the right one does not shoot, the green areas are safe.
 
 ![FCA](https://github.com/nozzyxx/materiaraiding/assets/160133948/9492ad23-92fd-433d-9b6c-4b28c71cb3f3)
 
-The defamation should stand in the northern safe zone so their explosion does not hit anyone.
+- The defamation should stand in the northern safe zone so their explosion does not hit anyone.
 
-As for everyone else - notice how in the bottom safe zones, each one looks to be divided into 2 halves by the finger-like shape. The shared sentence and no debuffs will stack on the left, while the aggravated assaults hang around on the right, out of harm's way.
+As for everyone else - notice how in the bottom safe zones, each one looks to be divided into 2 halves by the finger-like shape. 
+- The shared sentence and no debuffs will stack on the left.
+- The aggravated assaults hang around on the right, out of harm's way.
 
 Once Perfect Alexander finishes the long Fate Calibration Alpha cast, simply stay in your spot while handling the 2 sets of stillness or motion while all the debuffs resolve.
 
@@ -317,7 +319,7 @@ After your clone wanders around for a couple seconds, all the debuffs will appea
 - **Dark with Blue Tether**: you are tethered to Light with Blue Tether and must be far from them at the end of the forced march.
 - **Dark with Christmas Tether**: you are tethered to Light with Christmas Tether and must be close to them at the end of the forced march.
 
-Then, after the forced marches, 3 Perfect Alexander clones will **Super Jump** to the west, south and east cardinals, near the wall. These jumps will need to be baited by 3 players. After, the Perfect Alexander behind the wall at north will cast **Optical Sight**, which will be either 2 sets of light party stacks, or everyone needs spread out.
+Then, after the forced marches, 3 Perfect Alexander clones will **Super Jump** to the west, south and east cardinals respectively, near the wall. These jumps will need to be baited by 3 players. After, the Perfect Alexander behind the wall at north will cast **Optical Sight**, which will be either 2 sets of light party stacks, or everyone needs spread out.
 - If there are 2 green balls to his left and right, it is **2 light party stacks**
 - If there are multiple small green orbs, it is **spreads**.
 
@@ -339,7 +341,7 @@ The diagram below shows a simple layout of where everyone will stand, given that
 
 ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/cf7b09a4-89b1-469f-a9bb-b5cd7fc20ebc)
 
-At the end of Perfect Alexander's long Fate Calibration Beta cast, the forced march resolves. After, players have a couple moments to shuffle, allowing Super Jump baiters to run to their cardinal and tethers to ensure they are the correct distance from each other. All players currently north should also group as a shared sentence will go off. 
+At the end of Perfect Alexander's long Fate Calibration Beta cast, he comes untargetable and the forced march resolves. After, players have a couple moments to shuffle, allowing Super Jump baiters to run to their cardinal and tethers to ensure they are the correct distance from each other. All players currently north should also group as a shared sentence will go off. 
 
 After the tethers, shared sentence and Super Jumps resolve, players should position themselves for Optical Sight. Spread out, or if it was stack, all dark players gather mid while light players stack at A. Healers should ensure players are topped as much as possible for this part.
 
@@ -361,7 +363,7 @@ Then, Perfect Alexander will do another set of trines, same mechanic as before, 
 
 ### Enrage
 
-Perfect Alexander begins casting **Temporal Prison** which is his enrage. During this long enrage cast, Perfect Alexander will gradually imprison each player in a time jail, essentially killing them. Notice how in the arena (image below), there's 7 circles.
+Perfect Alexander begins casting **Temporal Prison** which is his enrage. During this long enrage cast, Perfect Alexander will gradually imprison each player in a time jail, essentially killing them. Notice how in the arena (image below), there are 7 circles.
 
 ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/3c4d3553-2f42-4656-9f95-9be5180b2b79)
 
