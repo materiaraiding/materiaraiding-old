@@ -189,7 +189,7 @@ As MUR PF standard strat has the bosses split for this phase, players will be sp
 
 From this point: 
 - MT takes BJ north and OT takes CC south, and the bosses should face those respective directions.
-- The DPS carrying lightning should stand beside the MT to share the damage and pass the debuff onto them
+- The DPS carrying lightning should stand beside the MT to share the damage and pass the debuff onto them.
 - The water healer should stand west in the D waymark, with the other healer and at least 1 other ranged DPS surrounding them to share the damage. 
 
 CC will cast **Spin Crusher**, an untelegraphed frontal cleave. Only the OT needs to worry about dodging this and they can do so by running through the boss to be behind him.
