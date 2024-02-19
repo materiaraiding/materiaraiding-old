@@ -175,7 +175,7 @@ CC then casts **Photon**, which reduces everyone to 1HP and healers should quick
 {: .healers }
 As Nisi's have a mild DoT, the shield healer should ensure everyone is shielded before Photon to ensure no one dies to the DoT.
 
-After Photon, DPS will stand over their pre-assigned support partner to pass / receive their Nisi.
+After Photon, DPS will stand over their pre-assigned support partner to pass / receive their Nisi. As previously mentioned, the purpose of this pass is just to keep the Nisi's active.
 
 - D1 passes to MT
 - D2 passes to H1
@@ -188,11 +188,11 @@ After Photon, DPS will stand over their pre-assigned support partner to pass / r
 As MUR PF standard strat has the bosses split for this phase, players will be spread out and may potentially miss AoE heals as a result. Keep an eye on everyone's health, **especially tanks**, and don't be afraid to single target GCD heal if you need to.
 
 From this point: 
-- MT takes BJ north and OT takes CC south.
+- MT takes BJ north and OT takes CC south, and the bosses should face those respective directions.
 - The DPS carrying lightning should stand beside the MT to share the damage and pass the debuff onto them
 - The water healer should stand west in the D waymark, with the other healer and at least 1 other ranged DPS surrounding them to share the damage. 
 
-CC will cast **Spin Crusher**, an untelegraphed frontal cleave. Only the OT needs to worry about dodging this.
+CC will cast **Spin Crusher**, an untelegraphed frontal cleave. Only the OT needs to worry about dodging this and they can do so by running through the boss to be behind him.
 
 The lightning and the water explosions will then go off. The lightning is passed onto the MT and the water will be on the other healer or a ranged who took the stack. The water explosion leaves behind a tornado which will knock players back and deal significant damage if they stand near it. After a certain period of time, the tornado will explode and wipe the raid - however, there will be mechanics that allow us to prevent that from happening. So, players from the water stack should therefore run back to the middle to avoid the tornado. 
 
