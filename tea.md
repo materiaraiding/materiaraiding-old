@@ -89,7 +89,7 @@ Coming soon I promise
 
 Coming soon I promise
 
-## Phase 2: Brute Justice and Cruise Chaser (Finished - Subject to edits)
+## Phase 2: Brute Justice and Cruise Chaser
 
 The next phase involves taking on both Brute Justice (BJ) and Cruise Chaser (CC) simultaneously. MUR follows the split bosses strat for BJCC.
 
@@ -331,7 +331,7 @@ Once Alexander Prime is defeated, he begins counting down for **Judgment Protoco
 
 After Judgment Protocol, you will watch Perfect Alexander come to life.
 
-## Phase 4: Perfect Alexander (Finished - subject to edits)
+## Phase 4: Perfect Alexander
 
 The final phase of this fight involves several debuffs which can be simply resolved by, "stand in this location," but as usual I will explain what's happening so you can understand **why**.
 
