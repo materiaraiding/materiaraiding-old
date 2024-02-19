@@ -87,7 +87,41 @@ Coming soon I promise
 
 ## Intermission: Limit Cut
 
-Coming soon I promise
+There are 2 major components to handle simultaneously during this intermission phase - the numbers and the AoE explosions.
+
+### Numbers
+
+Once Living Liquid drops, players will ne numbered from 1-8 (signified by the number of dots above their head).
+
+Your number indicates the order in which **Cruise Chaser** (CC) will attack you. 
+
+He firstly spawns **behind** #1 and uses **Alpha Sword**, a conal AoE with a knockback, then does a **dash attack** to #2, also knocking back. Both attacks apply a **vulnerability**, so you cannot be hit by more than 1 attack during Limit Cut.
+
+CC then spawns behind #3, uses Alpha Sword again, then dashes to #4. He will repeat this cycle of attacks to #5 and #6, then #7 and #8. As you can see, CC strikes in pair groups by casting Alpha Sword on the **odd number**, then dashing to the subsequent **even number**.
+
+{: .note }
+As all of CC's attacks during Limit Cut have a knockback effect, everyone should negate this using **Arm's Length** or **Surecast**.
+
+{: .warning }
+For odd players - as CC will spawn **behind** you from the direction you are facing, always face forward as you are running and be sure not to strafe in any random direction.
+
+### AoE Explosions
+
+During this mechanic, there will also be 10 sets of large untelegraphed AoE explosions around the arena. Being hit by one will be lethal. This is how they work:
+- The 1st, 2nd, 3rd and 4th will include 2 towards the wall that are 180 degrees from each other and rotate clockwise.
+- The 5th explosion is in the centre of the arena.
+- The 6th, 7th, 8th and 9th will continue from after where the 4th explosion wall while maintaining the clockwise pattern.
+- The 10th explosion is once again in the centre of arena.
+
+We dodge the explosions by trailing behind the wall ones that rotate clockwise. To understand the spacing, notice how the circle in the middle part of the area is sectioned into **pizza slices**, indicated by the drawn green lines:
+
+![TEALC](https://github.com/nozzyxx/materiaraiding/assets/160133948/8baa0e2c-2f67-48bf-b7d5-67f4c56f11cf)
+
+As you can see, the AoE explosions are **2 pizza slices wide**. The epicentre of the explosion moves 1 pizza slice clockwise per exposion - so, for each explosion, **you can move up 1 pizza slice**.
+
+### Putting it all together - 1256 strat
+
+MUR employs the 1256 strat 
 
 ## Phase 2: Brute Justice and Cruise Chaser
 
@@ -155,7 +189,7 @@ CC will cast **Spin Crusher**, an untelegraphed frontal cleave. Only the OT need
 
 The lightning and the water explosions will then go off. The lightning is passed onto the MT and the water will be on the other healer or a ranged who took the stack. The water explosion leaves behind a tornado which will knock players back and deal significant damage if they stand near it. After a certain period of time, the tornado will explode and wipe the raid - however, there will be mechanics that allow us to prevent that from happening. So, players from the water stack should therefore run back to the middle to avoid the tornado. 
 
-Meanwhile, D3 should begin to move south and stand towards east of the OT in preparation for the next mechanic. BJ will cast **Missile Command**, which targets the 2 furthers players from him (OT and D3 who will be south) with AoE puddles. Both players will move north just above the puddle, then another darker AoE puddle will spawn on them, which they will move out of. These 2 darker puddles will leave behind invisible mines that if left untouched, will wipe the party. We will deal with these shortly.
+Meanwhile, D3 should begin to move south and stand east of the OT in preparation for the next mechanic. BJ will cast **Missile Command**, which targets the 2 furthers players from him (OT and D3 who will be south) with AoE puddles. Both players will move north just above the puddle, then another darker AoE puddle will spawn on them, which they will move out of. These 2 darker puddles will leave behind invisible mines that if left untouched, will wipe the party. We will deal with these shortly.
 
 Two mechanics now go off at the same time - enumeration and ice puddle.
 
