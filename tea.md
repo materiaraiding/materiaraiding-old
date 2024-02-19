@@ -477,4 +477,10 @@ Lowest damaging players should take the first jails, with highest damaging playe
 {: .note }
 If your job has a DoT ability, be sure to reapply it before your jail lands on you!
 
-With solid DPS and maybe 1-2 recoverable deaths, a party should be able to kill Perfect Alexander before the first jail even lands. If he is not dead by the end of Temporal Prison, Perfect Alexander will send you back to **Phase 1: Living Liquid**. Otherwise, **congratulations on ruling the world**!
+With solid DPS and maybe 1-2 recoverable deaths, a party should be able to kill Perfect Alexander before the first jail even lands. If he is not dead by the end of Temporal Prison, Perfect Alexander will send you back to **Phase 1: Living Liquid**. 
+
+Otherwise, **congratulations on ruling the world**!
+
+![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/c58bc597-1bf2-4977-ae71-a526336e3bd4)
+
+
