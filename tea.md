@@ -153,7 +153,9 @@ This is important as later in the phase, BJ will cast **Verdict** which is essen
 {: .warning }
 If 2 players with different Nisi's combine, both players will die and as some Nisi have been lost, it will result in a wipe as you will not survive Verdict. Thus, throughout this phase, everyone must be aware of their surroundings and move carefully and with purpose, to avoid any collisions.
 
-BJ will then cast **Link-Up**, which inflicts 1 healer with a **water debuff** and 1 DPS with a **lightning debuff**. At the end of the debuff timers, they explode: 
+BJ will then cast **Link-Up**, which inflicts 1 healer with a **water debuff** ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/f0b39cc0-07b5-4de1-a95a-627561eb0a8a)
+ and 1 DPS with a **lightning debuff** ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/8cc998b7-898b-4b0d-8737-19a0ec7204fc)
+. At the end of the debuff timers, they explode: 
 - The damage of the water explosion needs to be split between at least 3 players
 - The lightning explosion damage needs to be split between at least 2 players.
 
