@@ -143,11 +143,42 @@ After Photon, DPS will stand over their pre-assigned support partner to pass / r
 
 ### After First Pass
 
+{: .healers }
+As MUR PF standard strat has the bosses split for this phase, players will be spread out and may potentially miss AoE heals as a result. Keep an eye on everyone's health, **especially tanks**, and don't be afraid to single target GCD heal if you need to.
+
 From this point, MT takes BJ north and OT takes CC south. The DPS carrying lightning should stand beside the MT to share the damage and pass the debuff onto them. Meanwhile, the water healer should stand west in the D waymark, with the other healer and at least 1 other ranged DPS surrounding them to share the damage. 
 
 CC will cast **Spin Crusher**, an untelegraphed frontal cleave. Only the OT needs to worry about dodging this.
 
-The lightning 
+The lightning and the water explosions will go off. The lightning is passed onto the MT and the water will be on the other healer or a ranged who took the stack. The water explosion leaves behind a tornado which will knock players back and deal significant damage if they stand near it. After a certain period of time, the tornado will explode and wipe the raid - however, there will be mechanics that allow us to prevent that from happening. So, players who took water should therefore run back to the middle to avoid the tornado. 
+
+Meanwhile, D3 should begin to move beside the OT in preparation for the next mechanic. BJ will cast **Missile Command**, which targets the 2 furthers players from him (OT and D3 who will be south) with AoE puddles. Both players will move north just above the puddle as another darker AoE puddle will spawn on them. These 2 darker puddles will leave behind invisible mines that if left untouched, will wipe the party. We will deal with these shortly.
+
+2 mechanics now go off at the same time - emumeration and ice puddle.
+
+Enumeration rings will appear around 2 random DPS players - these rings must have exactly 3 players in each, otherwise everyone in the ring will die. The rings should be left and right of each other just under BJ and to resolve:
+- H1 and D2 plant on the left enumeration
+- H2 and D4 plant on the right enumeration
+- D1 and D3 will flex as necessary
+
+As for the ice puddle, this will be an AoE marker on one of the tanks. The tank needs to take this to the western wall, where the marker will drop an ice puddle that gradually expands. This puddle needs to make contact with the water tornado as it will freeze it, preventing it from exploding. The newly formed ice block will also be pivotal in a later mechanic.
+
+{: .note }
+As the ice puddle expands, the intial AoE marker itself does not need to overlap with the tornado - just as long as it hits the tornado after the ice grows. This will prevent the tank from accidentally getting too close to the tornado, which will result in being knocked back.
+
+The OT will then run over the 2 invisible mines with kitchen sinked mitigations. Each mine will inflict heavy AoE damage, so everyone else should steer clear.
+
+{: .healers }
+Keep an eye on the OT as they soak the mines. Even with heavy mitigation, the mines still hurt and you may need to help top the OT up between each mine.
+
+After, DPS will complete their 2nd Nisi pass by running over the same pre-assigned support.
+
+{: .warning }
+D3 - ensure the OT has finished soaking both mines before passing so you don't accidentally get clipped by the AoE.
+
+### After Second Pass
+
+
 
 ## Temporal Stasis (Finished but needs proof reading)
 
