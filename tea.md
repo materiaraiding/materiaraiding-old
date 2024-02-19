@@ -198,7 +198,7 @@ The lightning and the water explosions will then go off. The lightning is passed
 
 Meanwhile, D3 should begin to move south and stand east of the OT in preparation for the next mechanic. BJ will cast **Missile Command**, which targets the 2 furthers players from him (OT and D3 who will be south) with AoE puddles. Both players will move north just above the puddle, then another darker AoE puddle will spawn on them, which they will move out of. These 2 darker puddles will leave behind invisible mines that if left untouched, will wipe the party. We will deal with these shortly.
 
-Two mechanics now go off at the same time - enumeration and ice puddle.
+Two mechanics now go off at the same time - **enumeration** and **ice puddle**.
 
 Enumeration rings will appear around 2 random DPS players - these rings must have exactly 3 players in each (including the DPS player it is attached to), otherwise everyone in the ring will die. The rings should be left and right of each other just under BJ and to resolve:
 - H1 and D2 plant on the left enumeration.
@@ -209,8 +209,8 @@ As for the ice puddle, this will be an **AoE marker** on one of the tanks. The t
 
 It should be noted that anyone who stands in the ice puddle will take lethal damage, so steer clear.
 
-{: .note }
-As the ice puddle expands, the **intial** AoE marker itself does not need to overlap with the tornado - just as long as it hits the tornado after the ice grows. This will prevent the tank from accidentally getting too close to the tornado, which will result in being knocked back.
+{: .tanks }
+As the ice puddle expands, the **intial** AoE marker itself does not need to overlap with the tornado - just as long as it hits the tornado after the ice grows. This will prevent you from accidentally getting too close to the tornado, which will result in being knocked back.
 
 The OT will then run over the 2 invisible mines with kitchen sinked mitigations. Each mine will inflict heavy AoE damage, so everyone else should steer clear.
 
@@ -280,7 +280,7 @@ Wait till all the debuffs are 100% gone before moving out of the lineup - if you
 
 ### Post-Gavel and Enrage
 
-After Gavel, both tanks should pull their bosses together to the west wall, allowing for cleave damage. At this point, pay attention to both boss's HP's and try to keep them as similar as possible as they need to die approximately at the same time.
+After Gavel, both tanks should pull their bosses together to the west wall, allowing for cleave damage. At this point, **pay attention to both boss's HP's** and try to keep them as similar as possible as they need to die approximately at the same time.
 
 CC will then cast **Photon** again, but this will only affect tanks this time, dropping them both to 1HP. Healers should quickly top them up as a tankbuster is coming.
 
