@@ -113,13 +113,18 @@ During this mechanic, there will also be 10 sets of large untelegraphed AoE expl
 - The 6th, 7th, 8th and 9th will continue from after where the 4th explosion wall while maintaining the clockwise pattern.
 - The 10th explosion is once again in the centre of arena.
 
+### Putting it all together - 1256 strat
+
+Once players identify their numbers, everyone will stack in the middle to wait for the first explosion.
+
+![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/63d8dfd4-0361-49d5-bb54-25e975158bc8)
+
+
 We dodge the explosions by trailing behind the wall ones that rotate clockwise. To understand the spacing, notice how the circle in the middle part of the area is sectioned into **pizza slices**, indicated by the drawn green lines:
 
 ![TEALC](https://github.com/nozzyxx/materiaraiding/assets/160133948/8baa0e2c-2f67-48bf-b7d5-67f4c56f11cf)
 
-As you can see, the AoE explosions are **2 pizza slices wide**. The epicentre of the explosion moves 1 pizza slice clockwise per exposion - so, for each explosion, **you can move up 1 pizza slice**.
-
-### Putting it all together - 1256 strat
+As you can see, the AoE explosions are **2 pizza slices wide**. The epicentre of the explosion moves 1 pizza slice clockwise per exposion - so, for each explosion, **you can move up 1 pizza slice**. Remember to stop moving up after the 4th, as the next explosion will be in the middle, before the explosions resume from where they left off.
 
 MUR employs the 1256 strat 
 
