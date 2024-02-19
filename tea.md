@@ -163,7 +163,7 @@ The debuffs are then passed onto someone who was in the stack. Players who have 
 
 This part won't resolve for a little while so don't worry about it just yet.
 
-As the debuffs appear, 2 chakrams will appear on the wall 180 degrees from each other - this will bait onto a random player then cut across the arena. As they are baited, this is why everyone spreads closely in the middle, to ensure they pass through the middle. Everyone will then run outwards to the wall (while not being in line with a chakram) to avoid the chakrams as they cut across the arena.
+As the debuffs appear, 2 chakrams will appear on the wall 180 degrees from each other - this will bait onto a random player then cut across the arena. As they are baited, this is why everyone spreads closely in the middle - to ensure they pass through the centre. Everyone will then run outwards to the wall (while not being in line with a chakram) to avoid the chakrams as they cut across the arena.
 
 {: .warning }
 Since chakrams are baited they may not necessarily do a straight line across the arena and might cut in at a weird angle - when you run to the wall, make sure you are a good distance away from a chakram so you don't accidentally get clipped.
