@@ -89,7 +89,7 @@ Coming soon I promise
 
 Coming soon I promise
 
-## Phase 2: Brute Justice and Cruise Chaser (WORK IN PROGRESS)
+## Phase 2: Brute Justice and Cruise Chaser (Finished - Subject to edits)
 
 The next phase involves taking on both Brute Justice (BJ) and Cruise Chaser (CC) simultaneously. MUR follows the split bosses strat for BJCC.
 
@@ -103,7 +103,7 @@ At the end of Limit Cut, players should preposition in their assigned clock spot
 
 MT takes aggro of BJ and OT takes aggro of CC. The tanks should then pull the bosses to the centre for cleave damage before taking their clock spots. As a _general guide_ melee DPS should focus hitting BJ and ranged attacking CC.
 
-CC then casts Whirlwind, a raidwide. Then, BJ will cast Judgment Nisi, inflicting a debuff that be call Nisi on either all supports or all DPS. There will be a blue (alpha), purple (gamma), orange (beta) and green (delta) Nisi, as shown below:
+CC then casts **Whirlwind**, a raidwide. Then, BJ will cast **Judgment Nisi**, inflicting a debuff that we call **Nisi** on either all supports or all DPS. There will be a blue (alpha), purple (gamma), orange (beta) and green (delta) Nisi, as shown below:
 
 ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/d7651f8d-6757-493c-a4f5-94e73600bbed)
 
@@ -115,14 +115,14 @@ This is important as later in the phase, BJ will cast **Verdict** which is essen
 If 2 players with different Nisi's combine, both players will die and as some Nisi have been lost, it will result in a wipe as you will not survive Verdict. Thus, throughout this phase, everyone must be aware of their surroundings and move carefully and with purpose, to avoid any collisions.
 
 BJ will then cast **Link-Up**, which inflicts 1 healer with a **water debuff** and 1 DPS with a **lightning debuff**. At the end of the debuff timers, they explode: 
-- The damage of the water explosion needs to be split between at least 3 players and
+- The damage of the water explosion needs to be split between at least 3 players
 - The lightning explosion damage needs to be split between at least 2 players.
 
 The debuffs are then passed onto someone who was in the stack. Players who have wielded a debuff will then have a **resistance down** to what they had. So, someone who just passed a water debuff cannot be in any future water stacks and someone who just passed a lightning debuff cannot be in another lightning explosion.
 
 This part won't resolve for a little while so don't worry about it just yet.
 
-As the debuffs appear, 2 chakrams will appear on the wall 180 degrees from each other and will bait onto a random player - this is why everyone spreads closely in the middle, to ensure they pass through the middle. Everyone will then run outwards to the wall (while not being in line with a chakram) to avoid the chakrams as they cut across the arena.
+As the debuffs appear, 2 chakrams will appear on the wall 180 degrees from each other - this will bait onto a random player then cut across the arena. As they are baited, this is why everyone spreads closely in the middle, to ensure they pass through the middle. Everyone will then run outwards to the wall (while not being in line with a chakram) to avoid the chakrams as they cut across the arena.
 
 {: .warning }
 Since chakrams are baited they may not necessarily do a straight line across the arena and might cut in at a weird angle - when you run to the wall, make sure you are a good distance away from a chakram so you don't accidentally get clipped.
@@ -146,41 +146,110 @@ After Photon, DPS will stand over their pre-assigned support partner to pass / r
 {: .healers }
 As MUR PF standard strat has the bosses split for this phase, players will be spread out and may potentially miss AoE heals as a result. Keep an eye on everyone's health, **especially tanks**, and don't be afraid to single target GCD heal if you need to.
 
-From this point, MT takes BJ north and OT takes CC south. The DPS carrying lightning should stand beside the MT to share the damage and pass the debuff onto them. Meanwhile, the water healer should stand west in the D waymark, with the other healer and at least 1 other ranged DPS surrounding them to share the damage. 
+From this point: 
+- MT takes BJ north and OT takes CC south.
+- The DPS carrying lightning should stand beside the MT to share the damage and pass the debuff onto them
+- The water healer should stand west in the D waymark, with the other healer and at least 1 other ranged DPS surrounding them to share the damage. 
 
 CC will cast **Spin Crusher**, an untelegraphed frontal cleave. Only the OT needs to worry about dodging this.
 
-The lightning and the water explosions will go off. The lightning is passed onto the MT and the water will be on the other healer or a ranged who took the stack. The water explosion leaves behind a tornado which will knock players back and deal significant damage if they stand near it. After a certain period of time, the tornado will explode and wipe the raid - however, there will be mechanics that allow us to prevent that from happening. So, players who took water should therefore run back to the middle to avoid the tornado. 
+The lightning and the water explosions will then go off. The lightning is passed onto the MT and the water will be on the other healer or a ranged who took the stack. The water explosion leaves behind a tornado which will knock players back and deal significant damage if they stand near it. After a certain period of time, the tornado will explode and wipe the raid - however, there will be mechanics that allow us to prevent that from happening. So, players from the water stack should therefore run back to the middle to avoid the tornado. 
 
-Meanwhile, D3 should begin to move beside the OT in preparation for the next mechanic. BJ will cast **Missile Command**, which targets the 2 furthers players from him (OT and D3 who will be south) with AoE puddles. Both players will move north just above the puddle as another darker AoE puddle will spawn on them. These 2 darker puddles will leave behind invisible mines that if left untouched, will wipe the party. We will deal with these shortly.
+Meanwhile, D3 should begin to move south and stand towards east of the OT in preparation for the next mechanic. BJ will cast **Missile Command**, which targets the 2 furthers players from him (OT and D3 who will be south) with AoE puddles. Both players will move north just above the puddle, then another darker AoE puddle will spawn on them, which they will move out of. These 2 darker puddles will leave behind invisible mines that if left untouched, will wipe the party. We will deal with these shortly.
 
-2 mechanics now go off at the same time - emumeration and ice puddle.
+Two mechanics now go off at the same time - enumeration and ice puddle.
 
-Enumeration rings will appear around 2 random DPS players - these rings must have exactly 3 players in each, otherwise everyone in the ring will die. The rings should be left and right of each other just under BJ and to resolve:
-- H1 and D2 plant on the left enumeration
-- H2 and D4 plant on the right enumeration
-- D1 and D3 will flex as necessary
+Enumeration rings will appear around 2 random DPS players - these rings must have exactly 3 players in each (including the DPS player it is attached to), otherwise everyone in the ring will die. The rings should be left and right of each other just under BJ and to resolve:
+- H1 and D2 plant on the left enumeration.
+- H2 and D4 plant on the right enumeration.
+- D1 and D3 will flex as necessary.
 
-As for the ice puddle, this will be an AoE marker on one of the tanks. The tank needs to take this to the western wall, where the marker will drop an ice puddle that gradually expands. This puddle needs to make contact with the water tornado as it will freeze it, preventing it from exploding. The newly formed ice block will also be pivotal in a later mechanic.
+As for the ice puddle, this will be an **AoE marker** on one of the tanks. The tank needs to take this to the western wall, where the marker will drop an ice puddle that gradually expands. This puddle needs to make contact with the water tornado as it will freeze it, preventing it from exploding. The newly formed ice block will also be pivotal in a later mechanic.
+
+It should be noted that anyone who stands in the ice puddle will take lethal damage, so steer clear.
 
 {: .note }
-As the ice puddle expands, the intial AoE marker itself does not need to overlap with the tornado - just as long as it hits the tornado after the ice grows. This will prevent the tank from accidentally getting too close to the tornado, which will result in being knocked back.
+As the ice puddle expands, the **intial** AoE marker itself does not need to overlap with the tornado - just as long as it hits the tornado after the ice grows. This will prevent the tank from accidentally getting too close to the tornado, which will result in being knocked back.
 
 The OT will then run over the 2 invisible mines with kitchen sinked mitigations. Each mine will inflict heavy AoE damage, so everyone else should steer clear.
 
 {: .healers }
-Keep an eye on the OT as they soak the mines. Even with heavy mitigation, the mines still hurt and you may need to help top the OT up between each mine.
+Keep an eye on the OT as they soak the mines. Use your cooldowns to help them (e.g. Divine Benison, Celestial Intersection, Excogitation, Haima, etc.). Even with heavy mitigation, the mines still hurt and you may need to help top the OT up between each mine. 
 
 After, DPS will complete their 2nd Nisi pass by running over the same pre-assigned support.
 
 {: .warning }
 D3 - ensure the OT has finished soaking both mines before passing so you don't accidentally get clipped by the AoE.
 
-### After Second Pass
+### After Second Pass - Verdict
 
+Players should now position for the next set of water and lightning explosions:
+- The water debuff player will stand on the north east B waymark, with 2 other players (ranged / healer who was not first water) surrounding them.
+- The healer who was 1st water will stand next to the MT to share and take their lightning debuff, as they cannot take another water stack.
 
+{: .warning }
+If the MT had to handle the ice puddle, they may need to recentre BJ. The healer to take lightning should give space for them to do so to avoid a Nisi car crash before standing beside them.
 
-## Temporal Stasis (Finished but needs proof reading)
+Around this time, the ice puddle should have dissipated and the OT should drag CC towards south west, then face him inwards. The water and lightning debuffs will resolve, passing the water to another player in the stack, and the lightning to the 1st water healer. **Remember that a water tornado will be left behind**, so everyone should leave the vicinity of the B waymark. 
+
+BJ will them cast **Verdict** - everyone will now receive a timerless debuff which shows a Nisi colour with two exclamation marks (!!). They look like this:
+
+![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/601db108-7ae6-4eda-a694-99d8082bab3c) ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/885d36cc-2b81-48e1-a4b5-e48f352bae67) ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/5d48646d-3bf8-4a29-98cc-1726946f6c0f) ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/fe30fbb6-b3aa-4ea9-a119-dde88b591664)
+
+This is BJ telling you, "**this needs to be your Nisi before I cast Gavel or it will be a wipe.**"
+
+Two mechanics will then occur simulataneously:
+
+BJ will cast **Flarethrower** on the closest player, a conal fire AoE. This should be baited by the MT, who will point it towards the water tornado on the B waymark, deleting it so it will not explode. Other players should take care to not be too close to BJ and also not be in a position to be hit by the AoE (it is usually not lethal but still hurts).
+
+CC will cast **Limit Cut**, becoming **invulnerable** and placing a **Plasma Shield** in front of him. This shield needs to be bursted down and can only be damaged from the front, which is why we made OT face him inwards before. If the shield is not quickly destroyed (approximately 5 seconds, 2 GCDs), CC will receive a **Damage Up** buff and shortly wipe the raid.
+
+After both mechanics conclude, supports should vertically line up in the middle. <br> From north to south: MT -> Lightning Healer -> Other Healer -> OT. 
+
+DPS will then do their 3rd pass:
+- If DPS currently hold the Nisi's, they should check the party list debuffs to see which support needs the colour they have for Verdict and pass to them.
+- If supports currently hold the Nisi's, DPS should check which colour they need for Verdict and pass to them.
+
+### After Third Pass - Gavel
+
+CC will cast **Whirlwind** for raidwide damage.
+
+Then, the last set of water and lightning debuffs need to be resolved. 
+- The lightning healer will share the explosion with the OT (who should be south west)
+- The water debuffed player will stand on the B waymark again. There still needs to be 3 players in the stack and as the previous water debuffed player cannot join the stack, at least 1 melee DPS will need to assist in sharing the damage.
+
+Once the water and lightning explosions resolve, everyone should make their way towards west, where the ice block is. OT will drag CC to the west cardinal, such that it is positioned between the wall and the ice block. All other players will line up horizontally, east of the ice block in **BPOG** order - that is, blue -> purple -> orange -> green, based on the colour you need for **Verdict**.
+
+{: .note }
+As you move into your BPOG lineup, try and give MT space to drag BJ down far enough so melee can have uptime.
+
+At this point, all players should be lined up except the OT, who is holding CC between the west wall and the ice block. CC will then cast **Propeller Wind**, a raidwide debuff that would **inflict Confused**, which forces you to attack your own party members - **BUT** the ice block acts as a wall that **breaks line of sight** so no one is hit by the attack. While Propeller Wind is being cast, CC will not move and this is when the OT will join the BPOG lineup.
+
+Below is a screenshot from Kur Rumi's OT POV, showing the final BPOG lineup and how the ice block puts us out of CC's line of sight for Propeller Wind. If you pay attention to the party list debuffs you will also notice everyone's current Nisi matches their Verdict debuff:
+
+![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/c5754e85-36c3-4913-a2f7-52015c36a483)
+
+As CC finishes casting Propeller Wind, BJ will cast **Gavel**. If everyone has the correct Nisi as per the requirements of Verdict, he will clear all debuffs, as well as remove the ice block and water tornado. If anyone has no Nisi or the incorrect Nisi, BJ will wipe the raid here.
+
+{: .note }
+Be sure to directly stand on top of the person who requires the same Nisi as you, in the off chance one of your Nisi falls off before Gavel. By being on top of each other, it will immediately refresh when fallen off.
+
+{: .warning }
+Wait till all the debuffs are 100% gone before moving out of the lineup - if you move a fraction early before Gavel properly resolves, you might accidentally combine Nisi's and cause a wipe.
+
+### Post-Gavel and Enrage
+
+After Gavel, both tanks should pull their bosses together to the west wall, allowing for cleave damage. At this point, pay attention to both boss's HP's and try to keep them as similar as possible as they need to die approximately at the same time.
+
+CC will then cast **Photon** again, but this will only affect tanks this time, dropping them both to 1HP. Healers should quickly top them up as a tankbuster is coming.
+
+BJ will cast **Double Rocket Punch**, an AoE tankbuster which should be shared between both tanks.
+
+After, BJ casts **Super Jump**, leaping to the furthest player, and knocking back any surrounding players. While **Double Rocket Punch** is being cast, D3 should run to the east wall to bait this jump - as no one else should be around, the knockback shouldn't affect anyone. D3 should then move to the side of BJ, as he will then cast **Apocalyptic Ray**, a large conal AoE that lingers for several seconds and baits on the furthest player. While being hit by Apocalyptic Ray is lethal, it only covers approximately 2/3'rds of the arena so all players still west with CC will be safe.
+
+CC will then use **Whirlwind** (raidwide) twice before both bosses cast their enrage (**Eternal Darkness** for CC and **Final Judgment** for BJ). If either of the bosses die first beforehand, the other will cast their enrage early, which is why it is important to kill them at approximately the same time.
+
+## Temporal Stasis
 
 This is a short "you have this debuff, so stand in this position," mechanic, but I will explain the debuffs so you can understand why the mechanic solves.
 
@@ -192,8 +261,8 @@ Once the debuffs resolve, BJ will cast Flarethrower (conal AoE) to the 2 closest
 
 ### Debuffs
 
-The debuffs are as below. They are **role-based**, One DPS and one support will receive one of the following:
-- **Aggravated Assault**, shown by lightning symbol ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/36aa1af3-daa6-4c3b-8ec2-fa2e04a53f6f)
+The debuffs are as below. They are **role-based**, one DPS and one support will receive one of the following:
+- **Aggravated Assault**, shown by a lightning symbol ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/36aa1af3-daa6-4c3b-8ec2-fa2e04a53f6f)
  in the debuff. These 2 players will take moderate damage and receive physical and magic vulnerabilities and therefore cannot take any other damage during the timestop, otherwise they will die.
 - **Blue tether**. ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/163d6d46-601c-412c-9351-b73f1acabad2)
  These 2 players must be far apart during the timestop or they will die.
@@ -203,8 +272,8 @@ The debuffs are as below. They are **role-based**, One DPS and one support will 
 
 ### Resolution
 
-So, this is where everyone will stand to make this work:
-- Both **Aggravated Assault** players run hard east/west to the wall, whichever one BJ is closest to. This ensures they are far enough to not be hit by anything.
+This is where everyone will stand to make this work:
+- Both **Aggravated Assault** players run hard east or west to the wall - whichever one BJ is closest to. This ensures they are far enough to not be hit by anything and do not bait any cleaves.
 - **No debuff** players go towards the left boss. The support will go north of the boss and the DPS will go south of the boss to bait their cleaves.
 - **Christmas tether** players go towards the right boss. The support will go north of the boss and the DPS will go south of the boss to bait their cleaves. You will notice the (1) waymark will be under this boss - the width of the waymark is approximately how far the 2 players should be for the Christmas tether to resolve safely. Here's a screenshot that demonstrates that: ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/4f371937-6aab-4332-8bc7-c2a6271c8245)
 - Players with the **blue tether** will be across the room from each other - support to the west, DPS to the east. The player on the side nearest BJ should stand on the wall, with the Aggravated Assault players as they will not be baiting his flarethrower. **However**, the player on the side nearest CC should stand more inwards to ensure they bait his 3rd cleave (the D and 2 waymarks are good indicators on where to stand).
@@ -213,7 +282,7 @@ Here is a diagram demonstrating the above information. Credits to Juno Dax for m
 
 ![TemporalStasisJuno](https://github.com/nozzyxx/materiaraiding/assets/160133948/31845dfb-fc41-4ad0-8f3c-5f6972c61b5a)
 
-Take note that in this scenario, as CC is on the right, D2 with the blue tether is a little more inwards and not on the wall to ensure they bait that 3rd CC cleave. If CC was on the left instead, D2 would be on the wall, the Aggravated Assault players on the right with D2 (as BJ would be there) and the DH1 with blue tether would be a little more inwards to bait the CC cleave.
+Take note that in this scenario, as CC is on the right, D2 with the blue tether is a little more inwards and not on the wall to ensure they bait that 3rd CC cleave. If CC was on the left instead, D2 would be on the wall, the Aggravated Assault players on the right with D2 (as BJ would be there) and the H1 with blue tether would be a little more inwards to bait the CC cleave.
 
 {: .note }
 Even though buff and cooldown timers freeze, their effects still apply. For example, if you have Lucid Dreaming active during the timestop, the buff timer doesn't go down but the mana regen still ticks, giving you a little extra mana from the spell than it normally would.
@@ -262,7 +331,7 @@ Once Alexander Prime is defeated, he begins counting down for **Judgment Protoco
 
 After Judgment Protocol, you will watch Perfect Alexander come to life.
 
-## Phase 4: Perfect Alexander
+## Phase 4: Perfect Alexander (Finished - subject to edits)
 
 The final phase of this fight involves several debuffs which can be simply resolved by, "stand in this location," but as usual I will explain what's happening so you can understand **why**.
 
@@ -291,7 +360,10 @@ If he is casting motion, your character must be moving at the end of the cast or
 
 The completion of this mechanic will be denoted by a light sword falling above you.
 
-If he is casting stillness, your character must be **completely still** at the end of the cast or you will die, and I mean **STILL**. No emoting, not mid animation of an ability cast, no autoattacks, NOTHING. This mechanic can be resolved by pressing the escape key twice and taking your hands off your keyboard (or controller).
+If he is casting stillness, your character must be **completely still** at the end of the cast or you will die, and I mean **STILL**. No emoting, not mid animation of an ability cast, no autoattacks, **NOTHING**. This mechanic can be resolved by pressing the escape key twice and taking your hands off your keyboard (or controller).
+
+{: .note }
+Experienced players may comfortably sneak in an extra GCD before stillness - however, if you are progging / aiming to clear / not 100% confident, it is **ABSOLUTELY NOT WORTH** greeding the extra GCD at the risk of wiping the raid. Your 1 lost GCD should not make-or-break the final DPS check.
 
 The completion of this mechanic will be denoted by a dark sword falling above you. 
 
