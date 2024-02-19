@@ -385,9 +385,9 @@ Perfect Alexander begins by casting **The Final Word** and everyone will receive
 - 1 player will be the **dark beacon** ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/01d3f745-ff2f-4c6e-8327-c746ab7379a1) and 3 will be **dark arrows** ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/dfc13608-2195-410a-99d1-c3acbc15c1bb). When the debuff expires, the dark arrows are forced to march **away** from the dark beacon for a fixed duration. In this time, if a dark arrow makes contact or is too far away from the dark beacon they die.
 
 As soon as players get their debuffs, everyone should begin to preposition as per follows:
-- **Light Beacon** plants towards the western part of the D waymark
-- **Dark Beacon** plants dead centre of the 2 waymark
-- All other the players between 1 and 2 waymarks (leaning towards the west wall of the 2 waymark is safest)
+- **Light Beacon** plants towards the western part of the D waymark.
+- **Dark Beacon** plants dead centre of the 2 waymark.
+- All other the players between 1 and 2 waymarks (leaning towards the west wall of the 2 waymark is safest).
 
 Below is a screenshot from the toolbox which demonstrates the above positioning.
 
@@ -464,7 +464,7 @@ After your clone wanders around for a couple seconds, all the debuffs will appea
 - **Dark with Christmas Tether**: you are tethered to Light with Christmas Tether and must be close to them at the end of the forced march.
 
 Then, after the forced marches, 3 Perfect Alexander clones will **Super Jump** to the west, south and east cardinals respectively, near the wall. These jumps will need to be baited by 3 players. After, the Perfect Alexander behind the wall at north will cast **Optical Sight**, which will be either 2 sets of light party stacks, or everyone needs spread out.
-- If there are 2 green balls to his left and right, it is **2 light party stacks**
+- If there are 2 green balls to his left and right, it is **2 light party stacks**.
 - If there are multiple small green orbs, it is **spreads**.
 
 Finally, one of the clones that Super Jumped will cast **Radiant Sacrament**, a large donut AoE. At the end of the mechanic, players need to be under this clone.
