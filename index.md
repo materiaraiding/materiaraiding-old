@@ -33,3 +33,13 @@ Or join the discussion on Discord!
 
 [Materia Raiding Discord](https://discord.gg/EySn5dRj65){: .btn .btn-purple }
 [Materia Ultimate Raiding Discord](https://discord.gg/ArZz3b8PZV){: .btn .btn-purple }
+
+### Contributors
+- Em Quackingway (Website and Github Management)
+- Juno Dax
+- Noz Leafhill
+- Kobe
+- Soushi
+- Kurume
+- Materia Raiding Community (Various Resources)
+- Materia Ultimate Raiding Community (Various Resources)
