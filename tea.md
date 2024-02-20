@@ -71,13 +71,19 @@ Space = Hold to select numbers
 
 I highly recommend going over the toolboxes and / or watching PoVs in conjunction with reading this guide to put everything you read into context.
 
+FYI - in the toolboxes, the **DRG is D1** and **NIN is D2**
+
 ## Phase 1: Living Liquid
 
-Coming soon I promise
+This phase will involve a lot of specific movement and shuffling from each player to bait certain mechanics. I do not want to clutter this guide with toolbox screenshots showing every bit of movement, but I will give a general outline of who is baiting what and when. Please refer to the actual toolbox for exact individual positioning throughout this phase.
 
-### Jagd Dolls
+### Intro and Jagd Dolls
 
--words-
+The fight begins with MT pulling **Living Liquid** (LL) to the centre and facing him north. After a few autoattacks he will cast **Fluid Swing**, an untelegraphed tankbuster that leaves a very brief **Water Resistance Down**.
+
+He will then cast **Cascade**, a raidwide that spawns 3 large puddles with tornadoes in them, on 3 cardinals or 3 intercardinals, leaving one quarter of the room empty. Standing in a puddle will inflict nasty lethal damage, so steer clear. The toolbox treats this empty quarter as the new 'north,' so we will follow this.
+
+After **Cascade**, LL 
 
 ### Proteans and Splashes
 
@@ -162,7 +168,7 @@ The next phase involves taking on both Brute Justice (BJ) and Cruise Chaser (CC)
 
 In this phase, there is **a lot** going on. In saying that, depending on which role you are, a lot of these mechanics may not involve you **but it's still good to be aware of them so you are not in anyone's way and do not get hit by something you're not supposed to**.
 
-I also do not want to clutter this section with toolbox screenshots, so please refer to the actual toolbox for exact positioning throughout this phase. Instead, this section will focus on what events occur between each Nisi pass (and of course, if you are new to TEA, I will explain what Nisi is).
+While I will provide general guidelines on positoning, I once again do not want to clutter this section with toolbox screenshots. Please refer to the actual toolbox for exact positioning throughout this phase.
 
 ### Intro: Before First Nisi Pass
 
@@ -361,6 +367,9 @@ Once done, time till resume, BJ and CC will leave and Alexander Prime will spawn
 
 The phase begins with **Chastening Heat**, which is a tankbuster on the current aggro'd player that applies a Magic Vulnerability Up. This is then followed by 3× **Divine Spear**s, tankbusters that deal magic damage. Thus, this should be dealt with via an invulnerability or tank swap.
 
+{: .tanks }
+_Generally_, the MT will use their invulnerability here, but there are multiple scenarios that could warrant a tank swap or OT using their invulnerability instead. One example could be that your MT is a **PLD** and **Hallowed Ground** is not up from when it was used at the beginning of Living Liquid. Whatever the reason is and whatever way the tankbuster should be handled can be easily be decided with **open communication** between the 2 tanks pre-pull or during the timestop.
+
 Alexander Prime then casts his first mechanic.
 
 ### Inception Formation
@@ -391,9 +400,12 @@ Alexander will spawn north, with BJ south west and CC south east of him. He begi
 
 CC will be casting **Eternal Darkness**, which wipes the party should the cast finish. 
 
-Meanwhile, BJ enters with **J Storm**, a hard hitting raidwide. From there, every few seconds, BJ casts **J Wave**, hard hitting raidwide that also grants him a stacking damage up buff. These J Waves will require a lot of mitigation and healing - this is probably the most intensive part of the fight for healers.
+Meanwhile, BJ enters with **J Storm**, a hard hitting raidwide. From there, every few seconds, BJ casts **J Wave**, hard hitting raidwide that also grants him a **stacking damage up buff**. These J Waves will require a **lot of mitigation and healing**.
 
 The party should focus on taking down CC first, then BJ, then finishing off Alexander Prime.
+
+{: .everyone }
+In a group with solid DPS, you may find that when Alexander Prime is almost dead, there is still a long time before **Divine Judgment** is finished casting. Players may choose to temporarily hold off damage and kill him last second to allow major cooldowns such as 2 minute buffs and abilities to be ready by the beginning of the next phase.
 
 Once Alexander Prime is defeated, he begins counting down for **Judgment Protocol**. A tank will need to use **Limit Break 3** when there is 4 seconds left till the cast (indicated by the chat bubble) for the party to survive this attack.
 
