@@ -71,9 +71,9 @@ Space = Hold to select numbers
 
 I highly recommend going over the toolboxes and / or watching PoVs in conjunction with reading this guide to put everything you read into context.
 
-FYI - in the toolboxes, the **DRG is D1** and **NIN is D2**
+FYI - in the toolboxes, the **DRG is D1** and **NIN is D2**.
 
-## Phase 1: Living Liquid
+## Phase 1: Living Liquid (WIP)
 
 This phase will involve a lot of specific movement and shuffling from each player to bait certain mechanics. I do not want to clutter this guide with toolbox screenshots showing every bit of movement, but I will give a general outline of who is baiting what and when. Please refer to the actual toolbox for exact individual positioning throughout this phase.
 
@@ -83,7 +83,9 @@ The fight begins with MT pulling **Living Liquid** (LL) to the centre and facing
 
 He will then cast **Cascade**, a raidwide that spawns 3 large puddles with tornadoes in them, on 3 cardinals or 3 intercardinals, leaving one quarter of the room empty. Standing in a puddle will inflict nasty lethal damage, so steer clear. The toolbox treats this empty quarter as the new 'north,' so we will follow this.
 
-After **Cascade**, LL 
+At this time, LL will also summon **Liquid Hand** (who I will just refer to as the Hand) and split half his current HP with it. The OT will take aggro of the Hand. From here, as a general rule, melee DPS should focus LL while ranged and casters focus the Hand.
+
+The MT will take LL to the south west corner
 
 ### Proteans and Splashes
 
