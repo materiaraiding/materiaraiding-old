@@ -69,6 +69,8 @@ Space = Hold to select numbers
 
 ## Written Guide
 
+I highly recommend going over the toolboxes and / or watching PoVs in conjunction with reading this guide to put everything you read into context.
+
 ## Phase 1: Living Liquid
 
 Coming soon I promise
@@ -91,7 +93,7 @@ There are 2 major components to handle simultaneously during this intermission p
 
 ### Numbers
 
-Once Living Liquid drops, players will ne numbered from 1-8 (signified by the number of dots above their head).
+Once Living Liquid drops, players will be numbered from 1-8 (signified by the number of dots above their head).
 
 Your number indicates the order in which **Cruise Chaser** (CC) will attack you. 
 
@@ -103,30 +105,56 @@ CC then spawns behind #3, uses Alpha Sword again, then dashes to #4. He will rep
 As all of CC's attacks during Limit Cut have a knockback effect, everyone should negate this using **Arm's Length** or **Surecast**.
 
 {: .warning }
-For odd players - as CC will spawn **behind** you from the direction you are facing, always face forward as you are running and be sure not to strafe in any random direction.
+For odd players - as CC will spawn **behind** you from the direction you are facing, always face forward as you are running and be sure not to look anywhere else.
 
 ### AoE Explosions
 
 During this mechanic, there will also be 10 sets of large untelegraphed AoE explosions around the arena. Being hit by one will be lethal. This is how they work:
-- The 1st, 2nd, 3rd and 4th will include 2 towards the wall that are 180 degrees from each other and rotate clockwise.
+- The 1st, 2nd, 3rd and 4th will include 2 towards the wall that are 180 degrees apart from each other and rotate clockwise.
 - The 5th explosion is in the centre of the arena.
-- The 6th, 7th, 8th and 9th will continue from after where the 4th explosion wall while maintaining the clockwise pattern.
+- The 6th, 7th, 8th and 9th will continue from after where the 4th explosion was while maintaining the clockwise pattern.
 - The 10th explosion is once again in the centre of arena.
 
 ### Putting it all together - 1256 strat
 
-Once players identify their numbers, everyone will stack in the middle to wait for the first explosion.
+MUR adopts the **1256 strat** to resolve Limit Cut.
+
+Once players identify their numbers, everyone will stack in the middle to wait to run out into the 1st explosion. We divide everyone into 2 groups:
+- 1/2 and 5/6, who will go into the 1st explosion between west and north east (indicated by the green in the below diagram).
+- 3/4 and 7/8, who will go into the 1st explosion between east and south west (indicated by the purple in the below diagram).
+
+See the below diagram on the possible locations for the 1st explosions - remember the 2 explosions will always be 180 degrees from each other. This image was taken from the strats channel in the MUR discord.
 
 ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/63d8dfd4-0361-49d5-bb54-25e975158bc8)
 
-
-We dodge the explosions by trailing behind the wall ones that rotate clockwise. To understand the spacing, notice how the circle in the middle part of the area is sectioned into **pizza slices**, indicated by the drawn green lines:
+Once the players reach their outer edge of the arena, we continue to dodge by rotating clockwise. To understand the spacing on how to move, notice how the circle in the middle part of the arena is sectioned into **pizza slices**, indicated by the drawn green lines:
 
 ![TEALC](https://github.com/nozzyxx/materiaraiding/assets/160133948/8baa0e2c-2f67-48bf-b7d5-67f4c56f11cf)
 
-As you can see, the AoE explosions are **2 pizza slices wide**. The epicentre of the explosion moves 1 pizza slice clockwise per exposion - so, for each explosion, **you can move up 1 pizza slice**. Remember to stop moving up after the 4th, as the next explosion will be in the middle, before the explosions resume from where they left off.
+As you can see, the AoE explosions are **2 pizza slices wide**. The epicentre of the explosion moves 1 pizza slice clockwise per explosion - so, for each explosion, **you can move up 1 pizza slice**. Remember to stop moving up after the 4th, as the next explosion will be in the middle, before the explosions resume from where they left off.
 
-MUR employs the 1256 strat 
+You will also notice that the outer area of the arena you are moving in is separated into 2 "**lanes**". Looking at the above screenshot again, there's the outmost ring, then another inner ring with those yellow dots. We will use this inner ring with dots as a lane for pairs who are next in line to be struck by CC. 
+
+While in this inner lane, the **odd number should lead the way** while their partnered **even number should trail about 2 yellow dots behind**. This way, CC should appear **between** the 2 players, **Alpha Sword** the odd, then turn around to do his dash on the even. The other outer lane will be for pairs who are waiting for the turn, or have finished their turn. 
+
+{: .warning }
+Players in the outer lane should take care not to get clipped by CC as he strikes players in the inner lane.
+
+So, once each group runs into their respective sides after the 1st explosion:
+- 1/2 and 3/4 will be on the inner lane while 5/6 and 7/8 run along the outer lane.
+- CC will strike 1 and 2 after the 3rd explosion. 1/2 and 5/6 can swap lanes.
+- Remember to **not run ahead after the 4th explosion** as the **5th will be on mid**, then the **6th will continue on from where the 4th left off**.
+- CC will strike 3 and 4 just as the 6th explosion goes off. 3/4 and 7/8 can swap lanes.
+- CC will strike 5 and 6 just before the 8th explosion goes off.
+- CC will strike 7 and 8 after the 10th explosion.
+
+{: .note }
+If you are not keeping up with following the explosions and are lagging behind, **especially** if you are an odd number, using **sprint** is recommended.
+
+{: .everyone }
+**As a reminder - don't forget to use your anti-knockback before CC attacks you!**
+
+The arena will then change for the next phase. Healers should quickly top players up and use some mitigation for the incoming raidwide.
 
 ## Phase 2: Brute Justice and Cruise Chaser
 
@@ -154,8 +182,7 @@ This is important as later in the phase, BJ will cast **Verdict** which is essen
 If 2 players with different Nisi's combine, both players will die and as some Nisi have been lost, it will result in a wipe as you will not survive Verdict. Thus, throughout this phase, everyone must be aware of their surroundings and move carefully and with purpose, to avoid any collisions.
 
 BJ will then cast **Link-Up**, which inflicts 1 healer with a **water debuff** ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/f0b39cc0-07b5-4de1-a95a-627561eb0a8a)
- and 1 DPS with a **lightning debuff** ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/8cc998b7-898b-4b0d-8737-19a0ec7204fc)
-. At the end of the debuff timers, they explode: 
+ and 1 DPS with a **lightning debuff** ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/8cc998b7-898b-4b0d-8737-19a0ec7204fc). At the end of the debuff timers, they explode: 
 - The damage of the water explosion needs to be split between at least 3 players
 - The lightning explosion damage needs to be split between at least 2 players.
 
