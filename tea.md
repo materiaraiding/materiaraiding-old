@@ -370,7 +370,7 @@ Once done, time till resume, BJ and CC will leave and Alexander Prime will spawn
 The phase begins with **Chastening Heat**, which is a tankbuster on the current aggro'd player that applies a Magic Vulnerability Up. This is then followed by 3× **Divine Spear**s, tankbusters that deal magic damage. Thus, this should be dealt with via an invulnerability or tank swap.
 
 {: .tanks }
-_Generally_, the MT will use their invulnerability here, but there are multiple scenarios that could warrant a tank swap or OT using their invulnerability instead. One example could be that your MT is a **PLD** and **Hallowed Ground** is not up from when it was used at the beginning of Living Liquid. Whatever the reason is and whatever way the tankbuster should be handled can be easily be decided with **open communication** between the 2 tanks pre-pull or during the timestop.
+_Generally_, the MT will use their invulnerability here, but there are multiple scenarios that could warrant a tank swap or OT using their invulnerability instead. One example could be that your MT is a **PLD** and **Hallowed Ground** is not up from when it was used at the beginning of **Phase 1: Living Liquid**. Whatever the reason is and whatever way the tankbuster should be handled can be easily be decided with **open communication** between the 2 tanks pre-pull or during the timestop.
 
 Alexander Prime then casts his first mechanic.
 
@@ -378,13 +378,94 @@ Alexander Prime then casts his first mechanic.
 
 Alexander Prime is untargetable for the duration of this mechanic.
 
-Locate Alexander Prime's new location on the wall and consider this your new 'north.'
+Alexander Prime will spawn on either the north or south wall - wherever he is, consider this your new relative north for the time being. BJ and CC will also be on the sides.
 
---this is a work in progress!--
+The first part of inception has 2 components occurring simulatneously - the **crystals** and the **aetheroplasms**.
+
+For the **crystals**, 4 players will receive a **large AoE spread marker** around them, which will **drop a crystal** when it explodes. These crystals **must not overlap** and their correct placement is **pivotal** in clearing the rest of the fight. These players should move themselves **relative south** (opposite Alexander Prime) and spread out in a box formation like so:
+
+#### **DIAGRAM COMING SOON** !!!!!!!!!
+
+If positioned correctly, there will be a small channel of space running vertically in the centre line of the area. As soon as the crystals drop, the 4 players should run **relative north**, towards Alexander Prime because the crystals will shortly do proximity damage.
+
+You will notice a cute little black cat on the south wall who will spawn a pink **True Heart** add. The True Heart will zoom across the middle vertically, **exploding any crystals** it comes in contact with, dealing the aforementioned **proximity damage**. 
+
+If all 4 crystals explode, the True Heart becomes **golden**, will aid you in getting through the rest of Inception and also shortly grant all players with the **Enigma Codex** buff. 
+
+This buff is why I previously mentioned correct placement is important to clear the fight because if the True Heart does not cut through all 4 crystals, you will not receive the buff and you will have an **extremely difficult time** getting through the final phase (more on that in Phase 4: Perfect Alexander).
+
+As for the **aetheroplasms**, 4 giant green orbs will spawn east and west (2 on each side) and tether to 4 players. The orb will then travel to its tether player, exploding on contact. As it travels, the orb gradually reduces in size.
+
+Once an orb makes contact with a player, it leaves a **green bubble** that renders you **Heavy** (reduced movement speed) while inside. As there are 4 orbs, there will be 4 bubbles and they **must not overlap** or they will explode and wipe the raid.
+
+To resolve, tethered players should initially hang **north and opposite the side** of where their orb initially spawned. Positioning north initially helps drag the orb upwards and **away** from the 4 crystal players to prevent an unwanted collision.
+
+Notice the **4 red dots** (2 on each side) on the northern part of the arena: 
+
+![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/0ab9b075-0d31-4b03-b4d7-ce976ba6060a)
+
+Players should then move and **stand on a dot** that is on the side opposite of where their orb spawned. We generally say to position such that your tether crosses over the tether of the person stands on the same side as you - but you don't need to be too pedantic about this.
+
+After your orb has exploded and created its bubble, make your way **north** (towards Alexander Prime) as the crystals placed south will explode for **proximity damage**.
+
+Shortly after all the crystals explode and aetheroplasms pop, BJ will cast **Flarethrower** thrice, baited onto the 3 closest people. MT will do the first bait, pointing it **relative south**, then OT who will aim it through **the middle of the arena** and finally the rest of the party, who will be waiting **relative north** in the aetheroplasm bubble.
+
+{: .warning }
+The flarethrower inflicts a **Fire Resistance Down** debuff so you cannot be hit by more than 1.
+
+{: .tanks }
+While every other player runs north to avoid the proximity damage from the crystals, you should run off early / don't have to run all the way north so you can bait your flarethrower in time. It is also helpful to run through the middle to get to your position so you are not slowed by the aetheroplasm bubble.
+
+Players will then gather around the True Heart. While it will not take damage, you can hit it to build job gauge, etc.
+
+Several players will then receive **debuffs**:
+- A tank and 1 DPS will be connected by a blue tether and need to be far to survive. ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/e9991105-9dac-4d3d-bfa7-1875a810350b)
+- 1 DPS will receive Shared Sentence, symbolised by an icon with 3 figures. ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/1ad428b5-1886-4220-bf70-ed8ed71d6fcc)
+ This DPS will emit a small AoE around them that needs to be shared with 2 other players. The AoE will inflict both physical and magical vulnerabilities.
+- 2 DPS will get Aggravated Assault, denoted by a lightning symbol. ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/a8ed0fbb-d3e6-46d5-a885-435c88331d51)
+ They will take moderate damage and receive vulnerabilities.
+
+The True Heart will then **move to the wall** and disappear, granting the **Enigma Codex** debuff. Where the True Heart moves signifies where Alexander Prime will spawn, where he casts **Sacrament**, a T-shaped laser.
+
+{: .note }
+The True Heart will not show Alexander Prime's position if it did not pop all 4 crystals at the beginning of Inception.
+
+Now, using the True Heart's wall position as **relative north**, **both tanks** and the **shared sentence DPS will run west** (making sure that they're stacked together) and **everyone else will run east**. Tether players should be sure to stand at the wall for their debuff to resolve safely.
+
+Alexander Prime will reappear and shoot his **Sacrament** laser and all the debuffs will resolve. Next, CC will spawn **dead centre** and BJ appears **true west** on the wall. After a delay, CC will cast 3 **Alpha Swords** (conal AoE, no knockback) on the 3 closest players, then BJ will **Super Jump** to the furthest target, knocking back anyone around the chosen target.
+
+To resolve this, once the debuffs resolve:
+- **H1** stands close **true north** of CC
+- **H2** stands close **true south** of CC
+- **Blue Tether DPS** stands close **true west** of CC
+- **MT** stands on the east wall to **bait Super Jump**
+- Everyone else stands on the **1 Waymark **(which is between CC and the east wall), so they are far enough to not bait any Alpha Swords and also to not be affected by the Super Jump knockback.
+
+{: .note }
+As Inception has been full of "relative north" mechanics, the Waymarks can be useful to reorient yourself - for example, locate A and you will know that is north.
+
+Alexander Prime will become targetable again and reappear in the centre of the arena. He will perform the same **Chastening Heat** and 3 **Divine Spears** tankbuster combo at the start of the phase, except with a slightly longer delay between the first hit and the spears. Use a tank invulnerability, or tank swap after the Chastening Heat. 
+
+If whoever is taking this tankbuster chooses to use their invulnerability, generally what needs to happen is the **Chastening Heat** is **kitchen sink mitigated**, then **use the invulnerability for the spears**. This is due to the longer delay between the two attacks, meaning the invulnerability won't last long enough to catch the last **Divine Spear**. The only exception would be DRK's **Living Dead**.
+
+{: .tanks }
+_Generally_, the OT will solo this with their kitchen sink + invulnerability. However, as previously mentioned, if there is a situation that warrants a different way to handle the tankbuster, just communicate with your cotank.
+
+This leads to Alexander Prime's next mechanic: **Wormhole Formation**.
 
 ### Wormhole Formation
 
 Alexander Prime is untargetable for the duration of this mechanic.
+
+Wormhole combines multiple aspects that we have seen throughout this fight and mashes it all into 1 big mechanic. They include:
+- **Numbers** from **Intermission: Limit Cut**. The mechanic functions the **exact same way**, including knocking back on each attack and applying a vulnerability.
+- 2 **puddles** that spawn east and west diagonally opposite each other, which need to be soaked **3 times each**. Each soak reduces the size of the puddle, until it is 'gone.' Soaking a puddle applies a **vulnerability up**. If a soak is missed the party will wipe.
+- BJ **Super Jump** and **Apocalyptic Ray** (like the one at the end of Phase 2: BJCC)
+- 2 **chakrams** that will cut across the arena once baited on a player. These work the same way as from the beginning of **Phase 2: BJCC** but instead of being 180 degrees apart, they are 90 degrees apart, spawning at the cardinals.
+- Alexander Prime **Sacrament** (T-shaped laser). This shouldn't be a problem to dodge and is basically a, "don't run down the middle," check.
+
+{: .note }
+I will describe this mechanic using true cardinal positions, where BJ and CC spawn in the true north area and Alexander Prime spawns true south. However, some players find it easier to process the mechanic treating Alexander Prime as 'north.' Both ways are valid - as long as you do the mechanic correctly, do whatever is easier for you.
 
 --this is a work in progress!--
 
@@ -392,7 +473,7 @@ At the end of Wormhole, a party member will be marked with a stack marker which 
 
 After, 2 DPS will have enumeration rings which must have exactly 3 people inside the circle to resolve. Facing Alexander Prime, one should move left and the other to the right. Simply use eyes and adjust on the fly. To ensure there are 3 players in each ring, both tanks should move into the left enumeration, while both healers move into the right. The 2 remaining DPS with nothing should steer clear.
 
-Once the enumerations resolve, Alexander Prime once again becomes targetable and respawn in the middle of the arena, where he castS **Mega Holy** twice, a hardhitting raidwide which requires mitigation and healing in between.
+Once the enumerations resolve, Alexander Prime once again becomes targetable and respawn in the middle of the arena, where he casts **Mega Holy** twice, a hardhitting raidwide which requires mitigation and healing in between.
 
 Alexander Prime will then begin casting **Summon Alexander**, the final part of this phase.
 
@@ -460,9 +541,9 @@ The 2 party stacks do not actually need to be perfectly balanced - as long as th
 
 ### Fate Calibration Alpha
 
-After, Perfect Alexander begins a short cast, spawning 4 clones of himself north and a clone of your own character will also appear. This clone appears thanks to the Enigma Codex true sight buff you received in Phase 3: Alexander Prime. 
+After, Perfect Alexander begins a short cast, spawning 4 clones of himself north and a clone of your own character will also appear. This clone appears thanks to the **Enigma Codex** buff you received in Phase 3: Alexander Prime **Inception Formation** - essentially, you are looking into the future. 
 
-He will then do another long **Fate Calibration Alpha** cast. During his long cast, you see the entire mechanic play out then once the cast is finished, he becomes untargetable and you do the mechanic for real. In this mechanic, instead of getting debuffs on your buff bar, you watch the debuff happen on your clone. 
+He will then do another long **Fate Calibration Alpha** cast. During his long cast, you see the entire mechanic play out then once the cast is finished, he becomes untargetable and you do the mechanic for real. In this mechanic, instead of getting debuffs on your buff bar, you watch the debuff happen on your clone. **With no Enigma Codex and therefore no clones, you will no idea who has what debuff or what the Perfect Alexander clones will do.**
 
 First, a dark or light sword will fall above you, indicating **stillness or motion** for the first part of the mechanic. Everyone will receive the same sword.
 
@@ -492,7 +573,7 @@ For the triple-hit, the tanks should share the damage and kitchen sink their mit
 
 ### Fate Calibration Beta
 
-The next mechanic is **Fate Calibration Beta**, which is another watch-your-clone mechanic. Similar to the previous mechanic, Fate Calibration Beta will start with Perfect Alexander doing a short cast to signify the start of the mechanic, then a long cast to preview all the upcoming mechanics.
+The next mechanic is **Fate Calibration Beta**, which is another watch-your-clone mechanic, made possible with the **Enigma Codex** buff. Similar to the previous mechanic, Fate Calibration Beta will start with Perfect Alexander doing a short cast to signify the start of the mechanic, then a long cast to preview all the upcoming mechanics.
 
 After your clone wanders around for a couple seconds, all the debuffs will appear - it will be the same beacon / forced march mechanic from The Final Word with a few extra bits.
 - **Light Beacon**: you have a light symbol above your head, your character stands near the wall and **DOES NOT MOVE**.
