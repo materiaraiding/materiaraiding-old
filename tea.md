@@ -382,9 +382,9 @@ Alexander Prime will spawn on either the north or south wall - wherever he is, c
 
 The first part of inception has 2 components occurring simulatneously - the **crystals** and the **aetheroplasms**.
 
-For the **crystals**, 4 players will receive a **large AoE spread marker** around them, which will **drop a crystal** when it explodes. These crystals **must not overlap** and their correct placement is **pivotal** in clearing the rest of the fight. These players should move themselves **relative south** (opposite Alexander Prime) and spread out in a box formation like so:
+For the **crystals**, 4 players will receive a **large AoE spread marker** around them, which will **drop a crystal** when it explodes. These crystals **must not overlap** and their correct placement is **pivotal** in clearing the rest of the fight. These players should move themselves **relative south** (opposite Alexander Prime) and spread out in a box formation like so (credits to Sonya Sealle for the image):
 
-#### **DIAGRAM COMING SOON** !!!!!!!!!
+![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/dc8059eb-95dd-44b1-ace2-849e2896f3e6)
 
 If positioned correctly, there will be a small channel of space running vertically in the centre line of the area. As soon as the crystals drop, the 4 players should run **relative north**, towards Alexander Prime because the crystals will shortly do proximity damage.
 
@@ -466,6 +466,15 @@ Wormhole combines multiple aspects that we have seen throughout this fight and m
 
 {: .note }
 I will describe this mechanic using true cardinal positions, where BJ and CC spawn in the true north area and Alexander Prime spawns true south. However, some players find it easier to process the mechanic treating Alexander Prime as 'north.' Both ways are valid - as long as you do the mechanic correctly, do whatever is easier for you.
+
+**EXPLAINING WORMHOLE HERE**
+
+As you can see, there are a lot 'nitpicky' things players need to keep in mind as they run through Wormhole. Here is a general summary of key things:
+- Odds move true west, evens move true east.
+- 1/2 and 5/6 resolve CC Limit Cut true north side, 3/4 and 7/8 resolve true south side.
+- Puddles soak order on west side is 5 -> 7 -> 1, puddles soak order on east side is 6 -> 8 -> 2.
+- If you are 3 or 4 and baiting Super Jump, give yourself space to step forward to dodge the upcoming Apocalyptic Ray.
+- If you are 1 or 2 and baiting Apocalyptic Ray, remember to hold your position until it is properly baited before moving out.
 
 --this is a work in progress!--
 
