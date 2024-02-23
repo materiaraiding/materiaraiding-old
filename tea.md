@@ -439,7 +439,7 @@ To resolve this, once the debuffs resolve:
 - **H2** stands close **true south** of CC
 - **Blue Tether DPS** stands close **true west** of CC
 - **MT** stands on the east wall to **bait Super Jump**
-- Everyone else stands on the **1 Waymark **(which is between CC and the east wall), so they are far enough to not bait any Alpha Swords and also to not be affected by the Super Jump knockback.
+- Everyone else stands on the **1 Waymark** (which is between CC and the east wall), so they are far enough to not bait any Alpha Swords and also to not be affected by the Super Jump knockback.
 
 {: .note }
 As Inception has been full of "relative north" mechanics, the Waymarks can be useful to reorient yourself - for example, locate A and you will know that is north.
