@@ -467,7 +467,55 @@ Wormhole combines multiple aspects that we have seen throughout this fight and m
 {: .note }
 I will describe this mechanic using true cardinal positions, where BJ and CC spawn in the true north area and Alexander Prime spawns true south. However, some players find it easier to process the mechanic treating Alexander Prime as 'north.' Both ways are valid - as long as you do the mechanic correctly, do whatever is easier for you.
 
-**EXPLAINING WORMHOLE HERE**
+Once Alexander Prime becomes untargetable, everyone must **stack in the middle** to bait **both chakrams** through the centre, cutting through in a + shape. 
+
+BJ and CC will spawn true north west and true north east (they can spawn on either side). Where BJ appears is where he will be casting **Super Jump** from.
+
+The **Limit Cut numbers** will appear as the chakrams are baited and manifest on the walls - this will mean that players must identify their number while in the crowd.
+
+{: .note }
+Players can jump to see their number while stacked as a group.
+
+Let's start by going through the **Limit Cut** numbers. See the diagram below - we will once again be using the **red dots** to help position ourselves.
+
+**Diagram is being made.**
+
+All **odd numbers move west side** and all **even numbers move east side**. Numbers 1/2 and 5/6 resolve their attacks **north**, while numbers 3/4 and 7/8 resolve their numbers **south**. We do it this way so CC only dashes around a small sector of the arena, rather than dashing across the middle.
+
+This means 1/2 and 3/4 can preposition in their red dot, while 5/6 stand just below #1 (**north western intercardinal**) and 7/8 stand just below #2 (**north eastern intercardinal**). We wait north side to avoid being clipped by the **knockback** of BJ's **Super Jump** (he will be jumping to either 3/4, who are south).
+
+{: .note }
+Before the chakrams pop, it's okay to be waiting in a puddle as the soak won't happen well after the chakrams go.
+
+Once the **chakrams** go off, CC will begin doing his **Limit Cut** number attacks. At the same time, the **puddles** need to start being soaked. You will know it has been soaked when the puddle **disappears** and **respawns at a smaller size**.
+- On the odds/west side, #5 will soak first, then #7, and finally by #1.
+- On the evens/east side, #6 will soak first, then #8, and finally by #2.
+- 3/4 do not soak any puddles.
+
+This ordering will ensure there is **enough time** between your Limit Cut number and puddle soak for **vulnerabilities** to wear off.
+
+{: .warning }
+Odd numbers - **FACE OUTSIDE THE ARENA** so CC spawns behind you. This way, when he casts Alpha Sword, he will strike into the wall instead of massacring your fellow party members.
+
+{: .note }
+A small detail that will help odd numbers is taking a **small step forward** after CC spawns behind you. This prevents the risk of CC clipping you when he dashes to the subsequent even number, which can happen if you are facing outwards at an odd angle.
+
+{: .warning }
+Don't forget to use **Arm's Length** or **Surecast** before CC strikes!
+
+Shortly after CC begins his attacks, BJ will cast **Super Jump**, dashing to the **furthest player** from him. This will be either #3 or #4 (whoever is diagonally opposite him). 
+
+Once BJ lands on the player, they must take a short step closer to the wall as he will turn around cast **Apocalyptic Ray** (large conal AoE) on the furthest player. By stepping forward, the #3 or #4 player who baited the jump will be behind him by the time he casts the ray.
+- If BJ jumped on #3 (**south west corner**), it will be #2 who baits the ray.
+- If BJ jumped on #4 (**south east corner**), it will be #1 who baits the ray.
+
+By the time BJ jumps and begins casting his ray, CC will have already done his **Limit Cut** attacks on 1/2 - therefore, the person who is baiting the ray **must stay on their red dot until Apocalyptic Ray is properly baited**. If you leave your red dot before the ray is baited, it will skew the angle of the conal AoE and probably kill your party.
+
+Keeping in mind that **Apocalyptic Ray** will make the entire middle section a danger zone - as you move between doing your Limit Cut number and puddle soaks, be sure to **walk along the edge** so you don't run into the ray.
+
+Just around after CC strikes 3/4 is when Alexander Prime casts **Sacrament**. This shouldn't be a problem for anyone, other than #3 and #4 ensuring they are not standing too far south and moreso exists to prevent anyone from running through the middle.
+
+So...
 
 As you can see, there are a lot 'nitpicky' things players need to keep in mind as they run through Wormhole. Here is a general summary of key things:
 - Odds move true west, evens move true east.
@@ -476,13 +524,13 @@ As you can see, there are a lot 'nitpicky' things players need to keep in mind a
 - If you are 3 or 4 and baiting Super Jump, give yourself space to step forward to dodge the upcoming Apocalyptic Ray.
 - If you are 1 or 2 and baiting Apocalyptic Ray, remember to hold your position until it is properly baited before moving out.
 
---this is a work in progress!--
+Emgram's MS Paint cheatsheet at the top of this webpage is also a good visual summary of all the notes mentioned above.
 
 At the end of Wormhole, a party member will be marked with a stack marker which everyone should run to the centre to take. This stack requires mitigation and as everyone runs in, healers should ensure players are topped.
 
 After, 2 DPS will have enumeration rings which must have exactly 3 people inside the circle to resolve. Facing Alexander Prime, one should move left and the other to the right. Simply use eyes and adjust on the fly. To ensure there are 3 players in each ring, both tanks should move into the left enumeration, while both healers move into the right. The 2 remaining DPS with nothing should steer clear.
 
-Once the enumerations resolve, Alexander Prime once again becomes targetable and respawn in the middle of the arena, where he casts **Mega Holy** twice, a hardhitting raidwide which requires mitigation and healing in between.
+Once the enumerations resolve, Alexander Prime once again becomes targetable and respawns in the middle of the arena, where he casts **Mega Holy** twice, a hardhitting raidwide which requires mitigation and healing in between.
 
 Alexander Prime will then begin casting **Summon Alexander**, the final part of this phase.
 
@@ -550,7 +598,7 @@ The 2 party stacks do not actually need to be perfectly balanced - as long as th
 
 ### Fate Calibration Alpha
 
-After, Perfect Alexander begins a short cast, spawning 4 clones of himself north and a clone of your own character will also appear. This clone appears thanks to the **Enigma Codex** buff you received in Phase 3: Alexander Prime **Inception Formation** - essentially, you are looking into the future. 
+After, Perfect Alexander begins a short cast, spawning 4 clones of himself north and a clone of your own character will also appear. This clone appears thanks to the **Enigma Codex** buff you received in Phase 3: Alexander Prime **Inception Formation** - essentially, you are looking into the future. Without Enigma Codex and therefore without clones, you will just have to guess pretty much every aspect of this mechanic.
 
 He will then do another long **Fate Calibration Alpha** cast. During his long cast, you see the entire mechanic play out then once the cast is finished, he becomes untargetable and you do the mechanic for real. In this mechanic, instead of getting debuffs on your buff bar, you watch the debuff happen on your clone. **With no Enigma Codex and therefore no clones, you will no idea who has what debuff or what the Perfect Alexander clones will do.**
 
