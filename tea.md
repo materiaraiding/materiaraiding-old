@@ -117,7 +117,7 @@ For odd players - as CC will spawn **behind** you from the direction you are fac
 
 ### AoE Explosions
 
-During this mechanic, there will also be 10 sets of large untelegraphed AoE explosions around the arena. Being hit by one will be lethal. This is how they work:
+During this mechanic, there will also be 10 sets of large untelegraphed **AoE explosions** around the arena. Being hit by one will be lethal. This is how they work:
 - The 1st, 2nd, 3rd and 4th will include 2 towards the wall that are 180 degrees apart from each other and rotate clockwise.
 - The 5th explosion is in the centre of the arena.
 - The 6th, 7th, 8th and 9th will continue from after where the 4th explosion was while maintaining the clockwise pattern.
@@ -229,13 +229,13 @@ From this point:
 
 CC will cast **Spin Crusher**, an untelegraphed frontal cleave. Only the OT needs to worry about dodging this and they can do so by running through the boss to be behind him.
 
-The lightning and the water explosions will then go off. The lightning is passed onto the MT and the water will be on the other healer or a ranged who took the stack. The water explosion leaves behind a tornado which will knock players back and deal significant damage if they stand near it. After a certain period of time, the tornado will explode and wipe the raid - however, there will be mechanics that allow us to prevent that from happening. So, players from the water stack should therefore run back to the middle to avoid the tornado. 
+The lightning and the water explosions will then go off. The lightning is passed onto the MT and the water will be on the other healer or a ranged who took the stack. The water explosion leaves behind a **tornado** which will knock players back and deal significant damage if they stand near it. After a certain period of time, the tornado will explode and wipe the raid - however, there will be mechanics that allow us to prevent that from happening. So, players from the water stack should therefore run back to the middle to avoid the tornado. 
 
 Meanwhile, D3 should begin to move south and stand east of the OT in preparation for the next mechanic. BJ will cast **Missile Command**, which targets the 2 furthers players from him (OT and D3 who will be south) with AoE puddles. Both players will move north just above the puddle, then another darker AoE puddle will spawn on them, which they will move out of. These 2 darker puddles will leave behind invisible mines that if left untouched, will wipe the party. We will deal with these shortly.
 
 Two mechanics now go off at the same time - **enumeration** and **ice puddle**.
 
-Enumeration rings will appear around 2 random DPS players - these rings must have exactly 3 players in each (including the DPS player it is attached to), otherwise everyone in the ring will die. The rings should be left and right of each other just under BJ and to resolve:
+**Enumeration rings** will appear around 2 random DPS players - these rings must have exactly 3 players in each (including the DPS player it is attached to), otherwise everyone in the ring will die. The rings should be left and right of each other just under BJ and to resolve:
 - H1 and D2 plant on the left enumeration.
 - H2 and D4 plant on the right enumeration.
 - D1 and D3 will flex as necessary.
@@ -524,11 +524,9 @@ As you can see, there are a lot 'nitpicky' things players need to keep in mind a
 - If you are 3 or 4 and baiting Super Jump, give yourself space to step forward to dodge the upcoming Apocalyptic Ray.
 - If you are 1 or 2 and baiting Apocalyptic Ray, remember to hold your position until it is properly baited before moving out.
 
-Emgram's MS Paint cheatsheet at the top of this webpage is also a good visual summary of all the notes mentioned above.
+At the end of Wormhole, a party member will be marked with a **stack marker** which everyone should run to the centre to take. This stack requires mitigation and as everyone runs in, healers should ensure players are topped.
 
-At the end of Wormhole, a party member will be marked with a stack marker which everyone should run to the centre to take. This stack requires mitigation and as everyone runs in, healers should ensure players are topped.
-
-After, 2 DPS will have enumeration rings which must have exactly 3 people inside the circle to resolve. Facing Alexander Prime, one should move left and the other to the right. Simply use eyes and adjust on the fly. To ensure there are 3 players in each ring, both tanks should move into the left enumeration, while both healers move into the right. The 2 remaining DPS with nothing should steer clear.
+After, 2 DPS will have **enumeration rings** which must have exactly 3 people inside the circle to resolve. Facing Alexander Prime, one should move left and the other to the right. Simply use eyes and adjust on the fly. To ensure there are 3 players in each ring, both tanks should move into the left enumeration, while both healers move into the right. The 2 remaining DPS with nothing should steer clear.
 
 Once the enumerations resolve, Alexander Prime once again becomes targetable and respawns in the middle of the arena, where he casts **Mega Holy** twice, a hardhitting raidwide which requires mitigation and healing in between.
 
