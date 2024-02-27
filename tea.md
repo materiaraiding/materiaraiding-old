@@ -365,7 +365,7 @@ Even though buff and cooldown timers freeze, their effects still apply. For exam
 
 Once done, time till resume, BJ and CC will leave and Alexander Prime will spawn in the middle of the arena.
 
-## Phase 3: Alexander Prime (WIP)
+## Phase 3: Alexander Prime
 
 The phase begins with **Chastening Heat**, which is a tankbuster on the current aggro'd player that applies a Magic Vulnerability Up. This is then followed by 3× **Divine Spear**s, tankbusters that deal magic damage. Thus, this should be dealt with via an invulnerability or tank swap.
 
@@ -465,9 +465,9 @@ Wormhole combines multiple aspects that we have seen throughout this fight and m
 - Alexander Prime **Sacrament** (T-shaped laser). This shouldn't be a problem to dodge and is basically a, "don't run down the middle," check.
 
 {: .note }
-I will describe this mechanic using true cardinal positions, where BJ and CC spawn in the true north area and Alexander Prime spawns true south. However, some players find it easier to process the mechanic treating Alexander Prime as 'north.' Both ways are valid - as long as you do the mechanic correctly, do whatever is easier for you.
+DISCLAIMER: I will describe this mechanic using true cardinal positions, where BJ and CC spawn in the true north area and Alexander Prime spawns true south. However, some players find it easier to process the mechanic treating Alexander Prime as 'north,' and several resources will present their guide as such. Both ways are valid - as long as you do the mechanic correctly, do whatever is easier for you. **IF YOU SEE ALEXANDER PRIME AS NORTH, YOU WILL NEED TO FLIP EVERYTHING I SAY BELOW.**
 
-Once Alexander Prime becomes untargetable, everyone must **stack in the middle** to bait **both chakrams** through the centre, cutting through in a + shape. 
+Once Alexander Prime becomes untargetable he will appear **true south**. Everyone must **stack in the middle** to bait **both chakrams** through the centre, cutting through in a + shape. 
 
 BJ and CC will spawn true north west and true north east (they can spawn on either side). Where BJ appears is where he will be casting **Super Jump** from.
 
@@ -476,13 +476,13 @@ The **Limit Cut numbers** will appear as the chakrams are baited and manifest on
 {: .note }
 Players can jump to see their number while stacked as a group.
 
-Let's start by going through the **Limit Cut** numbers. See the diagram below - we will once again be using the **red dots** to help position ourselves.
+Let's start by going through the **Limit Cut** numbers. See the diagram below - we will once again be using the **red dots** to help position ourselves (which #1, #2, #3 and #4 are standing on in the below diagram). The red lines show where the chakrams will slice through. This screenshot is taken from Juno Dax's Wormhole toolbox.
 
-**Diagram is being made.**
+![WHN](https://github.com/nozzyxx/materiaraiding/assets/160133948/9109e13d-2645-45b0-8d76-7cb41fdc57b0)
 
-All **odd numbers move west side** and all **even numbers move east side**. Numbers 1/2 and 5/6 resolve their attacks **north**, while numbers 3/4 and 7/8 resolve their numbers **south**. We do it this way so CC only dashes around a small sector of the arena, rather than dashing across the middle.
+All **odd numbers move true west side** and all **even numbers move true east side**. Numbers 1/2 and 5/6 resolve their attacks **true north**, while numbers 3/4 and 7/8 resolve their numbers **true south**. We do it this way so CC only dashes around a small sector of the arena, rather than dashing across the middle.
 
-This means 1/2 and 3/4 can preposition in their red dot, while 5/6 stand just below #1 (**north western intercardinal**) and 7/8 stand just below #2 (**north eastern intercardinal**). We wait north side to avoid being clipped by the **knockback** of BJ's **Super Jump** (he will be jumping to either 3/4, who are south).
+This means 1/2 and 3/4 can preposition in their red dot, while 5/6 stand just below #1 (**true north western intercardinal**) and 7/8 stand just below #2 (**true north eastern intercardinal**). We wait true north side to avoid being clipped by the **knockback** of BJ's **Super Jump** (he will be jumping to either 3/4, who are south).
 
 {: .note }
 Before the chakrams pop, it's okay to be waiting in a puddle as the soak won't happen well after the chakrams go.
@@ -698,9 +698,4 @@ Lowest damaging players should take the first jails, with highest damaging playe
 If your job has a DoT ability, be sure to reapply it before your jail lands on you!
 
 With solid DPS and maybe 1-2 recoverable deaths, a party should be able to kill Perfect Alexander before the first jail even lands. If he is not dead by the end of Temporal Prison, Perfect Alexander will send you back to **Phase 1: Living Liquid**. 
-
-Otherwise, **congratulations on ruling the world**!
-
-![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/c58bc597-1bf2-4977-ae71-a526336e3bd4)
-
 
