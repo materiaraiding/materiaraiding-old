@@ -142,7 +142,7 @@ The Hand will then cast another **Hand of Pain**, with LL following with **Casca
 With the new tornado puddle positions, we will once again treat the empty space as our **north**. Half the party will then split on the south side of the bosses, while the other half will sit north. MT should be facing the boss north.
 
 **Throttles** ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/b0f9219e-813d-4d3d-a059-b37cee1280d9)
- will now appear on 6 party members, a debuff that must be cleansed with **Esuna** before the timer expires. If not cleansed, the player will die. Each healer will do 3 Esuna's each (1 less for 1 healer if there is a **Bard who uses The Warden's Paean**). Healers should firstly Esuna themselves if they have Throttle, then:
+ will now appear on 6 party members, a debuff that must be cleansed with **Esuna** before the timer expires. If not cleansed, the player will die. Each healer will do 3 Esuna's each (1 less for 1 healer if there is a **BRD who uses The Warden's Paean**). Healers should firstly Esuna themselves if they have Throttle, then:
  - H1 will Esuna starting from the **top** of the party list and go **down**.
  - H2 will Esuna starting from the **bottom** of the party list and go **up**.
 
