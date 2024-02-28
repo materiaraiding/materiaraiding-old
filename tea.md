@@ -79,13 +79,46 @@ This phase will involve a lot of specific movement and shuffling from each playe
 
 ### Intro and Jagd Dolls
 
-The fight begins with MT pulling **Living Liquid** (LL) to the centre and facing him north. After a few autoattacks he will cast **Fluid Swing**, an untelegraphed tankbuster that leaves a very brief **Water Resistance Down**.
+The fight begins with MT pulling **Living Liquid** (LL) to the centre and facing him north. After a few autoattacks he will cast **Fluid Swing**, an untelegraphed cleaving tankbuster that leaves a very brief **Water Resistance Down**.
 
-He will then cast **Cascade**, a raidwide that spawns 3 large puddles with tornadoes in them, on 3 cardinals or 3 intercardinals, leaving one quarter of the room empty. Standing in a puddle will inflict nasty lethal damage, so steer clear. The toolbox treats this empty quarter as the new 'north,' so we will follow this.
+He will then cast **Cascade**, a raidwide that spawns 3 large puddles with tornadoes in them, on 3 cardinals or 3 intercardinals, leaving one quarter of the room empty. Standing in a puddle will inflict nasty lethal DoT damage, so steer clear. The toolbox treats this empty quarter as the new 'north,' so we will follow this.
 
-At this time, LL will also summon **Liquid Hand** (who I will just refer to as the Hand) and split half his current HP with it. The OT will take aggro of the Hand. From here, as a general rule, melee DPS should focus LL while ranged and casters focus the Hand.
+At this time, LL will also summon **Liquid Hand** (who I will just refer to as the Hand) and split half his current HP with it. The OT will take aggro of the Hand. **Keep the HP's of the bosses as similar as possible**, as there will be periodic 'checks' throughout this phase that wipe the party if the HP's are too different.
 
-The MT will take LL to the south west corner
+The MT will take LL **south west**, stand on the wall while being **right beside the south tornado**. Meanwhile, the OT takes the Hand towards north. D3 should stand towards on the wall on the north side of the east tornado and D4 should do the same but on the west tornado as baits are incoming.
+
+A few events will now occur fairly simultaneously, but I will go through them one by one.
+
+The Hand will now glow and do 2 possible hand motions:
+- **Open palm**: if the bosses are far apart, the Hand will **open its palm** and the bosses will need to be moved close together. This is known as **Hand of Parting**.
+- **Closed fist**: if the bosses are close, the Hand will **close its fist** and the bosses will need to be moved apart. This is known as **Hand of Prayer**.
+
+As we have MT with LL on the south wall and OT with the Hand hovering north, we intentionally bait **open palm**. MT will then **provoke** the Hand to move the bosses together, with the OT following over (generally by using their gapclose).
+
+The 3 tornadoes will then bait a telegraphed **Protean Wave** (thin conal AoE) to its closest players, which should be the MT, D3 and D4. Said players should dodge the telegraph as staying in them will do a knockback - the tornadoes will then do another **Protean Wave**, but this time will be untelegraphed with no knockback and hit the closest players (same players) again, inflicting a brief **Water Resistance Down**.
+
+Just as the telegraphed Protean Waves go off, both bosses will cast **Fluid Swing** and **Fluid Strike** (the same cleaving tankbuster at the very beginning, they are just named differently on each boss). The MT will take both with an **invulnerability**, which also allows them to tank the untelegraphed **Protean Wave** even with the **Water Resistance Down**. The OT should take care not to be clipped by any of these attacks.
+
+After, the OT will **provoke** the Hand back.
+
+Also, while the telegraphed Protean Waves go off, 4 **Jagd Dolls** (adds) spawn separately around the middle of the arena. These dolls tether and follow the first person to attack them - each DPS should pick one up and ensure they are not grouped up, as they periodically cast **Exhaust**, a circular AoE around them. If anyone is hit by more than 1 Exhaust at once, they will die. So, DPS should stay on top of their doll and healers need to find a space where they will not catch themselves in an AoE overlap.
+
+These Jagd Dolls must be damaged down to **below 25%** HP, then 'fed' to one of the bosses by dragging the doll to their hitbox. As a doll is fed, it deals raidwide damage. If the doll is killed, or it is fed while above 25% HP, it will wipe the party.
+
+Shortly after all the dolls cast their first instance of **Exhaust**, the Hand will cast **Hand of Pain** - if by the end of this cast the 2 bosses are **more than 5% HP** apart, it will wipe the raid.
+
+Approximately at the same time, 2 of the tornadoes will spawn 2 **Emboluses**, little orbs that will travel towards where the bosses are at the time of spawning - in this case, the south west corner of the arena. On contact with a player or boss, the Embolus will **explode** and **wipe the raid**. As the orb is quite small they can be easy to miss, so below is a picture of what they look like.
+
+![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/baa31377-57ff-46d4-9a9e-f74e707f8fc9)
+
+So, after the first cast of **Exhaust**, the tanks should begin to drag their bosses to the centre to not only avoid the Embolus, but begin the **doll feeds**. At this point the melees should be ready, or close to being ready to feed their dolls. If they need more time, they should move away and give space to the tanks to move.
+
+To avoid stressing the healers, dolls should ideally be fed in pairs. The 2 melee DPS should feed their dolls as the tanks centre their respective bosses. Meanwhile, the 2 ranged DPS should wait till the next cast of **Exhaust** before moving through to feed their dolls.
+
+{: .tanks }
+MT - make sure LL is as centred as possible as this will make the upcoming Protean Wave baits much more comfortable.
+
+As soon as the tanks finish centering their bosses, the MT should face LL **south east** while the OT faces the Hand **south west** as the bosses are about to cast another **Fluid Swing** and **FLuid Strike**. After the cleaving tankbusters, the tanks should stack south of the bosses while DPS stack up north of the bosses, ready for a series of **Protean Wave** baits.
 
 ### Proteans and Splashes
 
@@ -640,23 +673,23 @@ After your clone wanders around for a couple seconds, all the debuffs will appea
 - **Dark with Blue Tether**: you are tethered to Light with Blue Tether and must be far from them at the end of the forced march.
 - **Dark with Christmas Tether**: you are tethered to Light with Christmas Tether and must be close to them at the end of the forced march.
 
-Then, after the forced marches, 3 Perfect Alexander clones will **Super Jump** to the west, south and east cardinals respectively, near the wall. These jumps will need to be baited by 3 players. After, the Perfect Alexander behind the wall at north will cast **Optical Sight**, which will be either 2 sets of light party stacks, or everyone needs spread out.
+Then, after the forced marches, 3 Perfect Alexander clones will **J Jump** (this is basically the same as Super Jump, just named differently) to the west, south and east cardinals respectively, near the wall. These jumps will need to be baited by 3 players. After, the Perfect Alexander behind the wall at north will cast **Optical Sight**, which will be either 2 sets of light party stacks, or everyone needs spread out.
 - If there are 2 green balls to his left and right, it is **2 light party stacks**.
 - If there are multiple small green orbs, it is **spreads**.
 
-Finally, one of the clones that Super Jumped will cast **Radiant Sacrament**, a large donut AoE. At the end of the mechanic, players need to be under this clone.
+Finally, one of the clones that J Jumped will cast **Radiant Sacrament**, a large donut AoE. At the end of the mechanic, players need to be under this clone.
 
 To resolve Fate Calibration Beta: 
 - The **Light Beacon** plants themselves on the yellow dot (commonly referred to as the nipple by players) left of the A waymark, near the wall. See as per the blue circle below:
   
 ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/3ae1207d-22e5-4bab-ad39-ada5ef35f38c)
 
-- The **Dark Beacon** plants dead centre of the 2 waymark. After the forced march, they will bait the east Super Jump.
+- The **Dark Beacon** plants dead centre of the 2 waymark. After the forced march, they will bait the east J Jump.
 
 The remaining players will then position themselves relative to the 2 waywark:
 - **All light players** (regardless of what your debuff is), plus the **Dark with Christmas Tether** should stand on the north western corner of the 2 waymark. This ensures the Christmas tethers are close at the end of the march.
-- **Dark with Nothing** should stand on the western side of the 2 waymark. As they have no tether to worry about, we send them hard west in the forced march, so they can bait the west Super Jump after.
-- **Dark with Blue Tether** should stand on the south western corner of the 2 waymark. This puts them south to not only position them far away from the Light with Blue Tether (who will be north), but to also bait the south Super Jump after.
+- **Dark with Nothing** should stand on the western side of the 2 waymark. As they have no tether to worry about, we send them hard west in the forced march, so they can bait the west J Jump after.
+- **Dark with Blue Tether** should stand on the south western corner of the 2 waymark. This puts them south to not only position them far away from the Light with Blue Tether (who will be north), but to also bait the south J Jump after.
 
 The diagram below shows a simple layout of where everyone will stand, given that the yellow box is the 2 waymark.
 
@@ -664,7 +697,7 @@ The diagram below shows a simple layout of where everyone will stand, given that
 
 At the end of Perfect Alexander's long Fate Calibration Beta cast, he comes untargetable and the forced march resolves. After, players have a couple moments to shuffle, allowing Super Jump baiters to run to their cardinal and tethers to ensure they are the correct distance from each other. All players currently north should also group as a shared sentence will go off. 
 
-After the tethers, shared sentence and Super Jumps resolve, players should position themselves for Optical Sight. Spread out, or if it was stack, all dark players gather mid while light players stack at A. Healers should ensure players are topped as much as possible for this part.
+After the tethers, shared sentence and J Jumps resolve, players should position themselves for Optical Sight. Spread out, or if it was stack, all dark players gather mid while light players stack at A. Healers should ensure players are topped as much as possible for this part.
 
 Upon the resolution of Optical Sight, everyone runs (sprint is helpful here) to the safe Perfect Alexander clone to survive Radiant Sacrament (donut AoE).
 
