@@ -118,15 +118,33 @@ To avoid stressing the healers, dolls should ideally be fed in pairs. The 2 mele
 {: .tanks }
 MT - make sure LL is as centred as possible as this will make the upcoming Protean Wave baits much more comfortable.
 
-As soon as the tanks finish centering their bosses, the MT should face LL **south east** while the OT faces the Hand **south west** as the bosses are about to cast another **Fluid Swing** and **FLuid Strike**. After the cleaving tankbusters, the tanks should stack south of the bosses while DPS stack up north of the bosses, ready for a series of **Protean Wave** baits.
+As soon as the tanks finish centering their bosses, the MT should face LL **south east** while the OT faces the Hand **south west** as the bosses are about to cast another **Fluid Swing** and **Fluid Strike** and we want to avoid cleaving each other. After the cleaving tankbusters, the tanks should stack south of the bosses while everyone else stack up north of the bosses, ready for a series of **Protean Wave** baits.
 
 ### Proteans and Splashes
 
--words-
+LL will now cast telegraphed **Protean Waves**, which should run north and south with everyone's prepositioning. At the same time, the Hand will cast **Hand of Pain** - ensure boss HP's are not too far apart.
+
+2 different baits will now occur at once, which everyone will position for after the telegraphed Protean Waves appear:
+- **Sluice**: this is a telegraphed AoE circle baited on the 4 furthest players from the boss. **Healers** and **ranged DPS** will move in pairs north side to bait these.
+- Untelegraphed **Protean Waves** on the 4 closest players to LL, plus 1 untelegraphed **Protean Wave directly in front of him**. The **tanks** and **melee DPS** will bait these.
+
+After these 2 simultaneous baits, LL will do another set of untelegraphed **Protean Waves** to his closest players, in addition to another directly in front of him. The **healers** and **ranged DPS** will move into his hitbox to bait this set, while the **tanks** and **melee DPS** sit at **max melee range** (as they cannot take another due to **Water Resistance Down**).
+
+**Tethers** will then appear out of 2 tornadoes, which the tanks will grab 1 each. This will be an upcoming **AoE tankbuster** called **Drainage**. LL will begin using **Splash**, dealing repeated **moderate raidwide damage**. After the final Splash, **Drainage** will resolve, clearing the tornado puddles off the arena. 
+
+{: .tanks }
+Be sure you are not too close to your cotank for **Drainage** as it is an AoE.
+
+The Hand will then cast another **Hand of Pain**, with LL following with **Cascade**, dealing raidwide damage and spawning 3 new tornado puddles.
 
 ### Throttles and More Proteans
 
--words-
+With the new tornado puddle positions, we will once again treat the empty space as our **north**. Half the party will then split on the south side of the bosses, while the other half will sit north. MT should be facing the boss north.
+
+**Throttles** ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/b0f9219e-813d-4d3d-a059-b37cee1280d9)
+ will now appear on 6 party members, a debuff that must be cleansed with **Esuna** before the timer expires. If not cleansed, the player will die. Each healer will do 3 Esuna's each (1 less for 1 healer if there is a **Bard who uses The Warden's Paean**). Healers should firstly Esuna themselves if they have Throttle, then:
+ - H1 will Esuna starting from the **top** of the party list and go **down**.
+ - H2 will Esuna starting from the **bottom** of the party list and go **up**.
 
 ## Intermission: Limit Cut
 
