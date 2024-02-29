@@ -10,18 +10,23 @@ nav_order: 4
 <img src="./assets/images/BJCC2.png" alt="BJCC" width="150" style="float: right">
 
 # The Epic of Alexander
+{: .no_toc }
 
 MUR Strats 
 {: .label .label-purple }
 
 ### Credits
+{: .no_toc }
 Toolboxes by MUR
-
 PoVs by Kur Rumi
-
 Cheatsheets by MUR and Em Quackingway
-
 Written guide by Noz Leafhill
+
+### Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
 
 ### Toolboxes
 By MUR and Juno Dax
@@ -62,11 +67,11 @@ Space = Hold to select numbers
 
 **Wormhole Visual Guide**
 
-[![](https://cdn.discordapp.com/attachments/1074285128299327508/1108006238308024360/image.png)](https://cdn.discordapp.com/attachments/1074285128299327508/1108006238308024360/image.png)
+![image](https://cdn.discordapp.com/attachments/1074285128299327508/1108006238308024360/image.png)
 
 **Perfect Alexander Cheatsheet**
 
-[![](https://cdn.discordapp.com/attachments/1074285128299327508/1105403205246005279/image-19.png)](https://cdn.discordapp.com/attachments/1074285128299327508/1105403205246005279/image-19.png)
+![image](https://cdn.discordapp.com/attachments/1074285128299327508/1105403205246005279/image-19.png)
 
 ## Written Guide
 
