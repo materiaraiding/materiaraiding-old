@@ -37,11 +37,11 @@ TEA has multiple Toolboxes, each are listed here in order of phases in the fight
 
 ### PoVs
 
-[Melee DPS](https://www.youtube.com/watch?v=yjouUV6fJTA){: .btn }
-[Ranged DPS](https://www.youtube.com/watch?v=XU-o3pm1jiU){: .btn }
-[Caster](https://www.youtube.com/watch?v=q3PjYcGj-6s){: .btn }
-[Healer](https://www.youtube.com/watch?v=NHN9zWZbcEc){: .btn }
-[Tank](https://www.youtube.com/watch?v=eNf0gVqOPUk){: .btn }
+[Melee DPS (D1)](https://www.youtube.com/watch?v=yjouUV6fJTA){: .btn }
+[Ranged DPS (D3)](https://www.youtube.com/watch?v=XU-o3pm1jiU){: .btn }
+[Caster (D2)](https://www.youtube.com/watch?v=q3PjYcGj-6s){: .btn }
+[Healer (H1)](https://www.youtube.com/watch?v=NHN9zWZbcEc){: .btn }
+[Tank (OT)](https://www.youtube.com/watch?v=eNf0gVqOPUk){: .btn }
 
 ### Simulator
 Wormhole Simulator (KR Sim) covers multiple strats but only the Wormhole simulator is accurate to OCE strats. Download and run the simulator to practice wormhole mechanic solo. Simulator is in Korean so use the following keybinds to navigate.
@@ -146,6 +146,25 @@ With the new tornado puddle positions, we will once again treat the empty space 
  - H1 will Esuna starting from the **top** of the party list and go **down**.
  - H2 will Esuna starting from the **bottom** of the party list and go **up**.
 
+By the time the final Throttle is cleansed, LL and the tornadoes will initiate a series of **Protean Waves**.
+
+Firstly, LL will do telegraphed **Protean Waves**, which should bait north and south based on everyone's prepositioning. The next 2 occur simultaneously be a few different baits going on:
+- **Sluices**, 4 telegraphed AoE circles on the furthest 4 players. The ranged will take these near the wall, beside a tornado, as the tornadoes will also do a telegraphed **Protean Wave** to its closest player as the Sluice AoE's drop.
+- Untelegraphed **Protean Waves** on the 4 closest players to LL, plus 1 untelegraphed **Protean Wave directly in front of him**. The **tanks** and **melee DPS** will bait these.
+
+The Hand will cast **Hand of Pain** around this time (boss HP disparity check). After this, everyone should focus on taking LL down as only he needs to die for the phase to complete.
+
+LL will do another set of untelegraphed **Protean Waves** to his closest players, in addition to another directly in front of him. The **healers** and **ranged DPS** will move into his hitbox to bait this set. The MT should stand at max melee range of LL to not be clipped by the healers and ranged DPS's baits, while OT, D1 and D2 will stand beside a tornado each to bait an untelegraphed **Protean Wave** coming from the tornadoes.
+
+After the final untelegraphed **Protean Wave** from the tornadoes, the MT should **drag LL north** and the OT should still be **towards south west**. The Hand will do another glowing open palm or closed fist motion - we intentionally bait **open palm** (Hand of Parting) again. The OT will gapclose to LL to resolve this.
+
+At this point, LL should be dead, but the remaining mechanics include:
+- **Emboluses**, which spawn as the Hand does its open palm or closed fist motion.
+- LL begins a set of **Splashes** (repeated moderate raidwide damage). During the Splashes, the Hand casts **Hand of Pain**.
+- LL casts **Fluid Swing**, a cleaving tankbuster.
+
+LL with then cast one final **Cascade**, which is his enrage.
+
 ## Intermission: Limit Cut
 
 There are 2 major components to handle simultaneously during this intermission phase - the numbers and the AoE explosions.
@@ -238,11 +257,11 @@ A player carrying a Nisi will take mild DoT damage. The debuff lasts around 36 s
 This is important as later in the phase, BJ will cast **Verdict** which is essentially BJ telling you, "You must have this particular colour Nisi by the end of this mechanic or wipe." So, for the first part of this phase we will just focus on juggling the Nisi around to keep all 4 colours active.
 
 {: .warning }
-If 2 players with different Nisi's combine, both players will die and as some Nisi have been lost, it will result in a wipe as you will not survive Verdict. Thus, throughout this phase, everyone must be aware of their surroundings and move carefully and with purpose, to avoid any collisions.
+If 2 players with different Nisi's combine, both players will die and as some Nisi have been lost, it will result in a wipe as you will not survive the resolution of Verdict. Thus, throughout this phase, everyone must be aware of their surroundings and move carefully and with purpose, to avoid any collisions.
 
 BJ will then cast **Link-Up**, which inflicts 1 healer with a **water debuff** ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/f0b39cc0-07b5-4de1-a95a-627561eb0a8a)
  and 1 DPS with a **lightning debuff** ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/8cc998b7-898b-4b0d-8737-19a0ec7204fc). At the end of the debuff timers, they explode: 
-- The damage of the water explosion needs to be split between at least 3 players
+- The damage of the water explosion needs to be split between at least 3 players.
 - The lightning explosion damage needs to be split between at least 2 players.
 
 The debuffs are then passed onto someone who was in the stack. Players who have wielded a debuff will then have a **resistance down** to what they had. So, someone who just passed a water debuff cannot be in any future water stacks and someone who just passed a lightning debuff cannot be in another lightning explosion.
