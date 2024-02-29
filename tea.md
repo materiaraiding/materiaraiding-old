@@ -65,13 +65,13 @@ Space = Hold to select numbers
 
 ### Cheatsheets and Visual Guides
 
-**Wormhole Visual Guide**
+**Wormhole (crappy) Visual Guide**
 
-![image](https://cdn.discordapp.com/attachments/1074285128299327508/1108006238308024360/image.png)
+![image](https://github.com/materiaraiding/materiaraiding/assets/85346345/f58044da-89ba-4708-8d26-83ce7df50675)
 
 **Perfect Alexander Cheatsheet**
 
-![image](https://cdn.discordapp.com/attachments/1074285128299327508/1105403205246005279/image-19.png)
+![image-19](https://github.com/materiaraiding/materiaraiding/assets/85346345/4583252e-31eb-43f2-a0c3-d97cf40ca2c0)
 
 ## Written Guide
 
