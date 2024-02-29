@@ -21,7 +21,7 @@ PoVs by Kur Rumi
 
 Cheatsheets by MUR and Em Quackingway
 
-Written guide in progress by Noz Leafhill
+Written guide by Noz Leafhill
 
 ### Toolboxes
 
