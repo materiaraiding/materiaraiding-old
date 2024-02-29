@@ -85,7 +85,7 @@ He will then cast **Cascade**, a raidwide that spawns 3 large puddles with torna
 
 At this time, LL will also summon **Liquid Hand** (who I will just refer to as the Hand) and split half his current HP with it. The OT will take aggro of the Hand. **Keep the HP's of the bosses as similar as possible**, as there will be periodic 'checks' throughout this phase that wipe the party if the HP's are too different.
 
-The MT will take LL **south west**, stand on the wall while being **right beside the south tornado**. Meanwhile, the OT takes the Hand towards north. D3 should stand towards on the wall on the north side of the east tornado and D4 should do the same but on the west tornado as baits are incoming.
+The MT will take LL **south west**, stand on the wall while being **beside the south tornado**. Meanwhile, the OT takes the Hand towards north. D3 should stand towards on the wall on the north side of the east tornado and D4 should do the same but on the west tornado as baits are incoming.
 
 A few events will now occur fairly simultaneously, but I will go through them one by one.
 
@@ -107,18 +107,18 @@ These Jagd Dolls must be damaged down to **below 25%** HP, then 'fed' to one of 
 
 Shortly after all the dolls cast their first instance of **Exhaust**, the Hand will cast **Hand of Pain** - if by the end of this cast the 2 bosses are **more than 5% HP** apart, it will wipe the raid.
 
-Approximately at the same time, 2 of the tornadoes will spawn 2 **Emboluses**, little orbs that will travel towards where the bosses are at the time of spawning - in this case, the south west corner of the arena. On contact with a player or boss, the Embolus will **explode** and **wipe the raid**. As the orb is quite small they can be easy to miss, so below is a picture of what they look like.
+Approximately at the same time, 2 of the tornadoes will spawn 2 **Emboluses**, little orbs that will travel towards where the bosses are at the time of spawning - which at the moment should be the south west corner of the arena. On contact with a player or boss, the Embolus will **explode** and **wipe the raid**. As the orb is quite small they can be easy to miss, so below is a picture of what they look like.
 
 ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/baa31377-57ff-46d4-9a9e-f74e707f8fc9)
 
-So, after the first cast of **Exhaust**, the tanks should begin to drag their bosses to the centre to not only avoid the Embolus, but begin the **doll feeds**. At this point the melees should be ready, or close to being ready to feed their dolls. If they need more time, they should move away and give space to the tanks to move.
+So, after the first cast of **Exhaust**, the tanks should begin to drag their bosses to the centre to not only avoid the Embolus, but begin the **doll feeds**. At this point the melee DPS should be ready, or close to being ready to feed their dolls. If they need more time, they should move away and give space to the tanks to move.
 
 To avoid stressing the healers, dolls should ideally be fed in pairs. The 2 melee DPS should feed their dolls as the tanks centre their respective bosses. Meanwhile, the 2 ranged DPS should wait till the next cast of **Exhaust** before moving through to feed their dolls.
 
 {: .tanks }
 MT - make sure LL is as centred as possible as this will make the upcoming Protean Wave baits much more comfortable.
 
-As soon as the tanks finish centering their bosses, the MT should face LL **south east** while the OT faces the Hand **south west** as the bosses are about to cast another **Fluid Swing** and **Fluid Strike** and we want to avoid cleaving each other. After the cleaving tankbusters, the tanks should stack south of the bosses while everyone else stack up north of the bosses, ready for a series of **Protean Wave** baits.
+As soon as the tanks finish centering their bosses, the MT should face LL **south east** while the OT faces the Hand **south west** as the bosses are about to cast another **Fluid Swing** and **Fluid Strike** and we want to avoid cleaving each other. After the cleaving tankbusters, the tanks should stack south of the bosses while everyone else stacks up north of the bosses, ready for a series of **Protean Wave** baits.
 
 ### Proteans and Splashes
 
@@ -148,7 +148,7 @@ With the new tornado puddle positions, we will once again treat the empty space 
 
 By the time the final Throttle is cleansed, LL and the tornadoes will initiate a series of **Protean Waves**.
 
-Firstly, LL will do telegraphed **Protean Waves**, which should bait north and south based on everyone's prepositioning. The next 2 occur simultaneously be a few different baits going on:
+Firstly, LL will do telegraphed **Protean Waves**, which should bait north and south based on everyone's prepositioning. The next 2 occur simultaneously with a few different baits going on:
 - **Sluices**, 4 telegraphed AoE circles on the furthest 4 players. The ranged will take these near the wall, beside a tornado, as the tornadoes will also do a telegraphed **Protean Wave** to its closest player as the Sluice AoE's drop.
 - Untelegraphed **Protean Waves** on the 4 closest players to LL, plus 1 untelegraphed **Protean Wave directly in front of him**. The **tanks** and **melee DPS** will bait these.
 
@@ -175,7 +175,7 @@ Once Living Liquid drops, players will be numbered from 1-8 (signified by the nu
 
 Your number indicates the order in which **Cruise Chaser** (CC) will attack you. 
 
-He firstly spawns **behind** #1 and uses **Alpha Sword**, a conal AoE with a knockback, then does a **dash attack** to #2, also knocking back. Both attacks apply a **vulnerability**, so you cannot be hit by more than 1 attack during Limit Cut.
+He firstly spawns **behind** #1 and uses **Alpha Sword**, a conal AoE with a knockback, then does a **dash attack** (known as Super Blassty Charge) to #2, also knocking back. Both attacks apply a **vulnerability**, so you cannot be hit by more than 1 attack during Limit Cut.
 
 CC then spawns behind #3, uses Alpha Sword again, then dashes to #4. He will repeat this cycle of attacks to #5 and #6, then #7 and #8. As you can see, CC strikes in pair groups by casting Alpha Sword on the **odd number**, then dashing to the subsequent **even number**.
 
@@ -213,7 +213,7 @@ As you can see, the AoE explosions are **2 pizza slices wide**. The epicentre of
 
 You will also notice that the outer area of the arena you are moving in is separated into 2 "**lanes**". Looking at the above screenshot again, there's the outmost ring, then another inner ring with those yellow dots. We will use this inner ring with dots as a lane for pairs who are next in line to be struck by CC. 
 
-While in this inner lane, the **odd number should lead the way** while their partnered **even number should trail about 2 yellow dots behind**. This way, CC should appear **between** the 2 players, **Alpha Sword** the odd, then turn around to do his dash on the even. The other outer lane will be for pairs who are waiting for the turn, or have finished their turn. 
+While in this inner lane, the **odd number should lead the way** while their partnered **even number should trail about 2 yellow dots behind**. This way, CC should appear **between** the 2 players, **Alpha Sword** the odd, then turn around to do his dash on the even. The other outer lane will be for pairs who are waiting for their turn, or have finished their turn. 
 
 {: .warning }
 Players in the outer lane should take care not to get clipped by CC as he strikes players in the inner lane.
@@ -290,7 +290,7 @@ After Photon, DPS will stand over their pre-assigned support partner to pass / r
 ### After First Pass
 
 {: .healers }
-As MUR PF standard strat has the bosses split for this phase, players will be spread out and may potentially miss AoE heals as a result. Keep an eye on everyone's health, **especially tanks**, and don't be afraid to single target GCD heal if you need to.
+As MUR PF standard strat has the bosses split for this phase, players will be spread out and may potentially miss AoE heals as a result. Keep an eye on everyone's health, **especially tanks**.
 
 From this point: 
 - MT takes BJ north and OT takes CC south, and the bosses should face those respective directions.
@@ -348,13 +348,13 @@ Two mechanics will then occur simulataneously:
 
 BJ will cast **Flarethrower** on the closest player, a conal fire AoE. This should be baited by the MT, who will point it towards the water tornado on the B waymark, deleting it so it will not explode. Other players should take care to not be too close to BJ and also not be in a position to be hit by the AoE (it is usually not lethal but still hurts).
 
-CC will cast **Limit Cut**, becoming **invulnerable** and placing a **Plasma Shield** in front of him. This shield needs to be bursted down and can only be damaged from the front, which is why we made OT face him inwards before. If the shield is not quickly destroyed (approximately 5 seconds, 2 GCDs), CC will receive a **Damage Up** buff and shortly wipe the raid.
+CC will cast **Limit Cut**, becoming **invulnerable** and placing a **Plasma Shield** in front of him. This shield needs to be bursted down and can only be damaged from the front, which is why we made OT face him inwards before. If the shield is not quickly destroyed (approximately 5 seconds, 2 GCDs), CC will receive a **Damage Up** buff and shortly wipe the raid. Once the shield is down, you can damage CC again.
 
 After both mechanics conclude, supports should vertically line up in the middle. <br> From north to south: MT -> Lightning Healer -> Other Healer -> OT. 
 
 DPS will then do their 3rd pass:
 - If DPS currently hold the Nisi's, they should check the party list debuffs to see which support needs the colour they have for Verdict and pass to them.
-- If supports currently hold the Nisi's, DPS should check which colour they need for Verdict and pass to them.
+- If supports currently hold the Nisi's, DPS should check which colour they need for Verdict and walk over them.
 
 ### After Third Pass - Gavel
 
@@ -378,7 +378,7 @@ Below is a screenshot from Kur Rumi's OT POV, showing the final BPOG lineup and 
 As CC finishes casting Propeller Wind, BJ will cast **Gavel**. If everyone has the correct Nisi as per the requirements of Verdict, he will clear all debuffs, as well as remove the ice block and water tornado. If anyone has no Nisi or the incorrect Nisi, BJ will wipe the raid here.
 
 {: .note }
-Be sure to directly stand on top of the person who requires the same Nisi as you, in the off chance one of your Nisi falls off before Gavel. By being on top of each other, it will immediately refresh when fallen off.
+Be sure to stand directly on top of the person who requires the same Nisi as you, in the off chance one of your Nisi falls off before Gavel. By being on top of each other, it will immediately refresh when fallen off.
 
 {: .warning }
 Wait till all the debuffs are 100% gone before moving out of the lineup - if you move a fraction early before Gavel properly resolves, you might accidentally combine Nisi's and cause a wipe.
@@ -403,7 +403,7 @@ Once BJ and CC go down, the arena changes and they will reappear next to each ot
 
 After their landing, party members will receive some debuffs. Players have approximately 8 seconds to run to their positions, in which then time will stop, freezing all players in place and the debuffs will resolve. While frozen, players cannot move or cast any abilities and their buff and cooldown timers also pause. 
 
-Once the debuffs resolve, BJ will cast Flarethrower (conal AoE) to the 2 closest players and CC will cast Alpha Sword (conal AoE) to the 3 closest players.
+Once the debuffs resolve, BJ will cast Flarethrower twice (conal AoE) to the 2 closest players and CC will cast Alpha Sword thrice (conal AoE) to the 3 closest players.
 
 ### Debuffs
 
@@ -464,7 +464,7 @@ If all 4 crystals explode, the True Heart becomes **golden**, will aid you in ge
 
 This buff is why I previously mentioned correct placement is important to clear the fight because if the True Heart does not cut through all 4 crystals, you will not receive the buff and you will have an **extremely difficult time** getting through the final phase (more on that in Phase 4: Perfect Alexander).
 
-As for the **aetheroplasms**, 4 giant green orbs will spawn east and west (2 on each side) and tether to 4 players. The orb will then travel to its tether player, exploding on contact. As it travels, the orb gradually reduces in size.
+As for the **aetheroplasms**, 4 giant green orbs will spawn east and west (2 on each side) and tether to 4 players. The orb will then travel to its tethered player, exploding on contact. As it travels, the orb gradually reduces in size.
 
 Once an orb makes contact with a player, it leaves a **green bubble** that renders you **Heavy** (reduced movement speed) while inside. As there are 4 orbs, there will be 4 bubbles and they **must not overlap** or they will explode and wipe the raid.
 
@@ -474,7 +474,7 @@ Notice the **4 red dots** (2 on each side) on the northern part of the arena:
 
 ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/0ab9b075-0d31-4b03-b4d7-ce976ba6060a)
 
-Players should then move and **stand on a dot** that is on the side opposite of where their orb spawned. We generally say to position such that your tether crosses over the tether of the person stands on the same side as you - but you don't need to be too pedantic about this.
+Players should then move and **stand on a dot** that is on the side opposite of where their orb spawned. We generally say to pick the red dot that will make your tether cross over the tether of the person standing on the same side as you - but you don't need to be too pedantic about this.
 
 After your orb has exploded and created its bubble, make your way **north** (towards Alexander Prime) as the crystals placed south will explode for **proximity damage**.
 
@@ -531,7 +531,7 @@ Wormhole combines multiple aspects that we have seen throughout this fight and m
 - **Numbers** from **Intermission: Limit Cut**. The mechanic functions the **exact same way**, including knocking back on each attack and applying a vulnerability.
 - 2 **puddles** that spawn east and west diagonally opposite each other, which need to be soaked **3 times each**. Each soak reduces the size of the puddle, until it is 'gone.' Soaking a puddle applies a **vulnerability up**. If a soak is missed the party will wipe.
 - BJ **Super Jump** and **Apocalyptic Ray** (like the one at the end of Phase 2: BJCC)
-- 2 **chakrams** that will cut across the arena once baited on a player. These work the same way as from the beginning of **Phase 2: BJCC** but instead of being 180 degrees apart, they are 90 degrees apart, spawning at the cardinals.
+- 2 **chakrams** that will cut across the arena once baited on a player. These work the same way as from the beginning of Phase 2: BJCC but instead of being 180 degrees apart, they are 90 degrees apart, spawning at the cardinals.
 - Alexander Prime **Sacrament** (T-shaped laser). This shouldn't be a problem to dodge and is basically a, "don't run down the middle," check.
 
 {: .note }
@@ -552,7 +552,7 @@ Let's start by going through the **Limit Cut** numbers. See the diagram below - 
 
 All **odd numbers move true west side** and all **even numbers move true east side**. Numbers 1/2 and 5/6 resolve their attacks **true north**, while numbers 3/4 and 7/8 resolve their numbers **true south**. We do it this way so CC only dashes around a small sector of the arena, rather than dashing across the middle.
 
-This means 1/2 and 3/4 can preposition in their red dot, while 5/6 stand just below #1 (**true north western intercardinal**) and 7/8 stand just below #2 (**true north eastern intercardinal**). We wait true north side to avoid being clipped by the **knockback** of BJ's **Super Jump** (he will be jumping to either 3/4, who are south).
+This means 1/2 and 3/4 can preposition in their red dot, while 5/6 stand just below #1 (just below the **true north western intercardinal**) and 7/8 stand just below #2 (just below the **true north eastern intercardinal**). We wait true north side to avoid being clipped by the **knockback** of BJ's **Super Jump** (he will be jumping to either 3/4, who are south).
 
 {: .note }
 Before the chakrams pop, it's okay to be waiting in a puddle as the soak won't happen well after the chakrams go.
@@ -634,7 +634,7 @@ Perfect Alexander begins by casting **The Final Word** and everyone will receive
 As soon as players get their debuffs, everyone should begin to preposition as per follows:
 - **Light Beacon** plants towards the western part of the D waymark.
 - **Dark Beacon** plants dead centre of the 2 waymark.
-- All other the players between 1 and 2 waymarks (leaning towards the west wall of the 2 waymark is safest).
+- All other players stand between the 1 and 2 waymarks (leaning towards the west wall of the 2 waymark is safest).
 
 Below is a screenshot from the toolbox which demonstrates the above positioning.
 
@@ -644,7 +644,7 @@ This positioning ensures that all the criteria are met for the debuffs to resolv
 
 While prepositioning, Perfect Alexander will begin casting **Ordained Stillness** or **Ordained Motion**.
 
-If he is casting motion, your character must be moving at the end of the cast or you will die. Jump around, use abilities freely, I only don't recommend physically moving around otherwise you might put yourself out of position for the mechanic.
+If he is casting motion, your character must be moving at the end of the cast or you will die. Jump around, use abilities freely - I only don't recommend physically moving around, otherwise you might put yourself out of position for the mechanic.
 
 The completion of this mechanic will be denoted by a light sword falling above you.
 
@@ -668,7 +668,7 @@ The 2 party stacks do not actually need to be perfectly balanced - as long as th
 
 After, Perfect Alexander begins a short cast, spawning 4 clones of himself north and a clone of your own character will also appear. This clone appears thanks to the **Enigma Codex** buff you received in Phase 3: Alexander Prime **Inception Formation** - essentially, you are looking into the future. Without Enigma Codex and therefore without clones, you will just have to guess pretty much every aspect of this mechanic.
 
-He will then do another long **Fate Calibration Alpha** cast. During his long cast, you see the entire mechanic play out then once the cast is finished, he becomes untargetable and you do the mechanic for real. In this mechanic, instead of getting debuffs on your buff bar, you watch the debuff happen on your clone. **With no Enigma Codex and therefore no clones, you will no idea who has what debuff or what the Perfect Alexander clones will do.**
+He will then do another long **Fate Calibration Alpha** cast. During his long cast, you see the entire mechanic play out then once the cast is finished, he becomes untargetable and you do the mechanic for real. In this mechanic, instead of getting debuffs on your buff bar, you watch the debuff happen on your clone. **With no Enigma Codex and therefore no clones, you will have no idea who has what debuff or what the Perfect Alexander clones will do.**
 
 First, a dark or light sword will fall above you, indicating **stillness or motion** for the first part of the mechanic. Everyone will receive the same sword.
 
@@ -680,7 +680,7 @@ Then, the individual debuffs will show up. These include:
 
 Once these debuffs present themselves, another dark/light sword falls indicating the next **stillness/motion**. This is once again the same for everyone.
 
-Next, 3 of 4 of the north Perfect Alexander clones will shoot **Sacrament** line lasers, leaving 2 safe zones in the arena. The Alexander clone that does not shoot will **always** be one of the 2 middle ones - looking at the diagram below, if (out of the 2 middle ones), the left does not shoot, the blue areas are safe and if the right one does not shoot, the green areas are safe.
+Next, 3 out of 4 of the north Perfect Alexander clones will shoot **Sacrament** line lasers, leaving 2 safe zones in the arena. The Alexander clone that does not shoot will **always** be one of the 2 middle ones - looking at the diagram below, if (out of the 2 middle ones), the left does not shoot, the blue areas are safe and if the right one does not shoot, the green areas are safe.
 
 ![FCA](https://github.com/nozzyxx/materiaraiding/assets/160133948/9492ad23-92fd-433d-9b6c-4b28c71cb3f3)
 
@@ -690,7 +690,7 @@ As for everyone else - notice how in the bottom safe zones, each one looks to be
 - The shared sentence and no debuffs will stack on the left.
 - The aggravated assaults hang around on the right, out of harm's way.
 
-Once Perfect Alexander finishes the long Fate Calibration Alpha cast, simply stay in your spot while handling the 2 sets of stillness or motion while all the debuffs resolve.
+Once Perfect Alexander finishes the long Fate Calibration Alpha cast, he becomes untargetable. Simply stay in your spot while handling the 2 sets of stillness or motion while all the debuffs resolve.
 
 Perfect Alexander becomes targetable again and will cast **Ordained Capital Punishment** on the highest emnity player (which should be the MT) - this is a triple-hit tankbuster. Then, Perfect Alexander follows with **Ordained Punishment**, which is a single heavy tankbuster that leaves a **Physical Vulnerability Up**.
 
@@ -710,7 +710,7 @@ After your clone wanders around for a couple seconds, all the debuffs will appea
 - **Dark with Blue Tether**: you are tethered to Light with Blue Tether and must be far from them at the end of the forced march.
 - **Dark with Christmas Tether**: you are tethered to Light with Christmas Tether and must be close to them at the end of the forced march.
 
-Then, after the forced marches, 3 Perfect Alexander clones will **J Jump** (this is basically the same as Super Jump, just named differently) to the west, south and east cardinals respectively, near the wall. These jumps will need to be baited by 3 players. After, the Perfect Alexander behind the wall at north will cast **Optical Sight**, which will be either 2 sets of light party stacks, or everyone needs spread out.
+Then, after the forced marches, 3 Perfect Alexander clones will **J Jump** (this is basically the same as Super Jump, just named differently) to the west, south and east cardinals respectively, near the wall. These jumps will need to be baited by 3 players. After, the Perfect Alexander behind the wall at north will cast **Optical Sight**, which will be either 2 sets of light party stacks, or everyone needs to spread out.
 - If there are 2 green balls to his left and right, it is **2 light party stacks**.
 - If there are multiple small green orbs, it is **spreads**.
 
@@ -732,7 +732,7 @@ The diagram below shows a simple layout of where everyone will stand, given that
 
 ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/cf7b09a4-89b1-469f-a9bb-b5cd7fc20ebc)
 
-At the end of Perfect Alexander's long Fate Calibration Beta cast, he comes untargetable and the forced march resolves. After, players have a couple moments to shuffle, allowing Super Jump baiters to run to their cardinal and tethers to ensure they are the correct distance from each other. All players currently north should also group as a shared sentence will go off. 
+At the end of Perfect Alexander's long Fate Calibration Beta cast, he comes untargetable and the forced march resolves. After, players have a couple moments to shuffle, allowing J Jump baiters to run to their cardinal and tethers to ensure they are the correct distance from each other. All players currently north should also group as a shared sentence will go off. 
 
 After the tethers, shared sentence and J Jumps resolve, players should position themselves for Optical Sight. Spread out, or if it was stack, all dark players gather mid while light players stack at A. Healers should ensure players are topped as much as possible for this part.
 
@@ -754,7 +754,7 @@ Then, Perfect Alexander will do another set of trines, same mechanic as before, 
 
 ### Enrage
 
-Perfect Alexander begins casting **Temporal Prison** which is his enrage. During this long enrage cast, Perfect Alexander will gradually imprison each player in a time jail, essentially killing them. Notice how in the arena (image below), there are 7 circles.
+Perfect Alexander begins casting **Temporal Prison** which is his enrage. During this long enrage cast, Perfect Alexander will gradually imprison each player in a time jail, essentially killing them. Notice how in the arena (image below), there are 7 circles with the perforated red outlines.
 
 ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/3c4d3553-2f42-4656-9f95-9be5180b2b79)
 
