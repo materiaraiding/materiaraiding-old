@@ -73,7 +73,7 @@ I highly recommend going over the toolboxes and / or watching PoVs in conjunctio
 
 FYI - in the toolboxes, the **DRG is D1** and **NIN is D2**.
 
-## Phase 1: Living Liquid (WIP)
+## Phase 1: Living Liquid
 
 This phase will involve a lot of specific movement and shuffling from each player to bait certain mechanics. I do not want to clutter this guide with toolbox screenshots showing every bit of movement, but I will give a general outline of who is baiting what and when. Please refer to the actual toolbox for exact individual positioning throughout this phase.
 
