@@ -17,10 +17,10 @@ MUR Strats
 
 ### Credits
 {: .no_toc }
-Toolboxes by MUR
-PoVs by Kur Rumi
-Cheatsheets by MUR and Em Quackingway
-Written guide by Noz Leafhill
+- Toolboxes by MUR
+- PoVs by Kur Rumi
+- Cheatsheets by MUR and Em Quackingway
+- Written guide by Noz Leafhill
 
 ### Table of Contents
 {: .no_toc }
