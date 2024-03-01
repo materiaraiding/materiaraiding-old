@@ -158,7 +158,9 @@ After this stack and tankbuster combo, Adelphel will become untargetable and Gri
 ### **Hyperdimensional Slash**
 {: .no_toc }
 
-4 random players will be chosen with prey markers and they must spread to the north of Grinnaux at max melee, where they will take a line AOE. The positions each player will take are designated by waymarks. This AOE will drop a purple portal on the edge of the arena wherever it was aimed. If two portals are too close to one another, they will tether to eachother and wipe the raid. Similarly, if a player stands too close to a portal they will become tethered and die.
+Grinnaux will then target 4 random players with a line AOE. This AOE will drop a purple portal on the edge of the arena wherever it was aimed, and if two portals are too close to one another they will tether to eachother and wipe the raid. Similarly, if a player stands too close to a portal they will become tethered and die.
+
+These 4 players must spread to the north of Grinnaux at max melee, where they will take a line AOE. The positions each player will take are designated by waymarks.
 
 At the same time as the prey markers move north, the remaining party members will stack south of Grinnaux and take a large conal AOE stack that gets baited on a random non-prey player.
 
@@ -253,7 +255,7 @@ Thordan will then jump again and land on a random cardinal or intercardinal, as 
 
 Everyone who was not marked with Skyward Leap should quickly find Thordan and make their way to him. The Tanks will take their respective tether (MT left knight facing Thordan, ST right knight facing Thordan) and criss-cross them into the safe spot under Thordan to stretch them further for reduced damage. 
 
-![](https://github.com/materiaraiding/materiaraiding/assets/104756079/3b2f74c0-1881-48e7-9ffb-febb332c0782)
+![](https://github.com/materiaraiding/materiaraiding/assets/104756079/9ff95bb1-a663-4834-991b-bef741b5e0cf)
 
 {: .warning}
 > The relative West and East Skyward Leap players should stand on the **edge of the waymark** as seen in the image. If you stand in the middle of your waymark you are likely to kill one of the Tanks next to Thordan.
@@ -265,7 +267,15 @@ The 3 non Skyward Leap players should line up against the wall below Thordan to 
 {: .tanks}
 > Each Tank can stand in front of their respective knight to ensure they are the one to grab the tether, before using sprint to comfortably make it to the safe spot.
 
+Each player will then walk forward into their respective tower and soak the damage. If one tower is missed a high amount of damage will hit the party, likely wiping the group.
 
+Thordan will then drop into the center of the arena and cast **Ancient Quaga** and heavy hitting raidwide, followed by **Heavenly Heel** into **Ascalon's Mercy**. **Heel** inflicts a **slashing resistance down** debuff, requiring a tank swap.
 
+He will then begin to the cast the next trio of the fight:
 
+### **Sanctity of the Ward**
+
+Thordan will then leave the arena and 2 knights will drop down near the center, on opposite sides to each other. These knights can either be facing clockwise or counter-clockwise, which will determine the way they are about to dash across the arena. A third knight will also spawn on one of the waymarks near the outside of the arena.
+
+The knight at the edge of the arena will then target 2 people for distance-based stacks, indicated by either a single sword or 2 swords above the players head. The player with 2 swords should move _behind_ the third knight, and the single sword player should move to the opposite side of the arena on the same axis as the knight (i.e. if the knight spawns on a blue waymark, the single sword moves to the opposite blue waymark).
 

@@ -10,20 +10,26 @@ nav_order: 4
 <img src="./assets/images/BJCC2.png" alt="BJCC" width="150" style="float: right">
 
 # The Epic of Alexander
+{: .no_toc }
 
 MUR Strats 
 {: .label .label-purple }
 
 ### Credits
-Toolboxes by MUR
+{: .no_toc }
+- Toolboxes by MUR
+- PoVs by Kur Rumi
+- Cheatsheets by MUR and Em Quackingway
+- Written guide by Noz Leafhill
 
-PoVs by Kur Rumi
+### Table of Contents
+{: .no_toc }
 
-Cheatsheets by MUR and Em Quackingway
-
-Written guide by Noz Leafhill
+1. TOC
+{:toc}
 
 ### Toolboxes
+By MUR and Juno Dax
 
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 TEA has multiple Toolboxes, each are listed here in order of phases in the fight.
@@ -34,6 +40,7 @@ TEA has multiple Toolboxes, each are listed here in order of phases in the fight
 [Alexander Prime](https://ff14.toolboxgaming.space/?id=279973556822761&preview=1){: .btn .btn-blue }
 [Wormhole](https://ff14.toolboxgaming.space/?id=236244852760461&preview=1){: .btn .btn-blue }
 [Perfect Alexander](https://ff14.toolboxgaming.space/?id=908766479219561&preview=1){: .btn .btn-blue }
+
 
 ### PoVs
 
@@ -61,13 +68,13 @@ Space = Hold to select numbers
 
 ### Cheatsheets and Visual Guides
 
-**Wormhole Visual Guide**
+**Wormhole (crappy) Visual Guide**
 
-[![](https://cdn.discordapp.com/attachments/1074285128299327508/1108006238308024360/image.png)](https://cdn.discordapp.com/attachments/1074285128299327508/1108006238308024360/image.png)
+![image](https://github.com/materiaraiding/materiaraiding/assets/85346345/f58044da-89ba-4708-8d26-83ce7df50675)
 
 **Perfect Alexander Cheatsheet**
 
-[![](https://cdn.discordapp.com/attachments/1074285128299327508/1105403205246005279/image-19.png)](https://cdn.discordapp.com/attachments/1074285128299327508/1105403205246005279/image-19.png)
+![image-19](https://github.com/materiaraiding/materiaraiding/assets/85346345/4583252e-31eb-43f2-a0c3-d97cf40ca2c0)
 
 ## Written Guide
 
@@ -80,6 +87,7 @@ FYI - in the toolboxes, the **DRG is D1** and **NIN is D2**.
 This phase will involve a lot of specific movement and shuffling from each player to bait certain mechanics. I do not want to clutter this guide with toolbox screenshots showing every bit of movement, but I will give a general outline of who is baiting what and when. Please refer to the actual toolbox for exact individual positioning throughout this phase.
 
 ### Intro and Jagd Dolls
+{: .no_toc }
 
 The fight begins with MT pulling **Living Liquid** (LL) to the centre and facing him north. After a few autoattacks he will cast **Fluid Swing**, an untelegraphed cleaving tankbuster that leaves a very brief **Water Resistance Down**.
 
@@ -123,6 +131,7 @@ MT - make sure LL is as centred as possible as this will make the upcoming Prote
 As soon as the tanks finish centering their bosses, the MT should face LL **south east** while the OT faces the Hand **south west** as the bosses are about to cast another **Fluid Swing** and **Fluid Strike** and we want to avoid cleaving each other. After the cleaving tankbusters, the tanks should stack south of the bosses while everyone else stacks up north of the bosses, ready for a series of **Protean Wave** baits.
 
 ### Proteans and Splashes
+{: .no_toc }
 
 LL will now cast telegraphed **Protean Waves**, which should run north and south with everyone's prepositioning. At the same time, the Hand will cast **Hand of Pain** - ensure boss HP's are not too far apart.
 
@@ -140,6 +149,7 @@ Be sure you are not too close to your cotank for **Drainage** as it is an AoE.
 The Hand will then cast another **Hand of Pain**, with LL following with **Cascade**, dealing raidwide damage and spawning 3 new tornado puddles.
 
 ### Throttles and More Proteans
+{: .no_toc }
 
 With the new tornado puddle positions, we will once again treat the empty space as our **north**. Half the party will then split on the south side of the bosses, while the other half will sit north. MT should be facing the boss north.
 
@@ -172,6 +182,7 @@ LL with then cast one final **Cascade**, which is his enrage.
 There are 2 major components to handle simultaneously during this intermission phase - the numbers and the AoE explosions.
 
 ### Numbers
+{: .no_toc }
 
 Once Living Liquid drops, players will be numbered from 1-8 (signified by the number of dots above their head).
 
@@ -188,6 +199,7 @@ As all of CC's attacks during Limit Cut have a knockback effect, everyone should
 For odd players - as CC will spawn **behind** you from the direction you are facing, always face forward as you are running and be sure not to look anywhere else.
 
 ### AoE Explosions
+{: .no_toc }
 
 During this mechanic, there will also be 10 sets of large untelegraphed **AoE explosions** around the arena. Being hit by one will be lethal. This is how they work:
 - The 1st, 2nd, 3rd and 4th will include 2 towards the wall that are 180 degrees apart from each other and rotate clockwise.
@@ -196,6 +208,7 @@ During this mechanic, there will also be 10 sets of large untelegraphed **AoE ex
 - The 10th explosion is once again in the centre of arena.
 
 ### Putting it all together - 1256 strat
+{: .no_toc }
 
 MUR adopts the **1256 strat** to resolve Limit Cut.
 
@@ -245,6 +258,7 @@ In this phase, there is **a lot** going on. In saying that, depending on which r
 While I will provide general guidelines on positoning, I once again do not want to clutter this section with toolbox screenshots. Please refer to the actual toolbox for exact positioning throughout this phase.
 
 ### Intro: Before First Nisi Pass
+{: .no_toc }
 
 At the end of Limit Cut, players should preposition in their assigned clock spots within the green circle in the middle of the arena. This phase begins with CC appearing in the arena and BJ slamming down with **J Kick**, a heavy raidwide. 
 
@@ -290,6 +304,7 @@ After Photon, DPS will stand over their pre-assigned support partner to pass / r
 - D4 passes to H2
 
 ### After First Pass
+{: .no_toc }
 
 {: .healers }
 As MUR PF standard strat has the bosses split for this phase, players will be spread out and may potentially miss AoE heals as a result. Keep an eye on everyone's health, **especially tanks**.
@@ -330,6 +345,7 @@ After, DPS will complete their 2nd Nisi pass by running over the same pre-assign
 D3 - ensure the OT has finished soaking both mines before passing so you don't accidentally get clipped by the AoE.
 
 ### After Second Pass - Verdict
+{: .no_toc }
 
 Players should now position for the next set of water and lightning explosions:
 - The water debuff player will stand on the north east B waymark, with 2 other players (ranged / healer who was not first water) surrounding them.
@@ -359,6 +375,7 @@ DPS will then do their 3rd pass:
 - If supports currently hold the Nisi's, DPS should check which colour they need for Verdict and walk over them.
 
 ### After Third Pass - Gavel
+{: .no_toc }
 
 CC will cast **Whirlwind** for raidwide damage.
 
@@ -386,6 +403,7 @@ Be sure to stand directly on top of the person who requires the same Nisi as you
 Wait till all the debuffs are 100% gone before moving out of the lineup - if you move a fraction early before Gavel properly resolves, you might accidentally combine Nisi's and cause a wipe.
 
 ### Post-Gavel and Enrage
+{: .no_toc }
 
 After Gavel, both tanks should pull their bosses together to the west wall, allowing for cleave damage. At this point, **pay attention to both boss's HP's** and try to keep them as similar as possible as they need to die approximately at the same time.
 
@@ -408,6 +426,7 @@ After their landing, party members will receive some debuffs. Players have appro
 Once the debuffs resolve, BJ will cast Flarethrower twice (conal AoE) to the 2 closest players and CC will cast Alpha Sword thrice (conal AoE) to the 3 closest players.
 
 ### Debuffs
+{: .no_toc }
 
 The debuffs are as below. They are **role-based**, one DPS and one support will receive one of the following:
 - **Aggravated Assault**, shown by a lightning symbol ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/36aa1af3-daa6-4c3b-8ec2-fa2e04a53f6f)
@@ -419,6 +438,7 @@ The debuffs are as below. They are **role-based**, one DPS and one support will 
 - One DPS and one support will receive **nothing**.
 
 ### Resolution
+{: .no_toc }
 
 This is where everyone will stand to make this work:
 - Both **Aggravated Assault** players run hard east or west to the wall - whichever one BJ is closest to. This ensures they are far enough to not be hit by anything and do not bait any cleaves.
@@ -447,6 +467,7 @@ _Generally_, the MT will use their invulnerability here, but there are multiple 
 Alexander Prime then casts his first mechanic.
 
 ### Inception Formation
+{: .no_toc }
 
 Alexander Prime is untargetable for the duration of this mechanic.
 
@@ -526,6 +547,7 @@ _Generally_, the OT will solo this with their kitchen sink + invulnerability. Ho
 This leads to Alexander Prime's next mechanic: **Wormhole Formation**.
 
 ### Wormhole Formation
+{: .no_toc }
 
 Alexander Prime is untargetable for the duration of this mechanic.
 
@@ -605,6 +627,7 @@ Once the enumerations resolve, Alexander Prime once again becomes targetable and
 Alexander Prime will then begin casting **Summon Alexander**, the final part of this phase.
 
 ### Summon Alexander
+{: .no_toc }
 
 Alexander will spawn north, with BJ south west and CC south east of him. He begins casting **Divine Judgment**, which is an extremely long enrage timer. While BJ and CC are alive, Alexander is invulnerable, so we must kill them before we finish off Alexander.
 
@@ -626,6 +649,7 @@ After Judgment Protocol, you will watch Perfect Alexander come to life.
 The final phase of this fight involves several debuffs which can be simply resolved by, "stand in this location," but as usual I will explain what's happening so you can understand **why**.
 
 ### The Final Word
+{: .no_toc }
 
 Perfect Alexander begins by casting **The Final Word** and everyone will receive a debuff. 
 
@@ -667,6 +691,7 @@ After the Final Word, Perfect Alexander will cast **Optical Sight**. This will b
 The 2 party stacks do not actually need to be perfectly balanced - as long as there's more than 1 person in a stack and they aren't overlapping, the mechanic is survivable and you do not need to be pedantic about splitting the light parties perfectly.
 
 ### Fate Calibration Alpha
+{: .no_toc }
 
 After, Perfect Alexander begins a short cast, spawning 4 clones of himself north and a clone of your own character will also appear. This clone appears thanks to the **Enigma Codex** buff you received in Phase 3: Alexander Prime **Inception Formation** - essentially, you are looking into the future. Without Enigma Codex and therefore without clones, you will just have to guess pretty much every aspect of this mechanic.
 
@@ -699,6 +724,7 @@ Perfect Alexander becomes targetable again and will cast **Ordained Capital Puni
 For the triple-hit, the tanks should share the damage and kitchen sink their mitigations. Then, during the cast of Ordained Punishment, the tanks should separate and the OT provokes. The MT will take the large tankbuster hit alone, then as OT will have aggro the MT with the physical vulnerability will not die to an autoattack.
 
 ### Fate Calibration Beta
+{: .no_toc }
 
 The next mechanic is **Fate Calibration Beta**, which is another watch-your-clone mechanic, made possible with the **Enigma Codex** buff. Similar to the previous mechanic, Fate Calibration Beta will start with Perfect Alexander doing a short cast to signify the start of the mechanic, then a long cast to preview all the upcoming mechanics.
 
@@ -743,6 +769,7 @@ Upon the resolution of Optical Sight, everyone runs (sprint is helpful here) to 
 Perfect Alexander becomes targetable again and will cast another **Ordained Capital Punishment** and **Ordained Punishment** tankbuster combo on the highest emnity target. At this point, OT should have aggro and use their invulnerability for the entire tankbuster, with the MT provoking during the long Ordained Punishment Cast.
 
 ### Trines
+{: .no_toc }
 
 This is the last new mechanic of the fight. Perfect Alexander casts **Almighty Judgment**, which previews 3 sets of AoE's (which we call **Trines**) on the ground. He then recasts the same 3 sets of AoE's for real, in which then players must dodge into the safe spots. 
 
@@ -755,6 +782,7 @@ After, Perfect Alexander casts another **Ordained Capital Punishment** and **Ord
 Then, Perfect Alexander will do another set of trines, same mechanic as before, including the party stack. Afterwards, Perfect Alexander casts **Temporal Interference**, which initiates his enrage.
 
 ### Enrage
+{: .no_toc }
 
 Perfect Alexander begins casting **Temporal Prison** which is his enrage. During this long enrage cast, Perfect Alexander will gradually imprison each player in a time jail, essentially killing them. Notice how in the arena (image below), there are 7 circles with the perforated red outlines.
 
