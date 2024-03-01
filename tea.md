@@ -37,9 +37,10 @@ TEA has multiple Toolboxes, each are listed here in order of phases in the fight
 [Living Liquid](https://ff14.toolboxgaming.space/?id=830419115443951&preview=1){: .btn .btn-blue }
 [Limit Cut 1256](https://ff14.toolboxgaming.space/?id=240411819443951&preview=1){: .btn .btn-blue }
 [BJCC Split](https://ff14.toolboxgaming.space/?id=340414049443951&preview=1){: .btn .btn-blue }
-[Alex Prime](https://ff14.toolboxgaming.space/?id=052970374379661&preview=1){: .btn .btn-blue }
-[Wormhole](https://ff14.toolboxgaming.space/?id=592976787789661&preview=1){: .btn .btn-blue }
-[Perfect Alex](https://ff14.toolboxgaming.space/?id=908766479219561&preview=1){: .btn .btn-blue }
+[Alexander Prime](https://ff14.toolboxgaming.space/?id=279973556822761&preview=1){: .btn .btn-blue }
+[Wormhole](https://ff14.toolboxgaming.space/?id=236244852760461&preview=1){: .btn .btn-blue }
+[Perfect Alexander](https://ff14.toolboxgaming.space/?id=908766479219561&preview=1){: .btn .btn-blue }
+
 
 ### PoVs
 
@@ -47,6 +48,8 @@ TEA has multiple Toolboxes, each are listed here in order of phases in the fight
 [Ranged DPS (D3)](https://www.youtube.com/watch?v=XU-o3pm1jiU){: .btn }
 [Caster (D2)](https://www.youtube.com/watch?v=q3PjYcGj-6s){: .btn }
 [Healer (H1)](https://www.youtube.com/watch?v=NHN9zWZbcEc){: .btn }
+[Healer_(H2)](https://www.youtube.com/watch?v=DhiVA9VJLmg){: .btn }
+[Tank (MT)](https://www.youtube.com/watch?v=YoLOIQ_fumI){: .btn }
 [Tank (OT)](https://www.youtube.com/watch?v=eNf0gVqOPUk){: .btn }
 
 ### Simulator
@@ -515,7 +518,7 @@ Several players will then receive **debuffs**:
 - 2 DPS will get Aggravated Assault, denoted by a lightning symbol. ![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/a8ed0fbb-d3e6-46d5-a885-435c88331d51)
  They will take moderate damage and receive vulnerabilities.
 
-The True Heart will then **move to the wall** and disappear, granting the **Enigma Codex** debuff. Where the True Heart moves signifies where Alexander Prime will spawn, where he casts **Sacrament**, a T-shaped laser.
+The True Heart will then **move to the wall** and disappear, granting the **Enigma Codex** buff. Where the True Heart moves signifies where Alexander Prime will spawn, where he casts **Sacrament**, a T-shaped laser.
 
 {: .note }
 The True Heart will not show Alexander Prime's position if it did not pop all 4 crystals at the beginning of Inception.
