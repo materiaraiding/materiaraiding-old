@@ -10,9 +10,9 @@ has_toc: false
 
 Use the following links to find guides for each current **Ultimate Raid**.
 
-<a href=".\TOP">
-  <div style="position: relative; color: white;" href=".\top">
+<div style="position: relative; color: white;" href=".\top">
+  <a href=".\TOP">
     <img src=".\assets\images\banners\TOP.png" alt="TOP">
     <div style="position: absolute; bottom: 8px; left: 16px;"><h2>The Omega Protocol</h2></div>
-  </div>
-</a>
+  </a>
+</div>
