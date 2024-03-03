@@ -279,3 +279,5 @@ Thordan will then leave the arena and 2 knights will drop down near the center, 
 
 The knight at the edge of the arena will then target 2 people for distance-based stacks, indicated by either a single sword or 2 swords above the players head. The player with 2 swords should move _behind_ the third knight, and the single sword player should move to the opposite side of the arena on the same axis as the knight (i.e. if the knight spawns on a blue waymark, the single sword moves to the opposite blue waymark).
 
+Each stack will move 4 notches in the same direction as the knights (CW/CCW). This will leave the party in the 1st of two safespots as part of the dashes. After the cleaves go off around them the party will move to 4 notches _before_ the next waymark for the next safe spot.
+
