@@ -135,7 +135,7 @@ SGE/WHM:
 
 <details markdown=1>
 <summary>View Cheatsheet</summary>
-<a href="https://cdn.discordapp.com/attachments/954964022711685201/1118795044636327986/DSR_Materia_Strats_Cheat_Sheet.png" target="_blank"><img src="https://cdn.discordapp.com/attachments/954964022711685201/1118795044636327986/DSR_Materia_Strats_Cheat_Sheet.png"></a>
+<a href=".\assets\images\dsrcheatsheet.webp" target="_blank"><img src=".\assets\images\dsrcheatsheet.webp"></a>
 </details>
 
 ## Fight Writeup (W.I.P)
