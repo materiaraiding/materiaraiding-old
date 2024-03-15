@@ -46,5 +46,6 @@ Or join the discussion on Discord!
 - Soushi
 - Kurume
 - Adrian
+- Huderon
 - Materia Raiding Community (Various Resources)
 - Materia Ultimate Raiding Community (Various Resources)
