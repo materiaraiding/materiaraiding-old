@@ -76,6 +76,8 @@ For all of Bahamut, we use the following toolboxes:
 
 ### DSR
 
+DSR Strats in Materia primarily follow NA strats with a few key differences: 
 
+TO-DO: Writeup about 332, easthogg, dooms south, static wb2
 
 ### TOP
