@@ -8,18 +8,20 @@ nav_order: 99
 
 G'day and welcome to the Oceanic datacenter, Here in the land Down Under (and surrounding regions), we do things a bit differently when it comes to ultimate and savage raids. It's not just about throwing another shrimp on the barbie; it's about mastering the unique strategies that our local raiding community swears by. We'll explore how Oceanic raiders tackle the toughest challenges with a fair dinkum approach and what sets us apart from the rest of the FF14 world. So, let's crack on and delve into the nitty-gritty of Oceanic's raiding scene!
 
+This guide is aimed to help raiders with **previous experience** in current Ultimate and Savage fights transition over to OCE strats and join PFs in Materia. **If you are new to Ultimate Raiding** in OCE, we suggest exploring our full guides on this website using the navigation on the left-hand side of this page! 
+
 ## Raid Roles
 
-In OCE we typically use the MT, OT, H1, H2, D1, D2, D3, D4 notation to indicate who's who in any raid party, this means...
+In OCE we typically use the **MT, OT, H1, H2, D1, D2, D3, D4** notation to indicate who's who in any raid party, this means...
 
-- MT - Main Tank
-- OT/ST - Off-Tank
-- H1 - Pure/Regen Healer
-- H2 - Shield Healer
-- D1 - Melee DPS
-- D2 - Melee DPS (or fake Melee)
-- D3 - Phys Ranged DPS
-- D4 - Caster
+- **MT** - Main Tank
+- **OT/ST** - Off-Tank
+- **H1** - Pure/Regen Healer
+- **H2** - Shield Healer
+- **D1** - Melee DPS
+- **D2** - Melee DPS (or fake Melee)
+- **D3** - Phys Ranged DPS
+- **D4** - Caster
 
 You will typically see these mentioned in Party Finder when looking for specific roles and in Macros to indicate positions in certain Mechanics. 
 
@@ -49,13 +51,24 @@ Macros use the same Role notation above to explain positions and mechs in a visu
 
 You will often see macros shared in party chat when you get into your Party Finder group, if your not sure what strat is being used for a fight, don't be afraid to ask the party leader for a Macro.
 
-## Ultimates
+## Ultimates (Work In Progress)
 
 ### UCOB
 
 Primarily, Materia follows Clee's UCOB guide, this is common in some other regions so may not be too unfamiliar to most, see here: [Clee's Guide](https://ultimates.guide/ucob/)
 
-One key difference is due to being in the southern hemisphere, we flip the arena upside down and drop the Hatch puddles in a V shape, obviously.
+One key difference is due to being in the southern hemisphere, we flip the arena upside down and drop the Hatch puddles in a V shape, obviously. This looks something like this: 
+
+<img src="./assets/images/ucobmarkers.png" alt="UCOB Markers" style="height: 300px">
+
+For all of Bahamut, we use the following toolboxes: 
+
+[QMT](https://ff14.toolboxgaming.space/?id=877146678916361&preview=1){: .btn }
+[BFT](https://ff14.toolboxgaming.space/?id=838145884536361&preview=1){: .btn }
+[FRT](https://ff14.toolboxgaming.space/?id=810783368854861&preview=1){: .btn }
+[HFT](https://ff14.toolboxgaming.space/?id=740246169786361&preview=1){: .btn }
+[TST](https://ff14.toolboxgaming.space/?id=141245760517361&preview=1){: .btn }
+[GO](https://ff14.toolboxgaming.space/?id=803246524767361&preview=1){: .btn }
 
 ### UWU
 
@@ -73,7 +86,7 @@ as always, RESPECT STILLNESS
 
 ### DSR
 
-Phase 2 onwards, waymarks are positioned along the walls rather than in the middle.
+Phase 2 onwards, Waymarks are positioned along the walls rather than in the middle.
 
 in phase 3: Materia does Easthogg. Niddstinien is faced north, and we resolve all arrows by facing our character east.
 
