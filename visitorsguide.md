@@ -57,7 +57,18 @@ You will often see macros shared in party chat when you get into your Party Find
 
 Primarily, Materia follows Clee's UCOB guide, this is common in some other regions so may not be too unfamiliar to most, see here: [Clee's Guide](https://ultimates.guide/ucob/)
 
-One key difference is due to being in the southern hemisphere, we flip the arena upside down and drop the Hatch puddles in a V shape, obviously.
+One key difference is due to being in the southern hemisphere, we flip the arena upside down and drop the Hatch puddles in a V shape, obviously. This looks something like this: 
+
+<img src="./assets/images/ucobmarkers.png" alt="UCOB Markers" style="height: 300px">
+
+For all of Bahamut, we use the following toolboxes: 
+
+[QMT](https://ff14.toolboxgaming.space/?id=877146678916361&preview=1){: .btn }
+[BFT](https://ff14.toolboxgaming.space/?id=838145884536361&preview=1){: .btn }
+[FRT](https://ff14.toolboxgaming.space/?id=810783368854861&preview=1){: .btn }
+[HFT](https://ff14.toolboxgaming.space/?id=740246169786361&preview=1){: .btn }
+[TST](https://ff14.toolboxgaming.space/?id=141245760517361&preview=1){: .btn }
+[GO](https://ff14.toolboxgaming.space/?id=803246524767361&preview=1){: .btn }
 
 ### UWU
 
