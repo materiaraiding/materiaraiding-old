@@ -80,7 +80,7 @@ For all of Bahamut, we use the following toolboxes:
 [TST](https://ff14.toolboxgaming.space/?id=141245760517361&preview=1){: .btn }
 [GO](https://ff14.toolboxgaming.space/?id=803246524767361&preview=1){: .btn }
 
-[UCOB OCE Guide](/ucob){: .btn }
+[Full UCOB OCE Guide](/ucob){: .btn }
 
 ## UWU
 
@@ -108,7 +108,7 @@ Standard positions are kinda rotate about 90 degrees to start from east side of 
 
 For an extended explanation you can see the complete TEA OCE Guide below by Noz Leafhill,
 
-[TEA OCE Guide](/tea){: .btn }
+[Full TEA OCE Guide](/tea){: .btn }
 
 ## DSR
 
@@ -124,10 +124,10 @@ In Dragon King Thordan, all 3 akh morn edge stacks are handled with 3-3-2 rather
 
 For an extended explanation you can see the complete DSR OCE Guide below by Juno Dax,
 
-[DSR OCE Guide](/dsr){: .btn }
+[Full DSR OCE Guide](/dsr){: .btn }
 
 ## TOP
 
 For an extended explanation you can see the complete TOP OCE Guide below by Juno Dax,
 
-[TOP OCE Guide](/top){: .btn }
+[Full TOP OCE Guide](/top){: .btn }
