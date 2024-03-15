@@ -73,11 +73,35 @@ For all of Bahamut, we use the following toolboxes:
 ### UWU
 
 ### TEA
+Materia DC follows the oldbin TEA strats that are present on the NA DC's, this means that for BJ/CC, we do the split BJ/CC strat. this is very different to the Tollgate strat that is present in JP. This can also be compared to the strats covered in [Tessan Twintails video guide](https://www.youtube.com/watch?v=uVtZ8-XoOZ0), with a few key differences below: 
+
+#### Temporal Statis
+During Temporal Statis mech after Phase 2, some positions are flipped, supports left, and DPS right for long teathers, short teather is on the add to the right and no teather is to the add on the left.
+
+<img src="https://github.com/nozzyxx/materiaraiding/assets/160133948/31845dfb-fc41-4ad0-8f3c-5f6972c61b5a" alt="Temporal Statis" style="height: 300px">
+
+#### Wormhole
+For Wormhole, we follow the KR sim strat on the most part. [KR Simulator](https://materiaraiding.com/tea.html#simulator)
+
+#### Inception Formation 
+Everything is flipped left to right, up until the tethers finish resolving.
+This means Tanks and Stack go LEFT relative to the heart, and everyone else goes RIGHT.
+
+#### Fate Calibration Beta
+Standard positions are kinda rotate about 90 degrees to start from east side of the room, Dark Beacon plants in the middle of the 2 Marker (EAST) and light beacon middle placed in North--North-West on the Golden Circle on the floor.
+
+For an extended explanation you can see the [Complete OCE TEA guide here](https://materiaraiding.com/tea).
 
 ### DSR
 
-DSR Strats in Materia primarily follow NA strats with a few key differences: 
+Phase 2 onwards, Waymarks are positioned along the walls rather than in the middle.
 
-TO-DO: Writeup about 332, easthogg, dooms south, static wb2
+in phase 3: Materia does Easthogg. Niddstinien is faced north, and we resolve all arrows by facing our character east. [Easthogg Video Guide](https://www.youtube.com/watch?v=j_Hz3I4ENK4)
+
+in Death of the Heavens in Dark Thordan: base positioning before the mecahnic starts is done H1>MT>D3>D1>D2>D4>ST>H2, dooms are positioned along the south side rather than north, and they are knocked back noth to soak their puddles. 
+
+in Double dragons: we may resolve wroth AM's somewhat differently to what is already known. like with NA we also do fixed wyrmsbreath 1 + 2 which is different than how it is done in Elemental. tanks are also using their invuln's on cautrize at the end of double dragons.
+
+In Dragon King Thordan, all 3 akh morn edge stacks are handled with 3-3-2 rather than 6-1-1.
 
 ### TOP
