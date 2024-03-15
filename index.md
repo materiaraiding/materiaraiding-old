@@ -8,7 +8,7 @@ nav_order: 1
 
 # Welcome to Materia Raiding
 
-This website is a resource provided by Materia Raiding community, as a one-stop shop for your Savage and Ultimate Raiding needs.
+This website is a resource provided by Materia Raiding community, as a one-stop shop for your Savage and Ultimate Raiding needs for the Materia FF14 Datacenter.
 
 ## Guides and Resources
 
