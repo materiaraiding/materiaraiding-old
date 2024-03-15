@@ -84,6 +84,8 @@ For all of Bahamut, we use the following toolboxes:
 
 ## UWU
 
+Coming Soon
+
 ## TEA
 Materia DC follows the oldbin TEA strats that are present on the NA DC's, this means that for BJ/CC, we do the split BJ/CC strat. this is very different to the Tollgate strat that is present in JP. This can also be compared to the strats covered in [Tessan Twintails video guide](https://www.youtube.com/watch?v=uVtZ8-XoOZ0), with a few key differences below: 
 
@@ -129,6 +131,8 @@ For an extended explanation you can see the complete DSR OCE Guide below by Juno
 [Full DSR OCE Guide](/dsr){: .btn }
 
 ## TOP
+
+Coming Soon 
 
 For an extended explanation you can see the complete TOP OCE Guide below by Juno Dax,
 
