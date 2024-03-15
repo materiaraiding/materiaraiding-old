@@ -1,3 +1,8 @@
+---
+layout: default
+title: Visitors Guide to OCE Raiding
+nav_order: 99
+---
 
 # Visitors Guide to Oceanic Raiding
 
