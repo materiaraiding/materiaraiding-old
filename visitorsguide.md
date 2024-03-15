@@ -89,7 +89,7 @@ Materia DC follows the oldbin TEA strats that are present on the NA DC's, this m
 
 ### Temporal Statis
 {: .no_toc }
-During Temporal Statis mech after Phase 2, some positions are flipped, supports left, and DPS right for long teathers, short teather is on the add to the right and no teather is to the add on the left.
+During Temporal Statis mech after Phase 2, some positions are flipped, supports left, and DPS right for long tethers, short tether is on the add to the right and no tether is to the add on the left.
 
 <img src="https://github.com/nozzyxx/materiaraiding/assets/160133948/31845dfb-fc41-4ad0-8f3c-5f6972c61b5a" alt="Temporal Statis" style="height: 400px">
 
@@ -104,7 +104,7 @@ This means Tanks and Stack go LEFT relative to the heart, and everyone else goes
 
 ### Fate Calibration Beta
 {: .no_toc }
-Standard positions are kinda rotate about 90 degrees to start from east side of the room, Dark Beacon plants in the middle of the 2 Marker (EAST) and light beacon middle placed in North--North-West on the Golden Circle on the floor.
+Standard positions are rotated about 90 degrees and start from east side of the room, Dark Beacon plants in the middle of the 2 Marker (EAST) and light beacon middle placed in North-North-West on the Golden Circle on the floor.
 
 For an extended explanation you can see the complete TEA OCE Guide below by Noz Leafhill,
 
