@@ -69,7 +69,7 @@ Primarily, Materia follows Clee's UCOB guide, this is common in some other regio
 
 One key difference is due to being in the southern hemisphere, we flip the arena upside down and drop the Hatch puddles in a V shape, obviously. This looks something like this: 
 
-<img src="./assets/images/ucobmarkers.png" alt="UCOB Markers" style="height: 300px">
+<img src="./assets/images/ucobmarkers.png" alt="UCOB Markers" style="height: 400px">
 
 For all of Bahamut, we use the following toolboxes: 
 
@@ -80,6 +80,8 @@ For all of Bahamut, we use the following toolboxes:
 [TST](https://ff14.toolboxgaming.space/?id=141245760517361&preview=1){: .btn }
 [GO](https://ff14.toolboxgaming.space/?id=803246524767361&preview=1){: .btn }
 
+[UCOB OCE Guide](/ucob){: .btn }
+
 ## UWU
 
 ## TEA
@@ -89,7 +91,7 @@ Materia DC follows the oldbin TEA strats that are present on the NA DC's, this m
 {: .no_toc }
 During Temporal Statis mech after Phase 2, some positions are flipped, supports left, and DPS right for long teathers, short teather is on the add to the right and no teather is to the add on the left.
 
-<img src="https://github.com/nozzyxx/materiaraiding/assets/160133948/31845dfb-fc41-4ad0-8f3c-5f6972c61b5a" alt="Temporal Statis" style="height: 300px">
+<img src="https://github.com/nozzyxx/materiaraiding/assets/160133948/31845dfb-fc41-4ad0-8f3c-5f6972c61b5a" alt="Temporal Statis" style="height: 400px">
 
 ### Wormhole
 {: .no_toc }
@@ -104,7 +106,9 @@ This means Tanks and Stack go LEFT relative to the heart, and everyone else goes
 {: .no_toc }
 Standard positions are kinda rotate about 90 degrees to start from east side of the room, Dark Beacon plants in the middle of the 2 Marker (EAST) and light beacon middle placed in North--North-West on the Golden Circle on the floor.
 
-For an extended explanation you can see the [Complete OCE TEA guide here](https://materiaraiding.com/tea).
+For an extended explanation you can see the complete TEA OCE Guide below by Noz Leafhill,
+
+[TEA OCE Guide](/tea){: .btn }
 
 ## DSR
 
@@ -118,4 +122,12 @@ in Double dragons: we may resolve wroth AM's somewhat differently to what is alr
 
 In Dragon King Thordan, all 3 akh morn edge stacks are handled with 3-3-2 rather than 6-1-1.
 
+For an extended explanation you can see the complete DSR OCE Guide below by Juno Dax,
+
+[DSR OCE Guide](/dsr){: .btn }
+
 ## TOP
+
+For an extended explanation you can see the complete TOP OCE Guide below by Juno Dax,
+
+[TOP OCE Guide](/top){: .btn }
