@@ -19,6 +19,10 @@ This website is a resource provided by Materia Raiding community, as a one-stop 
 |[P12S P2](/p12s-2){: .btn }|[TOP](/top){: .btn }  |                    |                    |
 |                           |[FRU](/fru){: .btn }  |                    |                    |
 
+Visiting from another region? check out our visitors guide for a quick breakdown on differences in strats.
+
+[Visitors Guide to OCE Raiding](/visitorsguide){: .btn } 
+
 ## About
 
 This site was put together to help combine various resources and guides into one comprehensive resource, our strategies are a collaboration of guides and tools from various other FF14 communities, with credits included on the pages and at the bottom of this page also.
