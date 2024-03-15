@@ -45,5 +45,6 @@ Or join the discussion on Discord!
 - Kobe
 - Soushi
 - Kurume
+- Adrian
 - Materia Raiding Community (Various Resources)
 - Materia Ultimate Raiding Community (Various Resources)
