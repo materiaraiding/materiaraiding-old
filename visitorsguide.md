@@ -58,6 +58,11 @@ Macros use the same Role notation above to explain positions and mechs in a visu
 
 You will often see macros shared in party chat when you get into your Party Finder group, if your not sure what strat is being used for a fight, don't be afraid to ask the party leader for a Macro.
 
+## Savage
+Current Savage Tier raid resources are compiled on our Savage page, which you can find at the button below. This includes our Macros, Images and Toolboxes made for OCE specific strategies. 
+
+[OCE Savage Resources](/savage){: .btn }
+
 ## UCOB
 
 Primarily, Materia follows Clee's UCOB guide, this is common in some other regions so may not be too unfamiliar to most, see here: [Clee's Guide](https://ultimates.guide/ucob/)
