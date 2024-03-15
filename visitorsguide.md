@@ -33,4 +33,4 @@ You will typically see these mentioned in Party Finder when looking for specific
 
 Primarily, Materia follows Clee's UCOB guide, this is common in some other regions so may not be too unfamiliar to most, see here: https://ultimates.guide/ucob/
 
-One key difference is due to being in the sothern hemisphere, we flip the arena upside down and drop the Hatch puddles in a V shape, obviously.
+One key difference is due to being in the southern hemisphere, we flip the arena upside down and drop the Hatch puddles in a V shape, obviously.
