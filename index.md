@@ -4,9 +4,11 @@ layout: home
 nav_order: 1
 ---
 
+<img src="./assets/images/icons/materia.png" alt="materia" width="128" style="float: right">
+
 # Welcome to Materia Raiding
 
-This website is a resource provided by Materia Raiding community, as a one-stop shop for your Savage and Ultimate Raiding needs.
+This website is a resource provided by Materia Raiding community, as a one-stop shop for your Savage and Ultimate Raiding needs for the Materia FF14 Datacenter.
 
 ## Guides and Resources
 
@@ -46,5 +48,6 @@ Or join the discussion on Discord!
 - Soushi
 - Kurume
 - Adrian
+- Huderon
 - Materia Raiding Community (Various Resources)
 - Materia Ultimate Raiding Community (Various Resources)
