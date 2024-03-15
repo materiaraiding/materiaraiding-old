@@ -81,18 +81,22 @@ For all of Bahamut, we use the following toolboxes:
 Materia DC follows the oldbin TEA strats that are present on the NA DC's, this means that for BJ/CC, we do the split BJ/CC strat. this is very different to the Tollgate strat that is present in JP. This can also be compared to the strats covered in [Tessan Twintails video guide](https://www.youtube.com/watch?v=uVtZ8-XoOZ0), with a few key differences below: 
 
 ### Temporal Statis
+{: .no_toc }
 During Temporal Statis mech after Phase 2, some positions are flipped, supports left, and DPS right for long teathers, short teather is on the add to the right and no teather is to the add on the left.
 
 <img src="https://github.com/nozzyxx/materiaraiding/assets/160133948/31845dfb-fc41-4ad0-8f3c-5f6972c61b5a" alt="Temporal Statis" style="height: 300px">
 
 ### Wormhole
+{: .no_toc }
 For Wormhole, we follow the KR sim strat on the most part. [KR Simulator](https://materiaraiding.com/tea.html#simulator)
 
-### Inception Formation 
+### Inception Formation
+{: .no_toc }
 Everything is flipped left to right, up until the tethers finish resolving.
 This means Tanks and Stack go LEFT relative to the heart, and everyone else goes RIGHT.
 
 ### Fate Calibration Beta
+{: .no_toc }
 Standard positions are kinda rotate about 90 degrees to start from east side of the room, Dark Beacon plants in the middle of the 2 Marker (EAST) and light beacon middle placed in North--North-West on the Golden Circle on the floor.
 
 For an extended explanation you can see the [Complete OCE TEA guide here](https://materiaraiding.com/tea).
