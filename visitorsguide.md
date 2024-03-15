@@ -112,13 +112,15 @@ For an extended explanation you can see the complete TEA OCE Guide below by Noz 
 
 ## DSR
 
+OCE DSR Strats are a variation on NA PF strats.
+
 Phase 2 onwards, Waymarks are positioned along the walls rather than in the middle.
 
-in phase 3: Materia does Easthogg. Niddstinien is faced north, and we resolve all arrows by facing our character east. [Easthogg Video Guide](https://www.youtube.com/watch?v=j_Hz3I4ENK4)
+Phase 3: Materia does Easthogg. Niddstinien is faced north, and we resolve all arrows by facing our character east. [Easthogg Video Guide](https://www.youtube.com/watch?v=j_Hz3I4ENK4)
 
-in Death of the Heavens in Dark Thordan: base positioning before the mecahnic starts is done H1>MT>D3>D1>D2>D4>ST>H2, dooms are positioned along the south side rather than north, and they are knocked back noth to soak their puddles. 
+Death of the Heavens in Dark Thordan: base positioning before the mech starts is a lineup in the middle of the room H1>MT>D3>D1>D2>D4>ST>H2, dooms are positioned along the south side rather than north, and they are knocked back noth to soak their puddles.
 
-in Double dragons: we may resolve wroth AM's somewhat differently to what is already known. like with NA we also do fixed wyrmsbreath 1 + 2 which is different than how it is done in Elemental. tanks are also using their invuln's on cautrize at the end of double dragons.
+Double dragons: we may resolve wroth AM's somewhat differently NA strats. like with NA we also do fixed wyrmsbreath 1 + 2 which is different than how it is done in Elemental. tanks are also using their invuln's on cautrize at the end of double dragons.
 
 In Dragon King Thordan, all 3 akh morn edge stacks are handled with 3-3-2 rather than 6-1-1.
 
