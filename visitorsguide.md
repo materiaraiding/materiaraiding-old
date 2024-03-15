@@ -13,7 +13,7 @@ G'day and welcome to the Oceanic datacenter, Here in the land Down Under (and su
 In OCE we typically use the MT, OT, H1, H2, D1, D2, D3, D4 notation to indicate who's who in any raid party, this means...
 
 - MT - Main Tank
-- OT - Off-Tank
+- OT/ST - Off-Tank
 - H1 - Pure/Regen Healer
 - H2 - Shield Healer
 - D1 - Melee DPS
