@@ -12,7 +12,7 @@ Thats the chatGPT bit over, don't worry that's not how we actually talk...
 
 BUT if you fail to read the differences we will get the boot out like in that simpsons episode
 
-## Raid Roles
+### Raid Roles
 
 In OCE we typically use the MT, OT, H1, H2, D1 -> D4 notation to indicate who's who in any raid party, this means...
 
@@ -27,7 +27,7 @@ In OCE we typically use the MT, OT, H1, H2, D1 -> D4 notation to indicate who's 
 
 You will typically see these mentioned in Party Finder when looking for specific roles and in Macros to indicate positions in certain Mechanics. 
 
-## Macros
+### Macros
 
 Macro Guides exist in some regions but are apparently foreign in others. In OCE we often share macros to indicate which strategy we are using and to share the details/refresh ourselves on a strategy during a lockout. 
 
@@ -73,3 +73,11 @@ You will often see macros shared in party chat when you get into your Party Find
 Primarily, Materia follows Clee's UCOB guide, this is common in some other regions so may not be too unfamiliar to most, see here: [Clee's Guide](https://ultimates.guide/ucob/)
 
 One key difference is due to being in the southern hemisphere, we flip the arena upside down and drop the Hatch puddles in a V shape, obviously.
+
+### UWU
+
+### TEA
+
+### DSR
+
+### TOP
