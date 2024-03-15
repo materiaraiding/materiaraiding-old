@@ -47,21 +47,8 @@ Macros use the same Role notation above to explain positions and mechs in a visu
 　  ※ Dark tether: closest card/intercardinal ※ Light tether: middle
 ■【Lightstream】
 　G1: CW　　G2: CCW
-■【Dark & Light】
-　West                             East
-　Light <<<  T/H  >>>  Dark
-　Dark  <<<  DPS >>>  Light
-　※ Rotate CW if unsafe
-　※ Light long: Stay
-　　 Dark long: CW to next intercardinal
-　　 Short: CW to next cardinal (DPS left, T/H right)
- ■【Dark Current】　　　　　　　   ●
-　G1: West　　G2: East　　　Melee　Tank
-　※ Rotate CW if unsafe　Ranged　　Healer
-■【Letter of the Law】
-　Tether Tank NW, Party SE 》 Rotate to safe orb
-　※ Enumeration on Coloured WM
-　※ Use Surecast/Arm's Length
+...
+...
 ```
 
 You will often see macros shared in party chat when you get into your Party Finder group, if your not sure what strat is being used for a fight, don't be afraid to ask the party leader for a Macro.
