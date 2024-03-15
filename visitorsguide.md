@@ -51,9 +51,7 @@ Macros use the same Role notation above to explain positions and mechs in a visu
 
 You will often see macros shared in party chat when you get into your Party Finder group, if your not sure what strat is being used for a fight, don't be afraid to ask the party leader for a Macro.
 
-## Ultimates (Work In Progress)
-
-### UCOB
+## UCOB
 
 Primarily, Materia follows Clee's UCOB guide, this is common in some other regions so may not be too unfamiliar to most, see here: [Clee's Guide](https://ultimates.guide/ucob/)
 
@@ -70,29 +68,29 @@ For all of Bahamut, we use the following toolboxes:
 [TST](https://ff14.toolboxgaming.space/?id=141245760517361&preview=1){: .btn }
 [GO](https://ff14.toolboxgaming.space/?id=803246524767361&preview=1){: .btn }
 
-### UWU
+## UWU
 
-### TEA
+## TEA
 Materia DC follows the oldbin TEA strats that are present on the NA DC's, this means that for BJ/CC, we do the split BJ/CC strat. this is very different to the Tollgate strat that is present in JP. This can also be compared to the strats covered in [Tessan Twintails video guide](https://www.youtube.com/watch?v=uVtZ8-XoOZ0), with a few key differences below: 
 
-#### Temporal Statis
+### Temporal Statis
 During Temporal Statis mech after Phase 2, some positions are flipped, supports left, and DPS right for long teathers, short teather is on the add to the right and no teather is to the add on the left.
 
 <img src="https://github.com/nozzyxx/materiaraiding/assets/160133948/31845dfb-fc41-4ad0-8f3c-5f6972c61b5a" alt="Temporal Statis" style="height: 300px">
 
-#### Wormhole
+### Wormhole
 For Wormhole, we follow the KR sim strat on the most part. [KR Simulator](https://materiaraiding.com/tea.html#simulator)
 
-#### Inception Formation 
+### Inception Formation 
 Everything is flipped left to right, up until the tethers finish resolving.
 This means Tanks and Stack go LEFT relative to the heart, and everyone else goes RIGHT.
 
-#### Fate Calibration Beta
+### Fate Calibration Beta
 Standard positions are kinda rotate about 90 degrees to start from east side of the room, Dark Beacon plants in the middle of the 2 Marker (EAST) and light beacon middle placed in North--North-West on the Golden Circle on the floor.
 
 For an extended explanation you can see the [Complete OCE TEA guide here](https://materiaraiding.com/tea).
 
-### DSR
+## DSR
 
 Phase 2 onwards, Waymarks are positioned along the walls rather than in the middle.
 
