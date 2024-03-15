@@ -12,7 +12,7 @@
   definition: Area-of-Effect, typically used to describe any mechanic or ability which affects multiple enemies/players in an area.
 - term: Telegraph
   definition: The indicators you see before a mechanic goes off, usually orange circles or lines on the ground, but can also be things that appear above players/enemies heads or any other indicator that shows you what is about to happen.
-- term: Enums
+- term: Enumerations
   definition: A mechanic which requires a specific number of players to soak a mechanic, similar to STACK/SOAK but with a specific number of players.
 - term: MT
   definition: Main Tank, typically the Tank holding the boss aggro the most.
@@ -36,7 +36,7 @@
   definition: Titan will turn to a cardinal and jump, crashing down at the side he was facing, Heavy distance AOE based on his landing location. Room will shrink in size.
 - term: Twister
   definition: At the end of its cast, Twintania will place small tornadoes under players. Must move away at the end of the cast, as running into any of the small tornadoes results in instant death to you and friends.
-- term: Bahamuts Claw
+- term: Bahamut's Claw
   definition: Physical tankbuster consisting of 5 successive hits to her target.
 - term: Dalamud Dive
   definition: Nael jumps onto her target, dealing significant splash damage. Make sure to spread away from the tank to prevent any extra damage.
@@ -80,3 +80,9 @@
   definition: A teher which eventually explodes with magical splash damage and knockback to other people.
 - term: Gigaflare
   definition: Raid-wide AoE dealing massive magic damage.
+- term: Morn Afah
+  definition: Untelegraphed AoE attack on a random player in which the damage must be shared with everyone.
+- term: Akh Morn
+  definition: Repeated AoE tankbuster attacks on the highest emnity target.
+- term: Exaflare
+  definition: AoE circles that travel in the direction of the indicated arrow.
