@@ -51,7 +51,7 @@ Macros use the same Role notation above to explain positions and mechs in a visu
 
 You will often see macros shared in party chat when you get into your Party Finder group, if your not sure what strat is being used for a fight, don't be afraid to ask the party leader for a Macro.
 
-## Ultimates
+## Ultimates (Work In Progress)
 
 ### UCOB
 
