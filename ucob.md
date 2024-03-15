@@ -274,7 +274,7 @@ If you have not phased yet, just get ready for misc quotes until Enrage or you h
 
 The fight starts and a pillar will drop in the room, spread out for Meteor Stream and dodge the cleaves.
 
-Boss will enter on a tank and the party will stack up behind the boss ready for the first quotes. Nael will use {% glossary Bahamuts Claw %} and then summon 5 dragons around the room with **Bahamuts Favor**
+Boss will enter on a tank and the party will stack up behind the boss ready for the first quotes. Nael will use {% glossary Bahamut's Claw %} and then summon 5 dragons around the room with **Bahamuts Favor**
 
 The 5 dragons will use various abilities through the phase that players need to deal with:
 
@@ -292,9 +292,9 @@ The 5 dragons will use various abilities through the phase that players need to 
 {: .tanks }
 > {% glossary Dalamud Dive %} Nael jumps onto her target, dealing significant splash damage. Make sure to spread away from the tank to prevent any extra damage.
 > 
-> {% glossary Bahamuts Claw %} Physical tankbuster consisting of 5 successive hits to her target.
+> {% glossary Bahamut's Claw %} Physical tankbuster consisting of 5 successive hits to her target.
 > 
-> Nael enters with {% glossary Dalamud Dive %} on **Tank with last aggro on Twintania**, followed by {% glossary Bahamuts Claw %}. Use an Invuln here and keep this away from party.
+> Nael enters with {% glossary Dalamud Dive %} on **Tank with last aggro on Twintania**, followed by {% glossary Bahamut's Claw %}. Use an Invuln here and keep this away from party.
 
 ### First Quotes
 {: .no_toc }
@@ -350,7 +350,7 @@ The two players with {% glossary Thunderstruck %} must seperate from the party a
 
 <img src="./assets/images/ucobthunder.png" alt="UCOB Markers" style="height: 300px">
 
-{% glossary Doom %} will apply to two players (6s and 10s). {% glossary Wings of Salvation %} will target a party member and the party should rotate **clockwise** around the boss. Shortest {% glossary Doom %} timer takes the small puddle after {% glossary Wings of Salvation %} explodes. Another {% glossary Wings of Salvation %} and {% glossary Doom %} cleanse following that. {% glossary Bahamuts Claw %} will happen during {% glossary Doom %} cleanses.
+{% glossary Doom %} will apply to two players (6s and 10s). {% glossary Wings of Salvation %} will target a party member and the party should rotate **clockwise** around the boss. Shortest {% glossary Doom %} timer takes the small puddle after {% glossary Wings of Salvation %} explodes. Another {% glossary Wings of Salvation %} and {% glossary Doom %} cleanse following that. {% glossary Bahamut's Claw %} will happen during {% glossary Doom %} cleanses.
 
 You should be taking the cleanse puddle when your Doom is less than **5 seconds**.
 
@@ -402,7 +402,7 @@ Third **Fire Tether** will appear and this should be stacked with the party. Pla
 {: .note }
 The player who had to take Second Fire Tether MUST NOT be in the Third Fire Tether stack, otherwise you will die due to still having **Firescorched** from the Second Tether.
 
-Nael will follow this up with another {% glossary Bahamuts Claw %} for Tanks.
+Nael will follow this up with another {% glossary Bahamut's Claw %} for Tanks.
 
 ### Third Quotes
 {: .no_toc }
