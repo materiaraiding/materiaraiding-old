@@ -90,25 +90,6 @@ For all of Bahamut, we use the following toolboxes:
 [TST](https://ff14.toolboxgaming.space/?id=141245760517361&preview=1){: .btn }
 [GO](https://ff14.toolboxgaming.space/?id=803246524767361&preview=1){: .btn }
 
-<details markdown=1>
-<summary>NA Differences</summary>
-### NA Differences
-    
-</details>
-<br>
-<details markdown=1>
-<summary>EU Differences</summary>
-### EU Differences
-    
-</details>
-<br>
-<details markdown=1>
-<summary>JP Differences</summary>
-### JP Differences
-
-
-</details>
-
 [Full UCOB OCE Guide](/ucob){: .btn }
 
 Potential differences to double check may include:
