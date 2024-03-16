@@ -205,7 +205,10 @@ TOP strats are similar (but not identical!) to NA, which are *substantially* dif
 
 [TOP OCE Guide](/top){: .btn }
 
-For NA players, both dps and supports move during P6 Exasquares instead of dps not moving. For JP players, please review this list of differences, using the language in [Tuufless' guide](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/ultimates/top/). It is recommended you do **not** join clear/reclear parties before adapting to these differences.
+For NA players, both DPS and supports move during P6 Exasquares instead of DPS not moving. DPS dodge CW, supports CCW.
+<img src="https://cdn.discordapp.com/attachments/944115415385247786/1218377344733941840/image.png?ex=66077153&is=65f4fc53&hm=9b386a669f5d40d90f86325b22a0765821c17a2361bd44725e9f629a7cead679" alt="Cosmo Arrow 2 Spread Positions" style="height: 400px">
+
+For JP players, please review this list of differences, using the language in [Tuufless' guide](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/ultimates/top/). It is recommended you do **not** join clear/reclear parties before adapting to these differences.
 
 - **General**: OCE will use the [TOP Mitty sheet](https://docs.google.com/spreadsheets/d/1PmSX_yO5GSykt3_Lkh3-LPAOeI2UosCIMLVxmwWEedE/edit#gid=0) for mitigations, heals and tankbusters.
 - **1. Omega**
@@ -247,9 +250,7 @@ For NA players, both dps and supports move during P6 Exasquares instead of dps n
     - **General**: Review the cheat sheet for mitigations; tanks should also make sure to confirm their invuln/LB order.
     - **Unlimited Wave Cannon**: the party moves 1 waymark from the first Exaflare.
     - **Wave Cannon** is resolved south.
-    - **Cosmo Arrow 2**: spread positions are different; consult the diagram and the cheat sheet below for details. **Both DPS and supports move for exasquares**: DPS CW, Supports CCW (do not move all the way to the cardinal waymark).
+    - **Cosmo Arrow 2**: initial spread positions are different; consult the cheat sheet below. **Both DPS and supports move for exasquares**: DPS CW, supports CCW (see the diagram at the start of the section). Do not move all the way to the cardinal waymark.
     - **Cosmo Meteor**: H1 will move to the centre by default.
-    
-    <img src="https://cdn.discordapp.com/attachments/944115415385247786/1218377344733941840/image.png?ex=66077153&is=65f4fc53&hm=9b386a669f5d40d90f86325b22a0765821c17a2361bd44725e9f629a7cead679" alt="Cosmo Arrow 2 Spread Positions" style="height: 400px">
 
 ![OCE TOP Cheat Sheet](https://cdn.discordapp.com/attachments/1102126227264905257/1149619773655752734/OCE_TOP_Cheat_Sheet_Alt.png?ex=66067958&is=65f40458&hm=c6ec20ec1cb1515ed9ee3435f8bdbcbef11bb4f3e5bd39edacb79436e4cd623d&)
