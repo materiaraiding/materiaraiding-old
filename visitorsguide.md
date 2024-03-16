@@ -4,6 +4,8 @@ title: Visitors Guide to OCE Raiding
 nav_order: 99
 ---
 
+{% include custom.html %}
+
 # Visitors Guide to Oceanic Raiding
 {: .no_toc }
 
@@ -87,6 +89,27 @@ For all of Bahamut, we use the following toolboxes:
 [HFT](https://ff14.toolboxgaming.space/?id=740246169786361&preview=1){: .btn }
 [TST](https://ff14.toolboxgaming.space/?id=141245760517361&preview=1){: .btn }
 [GO](https://ff14.toolboxgaming.space/?id=803246524767361&preview=1){: .btn }
+
+<details markdown=1>
+<summary>NA Differences</summary>
+
+### NA Differences
+    
+</details>
+
+<details markdown=1>
+<summary>EU Differences</summary>
+
+### EU Differences
+    
+</details>
+
+<details markdown=1>
+<summary>JP Differences</summary>
+
+### JP Differences
+
+</details>
 
 [Full UCOB OCE Guide](/ucob){: .btn }
 
