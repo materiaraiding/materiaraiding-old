@@ -96,14 +96,12 @@ For all of Bahamut, we use the following toolboxes:
     
 </details>
 <br>
-
 <details markdown=1>
 <summary>EU Differences</summary>
 ### EU Differences
     
 </details>
 <br>
-
 <details markdown=1>
 <summary>JP Differences</summary>
 ### JP Differences
