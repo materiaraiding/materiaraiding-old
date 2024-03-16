@@ -735,7 +735,7 @@ To keep this guide consistent in the quality of the diagrams, below is an Emgram
 
 **DIAGRAM IS NOT 100% TO SCALE AND IS PURELY FOR DEMONSTRATIVE PURPOSES**
 
-![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/caa13014-8918-4b27-9578-905a5f6c1968)
+![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/c9c5cda6-f387-4344-84f4-1f7d98866ff2)
 
 ### Phase Timeline
 {: .no_toc }
