@@ -14,6 +14,11 @@ G'day and welcome to the Oceanic datacenter, Here in the land Down Under (and su
 
 This guide is aimed to help raiders with **previous experience** in current Ultimate and Savage fights transition over to OCE strats and join PFs in Materia. **If you are new to Ultimate Raiding** in OCE, we suggest exploring our full guides on this website using the navigation on the left-hand side of this page! 
 
+You can also find parties and other like-minded raiders in our OCE raiding community servers: 
+
+[Materia Raiding Discord](https://discord.gg/EySn5dRj65){: .btn .btn-purple }
+[Materia Ultimate Raiding Discord](https://discord.gg/ArZz3b8PZV){: .btn .btn-purple }
+
 ### Table of Contents
 {: .no_toc }
 
