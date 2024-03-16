@@ -22,6 +22,10 @@ This fight is commonly referred to as **UWU** for *Ultima Weapon: Ultimate*, and
 
 The fight will see you squaring off against Garuda, Ifrit and Titan before completing a LB3-filled intermission with Lahabrea before facing the Ultima Weapon itself, angrier than ever.
 
+This guide is based off the original and very detailed guide by Clees, which can be found below:
+
+[Clees Guide](https://ultimates.guide/uwu/){: .btn .btn-purple }
+
 ### Credits
 {: .no_toc }
 Written Guide by Em'gram
@@ -216,6 +220,37 @@ If you don't phase, you will need to look out for Wicked Wheel, a quick donut/{%
 
 When you kill Garuda, DPS and Tanks stack middle, Healer grab the Glowing Puddle (Candy) for later.
 
+<details markdown=1>
+<summary>Phase Rotation</summary>
+- Slipstream
+- Mistral Song
+- Satin Plume x4 + Spiny Plume Spawn
+- Slipstream
+- Downburst
+- Feather Rain
+- Mistral Shriek
+- Friction
+- Friction
+- Feather Rain
+- Aerial Blast
+- Sisters Spawn
+- Feather Rain (Sisters)
+- Eye of the Storm + Mistral Song x2
+- Wicked Wheel
+- Feather Rain
+- Satin Plume x4 Spawn
+- Eye of the Storm
+- Slipstream
+- Mesohigh x2 + Downburst
+- Feather Rain
+- Slipstream
+- Wicked Wheel + Wicked Tornado
+- Downburst
+- Slipstream
+- Feather Rain
+- Aerial Blast (Enrage)
+</details>
+
 ## Phase 2: Ifrit
 [Toolbox](https://ff14.toolboxgaming.space/?id=562530446784261&preview=1){: .btn .btn-blue }
 
@@ -270,6 +305,28 @@ Kill the boss as quickly as you can after, there will be more {% glossary Erupti
 
 Move to the wall, ready for Titan to spawn. After titan drops, **Caster** to grab the candy from where ifrit died.
 
+<details markdown=1>
+<summary>Phase Rotation</summary>
+- Crimson Cyclone + Radiant Plumes
+- Hellfire
+- Vulcan Blast
+- Incinerate x3
+- Infernal Nail x4 Spawn
+- Inferno Howl
+- Eruption x2
+- Hellfire
+- Inferno Howl
+- Eruption x2
+- Crimson Cyclone (Cardinals)
+- Inferno Howl
+- Flaming Crush
+- Crimson Cyclone x4 (Woken)
+- Incinerate x3
+- Eruption x2
+- Flaming Crush
+- Hellfire (Enrage)
+</details>
+
 ## Phase 3: Titan
 [Toolbox](https://ff14.toolboxgaming.space/?id=982261963862561&preview=1){: .btn .btn-blue }
 
@@ -294,44 +351,44 @@ Fight starts with a heavy raidwide, healers will need to be prepared for this at
 
 MT takes boss mid and prepares for {% glossary Mountain Buster %}.
 
-Following the Toolbox, party starts on A marker, dodges {% glossary Weight of the Land %} and prepares for Jails.
+Following the Toolbox, party starts on A marker, dodges {% glossary Weight of the Land %} and prepares for Gaols.
 
 {: .tanks }
 Geocrush is very fast, Titan will start turning towards a cardinal and then jump, you MUST watch titan carefully to work out which cardinal he is jumping too. Tanks should always try move boss to the middle of the room before this happens otherwise it can be very difficult to tell which cardinal he is jumping too.
 
-### Jails
+### Granite Gaols
 {: .no_toc }
 
-{: .important }
-> Don't tell yoshi-p but most parties and PF will use an Addon called "AM" or "Auto-markers", this automatically numbers players based on their debuffs and simplifies this mechanic greatly. This can be found in the Dalamud plugins download page. This guide will assume you are using AM as its the most common strat.
->
-> Make sure you do not have more than one of these enabled in your party or it will fail.
+Party starts with a stack on Titan, check where the Bombs spawn at the back of the room, there are two possible combinations.
 
-Party to stack on Titan, check where the Bombs spawn at the back of the room, there are two possible combinations.
-
-![](./assets/images/jails.png)
+![](./assets/images/Gaols.png)
 
 Use the boss target marker as a reference for where to stand.
 
-![](./assets/images/jailsleftright.png)
+![](./assets/images/Gaolsleftright.png)
 
-After the knockback, AM will apply 1,2,3 markers to the people with jails. 
+After the knockback, AM will apply 1,2,3 markers to the people with Gaols. 
 
-**Players without jails** 
+**Players without Gaols** 
 - Run up the middle until landslide spawns, then move to the left side of the room and stay out of the way.
 
-**Players with jails** 
+**Players with Gaols** 
 - Check your number and work out your target raidmarker. Use the central "+" of raidmarkes, with 1 being closest to Titan, 2 being middle and 3 being furthest from Titan.
 - Run up the middle until landslide spawns, sidestep to the edge of landslide next to your raidmarker.
 - As soon as the landslide graphic dissapears, immediately move towards your raidmarker. You should get stunned just as you arrive.
 - After jail explosions, exit to the **left** of your puddle immediately.
 
 {: .important }
-Jails MUST be positioned in-line with the raidmarker. Ideally dead center otherwise the chain of explosions will fail.
+Gaols MUST be positioned in-line with the raidmarker. Ideally dead center otherwise the chain of explosions will fail.
 
-![](./assets/images/jailsfinal.png)
+![](./assets/images/Gaolsfinal.png)
 
-If all three bombs are correctly overlapping, Titan will gain a stacking Wakening buff and become Awoken. This will greatly increase the speed of mechanics and change their patterns throughout the fight.
+If all three bombs puddles are correctly overlapping, Titan will gain a stacking Wakening buff and become Awoken. This will greatly increase the speed of mechanics and change their patterns throughout the fight.
+
+Titan uses a set of 8 {% glossary Tumults %} and deals heavy party wide damage, healers will need to be ready for this and top-up any extra damage from Gaols.
+
+The party can move up to Titan on the left side of the puddles. Your burst phase should be coming up at this point and if you skipped dashes in Ifrit, you can go ahead and use it here. 
+
 
 ### Landslides
 {: .no_toc }
@@ -343,17 +400,142 @@ Watch for the first set, as soon as you see the Landslide visual dissapear, you 
 
 Titan will once again face a direction and use {% glossary Geocrush %}. 
 
-After this, one of the two Healers will be targetted with a Titan Jail. This Healer should move to the middle of the room. Once active, the party will be able to target and damage the jail. Break the healer out of Jail as soon as possible as a set of {% glossary Landslides %} follows shortly after.
+After this, one healer will be targetted with a Granite Gaol. This healer should move to the middle of the room. Once the Gaol is active, the party will be able to target and damage the Gaol. Break the healer out of the Gaol before Titan begins a set of {% glossary Landslides %} followed shortly by 6 {% glossary Tumults %}.
 
-Tanks can now pull Titan to a wall for the last set of Mechanics. 
+Tanks, position the boss at north facing the wall. Party should be stacked behind Titan in the middle of the room.
 
-WIP
+After the final Tumult, Titan will follow up with a {% glossary Mountain Buster %} combo and summon 4 bomb boulders in the center of the room. Party will be stacked behind the boss and immediately after the {% glossary Mountain Buster %} cleave, move through the boss and meet at the wall.
 
-## Phase 4: Lahabread
-Coming Soon
+This is a modification of the mario kart strategy which allows some uptime.
 
-## Phase 5.1: Predation
-Coming Soon
+Ranged and Healers will dodge clockwise along the wall, carefully dodging the {% glossary Weight of the Land %} and {% glossary Landslides %} continuing clockwise around the room.
+
+Tanks and Melee rotate counter-clockwise > clockwise > counter-clockwise for the {% glossary Weight of the Land %}. This will allow uptime while providing enough space to avoid {% glossary Landslides %} 
+
+Keep in mind, if nobody in your group gets a weight, you will still need to move as if you're dodging it.
+
+If you're having trouble staying alive as a melee, just follow ranged and do the strategy normally, or just keep moving counterclockwise (Right > Right > Right) to keep at least some uptime.
+
+Avoid the bombs going off in the center.
+
+The goal with this uptime strategy is for landslide to be baited on a ranged player, leaving a safe area behind titan.
+
+Typically Titan will die around this point depending on your party damage. If you have not finished Titan you will get a few more repeated mechanics until a final enrage. 
+
+- {% glossary Mountain Buster %}
+- {% glossary Weight of the Land %}
+- 8x {% glossary Tumults %}
+- Earthen Fury Enrage
+
+{: .important }
+If you have correctly awoken titan, he will drop a small candy puddle, this must be picked up by a Melee party member.
+
+<details markdown=1>
+<summary>Phase Rotation</summary>
+- Geocrush
+- Earthen Fury
+- Rock Buster
+- Mountain Buster
+- Weight of the Land
+- Geocrush
+- Upheaval + Rock Throw
+- Granite Gaol x3
+- Landslide
+- Landslide
+- Tumult x8
+- Weight of the Land
+- Landslide
+- Geocrush
+- Granite Gaol (Healer)
+- Landslide
+- Tumult x6
+- Rock Buster
+- Mountain Buster
+- Rock Throw x4 (Middle) + Weight of the Land
+- Landslide
+- Rock Buster
+- Mountain Buster
+- Weight of the Land
+- Tumult x8
+- Earthen Fury (Enrage)
+</details>
+
+## Phase 4: Lahabread Intermission
+
+The following phase will be a set of 4x LB3 limit breaks, to complete this the players with the **Beyond Limits** collected in the previous phases can use their LB3 without consuming the party LB bar. 
+
+{: .important }
+You can leave any dead party members on the ground if they dont have the **Beyond Limits** buff as they will get ressed for free in this phase without damage down debuff, EXCEPT if they are in the wall, they will need a healer res otherwise they will die immediately.
+
+### Caster LB3
+{: .no_toc }
+Four ships/pillars crash dealing heavy proximity AOE, Healers will need to ensure party members are healed up for this. Party stack middle to avoid unnecessary deaths. 
+
+6 Magitech bits spawn on the outside of the arena, casting **Self-Destruct**. Use Caster LB3 in the middle of the room to destroy all the bits. Players should be hitting the bits as damage variance can leave these alives sometimes. 
+
+{: .note }
+Use Caster LB3 when the freefire damage appears on your screen, the rest of the LBs can be used as soon as they are available.
+
+### Healer LB3
+{: .no_toc }
+Lahabrea will cast blight, dropping all players to 1HP and applying Doom. Use Healer LB3 to dispell Doom and heal all players. This cannot be removed by normal dispell or healing to full. 
+
+### Melee LB3 
+{: .no_toc }
+Lahabread becomes targettable and begins casting a instant-wipe Dark IV. Immediately use Melee LB3 to defeat Lahabrea and prevent the cast. You can pad here I guess?
+
+### Tank LB3
+{: .no_toc }
+The Ultima Weapon will appear and cast Ultima to wipe the party. Tank will need to use LB3 to mitigate the damage, spam the LB3 button and activate it as soon as possible.
+
+With all the LB3s complete, you will now begin the Ultima Weapon phases.
+
+## Phase 5: Ultima Weapon
+
+The Ultima Weapon will spawn and use abilities absorbed from the primals. This includes a number of new mechanics. 
+
+{: .important }
+During this phase Ultima will have a Duty Gauge bar that slowly fills up, this increases with Mechanics but also each death. When this bar fills ultima gains a massive Damage Up buff which will likely result in a wipe. Increases by 4 with some mechanics and 4 for each death.
+
+- {% glossary Ultima %}: Massive raidbuster dealing extremely heavy magic damage. Must be mitigated via the use of a Tank LB3.
+- {% glossary Tank Purge %}: Heavy Raidwide Magic Damage.
+- {% glossary Homing Lasers %}: Very heavy tankbuster (~125k unimitigated) targeting the player with the second highest enmity, in a small circle around them.
+- {% glossary Viscous Aetheroplasm %}: AOE Attack applying the Viscous Aetheroplasm debuff, which explodes after a short period of time for heavy magic damage that can be soaked with the party.
+- {% glossary Diffractive Laser %}: Tankbuster with no cast time dealing moderate magic damage. Cleaves.
+- {% glossary Aetheric Boom %}: Knockback originating from Ultima hitting all players. Is accompanied by 4 sets of Aetheroplasms.
+
+After consuming all Primals, Ultima begins the phase at the north of the room. 
+
+{: .note }
+For optimal pot timing, listen to the game music, and use your pot when you hear the first Drumroll.
+
+DPS and healers starts the phase stacked in the middle of the room. Open with burst phase and continue with damage
+
+MT starts on the west side of ultima, with OT on the east. OT voke ultima on the first GCD, MT will then voke on second GCD to ensure that MT is TOP aggro and OT is second. 
+
+Ultima starts with {% glossary Tank Purge %}. Ultima will then apply {% glossary Viscous Aetheroplasm %} to highest aggro (MT). Ensure the MT is NOT standing with the party as {% glossary Viscous Aetheroplasm %} is a small AOE. MT can then rejoin party.
+
+This is followed by {% glossary Homing Lasers %} on OT due to the tank swap, Kitchen Sink this due to heavy damage. 
+
+Ultima will begin one of three sub-phases, each with a inactive and active set of mechanics. The first is Ultimate Predation.
+
+## Phase 5.1: Ultimate Predation
+
+Ultimate predation begins with a dodge mechanic, all primals and ultima will appear around the arena. You will need to find one of several safe-spots to survive this mechanic. 
+
+- Ultima will performa a large AOE on one quadrant of the arena
+- Ifrit will execute a Crimso Cyclone covering all cardinals
+- Garuda will use a wicked wheel, covering almost half the arena.
+- Titan will appear on a cardinal and use an awoken landslide with two sets.
+
+This mechanic can be very overwhelming but it is simplest to break it down into a few logical steps to resolve.
+
+### Step 1: Wait in the middle of the room for the primals to spawn
+{: .no_toc }
+
+### Step 2: Look for Garuda, find a cardinal away from Garuda 
+
+
 
 ## Phase 5.2: Annihilation
 Coming Soon
