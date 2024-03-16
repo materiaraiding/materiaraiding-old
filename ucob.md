@@ -1,4 +1,4 @@
----
+![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/c14d9e88-6408-47ad-87a3-f1a60d27967e)---
 layout: default
 title: UCOB
 parent: Ultimates
@@ -729,10 +729,44 @@ As soon as you see and **locate the first set of {% glossary Exaflare %}** that 
 
 Essentially, you treat each set of {% glossary Exaflare %} like a **lane**. Once you identify the first set of {% glossary Exaflare %}, imagine its trajectory is a lane - stand beside (NOT in) the lane, wait for the {% glossary Exaflare %} to pass by, then move into the lane and wait. 
 
-Mid dodging does require a bit more effort than wall dodging as you have the extra step of visualising this 'danger lane.' However if you are a melee DPS or tank, mid dodging would be ideal to learn to maintain uptime on damage.
+Mid dodging does require a bit more effort than wall dodging as you have the extra step of visualising this 'danger lane.' However if you are a melee DPS or tank, mid dodging would be ideal to learn to maintain uptime.
+
+To keep this guide consistent in the quality of the diagrams, below is an Emgram style MS Paint diagram showing the 2 ways to dodge {% glossary Exaflare %}. The orange on the wall indicates an example of where the first set may spawn, the pale yellow shows how the AoE circle of the {% glossary Exaflare %} cascades and the red just demonstrates 1 point for mid dodgers in which they can 'switch lanes.'
+
+**DIAGRAM IS NOT 100% TO SCALE AND IS PURELY FOR DEMONSTRATIVE PURPOSES**
+
+![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/caa13014-8918-4b27-9578-905a5f6c1968)
 
 ### Phase Timeline
 {: .no_toc }
 
 <details markdown=1>
 <summary>Expand Phase Timeline</summary>
+
+{: .tanks }
+While I have noted how the {% glossary Akh Morn %} tankbusters are generally handled, if you require any variation for any reason, simply communicate with your cotank, ideally during transition.
+
+{: .healers }
+For an {% glossary Akh Morn %} that is shared by both tanks, watch their health, use your single target cooldowns and top them up if needed, **ESPECIALLY** for the final 6 hit {% glossary Akh Morn %}.
+
+1. {% glossary Morn Afah %}
+2. {% glossary Akh Morn %} (3 hits): shared by both tanks.
+3. {% glossary Exaflare %}
+4. {% glossary Akh Morn %} (4 hits): take with invulnerability.
+5. {% glossary Morn Afah %}
+6. {% glossary Exaflare %}
+7. {% glossary Morn Afah %}
+8. {% glossary Akh Morn %} (5 hits): take with invulnerability.
+9. {% glossary Exaflare %}
+10. {% glossary Morn Afah %}
+11. {% glossary Akh Morn %} (6 hits): shared by both tanks.
+12. {% glossary Exaflare %}
+13. {% glossary Morn Afah %}
+
+After is **Golden Bahamut's enrage** - he will continuously cast **Morn Afah** for lethal damage, so everyone should spread out as he takes everyone down one by one.
+
+{: .tanks }
+The Morn Afah enrage is based on emnity, so if you see the enrage, it is a good idea to **shirk** your healers to give DPS a few extra seconds to defeat him.
+
+</details>
+
