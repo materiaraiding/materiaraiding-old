@@ -721,7 +721,7 @@ The damage buff from **Phoenix's Blessing** is lost on death. While the DPS chec
 
 I will explain 2 ways to dodge {% glossary Exaflare %} - **wall dodge** and **mid dodge**.
 
-Wall dodging is a safe and easy way to handle {% glossary Exaflare %}, but will require the most movement and can lead to loss in uptime for melee jobs.
+**Wall dodging** is a safe and easy way to handle {% glossary Exaflare %}, but will require the most movement and can lead to loss in uptime for melee jobs.
 
 As soon as you see and **locate the first set of {% glossary Exaflare %}** that spawn, **stand beside** one on the wall and wait. Then, when that first set of {% glossary Exaflare %} begin to resolve, **walk along the wall into where the first {% glossary Exaflare %} exploded**, and simply wait till all the other {% glossary Exaflare %} go off and group back up with your party.
 
