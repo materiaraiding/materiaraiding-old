@@ -517,9 +517,12 @@ Ultima starts with {% glossary Tank Purge %}. Ultima will then apply {% glossary
 
 This is followed by {% glossary Homing Lasers %} on OT due to the tank swap, Kitchen Sink this due to heavy damage. 
 
-Ultima will begin one of three sub-phases, each with a inactive and active set of mechanics. The first is Ultimate Predation.
+Ultima will begin one of three sub-phases, each with a passive and active set of mechanics. The first is Ultimate Predation.
 
 ## Phase 5.1: Ultimate Predation
+
+### Passive Phase
+{: .no_toc }
 
 Ultimate predation begins with a dodge mechanic, all primals and ultima will appear around the arena. You will need to find one of several safe-spots to survive this mechanic. 
 
@@ -530,10 +533,44 @@ Ultimate predation begins with a dodge mechanic, all primals and ultima will app
 
 This mechanic can be very overwhelming but it is simplest to break it down into a few logical steps to resolve.
 
-### Step 1: Wait in the middle of the room for the primals to spawn
+1. First, look for garuda and avoid either cardinal on her side of the room, these are out-of-bounds. 
+2. Run to either of the one or two possible safespots that do NOT have titan on them, take note of ultima weapon, as you will need to avoid it later.
+
+![titan](https://github.com/materiaraiding/materiaraiding/assets/85346345/2696d8f8-efe3-4b69-afe4-96114650aee6)
+
+4. Wait at the wall, Titan will begin {% glossary Landslides %}, you may need to dodge these near the cardinal.
+5. After the first landslide, immediately dodge into a clear intercard, making sure not to dodge towards Ultima.
+6. When dodging into a intercard you MUST stop at the wall using the pattern on the outside of the room to stop at the 4th visible rune. See the image below: 
+
+![ultima](https://github.com/materiaraiding/materiaraiding/assets/85346345/7da1c4c4-1447-4921-ae9a-37f7f22d7827)
+
+![image](https://github.com/materiaraiding/materiaraiding/assets/85346345/64c362b6-208e-4da5-aa0e-a071e6267540)
+
+Your final goal is to reach one of several possible safespots, some of the options are VERY tight so make sure you stay close to the wall and use the runes on the wall to find the safe spot accurately. 
+
+After the main mechs resolve, Garuda will perform another {% glossary Feather Rain %}, be ready to dodge this.
+
+### Active Phase
 {: .no_toc }
 
-### Step 2: Look for Garuda, find a cardinal away from Garuda 
+Ultima becomes targettable in the middle of the room. MT will grab aggro and pull ultima slightly northwest at A marker then join party stacking north on the visible second-line on the floor. Designate 2 ranged players to bait radiant plumes from Ifrit. Since there is no healing needed immediately, you can opt to have your usual caster stay put, or use the same baiters from phase 2. 
+
+Ultima hits the outside of the arena with radiant plumes. Boulders will be falling on the center, leaving you very little room between the plumes and boulders. Stay on the 2nd line and move out to the 2 marker as soon as plumes resolve. Titan is also baited to the southeast intercard as he drops at the furthest intercard from Ultima. This sets up Titan for consistent landslide pattern.
+
+Landslide will be baited as soon as plumes resolve by moving north to the wall, then clockwise into the safe spot. Ultima will also cast a landslide, however only Titan's will be awoken, hitting a 2nd time after Ultima's landslide resolves. Titan's landslide resolves, then Ultima's landslide resolves. Titan readies an untelegraphed 2nd hit, party will need to dodge back to immediate north. 
+
+{: .tanks }
+MT will go to the left side of Ultima (east), and the rest of the party will stack on the right (west) facing ultima. Ultima will cast a series of 7x {% glossary Tumults %} while the MT will be targetted for {% glossary Viscous Aetheroplasm %} and will need to take this away from the party. Once MT receives the aetherplasm, the tanks should swap aggro. This ensures that MT will take both the aetherplasm and the homing laser (as they are now 2nd aggro) and this will be **taken with invuln**. The timing for invuln is just after the upcoming scream for {% glossary Feather Rain %}.
+
+Garuda and her sisters spawn, Garuda will use Mistral Shriek dealing heavy raidwide damage, followed by her sisters with two sets of {% glossary Feather Rain %}. This is very high damage output and healers will need to spend heavily to ensure the party survives. Party stay stacked together and dodge {% glossary Feather Rain %} by moving counter-clockwise around the boss. Being careful to avoid the tanks side of the boss. 
+
+
+
+
+
+
+
+
 
 
 
