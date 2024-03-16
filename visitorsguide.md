@@ -205,7 +205,7 @@ TOP strats are similar (but not identical!) to NA, which are *substantially* dif
 
 [TOP OCE Guide](/top){: .btn }
 
-For NA players, both DPS and supports move during P6 Exasquares instead of DPS not moving. DPS dodge CW, supports CCW.
+For NA players, both DPS and supports move during P6 WC2 instead of DPS not moving. DPS dodge CW, supports CCW.
 <img src="https://cdn.discordapp.com/attachments/944115415385247786/1218377344733941840/image.png?ex=66077153&is=65f4fc53&hm=9b386a669f5d40d90f86325b22a0765821c17a2361bd44725e9f629a7cead679" alt="Cosmo Arrow 2 Spread Positions" style="height: 400px">
 
 For JP players, please review this list of differences, using the language in [Tuufless' guide](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/ultimates/top/). It is recommended you do **not** join clear/reclear parties before adapting to these differences.
