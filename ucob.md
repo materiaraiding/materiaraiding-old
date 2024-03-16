@@ -1,4 +1,4 @@
-![image](https://github.com/nozzyxx/materiaraiding/assets/160133948/c14d9e88-6408-47ad-87a3-f1a60d27967e)---
+---
 layout: default
 title: UCOB
 parent: Ultimates
