@@ -139,24 +139,28 @@ SGE/WHM:
 </details>
 
 <div id="timingwindow">
-<div id="potwindowwrap">
-<div id="window" markdown=1>
-<div id="windowheader">
-<h2 id="windowtitle">Pot Timings</h2>
-<img src="{{ site.baseurl }}/assets/images/icons/pot.png" alt="pot" style="height: 40px; float: right">
-</div>
-
-1. Thordan opener.
-2. Nidhogg 2-minute window.
-3. Double Dragons opener.
-4. Either of the 2 minute windows in DKT.
-
-</div>
-</div>
 <div id="burstwindowwrap">
 <div id="window" markdown=1>
 <div id="windowheader">
 <h2 id="windowtitle">2-Minute Timings</h2>
+<img src="{{ site.baseurl }}/assets/images/icons/pot.png" alt="pot" style="height: 40px; float: right">
+</div>
+
+1. Thordan opener.
+2. Post Sanctity of the Ward.
+3. Save slightly for just after tank tether busters go off.
+4. Post Wrath of the Heavens.
+5. Double Dragons opener.
+6. Save for post-touchdown (or WB2 with good DPS).
+7. Save for tail-end of gigaflare 1.
+8. Akh Morn 3.
+
+</div>
+</div>
+<div id="potwindowwrap">
+<div id="window" markdown=1>
+<div id="windowheader">
+<h2 id="windowtitle">Pot Timings</h2>
 <img src="{{ site.baseurl }}/assets/images/icons/pot.png" alt="pot" style="height: 40px; float: right">
 </div>
 
