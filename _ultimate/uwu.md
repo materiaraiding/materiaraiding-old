@@ -2,6 +2,7 @@
 layout: default
 title: UWU
 permalink: /uwu
+nav_order: 2
 ---
 
 {% include custom.html %}

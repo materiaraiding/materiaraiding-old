@@ -2,6 +2,7 @@
 layout: default
 title: UCOB
 permalink: /ucob
+nav_order: 1
 ---
 
 {% include custom.html %}

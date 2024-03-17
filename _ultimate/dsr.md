@@ -2,6 +2,7 @@
 layout: default
 title: DSR
 permalink: /dsr
+nav_order: 4
 ---
 
 {% include custom.html %}

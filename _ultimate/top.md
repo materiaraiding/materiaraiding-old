@@ -2,6 +2,7 @@
 layout: default
 title: TOP
 permalink: /top
+nav_order: 5
 ---
 
 {% include custom.html %}

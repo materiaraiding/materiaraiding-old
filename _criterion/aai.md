@@ -2,6 +2,7 @@
 layout: default
 title: Another Aloalo Island 
 permalink: /aai
+nav_order: 3
 ---
 
 # Another Aloalo Island 

@@ -2,6 +2,7 @@
 layout: default
 title: FRU
 permalink: /fru
+nav_order: 16
 ---
 
 {% include custom.html %}
