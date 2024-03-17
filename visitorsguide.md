@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Visitors Guide to OCE Raiding
+permalink: /visitorsguide
 nav_order: 99
 ---
 

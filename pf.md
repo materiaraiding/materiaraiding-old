@@ -3,6 +3,7 @@ layout: default
 title: Party Finder
 parent: Glossary
 nav_order: 1
+permalink: /pf
 ---
 
 # Party Finder

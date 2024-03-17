@@ -3,6 +3,7 @@ layout: default
 title: Glossary
 has_children: true
 nav_order: 21
+permalink: /glossary
 ---
 
 # Raiding Terminology Glossary
