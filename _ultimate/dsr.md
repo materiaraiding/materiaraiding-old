@@ -279,7 +279,7 @@ Thordan will then leave the arena and 2 knights will drop down near the center, 
 
 The knight at the edge of the arena will then target 2 people for distance-based stacks, indicated by either a single sword or 2 swords above the players head. The player with 2 swords should move _behind_ the third knight, and the single sword player should move to the opposite side of the arena on the same axis as the knight (i.e. if the knight spawns on a blue waymark, the single sword moves to the opposite blue waymark).
 
-Each stack will move 4 notches in the same direction as the knights (CW/CCW). This will leave the party in the 1st of two safespots as part of the dashes. After the cleaves go off around them the party will move to 4 notches _before_ the next waymark for the next safe spot.
+Each stack will move 4 notches in the same direction as the knights (CW/CCW). This will leave the party in the 1st of 2 safespots as part of the dashes. After the cleaves go off around them the party will move to 4 notches _before_ the next waymark for the next safe spot.
 
 (Diagram for safespots :3)
 
@@ -287,12 +287,60 @@ After the last AoEs resolve, various knights will appear around the arena alongs
 
 ### **Meteors**
 
-Players should split off into pairs on each of the cardinals as per the cheatsheet (MT/D3 N, OTD4 S, H1D1 E, H2D2 W), standing between the AOEs that have spawned on the intercardinals. Two players will be marked by "Meteors", a small red arrow above the players head. These two players will **ALWAYS** be part of the same role. The role that gets the meteors is deemed as the "priority" role.
+Players should split off into pairs on each of the cardinals as per the cheatsheet (MT/D3 N, OTD4 S, H1D1 E, H2D2 W), standing between the AOEs that have spawned on the intercardinals. 2 players will be marked by "Meteors", a small red arrow above the players head. These 2 players will **ALWAYS** be part of the same role. The role that gets the meteors is deemed as the "priority" role.
 
 The meteor players will position themselves North and South, swapping with the same respective role player that is already positioned there. _Generally_ the meteor players should try and go to N/S cardinal that is **clockwise** of them, however this rule isn't always followed.
 
-Each pair should stand roughly halfway between the centre of the arena and the edge of the arena to bait a set of partner stacks that will leave a puddle of ice that will inflict frostbite if not moved out of **immediately**.
+Each pair should stand roughly halfway between the centre of the arena and the edge of the arena to bait a set of partner stacks that will leave a puddle of ice that will inflict a short **"Ice Resistance Up"** buff for a moment, allowing you to quickly move out of the puddle before it applies a heavy frostbite DOT. The large orange AOEs on the intercardinals will also turn into fire puddles when the stacks go off, leaving the middle of the arena unable to access the outer ring and vice versa.
 
-While everyone is shuffling to their positions, 8 towers will spawn. Some of these towers will be on the outer edges and some in the middle of the arena. If only one tower is available on the outer edge of the arena in a pairs quadrant, the **priority role** (i.e. the one with meteors) should take that tower, and the other player should move into the middle of the arena to soak the tower **clockwise** from where they baited their puddle.. If two towers are available on the outer edge of the arena the **priority role** will take the left most tower, and the **non-priority role** will take the right most. However this rule is a bit flimsy and most often people will just move to the left/right beforehand to indicate which tower they will take.
+While everyone is moving to their positions, 8 towers will spawn. Some of these towers will be on the outer edges and some in the middle of the arena. If only one tower is available on the outer edge of the arena in a pair's quadrant, the **priority role** (i.e. the one with meteors) should take that tower, and the other player should move into the middle of the arena to soak the tower **clockwise** from where they baited their puddle. If 2 towers are available on the outer edge of the arena the **priority role** will take the left most tower, and the **non-priority role** will take the right most. However this rule is a bit flimsy and most often people will just move to the left/right beforehand to indicate which tower they will take.
+
+The meteor players can be a little different with which towers they want to take. The meteor debuff they both have will cause 8 meteors to drop down on them one at a time. If any of these meteors are close to eachother they will explode and wipe the raid. As such, we want the meteor players to be the furthest distance possible from eachother. 
+
+In an ideal world this means that each meteor player will take a tower that results in them being 180 degrees from eachother. However it doesn't always pan out this way as the tower positions are semi-random, resulting in 2 other patterns where one meteor player will be closer to the other, about 150 or 120 degrees. The 120 degree pattern is colloquially known as **"cursed"**.
+
+To avoid these patterns as much as possible, each meteor player will look at the other and indicate to take a tower to give the largest gap between the two. Once you inevitably get one of these patterns, the player on the "short" side, will have to: Follow the curve of the inner AOEs to use up as much space as possible, and if the pattern is cursed employ stutter stepping to pace out the meteors correctly. This can be difficult at first as the meteors will drop very close to eachother. Fortunately this pattern is pretty unlikely.
+
+After the initial tower soak both meteor players will start moving clockwise around the arena. 8 more towers will spawn on each cardinal and intercardinal and after about 5/6 meteor drops **Faith Unmoving** will be cast. All outside players will use **Anti KB**, and all inside players will ride the knockback into their respective tower. The towers each player will take depends on the initial safespot they started from. **Priority** players will take the cardinal tower, and the **Non-priority players** will take the tower **1 clockwise** of the starting safespot. Both Meteor players will end up in the opposite North or South tower.
+
+After these towers are resolved, Thordan will drop down at true north and begin to cast a heavy hittind raidwide: **Ultimate End**. After this, Thordan gains a "discomposed" debuff, causing him to take 30% more damage. He will then cast **Broad Swing** twice in a row at a random player, where the party will stand behind him and move into the first cleave.
+
+Thordan will then cast his enrage: **Atheric Burst**.
+
+## Phase 3: Nidhogg
+
+{: .everyone }
+> This phase begins with a HEAVY raidwide attack and should be mitigated appropriately
+
+Nidhogg will drop down and begin auto-attacking the main tank, before casting:
+
+### Dive from Grace
+
+{: .note }
+> This mechanic is one of the first "walls" of this fight, and can be difficult to wrap your head around/remember all the roles. I recommend to watch videos of solves and also to review the toolbox above.
+
+Dive from Grace will apply a bunch of numbers to the party:
+"1" x3 (put the symbol here)
+"2" x2 "
+"3" x3 "
+
+And after about 5 seconds a second debuff gets applied to each player:
+Dark High Jump (Circle)
+Dark Elusive Jump (Down Arrow)
+Dark Spineshatter Dive (Up Arrow)
+
+The numbers players are assigned are the order that each player will be "dived/jumped" on by Nidhogg: 1->2->3
+Whilst the second debuff will be what **kind** of dive/jump Nidhogg is performing.
+
+After getting dived the player will leave behind a tower that needs to be soaked by someone else, as the dive inflicts a **"Fire Resistance Down II"** and a **"Physical Vulnerability Up"**.
+
+The _type_ of dive that Nidhogg performs will indicate **where that tower is going to be placed.** How I think of it is that the arrows _push_ the tower in one direction, i.e. If I were to have an Up Arrow, my tower would be pushed the distance of Nidhoggs hitbox forwards and away from me.
+
+
+
+
+
+
+
 
 
