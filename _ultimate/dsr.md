@@ -138,10 +138,11 @@ SGE/WHM:
 <a href=".\assets\images\cheatsheets\dsrcheatsheet.webp" target="_blank"><img src=".\assets\images\cheatsheets\dsrcheatsheet.webp"></a>
 </details>
 
-<div id="potwindowwrap">
-<div id="potwindow" markdown=1>
-<div id="potwindowheader">
-<h2 id="potwindowtitle">Pot Timings</h2>
+<div id="timingwindow">
+<div id="windowwrap">
+<div id="window" markdown=1>
+<div id="windowheader">
+<h2 id="windowtitle">Pot Timings</h2>
 <img src="{{ site.baseurl }}/assets/images/icons/pot.png" alt="pot" style="height: 40px; float: right">
 </div>
 
@@ -150,6 +151,21 @@ SGE/WHM:
 3. Double Dragons opener.
 4. Either of the 2 minute windows in DKT.
 
+</div>
+</div>
+<div id="windowwrap">
+<div id="window" markdown=1>
+<div id="windowheader">
+<h2 id="windowtitle">Pot Timings</h2>
+<img src="{{ site.baseurl }}/assets/images/icons/pot.png" alt="pot" style="height: 40px; float: right">
+</div>
+
+1. Thordan opener.
+2. Nidhogg 2-minute window.
+3. Double Dragons opener.
+4. Either of the 2 minute windows in DKT.
+
+</div>
 </div>
 </div>
 
