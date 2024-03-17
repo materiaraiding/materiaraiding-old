@@ -4,6 +4,7 @@ theme: just-the-docs
 
 url: https://materiaraiding.com
 
+baseurl: ""
 aux_links:
   Materia Raiding Discord: https://discord.gg/EySn5dRj65
   Materia Ultimate Raiding Discord: https://discord.gg/ArZz3b8PZV
@@ -43,3 +44,13 @@ callouts:
   everyone:
     title: Everyone
     color: yellow
+
+collections:
+  ultimate:
+    permalink: "/:guides/:ultimate/"
+    output: true
+
+just_the_docs:
+  collections:
+    ultimate:
+      name: Ultimate

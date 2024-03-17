@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DSR
-permalink: /DSR
+permalink: /dsr
 ---
 
 {% include custom.html %}
