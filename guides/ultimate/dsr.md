@@ -1,8 +1,7 @@
 ---
 layout: default
 title: DSR
-parent: Ultimates
-nav_order: 3
+permalink: /DSR
 ---
 
 {% include custom.html %}
