@@ -815,11 +815,11 @@ The damage buff from **Phoenix's Blessing** is lost on death. While the DPS chec
 
 **Golden Bahamut** will cycle between **3 attacks** throughout this phase.
 
-- {% glossary Morn Afah %}: an untelegraphed **AoE attack** on a random player in which the damage must be shared with everyone (**stack**). Mitigation is a **MUST** - you can use tank LB if you feel it is needed.
-- {% glossary Akh Morn %}: repeated **AoE tankbuster attacks** on the highest emnity target. The first Akh Morn includes 3 attacks, but each subsequent Akh Morn will add 1 extra hit. These can be shared between both tanks with mitigation or taken solo with an invulnerability - **everyone else must steer clear**. Tanks will usually have an ignore overhead marker so healers and DPS can easily identify where they should not stand near.
-- {% glossary Exaflare %}: exaflares are **AoE circles** that travel in the direction of the indicated arrow. In this fight, the exaflares all spawn on one side in 3 sets of 2, and all travel in the same direction. The first set appears roughly at 50% of the castbar. Taking damage from an exaflare is **lethal** for healers and DPS - tanks can survive a hit but will be afflicted with a **damage down**.
+- {% glossary Morn Afah %} an untelegraphed **AoE attack** on a random player in which the damage must be shared with everyone (**stack**). Mitigation is a **MUST**, you can use tank LB if you feel it is needed.
+- {% glossary Akh Morn %} repeated **AoE tankbuster attacks** on the highest emnity target. The first Akh Morn includes 3 attacks, but each subsequent Akh Morn will add 1 extra hit. These can be shared between both tanks with mitigation or taken solo with an invulnerability - **everyone else must steer clear**. Tanks will usually have an ignore overhead marker so healers and DPS can easily identify where they should not stand near.
+- {% glossary Exaflare %} exaflares are **AoE circles** that travel in the direction of the indicated arrow. In this fight, the exaflares all spawn on one side in 3 sets of 2, and all travel in the same direction. The first set appears roughly at 50% of the castbar. Taking damage from an exaflare is **lethal** for healers and DPS, tanks can survive a hit but will be afflicted with a **damage down**.
 
-I will explain 2 ways to dodge {% glossary Exaflare %} - **wall dodge** and **mid dodge**.
+I will explain 2 ways to dodge {% glossary Exaflare %}, **wall dodge** and **mid dodge**.
 
 **Wall dodging** is a safe and easy way to handle {% glossary Exaflare %}, but will require the most movement and can lead to loss in uptime for melee jobs.
 
