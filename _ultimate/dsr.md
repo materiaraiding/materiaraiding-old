@@ -319,12 +319,14 @@ Nidhogg will drop down and begin auto-attacking the main tank, before casting:
 {: .note }
 > This mechanic is one of the first "walls" of this fight, and can be difficult to wrap your head around/remember all the roles. I recommend to watch videos of solves and also to review the toolbox above.
 
-Dive from Grace will apply a bunch of numbers to the party:
+As the cast begins, a bunch of numbers will apply to the party:
 "1" x3 (put the symbol here)
 "2" x2 "
 "3" x3 "
 
-And after about 5 seconds a second debuff gets applied to each player:
+Players will preposition in the following locations to indicate their starting position depending on their number.
+
+After the cast is finished (~5 seconds later), a second set of debuffs get applied to each player:
 Dark High Jump (Circle)
 Dark Elusive Jump (Down Arrow)
 Dark Spineshatter Dive (Up Arrow)
@@ -332,10 +334,21 @@ Dark Spineshatter Dive (Up Arrow)
 The numbers players are assigned are the order that each player will be "dived/jumped" on by Nidhogg: 1->2->3
 Whilst the second debuff will be what **kind** of dive/jump Nidhogg is performing.
 
-After getting dived the player will leave behind a tower that needs to be soaked by someone else, as the dive inflicts a **"Fire Resistance Down II"** and a **"Physical Vulnerability Up"**.
+After getting dived the player will leave behind a tower that needs to be soaked by someone else, as both the dive and the tower inflict a **"Fire Resistance Down II"** and a **"Physical Vulnerability Up"** debuff.
 
-The _type_ of dive that Nidhogg performs will indicate **where that tower is going to be placed.** How I think of it is that the arrows _push_ the tower in one direction, i.e. If I were to have an Up Arrow, my tower would be pushed the distance of Nidhoggs hitbox forwards and away from me.
+The _type_ of dive that Nidhogg performs will indicate **where that tower is going to be placed.** I think of the arrows as if they _push_ the tower in one direction, i.e. If I were to have an Up Arrow, my tower would be pushed the distance of Nidhoggs hitbox away from me in the direction I'm facing. No matter whether players have arrows or no arrows, we always want to place the towers on the **East/West/South** of Nidhogg's hitbox due to another upcoming mechanic.
 
+OCE uses the **"Easthogg Strat"** I.e. we solve the arrows in such a way that all arrow players can simply face east (as long as they are in the correct position) and the mechanic will resolve.
+
+(Diagram for easthogg arrows)
+
+As seen above we place the **Up Arrow** West, and the **Down Arrow** East. If both these players look east the towers will end up on the sides of Nidhogg's hitbox. If a set of numbers **does not** have arrows, they will use the positions they indicated when the numbers first went out.
+
+The order that the numbers will soak the towers is as follows:
+
+3s soak 1s towers (using their previously indicated positions, or their arrow positions)
+East and West 1s soak 2s
+2s and South 1 soak 3s
 
 
 
