@@ -217,7 +217,7 @@ Second plumes spawn, wait for them to gather and {% glossary AOE %} them down as
 
 Party stack behind Garuda and burn down the boss, you should phase at this point.
 
-If you don't phase, you will need to look out for Wicked Wheel, a quick donut/{% glossary AOE %} dodge.
+If you don't phase, you will need to look out for Wicked Wheel, a quick donut/{% glossary AOE %} dodge, followed by repeated mechanics.
 
 **Enrage Timer is 2:55**
 
@@ -570,18 +570,17 @@ MT will go to the left side of Ultima (east), and the rest of the party will sta
 
 Garuda and her sisters spawn, Garuda will use Mistral Shriek dealing heavy raidwide damage, followed by her sisters with two sets of {% glossary Feather Rain %}. This is very high damage output and healers will need to spend heavily to ensure the party survives. Party stay stacked together and dodge {% glossary Feather Rain %} by moving counter-clockwise around the boss. Being careful to avoid the tanks side of the boss. 
 
-
-
-
-
-
-
-
-
-
+Ultima will teleport to the north side of the arena. Stack tight on the SW side of where it will appear to prepare for Ultimate Annihilation.
 
 ## Phase 5.2: Annihilation
-Coming Soon
+Ultima will teleport to the North side of the arena.
+Stack up tight on the SW side of boss. For the most part, you will be dodging mechanics around the outside of its hitbox for this phase.
+
+Phase starts with a series of {% glossary Weight of the Land %}. Party stacks together and dodges Right. Garuda will also cast eye of the storm on the edges of the arena, and tether a random player at this time. This will need to be taken away by one of your players with a Thermal Low stack. This will generally be your Phys Ranged. 
+
+Party Dodges back to the left for {% glossary Weight of the Land %}, The dps with Thermal Low will take the tether South.
+
+<Explain orb soaks>
 
 ## Phase 5.3: Suppression
 Coming Soon
