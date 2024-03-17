@@ -78,14 +78,23 @@ Code for Waymark Plugin
 <img src="{{ site.baseurl }}/assets/images/icons/phys.png" alt="dmgup" style="height: 40px; float: right">
 </div>
 
-1. Living liquid opener.
-2. BJCC opener.
-3. BJCC end during BPOG line.
-4. Post inception.
-5. ASAP during J Waves.
-6. Perfect Alex opener.
-7. Next set on CD after fate calibration alpha.
-8. Save final set for potion nearing the end of trines..
+- P1 Opener
+- P2 Opener
+
+If saving LB3 for P4:
+- Save until P3 opener
+- Use just before monitors
+
+If using LB3 in P3:
+- Asap during P2
+- During hello world
+- Start of P4
+
+- After Run Dynamis Delta Trio
+- After Run Dynamis Omega cast
+- P6 Opener
+- After Wave Cannon 2 stack
+- After Last DPS LB post-Magic Number 2
 
 </div>
 </div>
@@ -96,10 +105,7 @@ Code for Waymark Plugin
 <img src="{{ site.baseurl }}/assets/images/icons/pot.png" alt="pot" style="height: 40px; float: right">
 </div>
 
-1. Living Liquid opener.
-2. End of BJCC during BPOG lineup/start of alex prime.
-3. Perfect Alex reopener.
-4. On CD with 2 minute that you held for the potion cooldown.
+Pot timings changes depending on buff timings, go check a log with same buff timings as you
 
 </div>
 </div>
