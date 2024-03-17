@@ -12,7 +12,7 @@ nav_exclude: true
 
 <div id="potwindowheader">
 <div id="potwindowtitle">Pot Timings</div>
-<img src="{{ site.baseurl }}/assets/images/icons/pot.png" alt="pot" style="height: 60px; float: right">
+<img src="{{ site.baseurl }}/assets/images/icons/pot.png" alt="pot" style="height: 40px; float: right">
 </div>
 
 
