@@ -309,6 +309,7 @@ Thordan will then drop into the center of the arena and cast **Ancient Quaga** a
 He will then begin to the cast the next trio of the fight:
 
 ### **Sanctity of the Ward**
+{: .no_toc }
 
 Thordan will then leave the arena and 2 knights will drop down near the center, on opposite sides to each other. These knights can either be facing clockwise or counter-clockwise, which will determine the way they are about to dash across the arena. A third knight will also spawn on one of the waymarks near the outside of the arena.
 
@@ -321,6 +322,7 @@ Each stack will move 4 notches in the same direction as the knights (CW/CCW). Th
 After the last AoEs resolve, various knights will appear around the arena alongside thordan, preparing to cast various new mechanics in tandem. This set of mechanics is referred to as:
 
 ### **Meteors**
+{: .no_toc }
 
 Players should split off into pairs on each of the cardinals as per the cheatsheet (MT/D3 N, OTD4 S, H1D1 E, H2D2 W), standing between the AOEs that have spawned on the intercardinals. 2 players will be marked by "Meteors", a small red arrow above the players head. These 2 players will **ALWAYS** be part of the same role. The role that gets the meteors is deemed as the "priority" role.
 
@@ -350,6 +352,7 @@ Thordan will then cast his enrage: **Atheric Burst**.
 Nidhogg will drop down and begin auto-attacking the main tank, before casting:
 
 ### Dive from Grace
+{: .no_toc }
 
 {: .note }
 > This mechanic is one of the first "walls" of this fight, and can be difficult to wrap your head around/remember all the roles. I recommend to watch videos of solves and also to review the toolbox above.
