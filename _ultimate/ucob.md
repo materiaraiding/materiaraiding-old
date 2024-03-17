@@ -164,6 +164,40 @@ Golden Bahamut Mits
 
 </details>
 
+<div id="timingwindow">
+<div id="burstwindowwrap">
+<div id="window" markdown=1>
+<div id="windowheader">
+<h2 id="windowtitle">2-Minute Windows</h2>
+<img src="{{ site.baseurl }}/assets/images/icons/phys.png" alt="dmgup" style="height: 40px; float: right">
+</div>
+
+- Twin opener
+- Nael opener
+- Bahamut opener
+- Post Felruin Trio
+- Start of Adds Phase
+- Golden Bahamut Opener
+- Mid Golden Bahamut
+
+</div>
+</div>
+<div id="potwindowwrap">
+<div id="window" markdown=1>
+<div id="windowheader">
+<h2 id="windowtitle">Pot Windows</h2>
+<img src="{{ site.baseurl }}/assets/images/icons/pot.png" alt="pot" style="height: 40px; float: right">
+</div>
+
+- Twin opener
+- Bahamut reopener
+- Adds opener
+- 2nd 2-minute buffs during golden.
+
+</div>
+</div>
+</div>
+
 ## Phase 1: Twintania
 
 ### Key Mechanics
