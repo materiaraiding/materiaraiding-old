@@ -320,16 +320,16 @@ Nidhogg will drop down and begin auto-attacking the main tank, before casting:
 > This mechanic is one of the first "walls" of this fight, and can be difficult to wrap your head around/remember all the roles. I recommend to watch videos of solves and also to review the toolbox above.
 
 As the cast begins, a bunch of numbers will apply to the party:
-"1" x3 (put the symbol here)
-"2" x2 "
-"3" x3 "
+* "1" x3 (put the symbol here)
+* "2" x2 "
+* "3" x3 "
 
 Players will preposition in the following locations to indicate their starting position depending on their number.
 
 After the cast is finished (~5 seconds later), a second set of debuffs get applied to each player:
-Dark High Jump (Circle)
-Dark Elusive Jump (Down Arrow)
-Dark Spineshatter Dive (Up Arrow)
+* Dark High Jump (Circle)
+* Dark Elusive Jump (Down Arrow)
+* Dark Spineshatter Dive (Up Arrow)
 
 The numbers players are assigned are the order that each player will be "dived/jumped" on by Nidhogg: 1->2->3
 Whilst the second debuff will be what **kind** of dive/jump Nidhogg is performing.
