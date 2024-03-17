@@ -131,6 +131,12 @@ SGE/WHM:
 
 </details>
 
+### Cheatsheet
+
+<details markdown=1>
+<summary>View Cheatsheet</summary>
+<a href=".\assets\images\cheatsheets\dsrcheatsheet.webp" target="_blank"><img src=".\assets\images\cheatsheets\dsrcheatsheet.webp"></a>
+</details>
 
 <div id="potwindowwrap">
 <div id="potwindow" markdown=1>
@@ -146,13 +152,6 @@ SGE/WHM:
 
 </div>
 </div>
-
-### Cheatsheet
-
-<details markdown=1>
-<summary>View Cheatsheet</summary>
-<a href=".\assets\images\cheatsheets\dsrcheatsheet.webp" target="_blank"><img src=".\assets\images\cheatsheets\dsrcheatsheet.webp"></a>
-</details>
 
 ## Fight Writeup (W.I.P)
 {: .no_toc }
