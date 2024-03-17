@@ -794,7 +794,7 @@ On the 2nd round of quotes, it will be the same list of possible quotes. However
 
 **All of these attacks happen in fairly quick succession so after Hatches and Twisters, watch Nael carefully and quickly interpret and resolve her following attacks.**
 
-**Transitioning to the Final Phase**
+### Transitioning to the Final Phase
 
 To help finish off the bosses, a caster should use **Limit Break** on the 2 bosses. The Limit Break gauge will fully recharge for the final phase anyway, so you might as well use it. **Remember to kill the bosses at the same time!**
 
