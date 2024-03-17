@@ -1,13 +1,13 @@
 ---
 layout: default
 title: DSR
-parent: Ultimates
-nav_order: 3
+permalink: /dsr
+nav_order: 4
 ---
 
 {% include custom.html %}
 
-<img src="./assets/images/dkt.webp" alt="DKT" width="150" style="float: right">
+<img src="{{ site.baseurl }}/assets/images/dkt.webp" alt="DKT" width="150" style="float: right">
 
 # Dragonsong Reprise
 {: .no_toc }

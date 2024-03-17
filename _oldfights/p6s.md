@@ -1,8 +1,7 @@
 ---
 layout: default
 title: P6S
-parent: Old Fights
-nav_order: 6
+permalink: /p6s
 ---
 
 # P6S
@@ -50,4 +49,4 @@ There are two common variations of this fight, using different strats for Cachex
 
 ## Resources
 
-![](./assets/images/p6sref.png)
+![]({{ site.baseurl }}/assets/images/p6sref.png)

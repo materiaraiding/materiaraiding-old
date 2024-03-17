@@ -1,8 +1,7 @@
 ---
 layout: default
 title: P9S
-parent: Savage
-nav_order: 6
+permalink: /p9s
 ---
 
 {% include custom.html %}

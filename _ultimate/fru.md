@@ -1,13 +1,13 @@
 ---
 layout: default
 title: FRU
-parent: Ultimates
-nav_order: 1
+permalink: /fru
+nav_order: 16
 ---
 
 {% include custom.html %}
 
-<img src="./assets/images/eden.webp" alt="eden" width="150" style="float: right">
+<img src="{{ site.baseurl }}/assets/images/eden.webp" alt="eden" width="150" style="float: right">
 
 # Futures Rewritten
 {: .no_toc }

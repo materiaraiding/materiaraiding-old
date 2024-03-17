@@ -1,8 +1,7 @@
 ---
 layout: default
 title: EX6
-parent: Extremes
-nav_order: 3
+permalink: /ex6
 ---
 
 # EX6
