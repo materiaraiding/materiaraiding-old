@@ -179,7 +179,7 @@ Golden Bahamut Mits
 >
 > Your role is to position the boss in a way to drop a {% glossary Neurolink %} on each of the 1,2,3 markers in order. This will happen when the boss hits 74%, 44% and 0%. You should be on the outside of the boss towards the wall unless moving in to stack with party for other mechanics.
 >
-> <img src="{{ site.baseurl }}/assets/images/ucobmarkers.png" alt="UCOB Markers" style="height: 300px">
+> <img src="{{ site.baseurl }}/assets/images/diagrams/ucobmarkers.png" alt="UCOB Markers" style="height: 300px">
 
 {: .damage }
 > You will have two roles in this phase, firstly **Ranged** will need to bait {% glossary Liquid Hell %} by being the furthest player from the boss through the phase. Assign a **Primary Baiter** and **Backup Baiter**.
@@ -380,7 +380,7 @@ Party should aim to move together as one, **clockwise** around the boss as each 
 
 Second Fire Tether appears and this should be taken **OUT**** of the party stack.
 
-<img src="{{ site.baseurl }}/assets/images/ucobfire2.png" alt="UCOB Markers" style="height: 300px">
+<img src="{{ site.baseurl }}/assets/images/diagrams/ucobfire2.png" alt="UCOB Markers" style="height: 300px">
 
 {% glossary Thunderstruck %} will apply to two players after fireball resolves, these need to leave the party stack.
 
