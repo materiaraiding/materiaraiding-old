@@ -280,11 +280,13 @@ Start the phase by stacking mid, orient to face Ifrit and dodge left or right ba
 
 Four nails will spawn, orient yourself so the closest two nails are north. One Healer will get {% glossary Searing Wind %}, take this to relative south and stay on the wall, top yourself up as necessary and focus boss.
 
+OT will be tethered to a random DPS - try to stay close to them, but focus on nails/ifrit. This Tether will reduce damage done based on stacks and stacks increase with distance.
+
 Ranged will split and bait {% glossary Eruptions %} at SE and SW, moving up to hit each nail twice with a {% glossary Eruptions %}, this will cause the nails to grow. Once the nails have been hit twice, destroy them in the following order.
 
 ![](./assets/images/diagrams/nails.png)
 
-Correctly destroying nails in order will force the Ifrit dash pattern to occur in a predictable pattern. This is a very tight DPS window and you will need to ensure you weaken the nails to ensure you can kill them quickly once they are fully grown.
+The order that Infernal Nails are destroyed will determine the order of Ifrit’s Crimson Cyclone charges in a later phase (i.e. the first Crimson Cyclone comes from the same location as the first nail that was killed). This is a very tight DPS window and you will need to ensure you weaken the nails to ensure you can kill them quickly once they are fully grown.
 
 {: .note }
 If this is done correctly, the boss will now be awakened.
