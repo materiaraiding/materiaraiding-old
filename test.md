@@ -9,7 +9,7 @@ nav_exclude: true
 
 <div id="potwindow">
 <div id="potwindowsheader">
-<h3>Pot Timings</h3>
+<div style="font-">Pot Timings</div>
 <img src="{{ site.baseurl }}/assets/images/icons/pot.png" alt="pot" style="height: 60px; float: right">
 </div>
 
