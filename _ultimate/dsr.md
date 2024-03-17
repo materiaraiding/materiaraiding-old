@@ -135,7 +135,7 @@ SGE/WHM:
 
 <details markdown=1>
 <summary>View Cheatsheet</summary>
-<a href=".\assets\images\dsrcheatsheet.webp" target="_blank"><img src=".\assets\images\dsrcheatsheet.webp"></a>
+<a href=".\assets\images\cheatsheets\dsrcheatsheet.webp" target="_blank"><img src=".\assets\images\cheatsheets\dsrcheatsheet.webp"></a>
 </details>
 
 ## Fight Writeup (W.I.P)

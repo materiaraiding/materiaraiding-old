@@ -280,7 +280,7 @@ Four nails will spawn, orient yourself so the closest two nails are north. One H
 {: .damage }
 Ranged will split and bait {% glossary Eruptions %} at SE and SW, moving up to hit each nail twice with a {% glossary Eruptions %}, this will cause the nails to grow. Once the nails have been hit twice, destroy them in the following order.
 
-![]({{ site.baseurl }}/assets/images/nails.png)
+![](./assets/images/diagrams/nails.png)
 
 {: .note }
 If this is done correctly, the boss will now be awakened.
@@ -361,11 +361,11 @@ Geocrush is very fast, Titan will start turning towards a cardinal and then jump
 
 Party starts with a stack on Titan, check where the Bombs spawn at the back of the room, there are two possible combinations.
 
-![]({{ site.baseurl }}/assets/images/Gaols.png)
+![](./assets/images/diagrams/jails.png)
 
 Use the boss target marker as a reference for where to stand.
 
-![]({{ site.baseurl }}/assets/images/Gaolsleftright.png)
+![](./assets/images/diagrams/jailsleftright.png)
 
 After the knockback, AM will apply 1,2,3 markers to the people with Gaols. 
 
@@ -381,7 +381,7 @@ After the knockback, AM will apply 1,2,3 markers to the people with Gaols.
 {: .important }
 Gaols MUST be positioned in-line with the raidmarker. Ideally dead center otherwise the chain of explosions will fail.
 
-![]({{ site.baseurl }}/assets/images/Gaolsfinal.png)
+![](./assets/images/diagrams/jailsfinal.png)
 
 If all three bombs puddles are correctly overlapping, Titan will gain a stacking Wakening buff and become Awoken. This will greatly increase the speed of mechanics and change their patterns throughout the fight.
 
@@ -394,7 +394,7 @@ The party can move up to Titan on the left side of the puddles. Your burst phase
 {: .no_toc }
 Party will stack on the Left Side looking at Titan, ready to move for {% glossary Weight of the Land %}. Dodge through Titan and prepare for {% glossary Landslides %}. Each landslide set will now be immediately followed by a second set of {% glossary Landslides %} between the first set. 
 
-![]({{ site.baseurl }}/assets/images/landslides.jpg)
+![](./assets/images/landslides.jpg)
 
 Watch for the first set, as soon as you see the Landslide visual dissapear, you want to **immediately move into the first set of landslides** to avoid the second set. This is **VERY** fast.
 

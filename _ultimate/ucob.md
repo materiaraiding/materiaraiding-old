@@ -348,7 +348,7 @@ QUOTE 4:
 
 The two players with {% glossary Thunderstruck %} must seperate from the party and take up a position near the boss on north side. {% glossary Thunderstruck %} will resolve before the second mechanic in the quote. Two players who had {% glossary Thunderstruck %} then rejoin or run out depending on quotes.
 
-<img src="{{ site.baseurl }}/assets/images/ucobthunder.png" alt="UCOB Markers" style="height: 300px">
+<img src="{{ site.baseurl }}/assets/images/diagrams/ucobthunder.png" alt="UCOB Markers" style="height: 300px">
 
 {% glossary Doom %} will apply to two players (6s and 10s). {% glossary Wings of Salvation %} will target a party member and the party should rotate **clockwise** around the boss. Shortest {% glossary Doom %} timer takes the small puddle after {% glossary Wings of Salvation %} explodes. Another {% glossary Wings of Salvation %} and {% glossary Doom %} cleanse following that. {% glossary Bahamut's Claw %} will happen during {% glossary Doom %} cleanses.
 
@@ -437,7 +437,7 @@ This quote will not resolve until after the Second Dive finishes.
 
 The dragons on the outside of the room will start targetting players for Dives, Three players will be fixated with a green marker on their head, these go out one at a time.
 
-<img src="{{ site.baseurl }}/assets/images/divemarker.png" alt="Dive Marker" style="height: 200px">
+<img src="{{ site.baseurl }}/assets/images/diagrams/divemarker.png" alt="Dive Marker" style="height: 200px">
 
 The Dragons will dive in sets of **2-1-2** starting at True North. The 1st and 2nd Dragon will fixate on the 1st marked player. The 3rd Dragon will fixate on the 2nd marked player, and the last two dragons will fixate on the 3rd marked player.
 
