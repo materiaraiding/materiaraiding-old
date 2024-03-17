@@ -240,7 +240,6 @@ Finally, Stand in a {% glossary Neurolink %} for phase transition.
 </details>
 
 ## Phase 2: Nael
-{: .no_toc }
 
 <details markdown=1>
 <summary>View Nael Timeline</summary>
