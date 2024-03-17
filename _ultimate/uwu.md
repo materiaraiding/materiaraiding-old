@@ -15,6 +15,9 @@ nav_order: 2
 MUR Strats
 {: .label .label-purple }
 
+{: .warning }
+This page is currently a work-in-progress, some sections are incomplete. We hope to have this finished soon.
+
 The Weapons Refrain is a multi-phase fight that covers an alternative retelling of the Warrior of Light's fight against the Primals and the Ultima Weapon.
 
 {: .note }
