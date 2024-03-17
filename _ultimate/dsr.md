@@ -143,7 +143,7 @@ SGE/WHM:
 <div id="window" markdown=1>
 <div id="windowheader">
 <h2 id="windowtitle">2-Minute Timings</h2>
-<img src="{{ site.baseurl }}/assets/images/icons/pot.png" alt="pot" style="height: 40px; float: right">
+<img src="{{ site.baseurl }}/assets/images/icons/dmgup.png" alt="dmgup" style="height: 40px; float: right">
 </div>
 
 1. Thordan opener.
