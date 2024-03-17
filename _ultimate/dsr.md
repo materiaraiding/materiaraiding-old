@@ -131,7 +131,7 @@ SGE/WHM:
 
 </details>
 
-<br>
+
 <div id="potwindowwrap">
 <div id="potwindow" markdown=1>
 <div id="potwindowheader">
