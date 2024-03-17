@@ -139,7 +139,7 @@ SGE/WHM:
 </details>
 
 <div id="timingwindow">
-<div id="windowwrap">
+<div id="potwindowwrap">
 <div id="window" markdown=1>
 <div id="windowheader">
 <h2 id="windowtitle">Pot Timings</h2>
@@ -153,10 +153,10 @@ SGE/WHM:
 
 </div>
 </div>
-<div id="windowwrap">
+<div id="burstwindowwrap">
 <div id="window" markdown=1>
 <div id="windowheader">
-<h2 id="windowtitle">Pot Timings</h2>
+<h2 id="windowtitle">2-Minute Timings</h2>
 <img src="{{ site.baseurl }}/assets/images/icons/pot.png" alt="pot" style="height: 40px; float: right">
 </div>
 

@@ -1,15 +1,28 @@
 #timingwindow {
     display: flex; 
     flex-direction: row; 
+    gap: 0.8em;
+    flex-wrap: wrap;
 }
 
-#windowwrap {
+#potwindowwrap {
     border: 0px solid #aaa;
     border-radius: 6px;
     max-width: 500px;
     background: linear-gradient(135deg, #fffdfd, #f77e7e);
     padding: 0.13em;
     margin-top: 1.5em;
+    flex-grow: 1;
+}
+
+#burstwindowwrap {
+    border: 0px solid #aaa;
+    border-radius: 6px;
+    max-width: 500px;
+    background: linear-gradient(135deg, #fffdfd, #7ef3f7);
+    padding: 0.13em;
+    margin-top: 1.5em;
+    flex-grow: 1;
 }
 
 #window {
@@ -32,3 +45,4 @@
     font-size: 1.3em;
     margin-top: 0em;
 }
+
