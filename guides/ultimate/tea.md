@@ -1,13 +1,11 @@
 ---
 layout: default
 title: TEA
-parent: Ultimates
-nav_order: 4
 ---
 
 {% include custom.html %}
 
-<img src="./assets/images/BJCC2.png" alt="BJCC" width="150" style="float: right">
+<img src="{{ site.baseurl }}/assets/images/BJCC2.png" alt="BJCC" width="150" style="float: right">
 
 # The Epic of Alexander
 {: .no_toc }

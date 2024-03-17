@@ -6,7 +6,7 @@ permalink: /DSR
 
 {% include custom.html %}
 
-<img src="./assets/images/dkt.webp" alt="DKT" width="150" style="float: right">
+<img src="{{ site.baseurl }}/assets/images/dkt.webp" alt="DKT" width="150" style="float: right">
 
 # Dragonsong Reprise
 {: .no_toc }

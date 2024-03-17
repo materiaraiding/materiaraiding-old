@@ -79,7 +79,7 @@ Primarily, Materia follows Clees' UCOB guide, this is common in some other regio
 
 One key difference is due to being in the southern hemisphere, we flip the arena upside down and drop the Hatch puddles in a V shape, obviously. This looks something like this: 
 
-<img src="./assets/images/ucobmarkers.png" alt="UCOB Markers" style="height: 400px">
+<img src="{{ site.baseurl }}/assets/images/ucobmarkers.png" alt="UCOB Markers" style="height: 400px">
 
 For all of Bahamut, we use the following toolboxes: 
 
