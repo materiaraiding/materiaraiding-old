@@ -43,7 +43,7 @@
 - term: Liquid Hell
   definition: The boss will target further player with 5 consecutive fireballs dropping puddles, staying in a puddle is fatal. At times this can also target a random non-furthest player.
 - term: Death Sentence
-  definition: Tankbuster dealing heavy physical damage to its target, and inflicting a Physical Vulnerability up.
+  definition: Tankbuster dealing heavy physical damage to its target, and inflicting a Slashing Resistance Down.
 - term: Fireball
   definition: Twintania will mark a player with a red triangle, and throw a fireball dealing significant magic damage that can be shared amongst the party.
 - term: Hatch
@@ -68,6 +68,8 @@
   definition: Boss will jump to a player and hit them with a small AOE knocking back anyone nearby.
 - term: Meteor Stream
   definition: Boss dives down on several players hitting them with a heavy attack in an AOE around them.
+- term: Ravensbeak
+  definition: Tankbuster dealing heavy physical damage to its target, and inflicting a Piercing Resistance Down.
 - term: Hypernova
   definition: Boss will target a player with a AoE puddle at their location, staying in the puddle too long is fatal.
 - term: Flare Breath
