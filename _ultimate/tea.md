@@ -68,13 +68,51 @@ Space = Hold to select numbers
 
 ### Cheatsheets and Visual Guides
 
-**Wormhole (crappy) Visual Guide**
+<details markdown=1>
+<summary>Wormhole (crappy) Visual Guide</summary>
+<a href="https://github.com/materiaraiding/materiaraiding/assets/85346345/f58044da-89ba-4708-8d26-83ce7df50675" target="_blank"><img src="https://github.com/materiaraiding/materiaraiding/assets/85346345/f58044da-89ba-4708-8d26-83ce7df50675"></a>
+</details>
 
-![image](https://github.com/materiaraiding/materiaraiding/assets/85346345/f58044da-89ba-4708-8d26-83ce7df50675)
 
-**Perfect Alexander Cheatsheet**
+<details markdown=1>
+<summary>Perfect Alexander Cheatsheet</summary>
+<a href="https://github.com/materiaraiding/materiaraiding/assets/85346345/4583252e-31eb-43f2-a0c3-d97cf40ca2c0" target="_blank"><img src="https://github.com/materiaraiding/materiaraiding/assets/85346345/4583252e-31eb-43f2-a0c3-d97cf40ca2c0"></a>
+</details>
 
-![image-19](https://github.com/materiaraiding/materiaraiding/assets/85346345/4583252e-31eb-43f2-a0c3-d97cf40ca2c0)
+<div id="timingwindow">
+<div id="burstwindowwrap">
+<div id="window" markdown=1>
+<div id="windowheader">
+<h2 id="windowtitle">2-Minute Windows</h2>
+<img src="{{ site.baseurl }}/assets/images/icons/phys.png" alt="dmgup" style="height: 40px; float: right">
+</div>
+
+1. Living liquid opener.
+2. BJCC opener.
+3. BJCC end during BPOG line.
+4. Post inception.
+5. ASAP during J Waves.
+6. Perfect Alex opener.
+7. Next set on CD after fate calibration alpha.
+8. Save final set for potion nearing the end of trines..
+
+</div>
+</div>
+<div id="potwindowwrap">
+<div id="window" markdown=1>
+<div id="windowheader">
+<h2 id="windowtitle">Pot Windows</h2>
+<img src="{{ site.baseurl }}/assets/images/icons/pot.png" alt="pot" style="height: 40px; float: right">
+</div>
+
+1. Living Liquid opener.
+2. End of BJCC during BPOG lineup/start of alex prime.
+3. Perfect Alex reopener.
+4. On CD with 2 minute that you held for the potion cooldown.
+
+</div>
+</div>
+</div>
 
 ## Written Guide
 
