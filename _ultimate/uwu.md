@@ -280,20 +280,21 @@ Start the phase by stacking mid, orient to face Ifrit and dodge left or right ba
 
 Four nails will spawn, orient yourself so the closest two nails are north. One Healer will get {% glossary Searing Wind %}, take this to relative south and stay on the wall, top yourself up as necessary and focus boss.
 
-{: .damage }
 Ranged will split and bait {% glossary Eruptions %} at SE and SW, moving up to hit each nail twice with a {% glossary Eruptions %}, this will cause the nails to grow. Once the nails have been hit twice, destroy them in the following order.
 
 ![](./assets/images/diagrams/nails.png)
 
+Correctly destroying nails in order will force the Ifrit dash pattern to occur in a predictable pattern. This is a very tight DPS window and you will need to ensure you weaken the nails to ensure you can kill them quickly once they are fully grown.
+
 {: .note }
 If this is done correctly, the boss will now be awakened.
 
-Get ready for heavy raidwides. 
+Get ready for heavy raidwides as Ifrit will use another set of 
 
-Tanks now pull the boss between the two raid markers closest to relative north against the wall. Ranged will go SE relative boss and begin baits for {% glossary Eruptions %} rejoining the group counter-clockwise on the wall.
+Tanks now pull the boss between the two raid markers closest to relative north set during nails against the wall. Ranged will go SE of relative north and begin baits for {% glossary Eruptions %} rejoining the group counter-clockwise on the wall.
 
 {: .healers }
-One Healer will get {% glossary Searing Wind %}, go to WEST relative party and party to burn down boss. Healer to rejoin party when debuff drops.
+One Healer will get {% glossary Searing Wind %}, go to WEST relative party and wait for debuff to expire. Healer to rejoin party when debuff drops.
 
 If DPS is good, you will phase just as the second healer gets {% glossary Searing Wind %}. Second {% glossary Searing Wind %} should be run-out of the party either south or east if you are about to skip dashes.
 
