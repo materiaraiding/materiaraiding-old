@@ -767,11 +767,15 @@ As you can see from the timeline, Nael will do 2 sets of quotes. Each set will c
 
 Nael will do 4 possible quotes:
 
-**THIS IS COMING SOON**!!!
+- From hallowed moon I bare iron, in my descent to wield! = {% glossary Lunar Dynamo %} → {% glossary Iron Chariot %} → {% glossary Raven's Dive %}
+- From hallowed moon I descend, upon burning earth to tread! = {% glossary Lunar Dynamo %} → {% glossary Raven's Dive %} → {% glossary Thermionic Beam %}
+- Unbending iron, descend with fiery edge! = {% glossary Iron Chariot %} → {% glossary Raven's Dive %} → {% glossary Thermionic Beam %}
+- Unbending iron, take fire and descend! = {% glossary Iron Chariot %} → {% glossary Thermionic Beam %} → {% glossary Raven's Dive %}
 
 You will notice that:
 - The first is always an **IN** or **OUT**.
-- If it is **IN** first, it can be **OUT** next, otherwise it is **spreads** and / or **stacks**.
+- If it is **IN** first, it can be **OUT** next into a **spread**, otherwise it is **spreads into stack**.
+- If it is **OUT** first, the next is either **spread into stack**, or **stack into spread**.
 
 Everyone should run to Waymark 4 (centre of the arena) for the **stack**.
 
