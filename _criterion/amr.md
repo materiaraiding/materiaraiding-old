@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Another Mount Rokkon
-parent: Criterion
-nav_order: 2
+permalink: /amr
 ---
 
 # Another Mount Rokkon

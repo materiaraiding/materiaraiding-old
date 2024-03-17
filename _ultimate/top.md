@@ -1,6 +1,7 @@
 ---
 layout: default
 title: TOP
+permalink: /top
 ---
 
 {% include custom.html %}

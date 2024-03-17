@@ -1,8 +1,7 @@
 ---
 layout: default
 title: P6S
-parent: Old Fights
-nav_order: 6
+permalink: /p6s
 ---
 
 # P6S

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: UWU
+permalink: /uwu
 ---
 
 {% include custom.html %}

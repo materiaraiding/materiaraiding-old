@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Another Aloalo Island 
-parent: Criterion
-nav_order: 1
+permalink: /aai
 ---
 
 # Another Aloalo Island 

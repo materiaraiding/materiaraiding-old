@@ -46,11 +46,31 @@ callouts:
     color: yellow
 
 collections:
+  savage:
+    permalink: "/:collection/:path/"
+    output: true
+  extreme:
+    permalink: "/:collection/:path/"
+    output: true
   ultimate:
+    permalink: "/:collection/:path/"
+    output: true
+  criterion:
+    permalink: "/:collection/:path/"
+    output: true
+  oldfights:
     permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
   collections:
+    savage:
+      name: Savage
+    extreme:
+      name: Extreme
     ultimate:
       name: Ultimate
+    criterion:
+      name: Criterion
+    oldfights:
+      name: Old Fights

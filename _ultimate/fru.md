@@ -1,6 +1,7 @@
 ---
 layout: default
 title: FRU
+permalink: /fru
 ---
 
 {% include custom.html %}

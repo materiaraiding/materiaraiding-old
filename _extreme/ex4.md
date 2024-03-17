@@ -1,8 +1,7 @@
 ---
 layout: default
 title: EX4
-parent: Extremes
-nav_order: 1
+permalink: /ex4
 ---
 
 # EX4

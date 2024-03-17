@@ -1,6 +1,7 @@
 ---
 layout: default
 title: TEA
+permalink: /tea
 ---
 
 {% include custom.html %}

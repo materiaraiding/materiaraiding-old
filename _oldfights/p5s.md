@@ -1,8 +1,7 @@
 ---
 layout: default
 title: P5S
-parent: Old Fights
-nav_order: 5
+permalink: /p52
 ---
 
 # P5S

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: UCOB
+permalink: /ucob
 ---
 
 {% include custom.html %}
