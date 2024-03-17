@@ -281,4 +281,18 @@ The knight at the edge of the arena will then target 2 people for distance-based
 
 Each stack will move 4 notches in the same direction as the knights (CW/CCW). This will leave the party in the 1st of two safespots as part of the dashes. After the cleaves go off around them the party will move to 4 notches _before_ the next waymark for the next safe spot.
 
-Rest of this guide is coming soon..
+(Diagram for safespots :3)
+
+After the last AoEs resolve, various knights will appear around the arena alongside thordan, preparing to cast various new mechanics in tandem. This set of mechanics is referred to as:
+
+### **Meteors**
+
+Players should split off into pairs on each of the cardinals as per the cheatsheet (MT/D3 N, OTD4 S, H1D1 E, H2D2 W), standing between the AOEs that have spawned on the intercardinals. Two players will be marked by "Meteors", a small red arrow above the players head. These two players will **ALWAYS** be part of the same role. The role that gets the meteors is deemed as the "priority" role.
+
+The meteor players will position themselves North and South, swapping with the same respective role player that is already positioned there. _Generally_ the meteor players should try and go to N/S cardinal that is **clockwise** of them, however this rule isn't always followed.
+
+Each pair should stand roughly halfway between the centre of the arena and the edge of the arena to bait a set of partner stacks that will leave a puddle of ice that will inflict frostbite if not moved out of **immediately**.
+
+While everyone is shuffling to their positions 8 towers have spawned, with some on the outer edges and some in the middle of the arena. If only one tower is available on the outer edge of the arena in a pairs quadrant, the **priority role** (i.e. the one with meteors) should take that tower, and the other player should move into the middle of the arena to soak the tower **clockwise** from where they baited their puddle.. If two towers are available on the outer edge of the arena the **priority role** will take the left most tower, and the **non-priority role** will take the right most. However this rule is a bit flimsy and most often people will just move to the left/right beforehand to indicate which tower they will take.
+
+
