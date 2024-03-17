@@ -70,6 +70,41 @@ Code for Waymark Plugin
 {"Name":"TOP","MapID":908,"A":{"X":100.0,"Y":0.0,"Z":87.0,"ID":0,"Active":true},"B":{"X":113.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":113.0,"ID":2,"Active":true},"D":{"X":87.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":109.192,"Y":0.0,"Z":90.807,"ID":4,"Active":true},"Two":{"X":109.192,"Y":0.0,"Z":109.192,"ID":5,"Active":true},"Three":{"X":90.807,"Y":0.0,"Z":109.192,"ID":6,"Active":true},"Four":{"X":90.807,"Y":0.0,"Z":90.807,"ID":7,"Active":true}}
 ```
 
+<div id="timingwindow">
+<div id="burstwindowwrap">
+<div id="window" markdown=1>
+<div id="windowheader">
+<h2 id="windowtitle">2-Minute Windows</h2>
+<img src="{{ site.baseurl }}/assets/images/icons/phys.png" alt="dmgup" style="height: 40px; float: right">
+</div>
+
+1. Living liquid opener.
+2. BJCC opener.
+3. BJCC end during BPOG line.
+4. Post inception.
+5. ASAP during J Waves.
+6. Perfect Alex opener.
+7. Next set on CD after fate calibration alpha.
+8. Save final set for potion nearing the end of trines..
+
+</div>
+</div>
+<div id="potwindowwrap">
+<div id="window" markdown=1>
+<div id="windowheader">
+<h2 id="windowtitle">Pot Windows</h2>
+<img src="{{ site.baseurl }}/assets/images/icons/pot.png" alt="pot" style="height: 40px; float: right">
+</div>
+
+1. Living Liquid opener.
+2. End of BJCC during BPOG lineup/start of alex prime.
+3. Perfect Alex reopener.
+4. On CD with 2 minute that you held for the potion cooldown.
+
+</div>
+</div>
+</div>
+
 ## Fight Summary
 {: .no_toc }
 Guide written by Juno
