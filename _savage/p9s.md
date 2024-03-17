@@ -2,6 +2,7 @@
 layout: default
 title: P9S
 permalink: /p9s
+nav_order: 1
 ---
 
 {% include custom.html %}
