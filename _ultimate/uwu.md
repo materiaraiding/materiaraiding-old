@@ -497,12 +497,12 @@ The Ultima Weapon will spawn and use abilities absorbed from the primals. This i
 {: .important }
 During this phase Ultima will have a Duty Gauge bar that slowly fills up, this increases with Mechanics but also each death. When this bar fills ultima gains a massive Damage Up buff which will likely result in a wipe. Increases by 4 with some mechanics and 4 for each death.
 
-- {% glossary Ultima %}: Massive raidbuster dealing extremely heavy magic damage. Must be mitigated via the use of a Tank LB3.
-- {% glossary Tank Purge %}: Heavy Raidwide Magic Damage.
-- {% glossary Homing Lasers %}: Very heavy tankbuster (~125k unimitigated) targeting the player with the second highest enmity, in a small circle around them.
-- {% glossary Viscous Aetheroplasm %}: AOE Attack applying the Viscous Aetheroplasm debuff, which explodes after a short period of time for heavy magic damage that can be soaked with the party.
-- {% glossary Diffractive Laser %}: Tankbuster with no cast time dealing moderate magic damage. Cleaves.
-- {% glossary Aetheric Boom %}: Knockback originating from Ultima hitting all players. Is accompanied by 4 sets of Aetheroplasms.
+- {% glossary Ultima %} - Massive raidbuster dealing extremely heavy magic damage. Must be mitigated via the use of a Tank LB3.
+- {% glossary Tank Purge %} - Heavy Raidwide Magic Damage.
+- {% glossary Homing Lasers %} - Very heavy tankbuster (~125k unimitigated) targeting the player with the second highest enmity, in a small circle around them.
+- {% glossary Viscous Aetheroplasm %} - AOE Attack applying the Viscous Aetheroplasm debuff, which explodes after a short period of time for heavy magic damage that can be soaked with the party.
+- {% glossary Diffractive Laser %} - Tankbuster with no cast time dealing moderate magic damage. Cleaves.
+- {% glossary Aetheric Boom %} - Knockback originating from Ultima hitting all players. Is accompanied by 4 sets of Aetheroplasms.
 
 After consuming all Primals, Ultima begins the phase at the north of the room. 
 
