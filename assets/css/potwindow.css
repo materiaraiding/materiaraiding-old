@@ -1,10 +1,15 @@
+#potwindowwrap {
+    max-width: 500px;
+    background: linear-gradient(to right, red, purple);
+    padding: 3px;
+}
+
 #potwindow {
-    border: 1px solid #aaa;
+    border: 0px solid #aaa;
     border-radius: 4px;
     background-color: #302d36;
     padding: 0.5em 0.5em 0;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
-    max-width: 500px;
 }
 
 #potwindowheader {
@@ -12,4 +17,9 @@
     flex-direction: row; 
     justify-content: space-between; 
     align-items: center
+}
+
+#potwindowtitle {
+    display: inline-block;
+    font-size: 2em;
 }
