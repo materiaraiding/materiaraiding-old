@@ -131,6 +131,21 @@ SGE/WHM:
 
 </details>
 
+<div id="potwindowwrap">
+<div id="potwindow" markdown=1>
+<div id="potwindowheader">
+<h2 id="potwindowtitle">Pot Timings</h2>
+<img src="{{ site.baseurl }}/assets/images/icons/pot.png" alt="pot" style="height: 40px; float: right">
+</div>
+
+1. Thordan opener.
+2. Nidhogg 2-minute window.
+3. Double Dragons opener.
+4. Either of the 2 minute windows in DKT.
+
+</div>
+</div>
+
 ### Cheatsheet
 
 <details markdown=1>
