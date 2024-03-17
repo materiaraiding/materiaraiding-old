@@ -47,7 +47,7 @@ callouts:
 
 collections:
   ultimate:
-    permalink: "/:guides/:ultimate/"
+    permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
