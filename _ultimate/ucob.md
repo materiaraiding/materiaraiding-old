@@ -713,7 +713,7 @@ Bahamut will spend this phase in the background charging up **Aethertrail Attune
 {: .tanks }
 As initial aggro is based off emnity during **Phase 3: Bahamut Prime**, be sure to **Provoke** your boss.
 
-There are no new brand mechanics this phase. However, as you have the mechanics of both bosses to deal with, there's more to do and things can get pretty chaotic.
+There are no brand new mechanics this phase. However, as you have the mechanics of both bosses to deal with, there's more to do and things can get pretty chaotic.
 
 {: .damage }
 Keep the HP's of both bosses as similar as possible, as they need to be killed approximately at the same time, otherwise the other will begin casting an enrage.
@@ -764,6 +764,7 @@ You'll notice after the tank swap ({% glossary Death Sentence %} and {% glossary
 > As you resolve {% glossary Twister %} and move around in general throughout this phase, be sure to stand in an area where you will not be clipped by the explosion of DPS resolving Generate ({% glossary Hatch %}). One suggestion is to stick around the wall north east or north west so you are not accidentally baiting {% glossary Liquid Hell %} while also still being in range to support your tanks. Then, you can just move along the wall as {% glossary Twister %} is cast.
 
 ### Quotes
+{: .no_toc }
 
 As you can see from the timeline, Nael will do 2 sets of quotes. Each set will come with 3 attacks each.
 
@@ -797,6 +798,7 @@ On the 2nd round of quotes, it will be the same list of possible quotes. However
 **All of these attacks happen in fairly quick succession so after Hatches and Twisters, watch Nael carefully and quickly interpret and resolve her following attacks.**
 
 ### Transitioning to the Final Phase
+{: .no_toc }
 
 To help finish off the bosses, a caster should use **Limit Break** on the 2 bosses. The Limit Break gauge will fully recharge for the final phase anyway, so you might as well use it. **Remember to kill the bosses at the same time!**
 
@@ -825,7 +827,7 @@ I will explain 2 ways to dodge {% glossary Exaflare %}, **wall dodge** and **mid
 
 **Wall dodging** is a safe and easy way to handle {% glossary Exaflare %}, but will require the most movement and can lead to loss in uptime for melee jobs.
 
-As soon as you see and **locate the first set of {% glossary Exaflare %}** that spawn, **stand beside** one on the wall and wait. Then, when that first set of {% glossary Exaflare %} begin to resolve, **walk along the wall into where the first {% glossary Exaflare %} exploded**, and simply wait till all the other {% glossary Exaflare %} go off and group back up with your party.
+As soon as you see and locate the first set of {% glossary Exaflare %} that spawn, **stand beside** one on the wall and wait. Then, when that first set of {% glossary Exaflare %} begin to resolve, **walk along the wall into where the first {% glossary Exaflare %} exploded**, and simply wait till all the other {% glossary Exaflare %} go off and group back up with your party.
 
 **Mid dodging** is best for uptime and will require much less total movement. [**This video**](https://www.youtube.com/watch?v=CAgvxOzbSQs) explains mid dodging amazingly and I highly recommend watching it.
 
