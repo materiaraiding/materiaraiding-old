@@ -90,7 +90,7 @@ If using LB3 in P3:
 - During hello world
 - Start of P4
 
-
+Cont..
 - After Run Dynamis Delta Trio
 - After Run Dynamis Omega cast
 - P6 Opener
