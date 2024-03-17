@@ -261,7 +261,7 @@ Finally, Stand in a {% glossary Neurolink %} for phase transition.
 14. First doom 
 15. Second doom
 16. Third doom
-17. Ravensbeak (SWAP)
+17. {% glossary Ravensbeak %} (SWAP)
 18. Dive bait 1 out
 19. 4th Quotes out (TB + STACK or SPREAD + TB) + Dive bait 2 out
 20. Dive bait 3 out + Nael drops on OT
@@ -703,7 +703,103 @@ If you are soaking a tower, walk **across** the tower as the dive goes off to en
 Once {% glossary Twister %} resolve, you will finish the phase and go into Adds.
 
 ## Phase 4: Adds
-Coming Soon
+
+Bahamut will spend this phase in the background charging up **Aethertrail Attunement**, indicated by the **Duty Gauge**. In this phase you will simultaneously take on **Twintania** and **Nael**, who are defending Bahamut as he charges up. If **Aethertrail Attunement** reaches 100 before the 2 bosses are killed, the party will wipe.
+
+**Twintania** and **Nael** will spawn together **north**, in which initially the MT takes aggro of Twintania and OT takes Nael.
+
+{: .tanks }
+As initial aggro is based off emnity during **Phase 3: Bahamut Prime**, be sure to **Provoke** your boss.
+
+There are no new brand mechanics this phase. However, as you have the mechanics of both bosses to deal with, there's more to do and things can get pretty chaotic.
+
+{: .damage }
+Keep the HP's of both bosses as similar as possible, as they need to be killed approximately at the same time, otherwise the other will begin casting an enrage.
+
+### Phase Timeline
+{: .no_toc }
+
+<details markdown=1>
+<summary>Expand Phase Timeline</summary>
+
+1. Twintania {% glossary Plummet %} and Nael {% glossary Bahamut's Claw %} on their respective aggro'd player.
+2. Twintania {% glossary Liquid Hell %}.
+3. Twintania Generate ({% glossary Hatch %}) into {% glossary Twister %}.
+4. Nael **Quotes**.
+5. Twintania {% glossary Twister %}.
+6. Nael Megaflare (raidwide).
+7. Twintania {% glossary Death Sentence %} and Nael {% glossary Ravensbeak %} (tankbusters that require a tank swap).
+8. Twintania {% glossary Plummet %} and Nael {% glossary Bahamut's Claw %} on their respective aggro'd player.
+9. Twintania {% glossary Liquid Hell %}.
+10. Twintania Generate ({% glossary Hatch %}) into {% glossary Twister %}.
+11. Nael **Quotes**.
+12. Twintania {% glossary Twister %}.
+13. Twintania {% glossary Death Sentence %} and Nael {% glossary Ravensbeak %} (tankbusters that require a tank swap).
+14. Nael Megaflare (raidwide).
+15. Teraflare: if bosses are not dead at this point the gauge would have filled -> wipe.
+
+You'll notice after the tank swap ({% glossary Death Sentence %} and {% glossary Ravensbeak %}) the mechanics just repeat in the same order (except the last tankbuster and Megaflare are switched). Essentially, you will have 2 'rotations' or 'cycles' of mechanics to kill Twintania and Nael before the enrage occurs.
+
+</details>
+
+{: .damage }
+> {% glossary Liquid Hell %} is to be baited by D3, who should take them along the southern wall, starting from east/south east-ish.
+>
+> **Generate** will target 3 DPS this time to soak a {% glossary Hatch %} in a {% glossary Neurolink %}. To prevent people from fighting over a {% glossary Neurolink %}, we have assigned spots for this phase. D1 will take the one on Waymark 1 (north-west), D2 takes Waymark 2 (north-east) and D3 takes Waymark 3 (south). D4 will flex accordingly.
+>
+> Twintania's {% glossary Twister %} comes very shortly after **Generate** is cast - be sure to move in a way so you will resolve both mechanics safely. DPS soaking on Waymark 1 and Waymark 2 should find that they can soak their {% glossary Hatch %} first then move for {% glossary Twister %}, while DPS soaking on Waymark 3 may find that they need to **resolve {% glossary Twister %} first** before moving into their Neurolink due to the orb needing to travel longer.
+
+{: .tanks }
+> Plan your mitigations carefully - this phase will **hurt**.
+> 
+> Face the bosses to the wall, away from the party and your cotank. This will prevent Twintania dunking on everyone with {% glossary Plummet %}.
+>
+> When the bosses cast their respective {% glossary Death Sentence %} and {% glossary Ravensbeak %}, you and your cotank will need to swap aggro of each boss as these tankbusters apply a **vulnerability** to the boss's attacks. Simply **Provoke** - shirk shouldn't be necessary.
+
+{: .healers }
+> Watch and look after your tanks and remember to use your single target cooldowns to help them, **especially when the back-to-back tankbuster is coming up**.
+>
+> As you resolve {% glossary Twister %} and move around in general throughout this phase, be sure to stand in an area where you will not be clipped by the explosion of DPS resolving Generate ({% glossary Hatch %}). One suggestion is to stick around the wall north east or north west so you are not accidentally baiting {% glossary Liquid Hell %} while also still being in range to support your tanks. Then, you can just move along the wall as {% glossary Twister %} is cast.
+
+**Quotes**
+
+As you can see from the timeline, Nael will do 2 sets of quotes. Each set will come with 3 attacks each.
+
+Nael will do 4 possible quotes:
+
+**THIS IS COMING SOON**!!!
+
+You will notice that:
+- The first is always an **IN** or **OUT**.
+- If it is **IN** first, it can be **OUT** next, otherwise it is **spreads** and / or **stacks**.
+
+Everyone should run to Waymark 4 (centre of the arena) for the **stack**.
+
+{: .warning }
+Remember that the **IN** / **OUT** is relative to **where Nael is** so keep an eye on her hitbox (i.e. if you happen to be targeting Twintania, don't get their hitboxes confused)
+
+{: .note }
+> If it is **spreads into stack**, the **spreads** are fairly yolo-able, but do not stand too far out from the centre to ensure you make it to Waymark 4 in time. Be sure to spread out again after the stack for an incoming {% glossary Twister %}.
+>
+> If it is **stack into spreads**, run outwards from Waymark 4 **after** the stack (generally speaking, in the direction of your clock spot is a good idea to ensure everyone is going different ways, except for tanks who should stick to their bosses) for not only a potential incoming **spread**, but to be separate for the upcoming {% glossary Twister %} cast which comes after quotes.
+
+{: .everyone }
+Once the {% glossary Twister %} that comes after quotes is resolved, come back inwards to receive mitigation and healing for the upcoming **Megaflare** raidwide, before repositioning for the next rotation of mechanics.
+
+On the 2nd round of quotes, it will be the same list of possible quotes. However, the first **IN** or **OUT** will always be the **opposite** of what the first set of quotes was. So, if the first set of quotes had **IN** as the first attack, the second set of quotes will definitely have **OUT** as the first attack.
+
+**All of these attacks happen in fairly quick succession so after Hatches and Twisters, watch Nael carefully and quickly interpret and resolve her following attacks.**
+
+**Transitioning to the Final Phase**
+
+To help finish off the bosses, a caster should use **Limit Break** on the 2 bosses. The Limit Break gauge will fully recharge for the final phase anyway, so you might as well use it. **Remember to kill the bosses at the same time!**
+
+If you successfully take down the 2 bosses before **Aethertrail Attunement** fully charges, **Teraflare** will cast and wipe the party. Everyone will then be fully resurrected by the Phoenix, who will grant the party with **full 3 bars of Limit Break** and the **Phoenix's Blessing** buff, which is a sweet damage buff that lasts until the end of the pull / fight, or on death. This buff will help you overcome the final phase of this fight.
+
+{: .note }
+If anyone has died in the wall at the end of this phase, they will die again once resurrected by Phoenix. They will need to be resurrected again by a player, thus gaining a weakness and losing **Phoenix's Blessing**.
+
+Bahamut will then return, paint himself yellow and begin his final standoff.
 
 ## Phase 5: Golden Bahamut
 
