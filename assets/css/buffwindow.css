@@ -14,6 +14,7 @@
     background: linear-gradient(135deg, #fffdfd, #f77d7d);
     padding: 0.13em;
     flex-grow: 1;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
 }
 
 #burstwindowwrap {
@@ -23,6 +24,7 @@
     background: linear-gradient(135deg, #fffdfd, #7dcaf7);
     padding: 0.13em;
     flex-grow: 1;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
 }
 
 #window {
