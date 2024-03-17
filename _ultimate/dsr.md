@@ -346,9 +346,10 @@ As seen above we place the **Up Arrow** West, and the **Down Arrow** East. If bo
 
 The order that the numbers will soak the towers is as follows:
 
->3s soak 1s towers (using their previously indicated positions, or their arrow positions)
->East and West 1s soak 2s
->2s and South 1 soak 3s
+(using their previously indicated positions, or their arrow positions)
+* 3s soak 1s towers 
+* East and West 1s soak 2s
+* 2s and South 1 soak 3s
 
 
 
