@@ -142,6 +142,21 @@ This can also be compared to the strats covered in [Tessan Twintails video guide
 
 <details markdown=1>
 <summary>NA Differences</summary>
+    
+### General Notes
+{: .no_toc }
+As mentioned in raid roles section:
+D1 = M1/DRG pos
+D2 = M2/NIN pos
+D3 = Phys Range/R1
+D4 = Caster/R2
+    
+H1 = Regen Healer
+H2 = Shield Healer
+Esuna Prio is default assumed to be H1 self + top -> bottom, and H2 self + bottom -> top
+
+OT sometimes referenced as ST
+
 ### Temporal Stasis
 {: .no_toc }
 During Temporal Stasis mech after Phase 2, instead of FFA, supports prio left, and DPS right for long tethers, rest is the same (short tether is on the add to the right and no tether is to the add on the left).
@@ -167,6 +182,21 @@ For an extended explanation you can see the complete TEA OCE Guide below by Noz 
 </details>
 <details markdown=1>
 <summary>EU Differences</summary>
+
+### General Notes
+{: .no_toc }
+As mentioned in raid roles section:
+D1 = M1/DRG pos
+D2 = M2/NIN pos
+D3 = Phys Range/R1
+D4 = Caster/R2
+    
+H1 = Regen Healer
+H2 = Shield Healer
+Esuna Prio is default assumed to be H1 self + top -> bottom, and H2 self + bottom -> top
+
+OT sometimes referenced as ST
+
 ### Temporal Stasis
 {: .no_toc }
 During Temporal Stasis mech after Phase 2, blue tether prio is flipped, supports prio left, and DPS right, rest is the same (short tether is on the add to the right and no tether is to the add on the left).
