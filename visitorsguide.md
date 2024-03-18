@@ -102,15 +102,15 @@ Potential differences to double check may include:
 
 <details markdown=1>
 <summary>NA Differences</summary>
-
+(content needed)
 </details>
 <details markdown=1>
 <summary>EU Differences</summary>
-
+(content needed)
 </details>
 <details markdown=1>
 <summary>JP Differences</summary>
-
+(content needed)
 </details>
 
 ## UWU
@@ -125,11 +125,11 @@ Materia also follows [Clees' Guide](https://ultimates.guide/uwu/) for UWU. Poten
 </details>
 <details markdown=1>
 <summary>EU Differences</summary>
-
+(content needed)
 </details>
 <details markdown=1>
 <summary>JP Differences</summary>
-
+(content needed)
 </details>
 
 ## TEA
@@ -167,11 +167,11 @@ For an extended explanation you can see the complete TEA OCE Guide below by Noz 
 </details>
 <details markdown=1>
 <summary>EU Differences</summary>
-
+(content needed)
 </details>
 <details markdown=1>
 <summary>JP Differences</summary>
-
+(content needed)
 </details>
 
 ## DSR
@@ -196,7 +196,7 @@ For an extended explanation you can see the complete DSR OCE Guide below by Juno
 </details>
 <details markdown=1>
 <summary>EU Differences</summary>
-
+(content needed)
 </details>
 <details markdown=1>
 <summary>JP Differences</summary>
@@ -248,7 +248,7 @@ For NA players, both DPS and supports move during P6 WC2 instead of DPS not movi
 </details>
 <details markdown=1>
 <summary>EU Differences</summary>
-
+(content needed)
 </details>
 <details markdown=1>
 <summary>JP Differences</summary>
