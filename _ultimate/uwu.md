@@ -132,6 +132,38 @@ D3                                D4
 
 </details>
 
+<div id="timingwindow">
+<div id="burstwindowwrap">
+<div id="window" markdown=1>
+<div id="windowheader">
+<h2 id="windowtitle">2-Minute Windows</h2>
+<img src="{{ site.baseurl }}/assets/images/icons/phys.png" alt="dmgup" style="height: 40px; float: right">
+</div>
+
+- Garuda opener
+- Ifrit opener
+- If you skip ifrit dashes, post gaols, if you do not skip ifrit dashes, start of titan
+- Ultima opener
+- Save final set in primal roulette for potion and 1 minutes during the 2nd primal.
+
+</div>
+</div>
+<div id="potwindowwrap">
+<div id="window" markdown=1>
+<div id="windowheader">
+<h2 id="windowtitle">Pot Windows</h2>
+<img src="{{ site.baseurl }}/assets/images/icons/pot.png" alt="pot" style="height: 40px; float: right">
+</div>
+
+- Ifrit reopener
+- Ultima reopener
+- During 2nd primal during primal roulette when 1 minutes come off cooldown
+
+</div>
+</div>
+</div>
+
+
 ### Puddles (Candy)
 
 Throughout the first 3 phases, you will be aiming to complete special requirements to **Awaken** all three primals, once awoken their mechanics may change and they will drop a puddle (Candy) when they die, this must be picked up in a specific order, these will give you extra LB3's later which are required to clear the fight.
