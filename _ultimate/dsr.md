@@ -138,6 +138,8 @@ SGE/WHM:
 <a href=".\assets\images\cheatsheets\dsrcheatsheet.webp" target="_blank"><img src=".\assets\images\cheatsheets\dsrcheatsheet.webp"></a>
 </details>
 
+### Buff Timings
+
 <div id="timingwindow">
 <div id="burstwindowwrap">
 <div id="window" markdown=1>

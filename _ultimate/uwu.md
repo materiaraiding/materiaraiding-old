@@ -132,6 +132,8 @@ D3                                D4
 
 </details>
 
+### Buff Timings
+
 <div id="timingwindow">
 <div id="burstwindowwrap">
 <div id="window" markdown=1>

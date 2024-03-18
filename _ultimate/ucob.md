@@ -19,7 +19,7 @@ This guide is based off the original and very detailed guide by Clees, which can
 
 [Clees Guide](https://clees.me/guides/ucob/){: .btn .btn-purple }
 
-## Credits
+### Credits
 {: .no_toc }
 Written Guide by Em Quackingway (Phases 1, 2 and 3) and Noz Leafhill (Phases 4 and 5)
 
@@ -31,10 +31,8 @@ PoVs by Kur Rumi
 1. TOC
 {:toc}
 
-## Toolboxes
-{: .no_toc }
+### Toolboxes
 
-### Bahamut Toolboxes
 [QMT](https://ff14.toolboxgaming.space/?id=877146678916361&preview=1){: .btn }
 [BFT](https://ff14.toolboxgaming.space/?id=838145884536361&preview=1){: .btn }
 [FRT](https://ff14.toolboxgaming.space/?id=810783368854861&preview=1){: .btn }
@@ -42,15 +40,13 @@ PoVs by Kur Rumi
 [TST](https://ff14.toolboxgaming.space/?id=141245760517361&preview=1){: .btn }
 [GO](https://ff14.toolboxgaming.space/?id=803246524767361&preview=1){: .btn }
 
-## PoVs
-{: .no_toc }
+### PoVs
 
 [DPS](https://www.youtube.com/watch?v=nYFW4YKTk-8){: .btn }
 [Healer](https://www.youtube.com/watch?v=wfVuqFvT0AE){: .btn }
 [Tank](https://www.youtube.com/watch?v=4R_b3AauWGk){: .btn }
 
-## Macros
-{: .no_toc }
+### Macros
 
 <details markdown=1>
 <summary>View All Macros</summary>
@@ -163,6 +159,8 @@ Golden Bahamut Mits
 ```
 
 </details>
+
+### Buff Timings
 
 <div id="timingwindow">
 <div id="burstwindowwrap">

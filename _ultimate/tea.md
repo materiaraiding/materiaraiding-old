@@ -79,6 +79,8 @@ Space = Hold to select numbers
 <a href="https://github.com/materiaraiding/materiaraiding/assets/85346345/4583252e-31eb-43f2-a0c3-d97cf40ca2c0" target="_blank"><img src="https://github.com/materiaraiding/materiaraiding/assets/85346345/4583252e-31eb-43f2-a0c3-d97cf40ca2c0"></a>
 </details>
 
+### Buff Timings
+
 <div id="timingwindow">
 <div id="burstwindowwrap">
 <div id="window" markdown=1>
