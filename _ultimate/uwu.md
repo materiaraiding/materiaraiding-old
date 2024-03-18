@@ -144,6 +144,7 @@ D3                                D4
 - Ifrit opener
 - If you skip ifrit dashes, post gaols, if you do not skip ifrit dashes, start of titan
 - Ultima opener
+- During Annihilation
 - Save final set in primal roulette for potion and 1 minutes during the 2nd primal.
 
 </div>
