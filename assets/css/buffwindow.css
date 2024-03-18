@@ -1,7 +1,7 @@
 #timingwindow {
     display: flex; 
     flex-direction: row; 
-    gap: 0.8em;
+    gap: 10px;
     flex-wrap: wrap;
     align-items: start;
     margin-top: 1.5em;
@@ -10,7 +10,7 @@
 #potwindowwrap {
     border: 0px solid #aaa;
     border-radius: 6px;
-    max-width: 500px;
+    max-width: 463px;
     background: linear-gradient(135deg, #fffdfd, #f77d7d);
     padding: 0.13em;
     flex-grow: 1;
@@ -20,7 +20,7 @@
 #burstwindowwrap {
     border: 0px solid #aaa;
     border-radius: 6px;
-    max-width: 500px;
+    max-width: 463px;
     background: linear-gradient(135deg, #fffdfd, #7dcaf7);
     padding: 0.13em;
     flex-grow: 1;
