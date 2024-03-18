@@ -100,17 +100,48 @@ Potential differences to double check may include:
 - **Tenstrike Trio**: A lineup is not used for this mechanic nowadays; instead spread out into clock spots and adjust.
 - **Grand Octet**: Use anti-KB skills for towers as some parties may not bait Twintania while under tank LB3.
 
+<details markdown=1>
+<summary>NA Differences</summary>
+
+</details>
+<details markdown=1>
+<summary>EU Differences</summary>
+
+</details>
+<details markdown=1>
+<summary>JP Differences</summary>
+
+</details>
+
 ## UWU
 Materia also follows [Clees' Guide](https://ultimates.guide/uwu/) for UWU. Potential differences to double check may include:
 
 - **Titan Jails**: These are resolved using AMs.
 - **Ultimate Suppression**: Most PFs will use Clees' method for this.
 
+<details markdown=1>
+<summary>NA Differences</summary>
+
+</details>
+<details markdown=1>
+<summary>EU Differences</summary>
+
+</details>
+<details markdown=1>
+<summary>JP Differences</summary>
+
+</details>
+
 ## TEA
 Materia DC follows the oldbin TEA strats that are present on the NA DC's, this means that for BJ/CC, we do the split BJ/CC strat. this is very different to the Tollgate strat that is present in JP. Similarly, OCE prefers the 1256 method for Limit Cut rather than 1211 which is prevalent for JP. It is best to review the toolboxes for the initial phases ([Living Liquid](https://ff14.toolboxgaming.space/?id=830419115443951&preview=1), [Limit Cut](https://ff14.toolboxgaming.space/?id=240411819443951&preview=1), [BJ/CC](https://ff14.toolboxgaming.space/?id=340414049443951&preview=1)) and make sure the positions for everything else is the same.
 
+
+[Full TEA OCE Guide](/tea){: .btn }
+
 This can also be compared to the strats covered in [Tessan Twintails video guide](https://www.youtube.com/watch?v=uVtZ8-XoOZ0), with a few key differences below: 
 
+<details markdown=1>
+<summary>NA Differences</summary>
 ### Temporal Stasis
 {: .no_toc }
 During Temporal Stasis mech after Phase 2, some positions are flipped, supports left, and DPS right for long tethers, short tether is on the add to the right and no tether is to the add on the left.
@@ -133,11 +164,23 @@ Standard positions are rotated about 90 degrees and start from east side of the 
 
 For an extended explanation you can see the complete TEA OCE Guide below by Noz Leafhill,
 
-[Full TEA OCE Guide](/tea){: .btn }
+</details>
+<details markdown=1>
+<summary>EU Differences</summary>
+
+</details>
+<details markdown=1>
+<summary>JP Differences</summary>
+
+</details>
 
 ## DSR
 OCE DSR Strats are a variation on NA PF strats.
 
+[Full DSR OCE Guide](/dsr){: .btn }
+
+<details markdown=1>
+<summary>NA Differences</summary>
 Phase 2 onwards, Waymarks are positioned along the walls rather than in the middle.
 
 Phase 3: Materia does Easthogg. Niddstinien is faced north, and we resolve all arrows by facing our character east. [Easthogg Video Guide](https://www.youtube.com/watch?v=j_Hz3I4ENK4)
@@ -150,8 +193,13 @@ In Dragon King Thordan, all 3 akh morn edge stacks are handled with 3-3-2 rather
 
 For an extended explanation you can see the complete DSR OCE Guide below by Juno Dax,
 
-[Full DSR OCE Guide](/dsr){: .btn }
+</details>
+<details markdown=1>
+<summary>EU Differences</summary>
 
+</details>
+<details markdown=1>
+<summary>JP Differences</summary>
 There are a number of differences between OCE and JP for DSR. Please review this list for specific mechanics, using the language in [Tuufless' guide](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/ultimates/dsr/). It is recommended that you are familiar with these differences before you join clear/reclear parties.
 
 - **General**: From Phase 2 onwards, waymarks are positioned along the walls rather than in the middle.
@@ -180,6 +228,9 @@ There are a number of differences between OCE and JP for DSR. Please review this
     - **General**: Mitigations are different from JP; consult the cheat sheet for details.
     - **Enrage**: MT takes towers first instead of ST.
 
+</details>
+
+
 ![OCE DSR Cheat Sheet](https://cdn.discordapp.com/attachments/954964022711685201/1118795044636327986/DSR_Materia_Strats_Cheat_Sheet.png?ex=66051394&is=65f29e94&hm=d7f95a3b3f8a05a3882b29873dec779527989127d9298bd82691a4815cd17cac&)
 
 ## TOP
@@ -187,9 +238,20 @@ TOP strats are similar (but not identical!) to NA, which are *substantially* dif
 
 [TOP OCE Guide](/top){: .btn }
 
+<details markdown=1>
+<summary>NA Differences</summary>
+
 For NA players, both DPS and supports move during P6 WC2 instead of DPS not moving. DPS dodge CW, supports CCW.
 <img src="https://cdn.discordapp.com/attachments/944115415385247786/1218377344733941840/image.png?ex=66077153&is=65f4fc53&hm=9b386a669f5d40d90f86325b22a0765821c17a2361bd44725e9f629a7cead679" alt="Cosmo Arrow 2 Spread Positions" style="height: 400px">
 
+
+</details>
+<details markdown=1>
+<summary>EU Differences</summary>
+
+</details>
+<details markdown=1>
+<summary>JP Differences</summary>
 For JP players, please review this list of differences, using the language in [Tuufless' guide](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/ultimates/top/). It is recommended you do **not** join clear/reclear parties before adapting to these differences.
 
 - **General**: OCE will use the [TOP Mitty sheet](https://docs.google.com/spreadsheets/d/1PmSX_yO5GSykt3_Lkh3-LPAOeI2UosCIMLVxmwWEedE/edit#gid=0) for mitigations, heals and tankbusters.
@@ -234,5 +296,6 @@ For JP players, please review this list of differences, using the language in [T
     - **Wave Cannon** is resolved south.
     - **Cosmo Arrow 2**: initial spread positions are different; consult the cheat sheet below. **Both DPS and supports move for exasquares**: DPS CW, supports CCW (see the diagram at the start of the section). Do not move all the way to the cardinal waymark.
     - **Cosmo Meteor**: H1 will move to the centre by default.
+</details>
 
 ![OCE TOP Cheat Sheet](https://cdn.discordapp.com/attachments/1102126227264905257/1149619773655752734/OCE_TOP_Cheat_Sheet_Alt.png?ex=66067958&is=65f40458&hm=c6ec20ec1cb1515ed9ee3435f8bdbcbef11bb4f3e5bd39edacb79436e4cd623d&)
