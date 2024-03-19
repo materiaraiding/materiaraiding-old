@@ -2,7 +2,7 @@
 layout: minimal
 title: DSR Mit Plan
 nav_exclude: true
-parent: dsr
+parent: DSR
 permalink: /dsr/mitplan
 ---
 
