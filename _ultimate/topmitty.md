@@ -39,3 +39,31 @@ Also, for Double Solay Ray: [How to Invuln Double Solar Ray](https://clips.twitc
 |3rd Patch Set |         |         |Fey/Seraph       |EukProg+Kerachole    |Bell      |Macrocosmos          |       |Feint  |Party Mit |      |Dismantle|
 |4th Patch Set |Reprisal |Party Mit|Succor           |Holos                |          |Star                 |       |       |          |      |Barrier  |
 |Critical Error|         |Reprisal |Soil             |Kerachole            |          |CU                   |Feint  |       |          |Addle |         |
+
+## P4: Blue Screen 
+
+|              |Tank 1   |Tank 2   |Scholar          |Sage                 |White Mage|Astro                |Melee 1|Melee 2|Phys Range|Caster|Extras   |
+|--------------|---------|---------|-----------------|---------------------|----------|---------------------|-------|-------|----------|------|---------|
+|Protean 1     |Reprisal |         |Spread-Lo        |Zoe+Euk Prog         |          |                     |       |       |          |      |         |
+|Stack 1       |         |         |Seraph/Soil      |Kerachole            |          |                     |       |       |          |      |         |
+|Protean 2     |Party Mit|         |Expedience       |                     |Temperance|Neutral Sect         |       |       |          |      |         |
+|Stack 2       |         |Party Mit|Seraph           |Panhaima             |          |                     |       |       |          |      |         |
+|Protean 3     |         |Reprisal |                 |                     |          |                     |       |       |          |      |         |
+|Stack 3       |         |         |                 |                     |          |                     |       |       |          |      |         |
+|Blue Screen   |         |         |Succor+Soil      |Euk Prog+Kera        |          |CU                   |Feint  |       |          |      |         |
+
+## P5: Dynamis
+
+|FIELD1        |Tank 1   |Tank 2   |Scholar          |Sage                 |White Mage|Astro                |Melee 1|Melee 2|Phys Range|Caster|Extras   |
+|--------------|---------|---------|-----------------|---------------------|----------|---------------------|-------|-------|----------|------|---------|
+|Delta Cast    |Reprisal |         |Spread-Lo+Soil   |Zoe EukProg+Kerachole+Holos|          |                     |       |Feint  |Party Mit |Addle |Dismantle+Barrier|
+|Delta Mech    |         |         |Fey + Whispering Dawn|                     |Bell      |Macrocosmos/Star     |       |       |          |      |         |
+|Sigma Cast    |Reprisal+Party Mit|Party Mit|Seraph+Soil      |Zoe EukProg+Kerachole+Panhaima|Temperance|Neutral Sect+CU      |Feint  |       |Party Mit |      |         |
+|Sigma Mech    |         |         |Expedience       |                     |          |Neutral Sect         |       |       |          |      |         |
+|Omega Cast    |Reprisal+Party Mit|Party Mit|Spread-Lo+Soil+Fey|Zoe EukProg+Holos+Kerachole|          |CU                   |       |Feint  |Party Mit |Addle |Dismantle+Barrier|
+|Omega Mech    |         |         |Seraph           |Panhaima             |Bell      |                     |       |       |          |      |         |
+|Blind Faith   |         |         |Soil+Succor      |Kerachole            |          |CU                   |       |       |Party Mit |      |         |
+
+{: .note }
+> - 15s party mit should be pressed after the second hit of the tank buster
+> - 10s party mit should be pressed at the start of the raidwide cast										
