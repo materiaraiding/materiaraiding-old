@@ -27,7 +27,7 @@ PF Strats
 ```
 
 ### Notes
-For Sparking/Branding, the following is a helpful way to remember what the follow up mechanic is (after resolving towers):
+For Sparking/Branding, the following is a helpful way to remember what the follow up mechanic is (after resolving towers):\
 `[S]`parking -> `[S]`pread\
 `[B]`randing -> `[B]`uddies
 
