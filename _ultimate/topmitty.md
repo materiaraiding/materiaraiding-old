@@ -67,3 +67,25 @@ Also, for Double Solay Ray: [How to Invuln Double Solar Ray](https://clips.twitc
 {: .note }
 > - 15s party mit should be pressed after the second hit of the tank buster
 > - 10s party mit should be pressed at the start of the raidwide cast										
+
+## P6: Alpha Omega
+
+|              |Tank 1   |Tank 2   |Scholar          |Sage                 |White Mage|Astro                |Melee 1|Melee 2|Phys Range|Caster|Extras   |
+|--------------|---------|---------|-----------------|---------------------|----------|---------------------|-------|-------|----------|------|---------|
+|Cosmo Memory  |Tank LB  |Reprisal |Soil+Succor      |EukProg+Kerachole    |          |CU                   |       |Feint  |          |      |         |
+|Cosmo Dive 1  |Reprisal+Party Mit|         |Seraph+Expedience+Fey|EukProg+Panhaima+Kerachole|Temperance|Neutral Sect         |Feint  |       |          |Addle |         |
+|Protean 1     |         |         |Soil+Succor      |EukProg+Kerachole    |          |Neutral Sect (Press Late)|       |       |Party Mit |      |         |
+|Wave Cannon 1 |         |Reprisal+Party Mit|Soil+Succor      |ZoeEukProg+Kerachole |          |CU                   |       |       |Party Mit |      |         |
+|Protean 2     |         |         |Spread-Lo        |EukProg+Holos        |          |                     |       |       |          |      |         |
+|Wave Cannon 2 |Reprisal+Party Mit|         |Succor+Soil      |EukProg+Kerachole    |          |Macrocosmos          |       |Feint  |          |      |Dismantle/Barrier|
+|Cosmo Dive 2  |         |Reprisal |Soil +Succor     |EukProg+Kerachole    |          |CU                   |Feint  |       |          |Addle |         |
+|Cosmo Meteor  |Reprisal |Party Mit|Seraph+Expedience+Fey|ZoeEukProg+Panhaima  |Temperance+Bell|Neutral Sect         |       |       |Party Mit |      |         |
+|Flares        |         |         |Spread-Lo+Soil   |EukProg+Kerachole    |          |Neutral Sect         |       |       |          |      |         |
+|Magic Number  |Tank LB  |         |Healer LB        |Healer LB            |          |                     |       |       |          |      |         |
+|Magic Number  |         |Tank LB  |                 |                     |Healer LB |Healer LB            |       |Feint  |          |      |         |
+
+{: .note }
+> GNB/DRK Party Comp ONLY: Tank 1 uses Party Mit on Cosmo Memory instead of Cosmo Dive 1. (This is to ensure Party Mit comes back off CD for Wave Cannon 2)
+
+TANK PRIORITY FOR FIRST LB					
+- WAR > DRK > PLD >>>>>>> GNB
