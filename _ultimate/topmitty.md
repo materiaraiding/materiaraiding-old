@@ -1,13 +1,27 @@
 ---
 layout: minimal
-title: DSR Mit Plan
+title: TOP Mitigation Plan
 nav_exclude: true
-parent: DSR
-permalink: /dsr/mitplan
+parent: TOP
+permalink: /top/mitplan
 ---
 
-## Mit Plan
+# Mitigation Plan
 
+## P1: Beetle Omega
+
+## P2: M/F
+
+|              |Tank 1   |Tank 2   |Scholar          |Sage                 |White Mage|Astro                |Melee 1|Melee 2|Phys Range|Caster|Extras   |
+|--------------|---------|---------|-----------------|---------------------|----------|---------------------|-------|-------|----------|------|---------|
+|611           |Party Mit|Party Mit|Everything       |Everything           |Everything|Everything           |       |       |Party Mit |      |Barrier  |
+
+{: .note }
+After Playstation: Feint / Addle are free to use to help with tank autos (it does not work on flares or cosmo memory)
+
+Also, for Double Solay Ray: [How to Invuln Double Solar Ray](https://clips.twitch.tv/ConcernedPatientSkirretHoneyBadger-TDCiJVbgCzsvt7vZ)
+
+## Final Ome
 
 |              |Tank 1   |Tank 2   |Scholar          |Sage                 |White Mage|Astro                |Melee 1|Melee 2|Phys Range|Caster|Extras   |
 |--------------|---------|---------|-----------------|---------------------|----------|---------------------|-------|-------|----------|------|---------|
