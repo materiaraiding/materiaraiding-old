@@ -29,7 +29,7 @@ After Playstation: Feint / Addle are free to use to help with tank autos (it doe
 
 Also, for Double Solay Ray: [How to Invuln Double Solar Ray](https://clips.twitch.tv/ConcernedPatientSkirretHoneyBadger-TDCiJVbgCzsvt7vZ)
 
-## P3: Final Omege
+## P3: Final Omega
 
 |              |Tank 1   |Tank 2   |Scholar          |Sage                 |White Mage|Astro                |Melee 1|Melee 2|Phys Range|Caster|Extras   |
 |--------------|---------|---------|-----------------|---------------------|----------|---------------------|-------|-------|----------|------|---------|
