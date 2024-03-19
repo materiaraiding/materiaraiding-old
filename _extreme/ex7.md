@@ -36,8 +36,9 @@ All markers mark safe spots during Visceral Whirl.
 
 The `1` and `2` markers are also used by the marked player when dropping Black Hole
 
-`![](./assets/images/markers/ew_ex7.png) -- Image of markers`
+`![Preview of how Waymarks appear in-game](./assets/images/markers/ew_ex7.png) -- Image of markers`
 
+![Preview of how Waymarks appear in-game](./assets/images/markers/ph_ew_ex7.jpg)
 ```
 {
   "Name":"Zeromus EX",
