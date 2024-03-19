@@ -10,6 +10,14 @@ permalink: /top/mitplan
 
 ## P1: Beetle Omega
 
+|              |Tank 1   |Tank 2   |Scholar          |Sage                 |White Mage|Astro                |Melee 1|Melee 2|Phys Range|Caster|Extras   |
+|--------------|---------|---------|-----------------|---------------------|----------|---------------------|-------|-------|----------|------|---------|
+|Pantrokrator  |Party Mit|Party Mit|Everything       |Everything           |Everything|Everything           |       |       |Party Mit |      |Barrier  |
+|Stack 1       |Reprisal |         |                 |                     |          |                     |Feint  |       |          |      |         |
+|Stack 2       |         |         |Seraph           |                     |          |                     |       |       |          |      |         |
+|Stack 3       |         |Reprisal |Seraph           |                     |          |                     |       |Feint  |          |Addle |Dismantle|
+|Stack 4       |         |         |                 |                     |          |                     |       |       |          |      |         |
+
 ## P2: M/F
 
 |              |Tank 1   |Tank 2   |Scholar          |Sage                 |White Mage|Astro                |Melee 1|Melee 2|Phys Range|Caster|Extras   |
@@ -21,7 +29,7 @@ After Playstation: Feint / Addle are free to use to help with tank autos (it doe
 
 Also, for Double Solay Ray: [How to Invuln Double Solar Ray](https://clips.twitch.tv/ConcernedPatientSkirretHoneyBadger-TDCiJVbgCzsvt7vZ)
 
-## Final Ome
+## P3: Final Omege
 
 |              |Tank 1   |Tank 2   |Scholar          |Sage                 |White Mage|Astro                |Melee 1|Melee 2|Phys Range|Caster|Extras   |
 |--------------|---------|---------|-----------------|---------------------|----------|---------------------|-------|-------|----------|------|---------|
