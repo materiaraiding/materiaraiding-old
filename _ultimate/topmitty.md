@@ -54,7 +54,7 @@ Also, for Double Solay Ray: [How to Invuln Double Solar Ray](https://clips.twitc
 
 ## P5: Dynamis
 
-|FIELD1        |Tank 1   |Tank 2   |Scholar          |Sage                 |White Mage|Astro                |Melee 1|Melee 2|Phys Range|Caster|Extras   |
+|              |Tank 1   |Tank 2   |Scholar          |Sage                 |White Mage|Astro                |Melee 1|Melee 2|Phys Range|Caster|Extras   |
 |--------------|---------|---------|-----------------|---------------------|----------|---------------------|-------|-------|----------|------|---------|
 |Delta Cast    |Reprisal |         |Spread-Lo+Soil   |Zoe EukProg+Kerachole+Holos|          |                     |       |Feint  |Party Mit |Addle |Dismantle+Barrier|
 |Delta Mech    |         |         |Fey + Whispering Dawn|                     |Bell      |Macrocosmos/Star     |       |       |          |      |         |
