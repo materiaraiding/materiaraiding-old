@@ -1,7 +1,8 @@
 ---
 layout: minimal
-title: Test
+title: DSR Mit Plan
 nav_exclude: true
+parent: dsr
 ---
 
 ## Mit Plan
