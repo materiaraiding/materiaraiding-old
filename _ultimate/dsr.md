@@ -395,7 +395,7 @@ The order that the numbers will soak the towers is as follows:
 * East and West 1s soak 2s
 * 2s and South 1 soak 3s
 
-In addition to this mechanic, while the first and third set of towers are preparing to be placed Nidhogg will begin to cast either **Lash and Gnash** (in then out) or **Gnash and Lash** (out then in). On the cast finish, Nidhogg will cast a party stack on one of the players not currently placing a tower, as well as performing either Lash or Gnash (whichever was first on the castbar), followed by the opposite.
+In addition to this mechanic, while the first and third set of towers are preparing to be placed Nidhogg will begin to cast either **Lash and Gnash** (in then out) or **Gnash and Lash** (out then in). On the cast finish, Nidhogg will cast a party stack on one of the players not currently placing or soaking a tower, as well as performing either Lash or Gnash (whichever was first on the castbar), followed by the opposite.
 
 The sets of towers will be dropped when the cast is finished, and the towers will resolve just before the 2nd Lash/Gnash.
 
