@@ -180,6 +180,8 @@ SGE/WHM:
 
 Guide written by Juno
 
+As a starter, a lot of the mechanics in this fight will cause **Damage Down** if solved incorrectly. This debuff reduces your damage by about 50% and it is common practice to wall **IF IT IS SAFE TO DO SO**, as the damage loss from resurrection weakness is less than damage down.
+
 ## Phase 1: Knights
 
 This phase begins with two targetable bosses: Adelphel and Grinnaux.
@@ -404,10 +406,19 @@ The sets of towers will be dropped when the cast is finished, and the towers wil
 {: .note}
 > The snapshot timing for this attack is on the cast finish, so you're safe to walk through the boss before the animation goes off.
 
+While it is possible to live getting hit by Lash/Gnash, it will knock the player back away from Nidhogg and apply a **damage down** debuff. At the time of writing the P3 damage check isn't incredibly tight, but with only a few damage downs it may be impossible to beat the damage check.
+
 ### **Enumeration Towers**
 
-Immediately after this mechanic, the tank will take a few more auto-attacks before 4 towers will spawn on each intercardinal around Nidhogg. As seen in the cheatsheet, all players will stack with their partner to begin with. In all but 1 pattern, each Tower will need a different number of people in them, the amount of which can be determined by the number of pillars in the tower. As all the ranged players anchor in their spot, if the melee player sees that only 1 person is required in the tower they start on, they will flex to another tower using the priority **clockwise, then counter-clockwise, and lastly across the arena.**
+Immediately after this mechanic, the tank will take a few more auto-attacks before casting Drachenlance on a random player, which is a short conal AOE that will deal lethal damage to anyone hit.
 
+4 towers will then spawn on each intercardinal around Nidhogg. As seen in the cheatsheet, all players will stack with their partner to begin with. In all but 1 pattern, each Tower will need a different number of people in them, the amount of which can be determined by the number of pillars in the tower. As all the ranged players anchor in their spot, if the melee player sees that only 1 person is required in the tower they start on, they will flex to another tower using the priority **clockwise, then counter-clockwise, and lastly across the arena.** 
+
+These towers will drop clones similar to the ones in dive from grace, however one of the clones will have a tank buster tether. The main Nidhogg in the middle will _also_ have a tether and both tanks will take a tether each and invuln the buster in the center of the arena.
+
+The Main tank will then face Nidhogg south and continue to take auto-attacks. After one more **south-facing** drachenlance, Nidhogg will cast his enrage: **Revenge of the Horde**
+
+## **Phase 4: Eyes**
 
 
 
