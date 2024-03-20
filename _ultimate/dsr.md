@@ -249,7 +249,7 @@ Charibert will then cleave the two players closest to him, applying a 5s debuff 
 
 Once Charibert is reduced to approximately ~25-30% health, the DPS check is reached and as long as one player survives the transition the party will receive a checkpoint.
 
-## Phase 2: Thordan
+## **Phase 2: Thordan**
 
 Phase 2 will begin with the MT facing Thordan north for 2 auto-attacks before he will begin casting **Ascalon's Mercy**, a baited protean on every member of the party.
 The party will stack up behind Thordan before dodging to the side to avoid the cleave. 
@@ -264,7 +264,7 @@ Thordan will then slash 3 times at the Main Tank with a tank buster **Ascalon's 
 
 After moving to the center, Thordan will cast the first trio of the fight:
 
-### Strength of the Ward
+### **Strength of the Ward**
 {: .no_toc }
 
 Thordan will become untargetable and jump from the arena, and both Light parties will split East/West. 
@@ -348,14 +348,14 @@ After these towers are resolved, Thordan will drop down at true north and begin 
 
 Thordan will then cast his enrage: **Atheric Burst**.
 
-## Phase 3: Nidhogg
+## **Phase 3: Nidhogg**
 
 {: .everyone }
 > This phase begins with a HEAVY raidwide attack and should be mitigated appropriately
 
 Nidhogg will drop down and begin auto-attacking the main tank, before casting:
 
-### Dive from Grace
+### **Dive from Grace**
 {: .no_toc }
 
 {: .note }
@@ -395,13 +395,18 @@ The order that the numbers will soak the towers is as follows:
 * East and West 1s soak 2s
 * 2s and South 1 soak 3s
 
-In addition to this mechanic, while the first and third set of towers are preparing to be placed Nidhogg will begin to cast either **Lash and Gnash** (in then out) or **Gnash and Lash** (out then in). On the cast finish, Nidhogg will cast a party stack on one of the players not currently placing or soaking a tower, as well as performing either Lash or Gnash (whichever was first on the castbar), followed by the opposite.
+Upon soaking a tower, a Nidhogg clone will drop down and aim a line AOE at that closest player. Simply bait this out of the arena, and **when Nidhogg glows**, step through Nidhogg to avoid being hit.
+
+In addition to all these mechanics, while the first and third set of towers are preparing to be placed, Nidhogg will begin to cast either **Lash and Gnash** (in then out) or **Gnash and Lash** (out then in). On the cast finish, Nidhogg will cast a party stack on one of the players not currently placing or soaking a tower, as well as performing either Lash or Gnash (whichever was first on the castbar), followed by the opposite.
 
 The sets of towers will be dropped when the cast is finished, and the towers will resolve just before the 2nd Lash/Gnash.
 
 {: .note}
 > The snapshot timing for this attack is on the cast finish, so you're safe to walk through the boss before the animation goes off.
 
+### **Enumeration Towers**
+
+Immediately after this mechanic, the tank will take a few more auto-attacks before 4 towers will spawn on each intercardinal around Nidhogg. As seen in the cheatsheet, all players will stack with their partner to begin with. In all but 1 pattern, each Tower will need a different number of people in them, the amount of which can be determined by the number of pillars in the tower. As all the ranged players anchor in their spot, if the melee player sees that only 1 person is required in the tower they start on, they will flex to another tower using the priority **clockwise, then counter-clockwise, and lastly across the arena.**
 
 
 
