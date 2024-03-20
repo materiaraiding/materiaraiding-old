@@ -319,7 +319,7 @@ The knight at the edge of the arena will then target 2 people for distance-based
 
 Each stack will move 4 notches in the same direction as the knights (CW/CCW). This will leave the party in the 1st of 2 safespots as part of the dashes. After the cleaves go off around them the party will move to 4 notches _before_ the next waymark for the next safe spot.
 
-Just before these stacks and cleaves go off, Thordan and a large red eye that appeared around the arena will perform a gaze attack.
+Just before these stacks and cleaves go off, Thordan and a large red eye that appeared around the arena will perform a gaze attack that must be avoided.
 
 (Diagram for safespots :3)
 
@@ -368,6 +368,8 @@ As the cast begins, a bunch of numbers will apply to the party:
 
 Players will preposition in the following locations to indicate their starting position depending on their number.
 
+![](https://github.com/RancidDax/materiaraiding/assets/104756079/babf8707-75cb-4b42-8c58-70d07df7da93)
+
 After the cast is finished (~5 seconds later), a second set of debuffs get applied to each player:
 * Dark High Jump (Circle)
 * Dark Elusive Jump (Down Arrow)
@@ -393,6 +395,12 @@ The order that the numbers will soak the towers is as follows:
 * East and West 1s soak 2s
 * 2s and South 1 soak 3s
 
+In addition to this mechanic, while the first and third set of towers are preparing to be placed Nidhogg will begin to cast either **Lash and Gnash** (in then out) or **Gnash and Lash** (out then in). On the cast finish, Nidhogg will cast a party stack on one of the players not currently placing a tower, as well as performing either Lash or Gnash (whichever was first on the castbar), followed by the opposite.
+
+The sets of towers will be dropped when the cast is finished, and the towers will resolve just before the 2nd Lash/Gnash.
+
+{: .note}
+> The snapshot timing for this attack is on the cast finish, so you're safe to walk through the boss before the animation goes off.
 
 
 
