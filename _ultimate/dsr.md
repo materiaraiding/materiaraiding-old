@@ -180,6 +180,8 @@ SGE/WHM:
 
 Guide written by Juno
 
+As a starter, a lot of the mechanics in this fight will cause **Damage Down** if solved incorrectly. This debuff reduces your damage by about 50% and it is common practice to wall **IF IT IS SAFE TO DO SO**, as the damage loss from resurrection weakness is less than damage down.
+
 ## Phase 1: Knights
 
 This phase begins with two targetable bosses: Adelphel and Grinnaux.
@@ -249,7 +251,7 @@ Charibert will then cleave the two players closest to him, applying a 5s debuff 
 
 Once Charibert is reduced to approximately ~25-30% health, the DPS check is reached and as long as one player survives the transition the party will receive a checkpoint.
 
-## Phase 2: Thordan
+## **Phase 2: Thordan**
 
 Phase 2 will begin with the MT facing Thordan north for 2 auto-attacks before he will begin casting **Ascalon's Mercy**, a baited protean on every member of the party.
 The party will stack up behind Thordan before dodging to the side to avoid the cleave. 
@@ -264,7 +266,7 @@ Thordan will then slash 3 times at the Main Tank with a tank buster **Ascalon's 
 
 After moving to the center, Thordan will cast the first trio of the fight:
 
-### Strength of the Ward
+### **Strength of the Ward**
 {: .no_toc }
 
 Thordan will become untargetable and jump from the arena, and both Light parties will split East/West. 
@@ -319,7 +321,7 @@ The knight at the edge of the arena will then target 2 people for distance-based
 
 Each stack will move 4 notches in the same direction as the knights (CW/CCW). This will leave the party in the 1st of 2 safespots as part of the dashes. After the cleaves go off around them the party will move to 4 notches _before_ the next waymark for the next safe spot.
 
-Just before these stacks and cleaves go off, Thordan and a large red eye that appeared around the arena will perform a gaze attack.
+Just before these stacks and cleaves go off, Thordan and a large red eye that appeared around the arena will perform a gaze attack that must be avoided.
 
 (Diagram for safespots :3)
 
@@ -348,14 +350,14 @@ After these towers are resolved, Thordan will drop down at true north and begin 
 
 Thordan will then cast his enrage: **Atheric Burst**.
 
-## Phase 3: Nidhogg
+## **Phase 3: Nidhogg**
 
 {: .everyone }
 > This phase begins with a HEAVY raidwide attack and should be mitigated appropriately
 
 Nidhogg will drop down and begin auto-attacking the main tank, before casting:
 
-### Dive from Grace
+### **Dive from Grace**
 {: .no_toc }
 
 {: .note }
@@ -367,6 +369,8 @@ As the cast begins, a bunch of numbers will apply to the party:
 * "3" x3 "
 
 Players will preposition in the following locations to indicate their starting position depending on their number.
+
+![](https://github.com/RancidDax/materiaraiding/assets/104756079/babf8707-75cb-4b42-8c58-70d07df7da93)
 
 After the cast is finished (~5 seconds later), a second set of debuffs get applied to each player:
 * Dark High Jump (Circle)
@@ -393,8 +397,28 @@ The order that the numbers will soak the towers is as follows:
 * East and West 1s soak 2s
 * 2s and South 1 soak 3s
 
+Upon soaking a tower, a Nidhogg clone will drop down and aim a line AOE at that closest player. Simply bait this out of the arena, and **when Nidhogg glows**, step through Nidhogg to avoid being hit.
 
+In addition to all these mechanics, while the first and third set of towers are preparing to be placed, Nidhogg will begin to cast either **Lash and Gnash** (in then out) or **Gnash and Lash** (out then in). On the cast finish, Nidhogg will cast a party stack on one of the players not currently placing or soaking a tower, as well as performing either Lash or Gnash (whichever was first on the castbar), followed by the opposite.
 
+The sets of towers will be dropped when the cast is finished, and the towers will resolve just before the 2nd Lash/Gnash.
+
+{: .note}
+> The snapshot timing for this attack is on the cast finish, so you're safe to walk through the boss before the animation goes off.
+
+While it is possible to live getting hit by Lash/Gnash, it will knock the player back away from Nidhogg and apply a **damage down** debuff. At the time of writing the P3 damage check isn't incredibly tight, but with only a few damage downs it may be impossible to beat the damage check.
+
+### **Enumeration Towers**
+
+Immediately after this mechanic, the tank will take a few more auto-attacks before casting Drachenlance on a random player, which is a short conal AOE that will deal lethal damage to anyone hit.
+
+4 towers will then spawn on each intercardinal around Nidhogg. As seen in the cheatsheet, all players will stack with their partner to begin with. In all but 1 pattern, each Tower will need a different number of people in them, the amount of which can be determined by the number of pillars in the tower. As all the ranged players anchor in their spot, if the melee player sees that only 1 person is required in the tower they start on, they will flex to another tower using the priority **clockwise, then counter-clockwise, and lastly across the arena.** 
+
+These towers will drop clones similar to the ones in dive from grace, however one of the clones will have a tank buster tether. The main Nidhogg in the middle will _also_ have a tether and both tanks will take a tether each and invuln the buster in the center of the arena.
+
+The Main tank will then face Nidhogg south and continue to take auto-attacks. After one more **south-facing** drachenlance, Nidhogg will cast his enrage: **Revenge of the Horde**
+
+## **Phase 4: Eyes**
 
 
 
