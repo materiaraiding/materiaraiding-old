@@ -203,7 +203,7 @@ These 4 players must spread to the north of Grinnaux at max melee, where they wi
 
 At the same time as the prey markers move north, the remaining party members will stack south of Grinnaux and take a large conal AOE stack that gets baited on a random non-prey player.
 
-![](https://github.com/materiaraiding/materiaraiding/assets/104756079/dffcadb9-58f8-4526-95ed-f950a5434b09)
+<img src= "https://github.com/materiaraiding/materiaraiding/assets/104756079/dffcadb9-58f8-4526-95ed-f950a5434b09" style="width: 40em" class="center">
 
 _Image taken from Tessan Twintails DSR video guide_
 
@@ -228,8 +228,7 @@ Each player will be marked with either a cross, square, circle, or triangle, so 
 
 The party will form around Grinnaux in the pattern seen below, and be knocked back by another **Faith Unmoving** to break their tethers. If unbroken, the resulting AOE will kill any players who have not resolved their tethers.
 
-![](https://github.com/materiaraiding/materiaraiding/assets/104756079/ada530eb-b49d-4266-92cc-abe22b95df1c)
-
+<img src="https://github.com/materiaraiding/materiaraiding/assets/104756079/ada530eb-b49d-4266-92cc-abe22b95df1c" style="width: 40em" class="center">
 
 {: .warning }
 > A warning to warrior players; Inner release is perfectly timed in this phase to be up as this mechanic is resolving. This means that you'll be immune to knockback and therefore unable to resolve your tether. You can either prepull inner release earlier in the fight, or simply click the **Inner Strength** buff off during this mechanic.
@@ -275,7 +274,7 @@ Thordan will become untargetable and jump from the arena, and both Light parties
 
 The way that the waymarkers are set up means that **Light Party 1** will always be on a **number** waymark, and **Light Party 2** will always be on a **letter** waymark. Two waymarks on opposite sides of the arena will also be the same colour, allowing us to simply call out a single colour to determine both safe spots. 
 
-![](https://github.com/materiaraiding/materiaraiding/assets/104756079/5b0b7ee8-5211-4406-a75a-f00c5b58e486)
+<img src= "https://github.com/materiaraiding/materiaraiding/assets/104756079/5b0b7ee8-5211-4406-a75a-f00c5b58e486" style="width: 40em" class="center">
 
 > In the image above we can see the purple, yellow, and blue waymarks have knights on them. Thus we can simply call out "Red" and both parties will know where they have to go.
 
@@ -294,7 +293,7 @@ Thordan will then jump again and land on a random cardinal or intercardinal, as 
 
 Everyone who was not marked with Skyward Leap should quickly find Thordan and make their way to him. The Tanks will take their respective tether (MT left knight facing Thordan, ST right knight facing Thordan) and criss-cross them into the safe spot under Thordan to stretch them further for reduced damage. 
 
-![](https://github.com/materiaraiding/materiaraiding/assets/104756079/9ff95bb1-a663-4834-991b-bef741b5e0cf)
+<img src= "https://github.com/materiaraiding/materiaraiding/assets/104756079/9ff95bb1-a663-4834-991b-bef741b5e0cf" style="width: 40em" class="center">
 
 {: .warning}
 > The relative West and East Skyward Leap players should stand on the **edge of the waymark** as seen in the image. If you stand in the middle of your waymark you are likely to kill one of the Tanks next to Thordan.
@@ -370,7 +369,7 @@ As the cast begins, a bunch of numbers will apply to the party:
 
 Players will preposition in the following locations to indicate their starting position depending on their number.
 
-![](https://github.com/RancidDax/materiaraiding/assets/104756079/babf8707-75cb-4b42-8c58-70d07df7da93)
+<img src= "https://github.com/RancidDax/materiaraiding/assets/104756079/babf8707-75cb-4b42-8c58-70d07df7da93" style="width: 40em" class="center">
 
 After the cast is finished (~5 seconds later), a second set of debuffs get applied to each player:
 * Dark High Jump (Circle)
