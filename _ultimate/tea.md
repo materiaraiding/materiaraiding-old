@@ -44,13 +44,13 @@ TEA has multiple Toolboxes, each are listed here in order of phases in the fight
 
 ### PoVs
 
-[Melee DPS (D1)](https://www.youtube.com/watch?v=yjouUV6fJTA){: .btn }
-[Ranged DPS (D3)](https://www.youtube.com/watch?v=XU-o3pm1jiU){: .btn }
-[Caster (D2)](https://www.youtube.com/watch?v=q3PjYcGj-6s){: .btn }
-[Healer (H1)](https://www.youtube.com/watch?v=NHN9zWZbcEc){: .btn }
-[Healer_(H2)](https://www.youtube.com/watch?v=DhiVA9VJLmg){: .btn }
-[Tank (MT)](https://www.youtube.com/watch?v=YoLOIQ_fumI){: .btn }
-[Tank (OT)](https://www.youtube.com/watch?v=eNf0gVqOPUk){: .btn }
+[NIN (D1)](https://www.youtube.com/watch?v=yjouUV6fJTA){: .btn }
+[MCH (D3)](https://www.youtube.com/watch?v=XU-o3pm1jiU){: .btn }
+[BLM (D2 - fake melee)](https://www.youtube.com/watch?v=q3PjYcGj-6s){: .btn }
+[AST (H1)](https://www.youtube.com/watch?v=NHN9zWZbcEc){: .btn }
+[SGE (H2)](https://www.youtube.com/watch?v=DhiVA9VJLmg){: .btn }
+[WAR (MT)](https://www.youtube.com/watch?v=YoLOIQ_fumI){: .btn }
+[DRK (OT)](https://www.youtube.com/watch?v=eNf0gVqOPUk){: .btn }
 
 ### Simulator
 Wormhole Simulator (KR Sim) covers multiple strats but only the Wormhole simulator is accurate to OCE strats. Download and run the simulator to practice wormhole mechanic solo. Simulator is in Korean so use the following keybinds to navigate.
@@ -89,13 +89,13 @@ Space = Hold to select numbers
 <img src="{{ site.baseurl }}/assets/images/icons/phys.png" alt="dmgup" style="height: 40px; float: right">
 </div>
 
-1. Living liquid opener.
+1. Living Liquid opener.
 2. BJCC opener.
 3. BJCC end during BPOG line.
-4. Post inception.
+4. Post Inception.
 5. ASAP during J Waves.
-6. Perfect Alex opener.
-7. Next set on CD after fate calibration alpha.
+6. Perfect Alexander opener.
+7. Next set on CD after Fate Calibration Alpha.
 8. Save final set for potion nearing the end of trines..
 
 </div>
@@ -108,8 +108,8 @@ Space = Hold to select numbers
 </div>
 
 1. Living Liquid opener.
-2. End of BJCC during BPOG lineup/start of alex prime.
-3. Perfect Alex reopener.
+2. End of BJCC during BPOG lineup/start of Alexander Prime.
+3. Perfect Alexander reopener.
 4. On CD with 2 minute that you held for the potion cooldown.
 
 </div>
