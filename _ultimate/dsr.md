@@ -420,6 +420,5 @@ The Main tank will then face Nidhogg south and continue to take auto-attacks. Af
 ## **Phase 4: Eyes**
 
 
-
-
-
+{: .warning}
+Guide is not yet completed, apologies. Please refer to the Toolboxes for the remaining phases.
