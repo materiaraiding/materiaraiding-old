@@ -615,10 +615,13 @@ Phase starts with a series of {% glossary Weight of the Land %}. Party stacks to
 
 Party Dodges back to the left for {% glossary Weight of the Land %}, The dps with Thermal Low will take the tether South.
 
-<Explain orb soaks>
+{: .warning}
+Guide is not yet completed, apologies. Please refer to the Toolboxes for the remaining phases.
 
 ## Phase 5.3: Suppression
 Coming Soon
 
 ## Phase 5.4: Roulette
 Coming Soon
+
+
