@@ -72,11 +72,11 @@ You will often see macros shared in party chat when you get into your Party Find
 ## Savage
 Current Savage Tier raid resources are compiled on our Savage page, which you can find at the button below. This includes our Macros, Images and Toolboxes made for OCE specific strategies. 
 
-[P9S](/P9S){: .btn }
-[P10S](/P10S){: .btn }
-[P11S](/P11S){: .btn }
-[P12S-P1](/P12S-P1){: .btn }
-[P12S-P2](/P12S-P2){: .btn }
+[P9S](/p9s){: .btn }
+[P10S](/p10s){: .btn }
+[P11S](/p11s){: .btn }
+[P12S-P1](/p12s-1){: .btn }
+[P12S-P2](/p12s-2){: .btn }
 
 ## UCOB
 
