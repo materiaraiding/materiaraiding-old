@@ -1,3 +1,9 @@
+---
+title: About
+layout: about
+nav_order: 2
+---
+
 # Materia Raiding
 
 Materia Raiding is a community driven project to collate the various guides and tools created for raiding in the FF14 Materia Datacenter.
