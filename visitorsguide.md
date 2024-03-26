@@ -261,8 +261,7 @@ There are a number of differences between OCE and JP for DSR. Please review this
 
 </details>
 
-
-![OCE DSR Cheat Sheet](./assets/images/cheatsheets/dsrcheatsheet.webp)
+<a href=".\assets\images\cheatsheets\dsrcheatsheet.webp" target="_blank"><img src=".\assets\images\cheatsheets\dsrcheatsheet.webp"></a>
 
 ## TOP
 TOP strats are similar (but not identical!) to NA, which are *substantially* different to JP. For an extended explanation you can see the complete TOP OCE Guide below by Juno Dax,
@@ -331,4 +330,4 @@ For JP players, please review this list of differences, using the language in [T
     - **Cosmo Meteor**: H1 will move to the centre by default.
 </details>
 
-![OCE TOP Cheat Sheet](https://cdn.discordapp.com/attachments/1102126227264905257/1149619773655752734/OCE_TOP_Cheat_Sheet_Alt.png?ex=66067958&is=65f40458&hm=c6ec20ec1cb1515ed9ee3435f8bdbcbef11bb4f3e5bd39edacb79436e4cd623d&)
+<a href="{{ site.baseurl }}/assets/images/cheatsheets/topcheatsheet.png" target="_blank"><img src="{{ site.baseurl }}/assets/images/cheatsheets/topcheatsheet.png"></a>
