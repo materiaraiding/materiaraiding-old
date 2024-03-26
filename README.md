@@ -46,9 +46,9 @@ Each page is a single Markdown File (.md) which can be located anywhere in the r
 
 After this, you can use Markdown or HTML formatting to build out the page. Take a look at some of the [existing pages](https://github.com/The-Seat-of-Namazu/namazu.tools/blob/main/top.md?plain=1) for an example. 
 
-[Here is some reference guides for the different types of formatting you can use:
+Here is some reference guides for the different types of formatting you can use:
 
-Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
 This website uses Just-The-Docs, a website generating Jekyll theme that can create special custom components using simple tags inside the page. You can read more about how these work with the link below.
 [Just-The-Docs Documentation](https://just-the-docs.github.io/just-the-docs/docs/ui-components)
