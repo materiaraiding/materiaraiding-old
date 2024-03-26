@@ -16,7 +16,7 @@ If you are not comfortable with editing content with github, you can join the co
 
 [Materia Raiding Discord](https://discord.gg/EySn5dRj65)
 
-[![Deploy Jekyll site to Pages](https://github.com/materiaraiding/materiaraiding/actions/workflows/pages.yml/badge.svg)](https://github.com/materiaraiding/materiaraiding/actions/workflows/pages.yml)
+[![GitHub Pages Deployment](https://github.com/materiaraiding/materiaraiding/actions/workflows/pages.yml/badge.svg)](https://github.com/materiaraiding/materiaraiding/actions/workflows/pages.yml)
 
 ## How to Contribute
 Make a **Fork** of the project and do your edits in the fork, you can then create a **Pull Request** to merge your edits back into the main repository.
