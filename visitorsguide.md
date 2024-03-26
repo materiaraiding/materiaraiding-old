@@ -262,7 +262,7 @@ There are a number of differences between OCE and JP for DSR. Please review this
 </details>
 
 
-![OCE DSR Cheat Sheet](https://cdn.discordapp.com/attachments/954964022711685201/1118795044636327986/DSR_Materia_Strats_Cheat_Sheet.png?ex=66051394&is=65f29e94&hm=d7f95a3b3f8a05a3882b29873dec779527989127d9298bd82691a4815cd17cac&)
+![OCE DSR Cheat Sheet](./assets/images/cheatsheets/dsrcheatsheet.webp)
 
 ## TOP
 TOP strats are similar (but not identical!) to NA, which are *substantially* different to JP. For an extended explanation you can see the complete TOP OCE Guide below by Juno Dax,
