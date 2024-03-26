@@ -10,7 +10,9 @@ Materia Raiding is a community driven project to collate the various guides and 
 
 This [Github Repository](https://github.com/materiaraiding/materiaraiding) is for the Materia Raiding website, a Github Pages site built with Jekyll using the "Just the Docs" template.
 
-The goal is to create a comprehensive tool with all guides for current Savage and Ultimate content in one consistent open-source website.
+The goal is to create a comprehensive tool with all guides for current Savage and Ultimate content in one consistent open-source website. Since this website is built using an open-source github repository, anyone can contribute to the project with changes using the typical Github Pull-Request Workflow, please see the instructions below. If you are not comfortable with editing content with github, you can join the conversation and suggest changes to us at the Materia Raiding Discord server. 
+
+[Materia Raiding Discord](https://discord.gg/EySn5dRj65)
 
 [![Deploy Jekyll site to Pages](https://github.com/materiaraiding/materiaraiding/actions/workflows/pages.yml/badge.svg)](https://github.com/materiaraiding/materiaraiding/actions/workflows/pages.yml)
 
