@@ -101,37 +101,13 @@ Potential differences to double check may include:
 - **Tenstrike Trio**: A lineup is not used for this mechanic nowadays; instead spread out into clock spots and adjust.
 - **Grand Octet**: Use anti-KB skills for towers as some parties may not bait Twintania while under tank LB3.
 
-<details markdown=1>
-<summary>NA Differences</summary>
-Please refer to full guide.
-</details>
-<details markdown=1>
-<summary>EU Differences</summary>
-Please refer to full guide.
-</details>
-<details markdown=1>
-<summary>JP Differences</summary>
-Please refer to full guide.
-</details>
-
 ## UWU
 Materia also follows [Clees' Guide](https://ultimates.guide/uwu/) for UWU. Potential differences to double check may include:
 
 - **Titan Jails**: These are resolved using AMs.
 - **Ultimate Suppression**: Most PFs will use Clees' method for this.
 
-<details markdown=1>
-<summary>NA Differences</summary>
-
-</details>
-<details markdown=1>
-<summary>EU Differences</summary>
-Please refer to full guide.
-</details>
-<details markdown=1>
-<summary>JP Differences</summary>
-Please refer to full guide.
-</details>
+[Full UWU OCE Guide](/uwu){: .btn }
 
 ## TEA
 Materia DC follows the oldbin TEA strats that are present on the NA DC's, this means that for BJ/CC, we do the split BJ/CC strat. this is very different to the Tollgate strat that is present in JP. Similarly, OCE prefers the 1256 method for Limit Cut rather than 1211 which is prevalent for JP. It is best to review the toolboxes for the initial phases ([Living Liquid](https://ff14.toolboxgaming.space/?id=830419115443951&preview=1), [Limit Cut](https://ff14.toolboxgaming.space/?id=240411819443951&preview=1), [BJ/CC](https://ff14.toolboxgaming.space/?id=340414049443951&preview=1)) and make sure the positions for everything else is the same.
@@ -223,6 +199,8 @@ For an extended explanation you can see the complete TEA OCE Guide below by Noz 
 <details markdown=1>
 <summary>JP Differences</summary>
 Please refer to full guide.
+
+[Full TEA OCE Guide](/tea){: .btn }
 </details>
 
 ## DSR
@@ -248,6 +226,8 @@ For an extended explanation you can see the complete DSR OCE Guide below by Juno
 <details markdown=1>
 <summary>EU Differences</summary>
 Please refer to full guide.
+
+[Full DSR OCE Guide](/dsr){: .btn }
 </details>
 <details markdown=1>
 <summary>JP Differences</summary>
@@ -295,11 +275,13 @@ TOP strats are similar (but not identical!) to NA, which are *substantially* dif
 For NA players, both DPS and supports move during P6 WC2 instead of DPS not moving. DPS dodge CW, supports CCW.
 <img src="https://cdn.discordapp.com/attachments/944115415385247786/1218377344733941840/image.png?ex=66077153&is=65f4fc53&hm=9b386a669f5d40d90f86325b22a0765821c17a2361bd44725e9f629a7cead679" alt="Cosmo Arrow 2 Spread Positions" style="height: 400px">
 
-
+[Full TOP OCE Guide](/top){: .btn }
 </details>
 <details markdown=1>
 <summary>EU Differences</summary>
 Please refer to full guide.
+
+[Full TOP OCE Guide](/top){: .btn }
 </details>
 <details markdown=1>
 <summary>JP Differences</summary>
