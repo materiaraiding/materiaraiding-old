@@ -49,27 +49,5 @@ Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 This website uses Just-The-Docs, a website generating Jekyll theme that can create special custom components using simple tags inside the page. You can read more about how these work with the link below.
 [Just-The-Docs Documentation](https://just-the-docs.github.io/just-the-docs/docs/ui-components)
 
-## Glossary
-A custom glossary add-in allows creating mouse-over tooltips that can be inserted into documents. These must be pre-defined in the ./_data/glossary.yml file.
-
-```yml
-- term: Thunderstruck
-  definition: Two players are targeted with the Thunderstruck debuff and need to stay away from the party to avoid killing party members or giving them paralysis.
-```
-
-Once definded, these can be inserted into the page using the following tag.
-
-```
-{% glossary <term> %}
-```
-for example...
-```
-{% glossary Thunderstruck %}
-```
-
-Which will create a tooltip like so...
-
-![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/e52506ec-e6b8-4a9a-8fd8-c15bebbef5cc)
-
 # Further help
 If your interested with helping on this project, you can get involved and join the discussion in the [Materia Raiding Discord](https://discord.gg/EySn5dRj65)
