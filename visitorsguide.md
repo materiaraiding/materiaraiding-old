@@ -97,7 +97,7 @@ For all of Bahamut, we use the following toolboxes:
 Potential differences to double check may include:
 
 - **Neurolinks**: See above.
-- **Nael Lightnings**: These are **not** resolved using AMs; bringing AMs for this mechanic will cause you to get laughed at and ignored.
+- **Nael Lightnings**: These are **not** resolved using AMs; bringing AMs for this mechanic will cause you to get laughed at and ignored. Use eyes.
 - **Tenstrike Trio**: A lineup is not used for this mechanic nowadays; instead spread out into clock spots and adjust.
 - **Grand Octet**: Use anti-KB skills for towers as some parties may not bait Twintania while under tank LB3.
 
