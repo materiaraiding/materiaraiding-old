@@ -273,7 +273,7 @@ TOP strats are similar (but not identical!) to NA, which are *substantially* dif
 <summary>NA Differences</summary>
 
 For NA players, both DPS and supports move during P6 WC2 instead of DPS not moving. DPS dodge CW, supports CCW.
-<img src="https://cdn.discordapp.com/attachments/944115415385247786/1218377344733941840/image.png?ex=66077153&is=65f4fc53&hm=9b386a669f5d40d90f86325b22a0765821c17a2361bd44725e9f629a7cead679" alt="Cosmo Arrow 2 Spread Positions" style="height: 400px">
+<img src="./assets/images/diagrams/exasquares.png" alt="Cosmo Arrow 2 Spread Positions" style="height: 400px">
 
 [Full TOP OCE Guide](/top){: .btn }
 </details>
