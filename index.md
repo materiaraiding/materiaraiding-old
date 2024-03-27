@@ -4,8 +4,6 @@ layout: home
 nav_order: 1
 ---
 
-{% include custom.html %}
-
 <img src="{{ site.baseurl }}/assets/images/icons/materia.png" alt="materia" width="128" style="float: right">
 
 # Welcome to Materia Raiding
