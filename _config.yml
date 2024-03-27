@@ -61,9 +61,6 @@ collections:
   criterion:
     permalink: "/:collection/:path/"
     output: true
-  oldfights:
-    permalink: "/:collection/:path/"
-    output: true
 
 just_the_docs:
   collections:
@@ -75,5 +72,3 @@ just_the_docs:
       name: Extreme
     criterion:
       name: Criterion
-    oldfights:
-      name: Old Fights
