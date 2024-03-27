@@ -5,8 +5,6 @@ permalink: /top
 nav_order: 5
 ---
 
-{% include custom.html %}
-
 <img src="{{ site.baseurl }}/assets/images/alphaomega.webp" alt="AlphaOmega" width="150" style="float: right">
 
 # The Omega Protocol
