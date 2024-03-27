@@ -2,7 +2,7 @@
 layout: default
 title: P6S
 permalink: /p6s
-parent: archive
+parent: Archive
 ---
 
 # P6S
