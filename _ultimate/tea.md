@@ -5,8 +5,6 @@ permalink: /tea
 nav_order: 3
 ---
 
-{% include custom.html %}
-
 <img src="{{ site.baseurl }}/assets/images/BJCC2.png" alt="BJCC" width="150" style="float: right">
 
 # The Epic of Alexander

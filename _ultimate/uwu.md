@@ -5,8 +5,6 @@ permalink: /uwu
 nav_order: 2
 ---
 
-{% include custom.html %}
-
 <img src="{{ site.baseurl }}/assets/images/ultima.webp" alt="Ultima Weapon" width="150px" style="float: right">
 
 # The Weapons Refrain

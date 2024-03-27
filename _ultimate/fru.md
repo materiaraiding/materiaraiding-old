@@ -5,8 +5,6 @@ permalink: /fru
 nav_order: 16
 ---
 
-{% include custom.html %}
-
 <img src="{{ site.baseurl }}/assets/images/eden.webp" alt="eden" width="150" style="float: right">
 
 # Futures Rewritten

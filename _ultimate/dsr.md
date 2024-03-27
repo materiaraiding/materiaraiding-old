@@ -5,8 +5,6 @@ permalink: /dsr
 nav_order: 4
 ---
 
-{% include custom.html %}
-
 <img src="{{ site.baseurl }}/assets/images/dkt.webp" alt="DKT" width="150" style="float: right">
 
 # Dragonsong Reprise

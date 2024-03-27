@@ -5,8 +5,6 @@ permalink: /ucob
 nav_order: 1
 ---
 
-{% include custom.html %}
-
 <img src="./assets/images/goldenbaha.png" alt="Bahamut" width="150px" style="float: right">
 
 # The Unending Coil of Bahamut

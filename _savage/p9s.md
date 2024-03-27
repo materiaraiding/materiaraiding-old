@@ -5,8 +5,6 @@ permalink: /p9s
 nav_order: 1
 ---
 
-{% include custom.html %}
-
 # Anabaseios: The Ninth Circle (Savage)
 
 PF Strats 
