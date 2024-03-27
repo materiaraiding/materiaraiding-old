@@ -22,7 +22,6 @@ emoji:
 
 plugins:
   - jekyll-glossary_tooltip
-  - jekyll_picture_tag
 
 callouts_level: loud
 
