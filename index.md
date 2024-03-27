@@ -41,7 +41,7 @@ Or join the discussion on Discord!
 [Materia Ultimate Raiding Discord](https://discord.gg/mur){: .btn .btn-purple }
 
 ### Contributors 📝
-- Em Quackingway (Website and Github Management) 🦆
+- Em Gram (Website and Github Management) 🦆
 - Juno Dax
 - Noz Leafhill
 - Kobe
