@@ -110,7 +110,6 @@ Materia also follows [Clees' Guide](https://ultimates.guide/uwu/) for UWU. Poten
 ## TEA
 Materia DC follows the oldbin TEA strats that are present on the NA DC's, this means that for BJ/CC, we do the split BJ/CC strat. this is very different to the Tollgate strat that is present in JP. Similarly, OCE prefers the 1256 method for Limit Cut rather than 1211 which is prevalent for JP. It is best to review the toolboxes for the initial phases ([Living Liquid](https://ff14.toolboxgaming.space/?id=830419115443951&preview=1), [Limit Cut](https://ff14.toolboxgaming.space/?id=240411819443951&preview=1), [BJ/CC](https://ff14.toolboxgaming.space/?id=340414049443951&preview=1)) and make sure the positions for everything else is the same.
 
-
 [Full TEA OCE Guide](/tea){: .btn }
 
 This can also be compared to the strats covered in [Tessan Twintails video guide](https://www.youtube.com/watch?v=uVtZ8-XoOZ0), (see EU differences to compare to this guide): 
@@ -200,6 +199,8 @@ Please refer to full guide.
 
 [Full TEA OCE Guide](/tea){: .btn }
 </details>
+
+<a href=".\assets\images\cheatsheets\teacheatsheet.webp" target="_blank"><img src=".\assets\images\cheatsheets\tescheatsheet.webp"></a>
 
 ## DSR
 OCE DSR Strats are a variation on NA PF strats.
