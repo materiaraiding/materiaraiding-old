@@ -6,4 +6,7 @@ gem "jekyll", "~> 4.3" # installed by `gem jekyll`
 gem "just-the-docs", "0.4.2" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
-gem "jekyll-glossary_tooltip", "~> 1.5", :group => :jekyll_plugins
+group :jekyll_plugins do
+   gem 'jekyll-glossary_tooltip', '~> 1.5'
+   gem 'jekyll_picture_tag', '~> 2.0'
+end
