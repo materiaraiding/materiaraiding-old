@@ -5,8 +5,6 @@ permalink: /visitorsguide
 nav_order: 99
 ---
 
-{% include custom.html %}
-
 # Visitors Guide to Oceanic Raiding
 {: .no_toc }
 
