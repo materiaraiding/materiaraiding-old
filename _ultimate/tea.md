@@ -67,10 +67,14 @@ Space = Hold to select numbers
 ### Cheatsheets and Visual Guides
 
 <details markdown=1>
+<summary>Full Cheatsheet</summary>
+<a href=".\assets\images\cheatsheets\tescheatsheet.webp" target="_blank"><img src=".\assets\images\cheatsheets\tescheatsheet.webp"></a>
+</details>
+
+<details markdown=1>
 <summary>Wormhole (crappy) Visual Guide</summary>
 <a href="https://github.com/materiaraiding/materiaraiding/assets/85346345/f58044da-89ba-4708-8d26-83ce7df50675" target="_blank"><img src="https://github.com/materiaraiding/materiaraiding/assets/85346345/f58044da-89ba-4708-8d26-83ce7df50675"></a>
 </details>
-
 
 <details markdown=1>
 <summary>Perfect Alexander Cheatsheet</summary>
