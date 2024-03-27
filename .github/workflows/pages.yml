@@ -29,10 +29,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Install JPT's dependencies
-        run: sudo apt-get install libvips-tools
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
