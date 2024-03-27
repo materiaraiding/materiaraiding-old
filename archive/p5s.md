@@ -1,7 +1,7 @@
 ---
 layout: default
 title: P5S
-permalink: /p52
+permalink: /p5s
 parent: archive
 ---
 
