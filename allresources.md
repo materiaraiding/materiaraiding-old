@@ -9,8 +9,12 @@ nav_exclude: true
 
 ## All Pages
 
-{{ site.pages }}
+{% for page in site.pages %}
+    - [{{ page.title }}]({{ page.url }})
+{% endfor %}
 
 ## All Files
 
-{{ site.static_files }}
+{% for file in site.static_files %}
+    - [{{ file.name }}]({{ file.path }})
+{% endfor %}
