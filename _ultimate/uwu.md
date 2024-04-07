@@ -234,10 +234,17 @@ If you did this mechanic correctly, the boss will now have 3 stacks of awakened.
 Party to stack on **Waymark 4**, {% glossary Mistral Song %} will target two non-tanks from sisters. {% glossary MT %} and {% glossary OT %} dodge Wicked Wheel ({% glossary PBAOE %}) and stand on a cardinal in-front of each sister against edge of blue circle, intercepting one of the {% glossary Mistral Song %}s each.
 
 {: .tanks }
-> Intercept Priority
+> Tanks will need to make sure they intercept one of the Twins each, there are a few different ways commonly used to solve this, communicate with your cotank to make sure you understand which method your using to solve it. 
 > 
-> - {% glossary MT %} = NORTH > EAST
-> - {% glossary OT %} = SOUTH > WEST
+> - {% glossary MT %} Prioritize NE first
+> - {% glossary OT %} Prioritize SW first
+>
+> or...
+>
+> - {% glossary MT %} CW from North
+> - {% glossary OT %} CCW from West
+>
+> Generally you can kinda use-eyes and solve the positions pretty fast, suggest staying near the middle of the room to allow fast adjustments. 
 
 After {% glossary Feather Rain %}, Party and Tanks to dodge Tornadoes (Spawning on tank locations) and then group up in mid.
 
