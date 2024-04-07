@@ -236,8 +236,9 @@ Party to stack on **Waymark 4**, {% glossary Mistral Song %} will target two non
 {: .tanks }
 > Tanks will need to make sure they intercept one of the Twins each, there are a few different ways commonly used to solve this, communicate with your cotank to make sure you understand which method your using to solve it. 
 > 
-> - {% glossary MT %} Prioritize NE first
-> - {% glossary OT %} Prioritize SW first
+> - {% glossary MT %} Prioritize North first
+> - {% glossary OT %} Prioritize South first
+> - If they spawn East/West, MT takes West, OT takes East
 >
 > or...
 >
