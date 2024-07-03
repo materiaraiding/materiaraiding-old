@@ -1,7 +1,8 @@
 ---
 layout: default
-title: EX5
-permalink: /ex5
+title: EX5 - Endwalker
+permalink: /ew/ex5
+parent: Archive
 ---
 
 # EX5

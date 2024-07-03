@@ -1,7 +1,8 @@
 ---
 layout: default
-title: EX6
-permalink: /ex6
+title: EX6 - Endwalker
+permalink: /ew/ex6
+parent: Archive
 ---
 
 # EX6

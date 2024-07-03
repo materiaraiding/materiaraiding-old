@@ -1,7 +1,8 @@
 ---
 layout: default
-title: EX4
-permalink: /ex4
+title: EX4 - Endwalker
+permalink: /ew/ex4
+parent: Archive
 ---
 
 # EX4

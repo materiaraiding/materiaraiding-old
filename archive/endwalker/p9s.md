@@ -2,6 +2,7 @@
 layout: default
 title: P9S
 permalink: /p9s
+parent: Archive
 nav_order: 1
 ---
 
