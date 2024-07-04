@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EX1 - Worqor Lar Dor
+title: EX1
 permalink: /ex1
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EX2 - Everkeep
+title: EX2
 permalink: /ex2
 ---
 
