@@ -25,7 +25,19 @@ Projection of Turmoil - Bagel (braindead) Strat
 
 ## Strategies
 
-Projection of Turmoil - Bagel (braindead) Strat
+### Drum of Vollok
+
+Use pairs from left-right looking at the new platform:
+
+![Drumsofvollok](https://github.com/materiaraiding/materiaraiding/assets/85346345/a6337c36-2b94-41a9-90d8-d7d63ec5ef37)
+
+### Vollok + Aero III
+
+Spread out on the side without a sword in the front two rows. Using only 4 tiles. 
+
+![vollok](https://github.com/materiaraiding/materiaraiding/assets/85346345/1dfb6427-8e62-4002-b5be-699632edf7be)
+
+### Projection of Turmoil - Bagel (braindead) Strat
 toolbox:
 
 [Projection of Turmoil Braindead](https://raidplan.io/plan/kOzWlEJdezZxbmL9){: .btn }
