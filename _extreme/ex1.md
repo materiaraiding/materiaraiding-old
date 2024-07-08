@@ -29,3 +29,13 @@ PF Strats
 　　NW → MT　　NE → ST
 　　Stacks：West→H1 D1 D3　East→H2 D2 D4 
 ```
+
+## Waymarks
+
+For import with Waymark Addon
+
+```
+{"Name":"EX1 OCE","MapID":833,"A":{"X":95.8,"Y":0.0,"Z":96.0,"ID":0,"Active":true},"B":{"X":104.2,"Y":0.0,"Z":96.0,"ID":1,"Active":true},"C":{"X":95.8,"Y":0.0,"Z":104.0,"ID":2,"Active":true},"D":{"X":104.2,"Y":0.0,"Z":104.0,"ID":3,"Active":true},"One":{"X":88.0,"Y":0.0,"Z":86.3,"ID":4,"Active":true},"Two":{"X":112.0,"Y":0.0,"Z":86.3,"ID":5,"Active":true},"Three":{"X":81.0,"Y":0.0,"Z":94.0,"ID":6,"Active":true},"Four":{"X":119.0,"Y":0.0,"Z":94.0,"ID":7,"Active":true}}
+```
+
+![mxKFEu4](https://github.com/materiaraiding/materiaraiding/assets/85346345/de6dfe77-4c41-4311-a676-1d0bb512d9e7)
