@@ -14,10 +14,10 @@ This website is a resource provided by Materia Raiding community, as a one-stop 
 
 | Savage Raids              | Ultimate Raids       | Extreme Trials     | Criterion Dungeons |
 |:--------------------------|:---------------------|:-------------------|:-------------------|
-|[R1S](/r1s){: .btn }       |[UCOB](/ucob){: .btn }|[EX1](/ex1){: .btn }|[AMR](/amr){: .btn }|
-|[R2S](/r2s){: .btn }       |[UWU](/uwu){: .btn }  |[EX2](/ex2){: .btn }|[AAI](/aai){: .btn }|
-|[R3S](/r3s){: .btn }       |[TEA](/tea){: .btn }  |                    |                    |
-|[R4S](/r4s){: .btn }       |[DSR](/dsr){: .btn }  |                    |                    |
+|                           |[UCOB](/ucob){: .btn }|[EX1](/ex1){: .btn }|[AMR](/amr){: .btn }|
+|                           |[UWU](/uwu){: .btn }  |[EX2](/ex2){: .btn }|[AAI](/aai){: .btn }|
+|                           |[TEA](/tea){: .btn }  |                    |                    |
+|                           |[DSR](/dsr){: .btn }  |                    |                    |
 |                           |[TOP](/top){: .btn }  |                    |                    |
 |                           |[FRU](/fru){: .btn }  |                    |                    |
 
