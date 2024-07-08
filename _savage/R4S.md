@@ -1,10 +1,10 @@
 ---
 layout: default
-title: R2S
-permalink: /r2s
+title: R4S
+permalink: /r4s
 ---
 
-# R2S
+# R4S
 
 PF Strats 
 {: .label .label-red }
