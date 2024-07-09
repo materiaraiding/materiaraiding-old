@@ -30,11 +30,11 @@ Visiting from another region? check out our visitors guide for a quick breakdown
 
 This site was put together to help combine various resources and guides into one comprehensive resource, our strategies are a collaboration of guides and tools from various other FF14 communities, with credits included on the pages and at the bottom of this page also.
 
-As this site originates from the **Materia** community, the strategies are based on the most commonly adopted strategies on Materia Party Finder and are recommended for PF groups. You can join the discussion about these strats at the discord links on this page.
+As this site originates from the Oceanic **Materia** community, the strategies are based on the most commonly adopted strategies on Materia Party Finder and are recommended for PF groups. You can join the discussion about these strats at the discord links on this page.
 
 This website uses github pages, you can submit your own changes and suggestions using Github PR requests at the link below!
 
-[Contribute](https://github.com/materiaraiding/materiaraiding){: .btn }
+[Contribute](/about){: .btn }
 
 Or join the discussion on Discord!
 
