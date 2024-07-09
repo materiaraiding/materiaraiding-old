@@ -38,7 +38,19 @@ Spread out on the side without a sword in the front two rows. Using only 4 tiles
 ![vollok](https://github.com/materiaraiding/materiaraiding/assets/85346345/1dfb6427-8e62-4002-b5be-699632edf7be)
 
 ### Projection of Turmoil - Bagel (braindead) Strat
-toolbox:
+AKA: D1CBA4
+
+Party members take positions on the lineup and wait for the line to reach them setting off each explosion evenly spaced out. The tanks follow the line and join each stack to share damage. Once the line passes over a party member they join the group and continue following the line across the room.
+
+`N <-D1 D2 H1 H2 D3 D4-> S`
+
+Tanks both at the start with mits.
+D = D1
+1 = D2
+C = H1
+B = H2
+A = D3
+4 = D4
 
 [Projection of Turmoil Braindead](https://raidplan.io/plan/kOzWlEJdezZxbmL9){: .btn }
 
