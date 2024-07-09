@@ -27,7 +27,7 @@ Projection of Turmoil - Bagel (braindead) Strat
 
 ### Drum of Vollok
 
-Use pairs from left-right looking at the new platform:
+Use pairs from left-right looking at the new platform. Note: For better melee updatime, move you and your partner closer too the boss before the knockback, this should result in the partner landing closer to the boss on the other side.
 
 ![Drumsofvollok](https://github.com/materiaraiding/materiaraiding/assets/85346345/a6337c36-2b94-41a9-90d8-d7d63ec5ef37)
 
