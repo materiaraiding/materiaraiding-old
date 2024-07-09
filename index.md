@@ -15,7 +15,7 @@ Updated for Dawntrail! ☀️
 
 | Savage Raids              | Ultimate Raids       | Extreme Trials     | Criterion Dungeons |
 |:--------------------------|:---------------------|:-------------------|:-------------------|
-|                           |[UCOB](/ucob){: .btn }|[EX1](/ex1){: .btn }|[AMR](/amr){: .btn }|
+|Coming soon...             |[UCOB](/ucob){: .btn }|[EX1](/ex1){: .btn }|[AMR](/amr){: .btn }|
 |                           |[UWU](/uwu){: .btn }  |[EX2](/ex2){: .btn }|[AAI](/aai){: .btn }|
 |                           |[TEA](/tea){: .btn }  |                    |                    |
 |                           |[DSR](/dsr){: .btn }  |                    |                    |
