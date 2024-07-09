@@ -10,7 +10,7 @@ nav_order: 1
 
 This website is a resource provided by Materia Raiding community, as a one-stop shop for your Savage and Ultimate Raiding needs for the Materia FF14 Datacenter.
 
-## Guides and Resources
+## Resources (Now including Dawntrail!)
 
 | Savage Raids              | Ultimate Raids       | Extreme Trials     | Criterion Dungeons |
 |:--------------------------|:---------------------|:-------------------|:-------------------|
