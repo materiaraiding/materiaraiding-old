@@ -15,9 +15,6 @@ PF Strats
 ### Video Guide 
 - <https://www.youtube.com/watch?v=MKphNR91gx8>
 
-![image](https://github.com/user-attachments/assets/6de0eca5-3032-437c-9eb5-0d83fe0396d1)
-- 1, 2, 3 and 4 are used for Darkened Fire.
-
 ## Strategy
 
 __**Strategies & Notes**__
@@ -73,6 +70,11 @@ Elmo - <https://cdn.discordapp.com/attachments/843355000729501738/93035304939279
 - Treat Darkfire Tornado as new north.
 - D1, D2, H1, H2 relative west knockback.
 - MT, ST, D3, D4 relative east knockback.
+
+## Waymarks
+
+![image](https://github.com/user-attachments/assets/6de0eca5-3032-437c-9eb5-0d83fe0396d1)
+- 1, 2, 3 and 4 are used for Darkened Fire.
 
 ## Recommended Macro
 ```
