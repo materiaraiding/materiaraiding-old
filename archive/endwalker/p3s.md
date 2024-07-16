@@ -12,9 +12,8 @@ PF Strats
 
 ## Strategy
 
-__**Overall Encounter Information**__
-**Mrhappy1227 Video Guide** - <https://www.youtube.com/watch?v=MKphNR91gx8>
-** **
+### Video Guide 
+- <https://www.youtube.com/watch?v=MKphNR91gx8>
 
 ![image](https://github.com/user-attachments/assets/6de0eca5-3032-437c-9eb5-0d83fe0396d1)
 - 1, 2, 3 and 4 are used for Darkened Fire.
