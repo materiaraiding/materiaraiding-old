@@ -12,12 +12,10 @@ PF Strats
 
 ## Strategy
 
-__**Overall Encounter Information**__
-**Mrhappy1227 Video Guide**
+### Video Guide
 - (p1) <https://www.youtube.com/watch?v=nbPFd_2SHWE>
 - (p2) <https://www.youtube.com/watch?v=Usu900crB6A>
 
-__**Strategies & Notes**__
 **Tether/Role-call 1**
 YPP - <https://na.finalfantasyxiv.com/lodestone/character/22408218/blog/4931930/>
 
