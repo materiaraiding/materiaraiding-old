@@ -12,6 +12,8 @@ has_toc: false
 The following pages are Archived and no longer current content. Once a new raid is released all previous tier fights will be moved into the Archive. Ultimate fights will not be archived due to the limited number of fights. 
 
 ## Endwalker
+- [P3S](https://materiaraiding.com/p3s)
+- [P4S](https://materiaraiding.com/p4s)
 - [P5S](https://materiaraiding.com/p5s)
 - [P6S](https://materiaraiding.com/p6s)
 - [P9S](https://materiaraiding.com/p9s)
