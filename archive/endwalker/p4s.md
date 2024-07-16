@@ -76,6 +76,14 @@ TH 11, DPS 6
 
 Although this is not entirely confirmed, the curtain call breaks can supposedly be mitigated by reprisals/feints/addles (snapshot on tether break). More testing is required.
 
+## Waymarks
+
+![image](https://github.com/user-attachments/assets/c6eb6eb9-a6a1-4bf9-9f08-1dd127821eef)
+
+- A, B, C and D are cardinal waymarks for P1.
+- A, B, C and D are Act 2 tower soak waymarks for P2.
+- 1, 2, 3 and 4 are Act 2 fire tether break waymarks for P2.
+
 ## Videos
 
 GUMI Orbs PoV: https://www.twitch.tv/videos/1440160509?t=1h11m39s
