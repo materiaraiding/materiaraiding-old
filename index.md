@@ -15,10 +15,10 @@ Updated for Dawntrail! ☀️
 
 | Savage Raids              | Ultimate Raids       | Extreme Trials     | Criterion Dungeons |
 |:--------------------------|:---------------------|:-------------------|:-------------------|
-|Coming soon...             |[UCOB](/ucob){: .btn }|[EX1](/ex1){: .btn }|[ASS](/ass){: .btn }|
-|                           |[UWU](/uwu){: .btn }  |[EX2](/ex2){: .btn }|[AMR](/amr){: .btn }|
-|                           |[TEA](/tea){: .btn }  |                    |[AAI](/aai){: .btn }|
-|                           |[DSR](/dsr){: .btn }  |                    |                    |
+|[M1S](/m1s){: .btn }       |[UCOB](/ucob){: .btn }|[EX1](/ex1){: .btn }|[ASS](/ass){: .btn }|
+|[M2S](/m2s){: .btn }       |[UWU](/uwu){: .btn }  |[EX2](/ex2){: .btn }|[AMR](/amr){: .btn }|
+|[M3S](/m3s){: .btn }       |[TEA](/tea){: .btn }  |                    |[AAI](/aai){: .btn }|
+|[M4S](/m4s){: .btn }       |[DSR](/dsr){: .btn }  |                    |                    |
 |                           |[TOP](/top){: .btn }  |                    |                    |
 |                           |[FRU](/fru){: .btn }  |                    |                    |
 
