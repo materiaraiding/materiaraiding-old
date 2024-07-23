@@ -2,7 +2,7 @@
 layout: default
 title: M2S
 permalink: /m2s
-nav_order: 1
+nav_order: 2
 ---
 
 # AAC Light-heavyweight M2 (Savage)
