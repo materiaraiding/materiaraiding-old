@@ -26,7 +26,7 @@ Visiting from another region? check out our visitors guide for a quick breakdown
 
 [Visitors Guide to OCE Raiding](/visitorsguide){: .btn } 
 
-## Looking for a group?
+## Looking for a group? 🚩
 
 If you are looking for a group to raid with or want to create your own team, the Materia Raiding server acts as a hub for finding teams. Join the server and look for the "Looking-for-group" and "Looking-for-members" channels and DM.
 
@@ -35,7 +35,7 @@ If you are looking for a group to raid with or want to create your own team, the
 ![image](https://github.com/user-attachments/assets/2d07e5ea-7ff7-4bfe-8286-43edddd1458f)
 
 
-## About
+## About 📜
 
 This site was put together to help combine various resources and guides into one comprehensive resource, our strategies are a collaboration of guides and tools from various other FF14 communities, with credits included on the pages and at the bottom of this page also.
 
