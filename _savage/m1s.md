@@ -12,6 +12,7 @@ PF Strats
 
 ## Macro
 
+Tentative Macro - Subject to change
 ```
 ■ Cardinal Bait/Pairs　 ■ Light Parties
 　　　　MTD3　　　H1D1MTD3 ★ H2D2STD4
