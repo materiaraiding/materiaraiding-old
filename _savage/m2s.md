@@ -15,9 +15,9 @@ PF Strats
 Tentative Macro - Subject to change
 ```
 ■ Venom Spread (True North)
-　 D3　D4　　MTD3　H2D4
+　 D3　D4　　MTD3　STD4
 　 MT　ST　　    ★
-　 D1　D2　　H1D1　STD2
+　 D1　D2　　H1D1　H2D2
 　 H1　H2
 ■ Live 1
 　 Ranged Max 3 hearts
@@ -25,19 +25,18 @@ Tentative Macro - Subject to change
 　 ※ Melee take stack center-ish
 ■ Live 2
 　 1 heart: Center, TH N/W Tower, DPS S/E Tower
-　 0 heart: Start SW[3] Max Melee, Move CW
+　 0 heart: Start SW[4] Max Melee, Move CW
 ■ Alarm Pheromones
 　 Puddle/Stacks: TH West　DPS East
 ■ Live 3
-　 Colour Coded Pairs
-　 MTD3　H2D4
-　　　　 ★
-　 H1D1　STD2
+　 MTD3　STD4
+　     ★
+　 H1D1　H2D2
 　 ※ Defam: Intercard Far, in your colour
 　 ※ Tower: Wait in center, tower in your colour
 ■ Rotten Heart
 　 D3 MT D4
-　 H1  ★ H2
+　 H1 ★ H2
 　 D1 ST D2
 　 ※ Basic Spread
 ```
