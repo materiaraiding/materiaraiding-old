@@ -15,7 +15,7 @@ PF Strats
 Tentative Macro - Subject to change
 ```
 ■ Cardinal Bait/Pairs　 ■ Light Parties
-　　　　MTD3　　　H1D1MTD3 ★ H2D2STD4
+　　　　MTD3　　　 H1D1MTD3 ★ H2D2STD4
 　 H1D1　★　H2D4　   ※ G1: N/W　G2:S/E
  　　　　STD2　　　　　※ Colour Pairs
 　※ Baits at Cardinals: DPS -> TH  ※ True North
