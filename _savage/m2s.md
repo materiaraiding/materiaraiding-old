@@ -12,7 +12,6 @@ PF Strats
 
 ## Macro
 
-Tentative Macro - Subject to change
 ```
 ■ Venom Spread (True North)
 　 D3　D4　　MTD3　STD4
