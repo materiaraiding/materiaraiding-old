@@ -12,7 +12,48 @@ PF Strats
 
 ## Macro
 
-Coming soon....
+```
+■ Lariat
+　 D3 MT D4　 ※ DPS Rotate CW 
+　 H1 ★ H2　　　for Quad
+　 D1 ST D2
+■ Boom Dive (Boss Relative)
+ 　　MT　★　ST
+ 　　　D1　D2
+　D3　H1　　H2　D4
+■ Barbarous Barrage
+　 T/M: N/W　H/R: S/E
+　 G1 Left | G2 Right
+　 ※ Boss Relative
+■ Final Fuse Down #1
+　 ※ Lone Long Bomb: New North
+　　　　D3/H1
+　　　　　★
+　　　 Party
+　 D1/MT　　D2/ST
+　　　　D4/H2
+■ Final Fuse Down #2
+　　D1/MT　D2/ST
+D3/H1 　★　　D4/H2
+　　　 Party
+■ Fuse Field (North)
+　 CW MT ST H1 H2 CCW
+　 CW D1 D2 D3 D4 CCW
+■ Fuse or Foe (Resolve Positions)
+　 D3　　　 　D4
+　　 　　MT
+　   D1 ★ D2
+　 　　　ST
+　 H1　　　 　H2
+```
+
+## Toolboxes
+
+[Barbarous Barrage Toolbox](https://raidplan.io/plan/CWX-puH0h72E14CF){: .btn .btn-blue }
+By Em Gram
+
+[Final Fusedown Toolbox](https://ff14.toolboxgaming.space/?id=400793777952271&preview=1){: .btn .btn-blue }
+By Pickle Tickle
 
 ## Waymarks
 For import with waymark addon.
