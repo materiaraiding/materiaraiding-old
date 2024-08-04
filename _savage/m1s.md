@@ -12,28 +12,32 @@ PF Strats
 
 ## Macro
 
-Tentative Macro - Subject to change
 ```
 ■ Cardinal Bait/Pairs　 ■ Light Parties
 　　　　MTD3　　　 H1D1MTD3 ★ H2D2STD4
 　 H1D1　★　H2D4　   ※ G1: N/W　G2:S/E
  　　　　STD2　　　　　※ Colour Pairs
-　※ Baits at Cardinals: DPS -> TH  ※ True North
+　※ Baits at Cardinals: TH -> DPS  ※ True North
 ■ Mouser
-　 Clone: New Relative North - Break W>E
-　 ※ Bomberman on side that is being broken
-■ Splintering Nail
-　 Role Protean　　※ Boss Relative North
-　 MT/ST　★　H1/H2
- 　　　　  DPS
+　 Clone: New Relative North
+　 ※ G1: N　G2:S
+　 ※ Breaks: Melee close, Ranged far
+■ Splintering Nail - Role Protean
+   Tanks
+   ★　Healers　
+   DPS  
 ■ Raining Cats
 　 Tethers:  NW: D1 > MT　NE: D2 > ST
 　 ※ Tank Invuln after 2nd tether
 　  NW　　NE
 　　　　★
-　　D4 D1D2/MTST (Close)
-　　H1H2D3 (Far)
+　　 D4 D1D2/MTST (Close)
+　　  H1H2D3 (Far)
 ```
+
+## Toolboxes
+
+[Mouser Toolbox](https://raidplan.io/plan/bZmdPoU2lde6UbSu){: .btn .btn-blue }
 
 ## Waymarks
 For import with waymark addon.
