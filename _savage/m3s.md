@@ -20,29 +20,28 @@ PF Strats
 ■ Boom Dive (Boss Relative)
  　　MT　★　ST
  　　　D1　D2
-　D3　H1　　H2　D4
-■ Barbarous Barrage
+　D3   H1　H2　D4
+■ Barbarous Barrage (Boss Relative)
 　 T/M: N/W　H/R: S/E
 　 G1 Left | G2 Right
-　 ※ Boss Relative
 ■ Final Fuse Down #1
 　 ※ Lone Long Bomb: New North
 　　　　D3/H1
 　　　　　★
-　　　 Party
+　 　 　 Party
 　 D1/MT　　D2/ST
 　　　　D4/H2
 ■ Final Fuse Down #2
 　　D1/MT　D2/ST
 D3/H1 　★　　D4/H2
-　　　 Party
+　 　 　 Party
 ■ Fuse Field (North)
 　 CW MT ST H1 H2 CCW
 　 CW D1 D2 D3 D4 CCW
-■ Fuse or Foe (Resolve Positions)
+■ Infernal Spin (Resolve Positions)
 　 D3　　　 　D4
 　　 　　MT
-　   D1 ★ D2
+　 　 D1 ★ D2
 　 　　　ST
 　 H1　　　 　H2
 ```
@@ -63,4 +62,5 @@ For import with waymark addon.
 {"Name":"M3S OCE","MapID":990,"A":{"X":100.0,"Y":0.0,"Z":90.0,"ID":0,"Active":true},"B":{"X":110.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":110.0,"ID":2,"Active":true},"D":{"X":90.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":93.5,"Y":0.0,"Z":93.5,"ID":4,"Active":true},"Two":{"X":106.5,"Y":0.0,"Z":93.5,"ID":5,"Active":true},"Three":{"X":106.5,"Y":0.0,"Z":106.5,"ID":6,"Active":true},"Four":{"X":93.5,"Y":0.0,"Z":106.5,"ID":7,"Active":true}}
 ```
 
-https://imgur.com/O8TzWTw
+![image](https://github.com/user-attachments/assets/1c3db437-1fac-4cac-ab48-8b6d9746e99c)
+
