@@ -5,7 +5,7 @@ permalink: /m2s
 nav_order: 2
 ---
 
-# AAC Light-heavyweight M2 (Savage)
+# AAC Light-heavyweight M2 (Savage) 🐝
 
 PF Strats 
 {: .label .label-red }
