@@ -10,6 +10,9 @@ nav_order: 2
 PF Strats 
 {: .label .label-red }
 
+## Credits
+- Materia Raiding (macros/waymarks)
+
 ## Macro
 
 ```
