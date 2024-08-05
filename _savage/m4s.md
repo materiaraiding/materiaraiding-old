@@ -10,6 +10,10 @@ nav_order: 4
 PF Strats 
 {: .label .label-red }
 
+## Credits
+- Materia Raiding (macros/waymarks)
+- Evansith (toolbox)
+
 ## Cheatsheets
 
 <details markdown=1>
