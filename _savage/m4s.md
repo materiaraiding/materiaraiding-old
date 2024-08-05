@@ -14,13 +14,11 @@ PF Strats
 
 <details markdown=1>
 <summary>Phase 1 Cheatsheet</summary>
-Phase 1 Cheatsheet
 <a href="https://github.com/user-attachments/assets/a39360e4-efac-4b9c-8615-77ba6679d16d" target="_blank"><img src="https://github.com/user-attachments/assets/a39360e4-efac-4b9c-8615-77ba6679d16d"></a>
 </details>
 
 <details markdown=1>
 <summary>Phase 2 Cheatsheet</summary>
-Phase 2 Cheatsheet
 <a href="https://github.com/user-attachments/assets/bebdf892-275c-4012-a2eb-b5c7cbf8b0fe" target="_blank"><img src="https://github.com/user-attachments/assets/bebdf892-275c-4012-a2eb-b5c7cbf8b0fe"></a>
 </details>
 
