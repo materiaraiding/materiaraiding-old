@@ -10,6 +10,11 @@ nav_order: 3
 PF Strats 
 {: .label .label-red }
 
+## Credits
+- Materia Raiding (macros/waymarks)
+- Em Gram (toolbox)
+- Pickle Tickle (toolbox)
+
 ## Macro
 
 ```
@@ -49,10 +54,8 @@ D3/H1 　★　　D4/H2
 ## Toolboxes
 
 [Barbarous Barrage Toolbox](https://raidplan.io/plan/CWX-puH0h72E14CF){: .btn .btn-blue }
-By Em Gram
 
 [Final Fusedown Toolbox](https://ff14.toolboxgaming.space/?id=400793777952271&preview=1){: .btn .btn-blue }
-By Pickle Tickle
 
 ## Waymarks
 For import with waymark addon.
