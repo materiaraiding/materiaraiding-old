@@ -22,7 +22,7 @@ PF Strats
 <a href="https://github.com/user-attachments/assets/bebdf892-275c-4012-a2eb-b5c7cbf8b0fe" target="_blank"><img src="https://github.com/user-attachments/assets/bebdf892-275c-4012-a2eb-b5c7cbf8b0fe"></a>
 </details>
 
-# Macro
+## Macro
 
 ```
 ■ Electrifying　■ Witch Hunt (Fixed Baits)
