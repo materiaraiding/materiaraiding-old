@@ -17,7 +17,7 @@ PF Strats
 
 ## Cheatsheets
 
-{: .important }
+{: .note }
 > Electrope Edge 2 uses "FAR" and "CLOSE" categories rather than "CORNER" and "EDGE".
 > - Adjusted after significant feedback.
 > - Close = Close to boss and safespot, Far = Far from boss and safespot
