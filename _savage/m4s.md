@@ -13,6 +13,7 @@ PF Strats
 ## Credits
 - Materia Raiding (macros/waymarks)
 - Evansith (toolbox)
+- Liminal Space (toolbox)
 
 ## Cheatsheets
 
