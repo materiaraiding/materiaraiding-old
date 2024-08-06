@@ -17,9 +17,20 @@ PF Strats
 
 ## Cheatsheets
 
+{: .important }
+> Electrope Edge 2 uses "FAR" and "CLOSE" categories rather than "CORNER" and "EDGE".
+> - Adjusted after significant feedback.
+> - Close = Close to boss and safespot, Far = Far from boss and safespot
+> 
+> At this point there are 2 cheatsheets floating around, "Corner/Edge" one and "1+3 / 2+2" one.
+> - If you are pushing to clear I recomend using whatever is most comfortable.
+> - If you are progging, I would recommend "FAR" and "CLOSE" (cheatsheet with green number 2 in top right) as it seems to be most reasonable based on m4s discussion consensus
+
+Will re-evaluate strats during week 2 and see what pf prefers, and have hopefully have a single universal cheatsheet by the end of the week.
+
 <details markdown=1>
 <summary>Phase 1 Cheatsheet</summary>
-<a href="https://github.com/user-attachments/assets/a39360e4-efac-4b9c-8615-77ba6679d16d" target="_blank"><img src="https://github.com/user-attachments/assets/a39360e4-efac-4b9c-8615-77ba6679d16d"></a>
+<a href="https://github.com/user-attachments/assets/15cb8780-a15f-4906-98d1-45b38332a13c" target="_blank"><img src="https://github.com/user-attachments/assets/15cb8780-a15f-4906-98d1-45b38332a13c"></a>
 </details>
 
 <details markdown=1>
