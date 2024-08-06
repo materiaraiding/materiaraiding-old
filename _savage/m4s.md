@@ -87,6 +87,16 @@ Will re-evaluate strats during week 2 and see what pf prefers, and have hopefull
  　H1D3　　  H2D4
 ```
 
+"Uptime" T Variant
+```
+■ Electrope Edge 2 (Uptime T Shape) 
+　 ※TH West　※DPS East
+　 Spread　　　　　 Stack
+　　D1   MT   D2　　(TH) Close  (TH) Far  (DPS) Close
+　H1　   ST   　D4　　　　(DPS) Far
+　　  H2　　D3
+```
+
 ## Toolbox
 
 [Twilight/Midnight Sabbath Toolbox](https://ff14.toolboxgaming.space/?id=539690421352271&preview=1){: .btn .btn-blue }
