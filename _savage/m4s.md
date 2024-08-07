@@ -20,8 +20,8 @@ PF Strats
 ## Table of Contents
 {: .no_toc }
 
-TOC {:toc}
-
+1. TOC
+{:toc}
 
 ## Cheatsheets
 
