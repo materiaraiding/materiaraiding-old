@@ -123,6 +123,7 @@ A B C D are exactly on the middle of in/out dodges for witch hunt
 ![image](https://github.com/user-attachments/assets/0adaf5f6-87a1-4e0a-84a4-5586706feadb)
 
 # Written Guide
+By Pipiro Piro
 
 ## Debuffs & Status Effects
 This fight contains several recurring and new status effects. It is important that you **DO** know what these debuffs look like as the guide will make frequent reference to them. You **DO NOT** necessarily need to know their effects to complete the fight but I have included them below for completeness.
