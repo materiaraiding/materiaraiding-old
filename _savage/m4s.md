@@ -188,13 +188,9 @@ Following this, the remaining lightning lines on the floor will begin to glow an
 
 Given four players have already been dived and cannot be hit again, the opposite role group (supports/DPS) will step in or out take these baits. Wicked Thunder will then begin casting her next major mechanic: 
 
-**Close Bait**
-
-![image](https://github.com/user-attachments/assets/24819d69-c186-4ccf-95e2-9493a6253428)
-
-**Far Bait**
-
-![image](https://github.com/user-attachments/assets/d80fff9c-5724-46e3-aadd-af7f14b86367)
+| ![image](https://github.com/user-attachments/assets/24819d69-c186-4ccf-95e2-9493a6253428) | ![image](https://github.com/user-attachments/assets/d80fff9c-5724-46e3-aadd-af7f14b86367) |
+|:--:|:--:| 
+| **Close Bait** | **Far Bait** |
 
 ### Widening/Narrowing Witch Hunt
 
@@ -216,14 +212,9 @@ To resolve this mechanic, we have the party stand in their clock spots and dodge
 
 {: .note }
 > Ultimately, one of two bait patterns will be observed. You can make these into a macro to help you while progging.
-> 
-> ![image](https://github.com/user-attachments/assets/2eca2541-7e20-465c-bdb9-dd27ca4d76c4)
-> 
-> Tanks > Healers > Melee > Ranged (Close > Far > Close > Far)
-> 
-> ![image](https://github.com/user-attachments/assets/f06be4a8-4114-4dba-ade4-fa076be6aaef)
-> 
-> Healers > Tanks > Ranged > Melee (Far > Close > Far > Close)
+> | ![image](https://github.com/user-attachments/assets/2eca2541-7e20-465c-bdb9-dd27ca4d76c4) | ![image](https://github.com/user-attachments/assets/f06be4a8-4114-4dba-ade4-fa076be6aaef) |
+> |:--:|:--:| 
+> | Tanks > Healers > Melee > Ranged <br>(Close > Far > Close > Far) | Healers > Tanks > Ranged > Melee <br>(Far > Close > Far > Close) |
 
 {: .everyone }
 > To allow for better uptime and to prevent melees accidentally killing each other with close baits, this mechanic will be resolved with modified clock spots.
