@@ -164,8 +164,7 @@ Wicked Thunder will spawn a pair of wings and electrope cubes on the west side o
 
 Following this, the vertical cleaves will each leave behind a glowing line of lightning. 
 
-![image](https://github.com/user-attachments/assets/191e144c-354f-4ad5-b834-694d11a780a9)
-![image](https://github.com/user-attachments/assets/291282ed-14c9-4955-82d7-2b8791af582b)
+|![image](https://github.com/user-attachments/assets/191e144c-354f-4ad5-b834-694d11a780a9)|![image](https://github.com/user-attachments/assets/291282ed-14c9-4955-82d7-2b8791af582b)|
 
 The boss will then teleport back to the centre and immediately begin casting: 
 
@@ -182,8 +181,7 @@ The following mechanics will occur as the boss is casting **Electrifying Witch H
 
 Combined, these overlapping mechanics will leave 8 small squares safe in which the party can spread as shown below.
 
-![image](https://github.com/user-attachments/assets/6fab1f14-7711-4eca-b24f-c0ae862fd5bd)
-![image](https://github.com/user-attachments/assets/7544889d-12f6-4f19-9a33-c3942a18ac8e)
+|![image](https://github.com/user-attachments/assets/6fab1f14-7711-4eca-b24f-c0ae862fd5bd)|![image](https://github.com/user-attachments/assets/7544889d-12f6-4f19-9a33-c3942a18ac8e)|
 
 Following this, the remaining lightning lines on the floor will begin to glow and expand leaving the opposite area of the arena safe. Wicked Thunder will also cast **Witch Hunt**, which will target either the four closest or farthest players with a clone dive. This is determined by the symbol she shows on her chest during the castbar. 
 
