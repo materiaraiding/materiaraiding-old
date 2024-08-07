@@ -210,11 +210,11 @@ To resolve this mechanic, we have the party stand in their clock spots and dodge
 1. Melees will take the close baits either at the edge of the PB AOE or on the edge of the boss’s hitbox. 
 2. Ranged will take the far baits either at the edge of the donut or farther out than the waymarks.  
 
-{: .note }
-> Ultimately, one of two bait patterns will be observed. You can make these into a macro to help you while progging.
-> | ![image](https://github.com/user-attachments/assets/2eca2541-7e20-465c-bdb9-dd27ca4d76c4) | ![image](https://github.com/user-attachments/assets/f06be4a8-4114-4dba-ade4-fa076be6aaef) |
-> |:--:|:--:| 
-> | Tanks > Healers > Melee > Ranged <br>(Close > Far > Close > Far) | Healers > Tanks > Ranged > Melee <br>(Far > Close > Far > Close) |
+Ultimately, one of two bait patterns will be observed. You can make these into a macro to help you while progging.
+
+| ![image](https://github.com/user-attachments/assets/2eca2541-7e20-465c-bdb9-dd27ca4d76c4) | ![image](https://github.com/user-attachments/assets/f06be4a8-4114-4dba-ade4-fa076be6aaef) |
+|:--:|:--:| 
+| Tanks > Healers > Melee > Ranged <br>(Close > Far > Close > Far) | Healers > Tanks > Ranged > Melee <br>(Far > Close > Far > Close) |
 
 {: .everyone }
 > To allow for better uptime and to prevent melees accidentally killing each other with close baits, this mechanic will be resolved with modified clock spots.
