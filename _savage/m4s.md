@@ -182,15 +182,16 @@ Combined, these overlapping mechanics will leave 8 small squares safe in which t
 ![image](https://github.com/user-attachments/assets/6fab1f14-7711-4eca-b24f-c0ae862fd5bd)
 ![image](https://github.com/user-attachments/assets/7544889d-12f6-4f19-9a33-c3942a18ac8e)
 
-
 Following this, the remaining lightning lines on the floor will begin to glow and expand leaving the opposite area of the arena safe. Wicked Thunder will also cast **Witch Hunt**, which will target either the four closest or farthest players with a clone dive. This is determined by the symbol she shows on her chest during the castbar. 
 
 Given four players have already been dived and cannot be hit again, the opposite role group (supports/DPS) will step in or out take these baits. Wicked Thunder will then begin casting her next major mechanic: 
 
 **Close Bait**
+
 ![image](https://github.com/user-attachments/assets/24819d69-c186-4ccf-95e2-9493a6253428)
 
 **Far Bait**
+
 ![image](https://github.com/user-attachments/assets/d80fff9c-5724-46e3-aadd-af7f14b86367)
 
 #### Widening/Narrowing Witch Hunt
@@ -215,16 +216,20 @@ To resolve this mechanic, we have the party stand in their clock spots and dodge
 > Ultimately, one of two bait patterns will be observed. You can make these into a macro to help you while progging.
 > 
 > ![image](https://github.com/user-attachments/assets/2eca2541-7e20-465c-bdb9-dd27ca4d76c4)
+> 
 > Tanks > Healers > Melee > Ranged (Close > Far > Close > Far)
 > 
 > ![image](https://github.com/user-attachments/assets/f06be4a8-4114-4dba-ade4-fa076be6aaef)
+> 
 > Healers > Tanks > Ranged > Melee (Far > Close > Far > Close)
 
 {: .everyone }
 > To allow for better uptime and to prevent melees accidentally killing each other with close baits, this mechanic will be resolved with modified clock spots.
 > 
 > ![image](https://github.com/user-attachments/assets/58291d86-f143-4ebb-9616-6e9cc97fc583)
-> The waymarks and floor markings here are also very useful to help you determine the size of the upcoming point-blank AOE. The PB AOE and donut cleave directly through the middle of the waymarks and the intersection of the cardinal tiles (green arrows). 
+> 
+> The waymarks and floor markings here are also very useful to help you determine the size of the upcoming point-blank AOE. The PB AOE and donut cleave directly through the middle of the waymarks and the intersection of the cardinal tiles (green arrows).
+> 
 > ![image](https://github.com/user-attachments/assets/670cd245-1cf6-4989-bb5b-af1651dd115e)
 
 Wicked Thunder will end this mechanic with another Wrath of Zeus raidwide before beginning the next mechanic: 
