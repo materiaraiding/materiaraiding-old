@@ -23,6 +23,8 @@ PF Strats
 1. TOC
 {:toc}
 
+# General Resources
+
 ## Cheatsheets
 
 {: .note }
@@ -120,9 +122,9 @@ A B C D are exactly on the middle of in/out dodges for witch hunt
 
 ![image](https://github.com/user-attachments/assets/0adaf5f6-87a1-4e0a-84a4-5586706feadb)
 
-## Written Guide
+# Written Guide
 
-### Debuffs & Status Effects
+## Debuffs & Status Effects
 This fight contains several recurring and new status effects. It is important that you **DO** know what these debuffs look like as the guide will make frequent reference to them. You **DO NOT** necessarily need to know their effects to complete the fight but I have included them below for completeness.
 
 |          Debuff Name         | Icon |                                                                                                                                          Effect                                                                                                                                         |   |   |
@@ -146,13 +148,13 @@ This fight contains several recurring and new status effects. It is important th
 {: .note }
 Getting hit by any avoidable mechanics in this fight will incur a Damage Down debuff that will reduce damage dealt by 25% for 30s. Some mechanics will also inflict Sustained Damage , which is a heavy bleed that cannot be mitigated.
 
-### Phase 1
+## Phase 1
 The fight begins with two autos and a hard-hitting raidwide Wrath of Zeus. Wicked Thunder will then spawn a pair of wings before jumping north to the wall and casting:
 
 {: .tanks }
 As the bosses jump will put her out of melee range for tanks and melee DPS, the MT should start the fight by pulling the boss north.
 
-#### Bewitching Flight
+### Bewitching Flight
 Wicked Thunder will spawn a pair of wings and electrope cubes on the west side of the arena. Her wings will telegraph five line cleaves vertically and the cubes will telegraph four line cleaves horizontally, leaving a checkerboard pattern of safe spots. These cleaves are half a tile wide. 
 
 {: .note }
@@ -166,7 +168,7 @@ Following this, the vertical cleaves will each leave behind a glowing line of li
 
 The boss will then teleport back to the centre and immediately begin casting: 
 
-#### Electrifying Witch Hunt
+### Electrifying Witch Hunt
 
 The following mechanics will occur as the boss is casting **Electrifying Witch Hunt**.
 
@@ -194,7 +196,7 @@ Given four players have already been dived and cannot be hit again, the opposite
 
 ![image](https://github.com/user-attachments/assets/d80fff9c-5724-46e3-aadd-af7f14b86367)
 
-#### Widening/Narrowing Witch Hunt
+### Widening/Narrowing Witch Hunt
 
 The boss will begin a long cast bar, either casting **Widening Witch Hunt** or **Narrowing Witch Hunt** which will indicate the type of AOE she will perform FIRST. This will either be a large point blank AOE (PBs) or donut. 
 
@@ -234,7 +236,7 @@ To resolve this mechanic, we have the party stand in their clock spots and dodge
 
 Wicked Thunder will end this mechanic with another Wrath of Zeus raidwide before beginning the next mechanic: 
 
-#### Electrope Edge 1
+### Electrope Edge 1
 The boss will spawn four electrope cubes in the corners of the arena. She will then cast **Witchgleam** and begin charging the cubes by firing untelegraphed line AOEs into the cubes in sets of two. She will do this three times, leaving two cubes with 1 hit and two cubes with 2 hits. The cubes with 2 hits will cause a 3x3 explosion centred around the cube, leaving that quadrant unsafe. The cubes with 1 hit will cause a 1x1 explosion on their tile, but leave the rest of the quadrant safe. 
 
 The party should first stand on the cardinals to avoid the line AOEs, while keeping track of which two cubes are only hit once. 
