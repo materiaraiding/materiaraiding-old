@@ -329,4 +329,4 @@ For JP players, please review this list of differences, using the language in [T
     - **Cosmo Meteor**: H1 will move to the centre by default.
 </details>
 
-<a href="{{ site.baseurl }}/assets/images/cheatsheets/topcheatsheet.png" target="_blank"><img src="{{ site.baseurl }}/assets/images/cheatsheets/topcheatsheet.png"></a>
+<a href="{{ site.baseurl }}/assets/images/cheatsheets/topcheatsheet.webp" target="_blank"><img src="{{ site.baseurl }}/assets/images/cheatsheets/topcheatsheet.webp"></a>
