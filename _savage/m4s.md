@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/e63c0dc7-6da1-4793-9e43-a6284bf3566b)---
 layout: default
 title: M4S
 permalink: /m4s
@@ -135,8 +135,8 @@ This fight contains several recurring and new status effects. It is important th
 | Magic Vulnerability Up       |![image](https://github.com/user-attachments/assets/377b45e1-c671-406e-bdd2-407aa4088a22)| Prevents you from receiving any other magic damage until this debuff wears off. Doing so kills you.                                                                                                                                                                                     |
 | Electrical Condenser         |![image](https://github.com/user-attachments/assets/5a633adf-26fd-4d99-8836-356a740adbc9)| Causes tiles in a R-tile radius around the player to explode dealing lightning damage and inflicting Lightning Resistance Down II.  R here is the number of times the player receives lightning damage from the boss while the debuff is up from either Witchgleam or Eight/Four Star.  |
 | Lightning Resistance Down II |![image](https://github.com/user-attachments/assets/add28c14-336c-4887-8de9-e2fb78791bb7)| Prevents you from receiving any other lightning damage until this debuff wears off. Doing so kills you.                                                                                                                                                                                 |
-| Positron                     |![image](https://github.com/user-attachments/assets/f9d9c750-eb1a-443c-ba6e-bdf179f0d674)| Stacks up to 6. Will instantly kill the player once the timer reaches zero.  Getting hit by a cannon of the opposite colour/polarity (blue) will cleanse a stack and extend the timer.                                                                                                  |
-| Negatron                     |![image](https://github.com/user-attachments/assets/b690fe3d-ca7c-4194-8616-25a4a2dd7522)| Stacks up to 6. Will instantly kill the player once the timer reaches zero.  Getting hit by a cannon of the opposite colour/polarity (yellow) will cleanse a stack and extend the timer.                                                                                                |
+| Positron                     |![image](https://github.com/user-attachments/assets/f9d9c750-eb1a-443c-ba6e-bdf179f0d674)| Stacks up to 6. Will instantly kill the player once the timer reaches zero. Getting hit by a cannon of the opposite colour/polarity (blue) will cleanse a stack.                                                                                                  |
+| Negatron                     |![image](https://github.com/user-attachments/assets/b690fe3d-ca7c-4194-8616-25a4a2dd7522)| Stacks up to 6. Will instantly kill the player once the timer reaches zero. Getting hit by a cannon of the opposite colour/polarity (yellow) will cleanse a stack.                                                                                                |
 | Spinning Conductor           |![image](https://github.com/user-attachments/assets/2dd21638-6f48-4bd7-b54a-2244c1c8b9ea)| Causes a tiny PB AOE round the player that will kill any other players hit.                                                                                                                                                                                                             |
 | Roundhouse Conductor         |![image](https://github.com/user-attachments/assets/27c93ba7-3540-477e-9010-2f9454297cdc)| Causes a massive donut around the player that will kill any other players hit.                                                                                                                                                                                                          |
 | Collider Conductor           |![image](https://github.com/user-attachments/assets/1c76ae5a-4d47-4e6d-8fff-0b1c9c31d95e)| Will cause a player to explode if not resolved before the timer reaches zero, inflicting Damage Down and Sustained Damage on the entire party. Can be cleansed by taking damage from cleaves from Remote/Proximate Current.                                                             |
@@ -166,7 +166,7 @@ Following this, the vertical cleaves will each leave behind a glowing line of li
 
 |![image](https://github.com/user-attachments/assets/191e144c-354f-4ad5-b834-694d11a780a9)|![image](https://github.com/user-attachments/assets/291282ed-14c9-4955-82d7-2b8791af582b)|
 
-The boss will then teleport back to the centre and immediately begin casting: 
+The boss will then teleport back to the centre and immediately begin casting Electrifying Witch Hunt.
 
 ### Electrifying Witch Hunt
 
@@ -177,7 +177,7 @@ The following mechanics will occur as the boss is casting **Electrifying Witch H
 3. The lines of lightning left on the floor will begin to glow and expand, indicating they are about to explode. This will always occur in one of two patterns:
      - The **middle three lines** will explode leaving the left and right edges of the arena safe.
      - The **outer 2 lines** will explode leaving the centre of the arena safe.
-4. The boss will prepare to randomly target **four** players with clone dives dealing damage, inflicting **Physical Vulnerability Up** for 13s and Forked Lightning for 8s. These will always either target all supports (T/H) or all DPS and so the party must stay spread. 
+4. The boss will prepare to randomly target **four** players with clone dives dealing physical damage, inflicting **Physical Vulnerability Up** for 13s and Forked Lightning for 8s. These will always either target all supports (T/H) or all DPS and so the party must stay spread. 
 
 Combined, these overlapping mechanics will leave 8 small squares safe in which the party can spread as shown below.
 
@@ -185,7 +185,7 @@ Combined, these overlapping mechanics will leave 8 small squares safe in which t
 
 Following this, the remaining lightning lines on the floor will begin to glow and expand leaving the opposite area of the arena safe. Wicked Thunder will also cast **Witch Hunt**, which will target either the four closest or farthest players with a clone dive. This is determined by the symbol she shows on her chest during the castbar. 
 
-Given four players have already been dived and cannot be hit again, the opposite role group (supports/DPS) will step in or out take these baits. Wicked Thunder will then begin casting her next major mechanic: 
+Given four players have already been dived and cannot be hit again, the opposite role group (supports/DPS) will step in or out take these baits. Wicked Thunder will then begin casting her next major mechanic **Widening/Narrowing Witch Hunt**.
 
 | ![image](https://github.com/user-attachments/assets/24819d69-c186-4ccf-95e2-9493a6253428) | ![image](https://github.com/user-attachments/assets/d80fff9c-5724-46e3-aadd-af7f14b86367) |
 |:--:|:--:| 
@@ -224,7 +224,7 @@ Ultimately, one of two bait patterns will be observed. You can make these into a
 > 
 > ![image](https://github.com/user-attachments/assets/670cd245-1cf6-4989-bb5b-af1651dd115e)
 
-Wicked Thunder will end this mechanic with another Wrath of Zeus raidwide before beginning the next mechanic: 
+Wicked Thunder will end this mechanic with another Wrath of Zeus raidwide before beginning the next major mechanic **Electrope Edge**. 
 
 ### Electrope Edge 1
 The boss will spawn four electrope cubes in the corners of the arena. She will then cast **Witchgleam** and begin charging the cubes by firing untelegraphed line AOEs into the cubes in sets of two. She will do this three times, leaving two cubes with 1 hit and two cubes with 2 hits. The cubes with 2 hits will cause a 3x3 explosion centred around the cube, leaving that quadrant unsafe. The cubes with 1 hit will cause a 1x1 explosion on their tile, but leave the rest of the quadrant safe. 
@@ -240,3 +240,100 @@ These spread AOEs are very big. Melees should ensure they are max melee from the
 
 ![image](https://github.com/user-attachments/assets/2a53392f-6ada-4c71-ba6c-176c5d4a4f4d)
 
+Wicked Thunder immediately follows this with Wicked Jolt, a hard-hitting line tankbuster that inflicts Magic Vulnerability Up for 5s, forcing either a tankswap or a tank invuln.
+
+{: .tanks }
+Wicked Thunder’s autos also deal magic damage. As such, if using a tank invuln here, make sure to use it as late as possible to cover the auto after the tank buster.
+
+{: .healers }
+With the Magic Vulnerability Up, Wicked Thunder’s autos will deal massive damage. With WAR and DRK, make sure to delay any healing until the last auto before the debuff falls off or it will be wasted.
+
+Following the tank buster, the boss will begin to cast another Electrope Edge.
+
+### Electrope Edge 2
+All players will receive the **Electrical Condenser** debuff with a timer of either 22s **(SHORT)** or 42s **(LONG)**. Wicked Thunder will then cast **Witchgleam** again, this time targeting four players with untelegraphed line AOEs, ‘charging them up’. This will happen four times totalling 16 separate hits. All **SHORT** players will be hit **two or three times**, while all **LONG** players will be hit **one or two times**. These are completely random and are not role based. The party should begin by standing in their normal clock spots and taking note of if they are short/long and how many times they are hit. 
+
+The number of times a player is hit while the debuff is active indicates the size of the explosion centred on them when the debuff timer expires. Players hit **three** times will explode in a 5x5 grid, while players hit **two** times will explode in a 3x3 grid. 
+
+The boss will now cast **Lightning Cage** spawning the following grid pattern on the floor. This pattern is **always the same** but can spawn in any orientation. Here, we will take the square at the base of the ‘T’ as the new **relative south** for this mechanic. 
+
+![image](https://github.com/user-attachments/assets/9e7010d4-dcb3-45c9-a1ad-92317996ab32)
+
+To resolve this mechanic, the **LONG** players need to stack on the safe spot at south. **SHORT** players need to head to their respective spots based on the number of times they were hit. To make this easier, we have the 3 hits go **far** to the corners and the 2 hits **close**, against the south set of AOEs at the wall. Supports will always go to the left and DPS will always go to the right, facing **relative north**. See the macro/cheatsheet for these exact spots.
+
+![image](https://github.com/user-attachments/assets/80f158da-52f6-42c3-ba33-d94f538448ac)
+
+{: .note }
+LONG players should add one to the number of times they are hit as the upcoming spread/stack mechanic will count as damage taken while the debuff is active. As such long 2 hit players will be going far and long 1 hit players will be going short. This is important for the upcoming mechanic if it is stack.
+
+Wicked Thunder will start casting Sideways Spark again, telegraphing a half room cleave. At the same time either 8 small orbs or 4 large orbs will be telegraphed on her body indicating either a spread (Eight Star) or pair stacks (Four Star) respectively. If it is spreads, players can go to their assigned positions and let the mechanic resolve.
+
+![image](https://github.com/user-attachments/assets/1a0cef71-c50a-4bc1-a873-ab3d40e0970a)
+
+If it is pairs, the pair stacks will target the long players meaning regular pair stacks cannot be used. Instead, static pair stack positions are assigned based on whether players were far or close as this guarantees a short and long player will be stacked. 
+
+![image](https://github.com/user-attachments/assets/387ecb2e-cada-428e-8cb4-437d2731731c)
+
+Following this, the boss will spawn the Lightning Cage grid pattern on the floor again, potentially in a different orientation. To resolve this, have the short players move to the safe square south and have long players resolve their debuffs in the same way as before. 
+
+Wicked Thunder will then cast Wicked Bolt, a five-hit party stack dealing heavy damage, before starting the next major mechanic Ion Cluster.  
+
+### Ion Cluster
+The boss will assign four players with 3 stacks of Positron and the other four with 3 stacks of Negatron, both with a 62s timer. She will then jump north and begin spawning a massive cannon. 
+
+{: .tanks }
+As the bosses jump will put her out of melee range for tanks and melee DPS, the MT should start pulling the boss north after Wicked Bolt.
+
+Once the cannon is fully formed, she will turn to one side and begin cleaving four columns five times eventually breaking the platform, leaving only one safe column of tiles. 
+
+{: .warning }
+The boss’s cannon shots Stampeding Thunder do insanely high amounts of damage. Without mitigation, DPS can only survive 2 hits and tanks 3 hits. DO NOT greed. 
+
+{: .everyone }
+You can tell early on which direction the boss will be cleaving by watching her hitbox, rather than her model. Her hitbox will always turn about a second before her gun.
+
+Wicked Thunder will then jump to the middle of this platform and begin casting Electron Stream. She will point a cannon in front of and behind her, with one cannon being blue and the other yellow. The ultimate goal of this mechanic is to cleanse all three stacks of Positron/Negatron by getting hit by the opposite coloured cannon three times. 
+
+This mechanic is made complicated by additional debuffs that are applied with each hit, each with a 5s or 7s timer. With each hit, four players will receive Spinning/Roundhouse Conductor, two players will receive Collider Conductor and the remaining two players will receive Remote/Proximate Current. The four players with the donut/PB AOE want to avoid hitting any other players, while the two players with currents must position themselves so that the Collider Conductor players are hit by their conal cleave. 
+
+{: .warning }
+Each source of damage from these debuffs applies a short 2s Magic Vulnerability Up which will kill anyone who is hit by more than one debuff. If anyone dies during this mechanic or a Collider Conductor debuff is not resolved, that player will explode applying Damage Down and Sustained Damage on the entire party. 
+
+While this mechanic sounds complicated, resolving it is fairly simple. Following each cannon hit, identify which debuff you have and stand in the correct position according to the cheatsheet.
+
+![image](https://github.com/user-attachments/assets/fd2c3662-42f3-49c8-bdda-76e6c568682f)
+
+{: .note }
+There are several floor markings which can be used to help you position yourself. Additionally, Spinning/Roundhouse Conductor players will all have the same buff and stand in the same spots regardless of which debuff they receive. The same applies to players with Remote/Proximate Current.
+
+This set of mechanics repeats twice more until all debuffs are cleansed and the arena is restored. The boss does one final Wicked Jolt tankbuster before jumping back to the middle of the arena and beginning the Transition Phase. 
+
+{: .healers }
+Ion Cluster is an incredibly hard-hitting set of mechanics requiring a fairly solid mitigation plan. During early weeks of the tier, a super ether may be required here to help you manage MP.
+
+### Transition
+Wicked Thunder will cast Electrope Transplant, beginning the transition phase. Transition is a fast-paced phase that while mechanically simple, is quite execution heavy. She will be facing south this entire phase. As such, new spread spots are assigned for this entire phase. 
+
+![image](https://github.com/user-attachments/assets/d758ee8c-94fa-488d-b801-f238d39a861b)
+
+Wicked Thunder begins by telegraphing narrow proteans targeted at the cardinals and intercardinals. She will cleave these proteans before cleaving the safe spots. This will alternate back and forth, however only the initial cleave is telegraphed, each subsequent cleave is untelegraphed. 
+
+![image](https://github.com/user-attachments/assets/f9aaf815-e02d-4c4c-b45b-a870614a0887)
+
+All players want to be fairly spread while doing these dodges. To ensure this, every pair should be dodging these cleaves in the same manner. To resolve this, start at the safe spot directly clockwise of your assigned waymark with your partner - melees should be close to the boss at max melee while ranged should be further out. Rotate counterclockwise into the marker, dodge the cleave and then rotate clockwise back into the initial safe spot. Rinse and repeat. 
+
+With the 5th protean, Wicked Thunder will either hit all supports or all DPS with Conduction Point which will inflict them with Magic Vulnerability Up for 6s. 
+
+With the 6th protean, she will then target each of the players previously hit with Forked Fissures, a 90 degree wide cone. Forked Fissures is a shared cleave inflicting Lightning Resistance Down II for 2s meaning no two pairs can be overlapped. Furthermore this cleave is a wild charge, forcing the player who was without the magic vuln to stand in front of their partner to take this hit. 
+
+{: .note }
+> During the dodges, do not to be too close to one another as it risks players clipping each other with Conduction Point. 
+> 
+> With how the proteans spawn, Forked Fissures should always be taken in line with a waymark. 
+
+The boss will do one final 7th protean before pausing shortly, and repeating the entire sequence of mechanics again. At the end of the second set of Forked Fissures, the boss will begin slamming and stomping the arena before eventually breaking the floor and knocking all players back, directly away from her, dealing massive damage. 
+
+Players must stack south outside her hitbox to ride the knockback onto the second platform. 
+
+{: .note }
+Take care not to forget the last dodge after Forked Fissures. It can be helpful to count out the proteans as they come out to keep track and remember this last dodge.
