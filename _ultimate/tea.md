@@ -68,7 +68,7 @@ Space = Hold to select numbers
 
 <details markdown=1>
 <summary>Full Cheatsheet</summary>
-<a href=".\assets\images\cheatsheets\teacheatsheet.png" target="_blank"><img src=".\assets\images\cheatsheets\teacheatsheet.webp"></a>
+<a href=".\assets\images\cheatsheets\teacheatsheet.webp" target="_blank"><img src=".\assets\images\cheatsheets\teacheatsheet.webp"></a>
 </details>
 
 <details markdown=1>

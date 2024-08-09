@@ -56,7 +56,7 @@ Mitigation plan spreadsheet
 
 <details markdown=1>
 <summary>View Cheatsheet</summary>
-<a href="{{ site.baseurl }}/assets/images/cheatsheets/topcheatsheet.png" target="_blank"><img src="{{ site.baseurl }}/assets/images/cheatsheets/topcheatsheet.png"></a>
+<a href="{{ site.baseurl }}/assets/images/cheatsheets/topcheatsheet.webp" target="_blank"><img src="{{ site.baseurl }}/assets/images/cheatsheets/topcheatsheet.webp"></a>
 </details>
 
 ### Waymarks
