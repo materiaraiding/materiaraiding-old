@@ -17,6 +17,8 @@
     margin-bottom: 0.4em;
     color: #f77e7e;
     transition: 0.3s;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .navlink:hover {
