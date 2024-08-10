@@ -13,18 +13,36 @@ This website is a resource provided by Materia Raiding community, as a one-stop 
 Updated for Dawntrail! ☀️
 {: .label .label-yellow }
 
-| Savage Raids              | Ultimate Raids       | Extreme Trials     | Criterion Dungeons |
-|:--------------------------|:---------------------|:-------------------|:-------------------|
-|[M1S](/m1s){: .btn }       |[UCOB](/ucob){: .btn }|[EX1](/ex1){: .btn }|[ASS](/ass){: .btn }|
-|[M2S](/m2s){: .btn }       |[UWU](/uwu){: .btn }  |[EX2](/ex2){: .btn }|[AMR](/amr){: .btn }|
-|[M3S](/m3s){: .btn }       |[TEA](/tea){: .btn }  |                    |[AAI](/aai){: .btn }|
-|[M4S](/m4s){: .btn }       |[DSR](/dsr){: .btn }  |                    |                    |
-|                           |[TOP](/top){: .btn }  |                    |                    |
-|                           |[FRU](/fru){: .btn }  |                    |                    |
-
-Visiting from another region? check out our visitors guide for a quick breakdown on differences in strats.
-
-[Visitors Guide to OCE Raiding](/visitorsguide){: .btn } 
+<div style="display: flex; flex-wrap: wrap;">
+    <div class="navcolumn">
+        <h2>Savage Raids</h2>
+        {% assign pages_in_order = site.savage | sort: "nav_order" %}
+        {% for page in pages_in_order %}
+            <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.webp');">{{ page.title }}</div>
+        {% endfor %}
+    </div>
+    <div class="navcolumn">
+        <h2>Ultimate Raids</h2>
+        {% assign pages_in_order = site.ultimate | sort: "nav_order" %}
+        {% for page in pages_in_order %}
+            <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.webp');">{{ page.title }}</div>
+        {% endfor %}
+    </div>
+    <div class="navcolumn">
+        <h2>Extreme Trials</h2>
+        {% assign pages_in_order = site.extreme | sort: "nav_order" %}
+        {% for page in pages_in_order %}
+            <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.webp');">{{ page.title }}</div>
+        {% endfor %}
+    </div>
+    <div class="navcolumn">
+        <h2>Criterion Dungeons</h2>
+        {% assign pages_in_order = site.criterion | sort: "nav_order" %}
+        {% for page in pages_in_order %}
+            <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.webp');">{{ page.title }}</div>
+        {% endfor %}
+    </div>
+</div>
 
 ## Looking for a group? 🚩
 
@@ -34,6 +52,11 @@ If you are looking for a group to raid with or want to create your own team, the
 
 ![image](https://github.com/user-attachments/assets/2d07e5ea-7ff7-4bfe-8286-43edddd1458f)
 
+## Voyagers (NA/EU/JP) 🌏
+
+Visiting from another region? check out our visitors guide for a quick breakdown on differences in strats.
+
+[Visitors Guide to OCE Raiding](/visitorsguide){: .btn } 
 
 ## About 📜
 
