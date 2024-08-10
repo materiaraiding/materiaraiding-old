@@ -24,22 +24,22 @@ Updated for Dawntrail! ☀️
 
 <table>
     <tr>
-        {% for page in site.collection.savage %}
+        {% for page in site.savage %}
             <td>[{{ page.title }}]({{ page.permalink }}){: .btn }</td>
         {% endfor %}
     </tr>
     <tr>
-        {% for page in site.collection.ultimate %}
+        {% for page in site.ultimate %}
             <td>[{{ page.title }}]({{ page.permalink }}){: .btn }</td>
         {% endfor %}
     </tr>
     <tr>
-        {% for page in site.collection.extreme %}
+        {% for page in site.extreme %}
             <td>[{{ page.title }}]({{ page.permalink }}){: .btn }</td>
         {% endfor %}
     </tr>
     <tr>
-        {% for page in site.collection.criterion %}
+        {% for page in site.criterion %}
             <td>[{{ page.title }}]({{ page.permalink }}){: .btn }</td>
         {% endfor %}
     </tr>
