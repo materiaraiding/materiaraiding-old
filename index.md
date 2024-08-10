@@ -25,25 +25,29 @@ Updated for Dawntrail! ☀️
 <div style="display: flex">
     <div class="navcolumn">
         <h2>Savage Raids</h2>
-        {% for page in site.savage %}
+        {% assign pages_in_order = site.savage | sort: "nav_order" %}
+        {% for page in ultimates_by_page_order %}
             <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.webp');">{{ page.title }}</div>
         {% endfor %}
     </div>
     <div class="navcolumn">
         <h2>Ultimate Raids</h2>
-        {% for page in site.ultimate %}
+        {% assign pages_in_order = site.ultimate | sort: "nav_order" %}
+        {% for page in ultimates_by_page_order %}
             <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.webp');">{{ page.title }}</div>
         {% endfor %}
     </div>
     <div class="navcolumn">
         <h2>Extreme Trials</h2>
-        {% for page in site.extreme %}
+        {% assign pages_in_order = site.extreme | sort: "nav_order" %}
+        {% for page in ultimates_by_page_order %}
             <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.webp');">{{ page.title }}</div>
         {% endfor %}
     </div>
     <div class="navcolumn">
         <h2>Criterion Dungeons</h2>
-        {% for page in site.criterion %}
+        {% assign pages_in_order = site.criterion | sort: "nav_order" %}
+        {% for page in ultimates_by_page_order %}
             <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.webp');">{{ page.title }}</div>
         {% endfor %}
     </div>
