@@ -1,5 +1,5 @@
 :root {
-    --gradient: 0.50;
+    --gradient: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.80));
 }
 
 .navcolumn {
@@ -23,9 +23,9 @@
     transition: 0.3s;
     background-size: cover;
     background-position: center;
+    cursor: pointer;
 }
 
 .navlink:hover {
     color: #ffffff;
-    --gradient: 0.90;
 }
