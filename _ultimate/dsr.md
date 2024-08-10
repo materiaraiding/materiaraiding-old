@@ -402,7 +402,7 @@ In addition to all these mechanics, while the first and third set of towers are 
 The sets of towers will be dropped when the cast is finished, and the towers will resolve just before the 2nd Lash/Gnash.
 
 {: .note}
-> The snapshot timing for this attack is on the cast finish, so you're safe to walk through the boss before the animation goes off.
+> The snapshot timing for the first attack is on the cast finish, so you're safe to walk through the boss before the animation goes off.
 
 While it is possible to live getting hit by Lash/Gnash, it will knock the player back away from Nidhogg and apply a **damage down** debuff. At the time of writing the P3 damage check isn't incredibly tight, but with only a few damage downs it may be impossible to beat the damage check.
 
@@ -418,6 +418,37 @@ The Main tank will then face Nidhogg south and continue to take auto-attacks. Af
 
 ## **Phase 4: Eyes**
 
+Everyone will begin this phase by grouping on top of Alphinaud as he walks into the arena.
+
+Alphinaud and a random party member will be given a buff that applies to everyone in a short range, hence why we stack up. These buffs; **Soul of Devotion** and **Soul of Friendship** allow players to damage the eyes.
+
+{: .DPS}
+> Ranged should begin to focus on the **Red** eye, and melee should focus on the **Blue** eye
+
+Estinien will cast a heavy raidwide: **Resentment**, that applies a bleed.
+
+### **Hatebound**
+
+Tethers will randomly get applied to the party in such a way that there is **4 blue** and **4 red** tethers, attached to their respective eye. Taking damage while having a blue tether will **heal the blue eye**, and taking damage with a red tether will **damage the red eye**. 
+
+At the same time a large yellow orbs will appear in front of either eye, and 2 smaller blue orbs will spawn to the sides of each eye.
+
+Tethers are able to be swapped by standing on a player of the opposite colour, so be careful not to accidentally swap by walking on top of other players. In this strat, we want all melees (MT, ST, D1, D2) to begin with red tethers. If a melee does not sttart with this colour, they will walk to the middle of the arena and stack on Estinien. The ranged player that has the wrong colour will do the same, allowing both players to swap and receive the right coloured tether.
+
+Supports will move to the **Red** eye and DPS to the **Blue** eye as seen below:
+
+(Image)
+
+Once the yellow orb grows **twice**, all melee will walk into it together to take a pair stack. Afterwards, they will split and stand on top of their ranged partner, swapping tethers before moving to the middle. After the ranged take their orbs everyone will move to the **Blue** eye. All red tethers (now ranged players) will stand in a square-like formation around the eye, and all the melee will stack under the eye.
+
+### **Mirage Dives**
+
+Nidhogg will then dive 2 random red tether players 4 times in a row. Each player must be swapped with to ensure they won't be struck twice and instantly killed as the dive applies a vuln up.
+
+{: .DPS}
+> Around 35-40% HP on the **Red** eye, ranged should swap to the **Blue** eye.
+
+Finishing all these dives and having good damage will result in both eyes dying before they cast a final **Steep in Rage** cast. If both eyes are alive during this, the party will wipe. If the **Red** eye is alive during this, it will resurrect the **Blue** eye so it's important to keep an eye on it to mitigate possible wipes.
 
 {: .warning}
 Guide is not yet completed, apologies. Please refer to the Toolboxes for the remaining phases.
