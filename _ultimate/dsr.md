@@ -422,7 +422,7 @@ Everyone will begin this phase by grouping on top of Alphinaud as he walks into 
 
 Alphinaud and a random party member will be given a buff that applies to everyone in a short range, hence why we stack up. These buffs; **Soul of Devotion** and **Soul of Friendship** allow players to damage the eyes.
 
-{: .DPS}
+{: .damage }
 > Ranged should begin to focus on the **Red** eye, and melee should focus on the **Blue** eye
 
 Estinien will cast a heavy raidwide: **Resentment**, that applies a bleed.
@@ -445,7 +445,7 @@ Once the yellow orb grows **twice**, all melee will walk into it together to tak
 
 Nidhogg will then dive 2 random red tether players 4 times in a row. Each player must be swapped with to ensure they won't be struck twice and instantly killed as the dive applies a vuln up.
 
-{: .DPS}
+{: .damage }
 > Around 35-40% HP on the **Red** eye, ranged should swap to the **Blue** eye.
 
 Finishing all these dives and having good damage will result in both eyes dying before they cast a final **Steep in Rage** cast. If both eyes are alive during this, the party will wipe. If the **Red** eye is alive during this, it will resurrect the **Blue** eye so it's important to keep an eye on it to mitigate possible wipes.
