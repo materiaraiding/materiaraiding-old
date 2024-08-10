@@ -28,19 +28,13 @@ Currently Futures UNwritten...
 {:toc}
 
 ### Toolboxes
-Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
 ### PoV Videos
-Videos covering clears by different roles.
 
 ### Mitigation Plan
-Mitigation plan spreadsheet
 
 ### Cheatsheet
 
 ### Waymarks
 
 ### Buff Timings
-
-## Fight Summary
-{: .no_toc }
