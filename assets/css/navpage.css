@@ -3,7 +3,7 @@
 }
 
 .navcolumn {
-    padding: 0em 0.5em 0em 0.5em;
+    padding: 0em 0.4em 0em 0.4em;
     display: flex; 
     flex-grow: 1;
     flex-direction: column;
