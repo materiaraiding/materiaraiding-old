@@ -52,7 +52,7 @@ If you are looking for a group to raid with or want to create your own team, the
 
 ![image](https://github.com/user-attachments/assets/2d07e5ea-7ff7-4bfe-8286-43edddd1458f)
 
-## Voyagers (NA/EU/JP)
+## Voyagers (NA/EU/JP) 🌏
 
 Visiting from another region? check out our visitors guide for a quick breakdown on differences in strats.
 
