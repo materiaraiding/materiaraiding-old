@@ -44,10 +44,6 @@ Updated for Dawntrail! ☀️
     </div>
 </div>
 
-Visiting from another region? check out our visitors guide for a quick breakdown on differences in strats.
-
-[Visitors Guide to OCE Raiding](/visitorsguide){: .btn } 
-
 ## Looking for a group? 🚩
 
 If you are looking for a group to raid with or want to create your own team, the Materia Raiding server acts as a hub for finding teams. Join the server and look for the "Looking-for-group" and "Looking-for-members" channels and DM.
@@ -56,6 +52,11 @@ If you are looking for a group to raid with or want to create your own team, the
 
 ![image](https://github.com/user-attachments/assets/2d07e5ea-7ff7-4bfe-8286-43edddd1458f)
 
+## Voyagers (NA/EU/JP)
+
+Visiting from another region? check out our visitors guide for a quick breakdown on differences in strats.
+
+[Visitors Guide to OCE Raiding](/visitorsguide){: .btn } 
 
 ## About 📜
 
