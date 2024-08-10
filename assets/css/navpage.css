@@ -11,6 +11,17 @@
     max-width: 300px;
 }
 
+@media only screen and (max-width: 500px) {
+    .navcolumn {
+        padding: 0em 0.4em 0em 0.4em;
+        display: flex; 
+        flex-grow: 1;
+        flex-direction: column;
+        width: 218px;
+        max-width: 500px;
+    }
+}
+
 .navlink {
     height: 60px;
     border: 0px solid #aaa;
