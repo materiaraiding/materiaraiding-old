@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Another Sil'dihn Subterrane
+title: ASS
 permalink: /ass
 nav_order: 1
 ---

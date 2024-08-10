@@ -2,6 +2,7 @@
 layout: default
 title: UWU
 permalink: /uwu
+longtitle: The Weapon's Refrain (Ultimate)
 nav_order: 2
 ---
 

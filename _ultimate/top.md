@@ -2,6 +2,7 @@
 layout: default
 title: TOP
 permalink: /top
+longtitle: The Omega Protocol (Ultimate)
 nav_order: 5
 ---
 
