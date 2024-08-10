@@ -25,6 +25,10 @@ PF Strats
 
 # General Resources
 
+## POV
+
+[M4S PLD POV MT](https://www.youtube.com/watch?v=Xp8pGkvgOCM){: .btn }
+
 ## Cheatsheets
 
 {: .note }
