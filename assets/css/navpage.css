@@ -8,6 +8,7 @@
     flex-grow: 1;
     flex-direction: column;
     width: 218px;
+    max-width: 300px;
 }
 
 .navlink {
