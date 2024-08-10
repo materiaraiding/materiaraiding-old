@@ -26,28 +26,28 @@ Updated for Dawntrail! ☀️
     <div class="navcolumn">
         <h2>Savage Raids</h2>
         {% assign pages_in_order = site.savage | sort: "nav_order" %}
-        {% for page in ultimates_by_page_order %}
+        {% for page in pages_in_order %}
             <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.webp');">{{ page.title }}</div>
         {% endfor %}
     </div>
     <div class="navcolumn">
         <h2>Ultimate Raids</h2>
         {% assign pages_in_order = site.ultimate | sort: "nav_order" %}
-        {% for page in ultimates_by_page_order %}
+        {% for page in pages_in_order %}
             <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.webp');">{{ page.title }}</div>
         {% endfor %}
     </div>
     <div class="navcolumn">
         <h2>Extreme Trials</h2>
         {% assign pages_in_order = site.extreme | sort: "nav_order" %}
-        {% for page in ultimates_by_page_order %}
+        {% for page in pages_in_order %}
             <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.webp');">{{ page.title }}</div>
         {% endfor %}
     </div>
     <div class="navcolumn">
         <h2>Criterion Dungeons</h2>
         {% assign pages_in_order = site.criterion | sort: "nav_order" %}
-        {% for page in ultimates_by_page_order %}
+        {% for page in pages_in_order %}
             <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.webp');">{{ page.title }}</div>
         {% endfor %}
     </div>
