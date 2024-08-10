@@ -22,32 +22,14 @@ Updated for Dawntrail! ☀️
 |                           |[TOP](/top){: .btn }  |                    |                    |
 |                           |[FRU](/fru){: .btn }  |                    |                    |
 
-<table>
-    <tr>
-        <th>Savage Raids</th>
+<div style="display: flex">
+    <div style="display: flex; flex-grow: 1; flex-direction: column">
         {% for page in site.savage %}
-            <td><a href="{{ page.permalink }}" class="btn">{{ page.title }}</a></td>
+            <div><a href="{{ page.permalink }}" class="btn">{{ page.title }}</a></div>
         {% endfor %}
-    </tr>
-    <tr>
-        <th>Ultimate Raids</th>
-        {% for page in site.ultimate %}
-            <td><a href="{{ page.permalink }}" class="btn">{{ page.title }}</a></td>
-        {% endfor %}
-    </tr>
-    <tr>
-        <th>Extreme Trials</th>
-        {% for page in site.extreme %}
-            <td><a href="{{ page.permalink }}" class="btn">{{ page.title }}</a></td>
-        {% endfor %}
-    </tr>
-    <tr>
-        <th>Criterion Dungeons</th>
-        {% for page in site.criterion %}
-            <td><a href="{{ page.permalink }}" class="btn">{{ page.title }}</a></td>
-        {% endfor %}
-    </tr>
-</table>
+    </div>
+</div>
+
 
 Visiting from another region? check out our visitors guide for a quick breakdown on differences in strats.
 
