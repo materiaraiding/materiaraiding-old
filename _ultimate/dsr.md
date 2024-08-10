@@ -2,6 +2,7 @@
 layout: default
 title: DSR
 permalink: /dsr
+longtitle: Dragonsong's Reprise (Ultimate)
 nav_order: 4
 ---
 

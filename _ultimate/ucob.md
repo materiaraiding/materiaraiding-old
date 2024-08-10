@@ -2,6 +2,7 @@
 layout: default
 title: UCOB
 permalink: /ucob
+longtitle: The Unending Coil of Bahamut (Ultimate)
 nav_order: 1
 ---
 

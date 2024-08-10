@@ -2,6 +2,7 @@
 layout: default
 title: FRU
 permalink: /fru
+longtitle: Future's Rewritten (Ultimate)
 nav_order: 16
 ---
 

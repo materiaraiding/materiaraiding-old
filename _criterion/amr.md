@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Another Mount Rokkon
+title: AMR
 permalink: /amr
 nav_order: 2
 ---

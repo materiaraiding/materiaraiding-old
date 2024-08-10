@@ -2,6 +2,7 @@
 layout: default
 title: TEA
 permalink: /tea
+longtitle: The Epic of Alexander (Ultimate)
 nav_order: 3
 ---
 
