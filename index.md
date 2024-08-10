@@ -22,6 +22,29 @@ Updated for Dawntrail! ☀️
 |                           |[TOP](/top){: .btn }  |                    |                    |
 |                           |[FRU](/fru){: .btn }  |                    |                    |
 
+<table>
+    <tr>
+        {% for page in collection.savage %}
+            <td>[{{ page.title }}]({{ page.permalink }}){: .btn }</td>
+        {% endfor %}
+    </tr>
+    <tr>
+        {% for page in collection.ultimate %}
+            <td>[{{ page.title }}]({{ page.permalink }}){: .btn }</td>
+        {% endfor %}
+    </tr>
+    <tr>
+        {% for page in collection.extreme %}
+            <td>[{{ page.title }}]({{ page.permalink }}){: .btn }</td>
+        {% endfor %}
+    </tr>
+    <tr>
+        {% for page in collection.criterion %}
+            <td>[{{ page.title }}]({{ page.permalink }}){: .btn }</td>
+        {% endfor %}
+    </tr>
+</table>
+
 Visiting from another region? check out our visitors guide for a quick breakdown on differences in strats.
 
 [Visitors Guide to OCE Raiding](/visitorsguide){: .btn } 
