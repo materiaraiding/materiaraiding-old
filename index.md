@@ -13,15 +13,6 @@ This website is a resource provided by Materia Raiding community, as a one-stop 
 Updated for Dawntrail! ☀️
 {: .label .label-yellow }
 
-| Savage Raids              | Ultimate Raids       | Extreme Trials     | Criterion Dungeons |
-|:--------------------------|:---------------------|:-------------------|:-------------------|
-|[M1S](/m1s){: .btn }       |[UCOB](/ucob){: .btn }|[EX1](/ex1){: .btn }|[ASS](/ass){: .btn }|
-|[M2S](/m2s){: .btn }       |[UWU](/uwu){: .btn }  |[EX2](/ex2){: .btn }|[AMR](/amr){: .btn }|
-|[M3S](/m3s){: .btn }       |[TEA](/tea){: .btn }  |                    |[AAI](/aai){: .btn }|
-|[M4S](/m4s){: .btn }       |[DSR](/dsr){: .btn }  |                    |                    |
-|                           |[TOP](/top){: .btn }  |                    |                    |
-|                           |[FRU](/fru){: .btn }  |                    |                    |
-
 <div style="display: flex; flex-wrap: wrap;">
     <div class="navcolumn">
         <h2>Savage Raids</h2>
@@ -52,7 +43,6 @@ Updated for Dawntrail! ☀️
         {% endfor %}
     </div>
 </div>
-
 
 Visiting from another region? check out our visitors guide for a quick breakdown on differences in strats.
 
