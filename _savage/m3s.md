@@ -29,21 +29,18 @@ PF Strats
 ■ Barbarous Barrage (Boss Relative)
 　 T/M: N/W　H/R: S/E
 　 G1 Left | G2 Right
-■ Final Fuse Down #1
-　 ※ Lone Long Bomb: New North
-　　　　D3/H1
-　　　　　★
-　 　 　 Party
-　 D1/MT　　D2/ST
-　　　　D4/H2
-■ Final Fuse Down #2
-　　D1/MT　D2/ST
-D3/H1 　★　　D4/H2
-　 　 　 Party
+■ Fixed Final Fuse Down (True North)
+　 ※Safe Stacks Middle
+　 　If exploding:
+　 　H1/D3: 1st: SW 2nd: NW
+　 　H2/D4: 1st: NE 2nd: SE
+　 　MT/D1: N/W
+ 　　ST/D2: E/S
 ■ Fuse Field (North)
 　 CW MT ST H1 H2 CCW
 　 CW D1 D2 D3 D4 CCW
-■ Infernal Spin (Resolve Positions)
+　 ※ Resolve CW Order
+■ Infernal Spin (Fixed Resolve Positions)
 　 D3　　　 　D4
 　　 　　MT
 　 　 D1 ★ D2
