@@ -32,7 +32,7 @@ Updated for Dawntrail! ☀️
     <div style="display: flex; flex-grow: 1; flex-direction: column">
         <h2>Ultimate Raids</h2>
         {% for page in site.ultimate %}
-            <div><a href="{{ page.permalink }}" class="fill-div">{{ page.title }}</a></div>
+            <div onclick="location.href='{{ page.permalink }}';">{{ page.title }}</div>
         {% endfor %}
     </div>
     <div style="display: flex; flex-grow: 1; flex-direction: column">
