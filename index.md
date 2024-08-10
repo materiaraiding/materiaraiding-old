@@ -24,23 +24,27 @@ Updated for Dawntrail! ☀️
 
 <table>
     <tr>
+        <th>Savage Raids</th>
         {% for page in site.savage %}
-            <td>[{{ page.title }}]({{ page.permalink }}){: .btn }</td>
+            <td><a href="{{ page.permalink }}" class="btn">{{ page.title }}</a></td>
         {% endfor %}
     </tr>
     <tr>
+        <th>Ultimate Raids</th>
         {% for page in site.ultimate %}
-            <td>[{{ page.title }}]({{ page.permalink }}){: .btn }</td>
+            <td><a href="{{ page.permalink }}" class="btn">{{ page.title }}</a></td>
         {% endfor %}
     </tr>
     <tr>
+        <th>Extreme Trials</th>
         {% for page in site.extreme %}
-            <td>[{{ page.title }}]({{ page.permalink }}){: .btn }</td>
+            <td><a href="{{ page.permalink }}" class="btn">{{ page.title }}</a></td>
         {% endfor %}
     </tr>
     <tr>
+        <th>Criterion Dungeons</th>
         {% for page in site.criterion %}
-            <td>[{{ page.title }}]({{ page.permalink }}){: .btn }</td>
+            <td><a href="{{ page.permalink }}" class="btn">{{ page.title }}</a></td>
         {% endfor %}
     </tr>
 </table>
