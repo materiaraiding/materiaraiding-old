@@ -23,28 +23,28 @@ Updated for Dawntrail! ☀️
 |                           |[FRU](/fru){: .btn }  |                    |                    |
 
 <div style="display: flex">
-    <div style="display: flex; flex-grow: 1; flex-direction: column">
+    <div class="navcolumn">
         <h2>Savage Raids</h2>
         {% for page in site.savage %}
-            <div><a href="{{ page.permalink }}" class="fill-div">{{ page.title }}</a></div>
+            <div class="navlink" onclick="location.href='{{ page.permalink }}';" style="cursor: pointer;">{{ page.title }}</div>
         {% endfor %}
     </div>
-    <div style="display: flex; flex-grow: 1; flex-direction: column">
+    <div class="navcolumn">
         <h2>Ultimate Raids</h2>
         {% for page in site.ultimate %}
-            <div onclick="location.href='{{ page.permalink }}';">{{ page.title }}</div>
+            <div class="navlink" onclick="location.href='{{ page.permalink }}';" style="cursor: pointer;">{{ page.title }}</div>
         {% endfor %}
     </div>
-    <div style="display: flex; flex-grow: 1; flex-direction: column">
+    <div class="navcolumn">
         <h2>Extreme Trials</h2>
         {% for page in site.extreme %}
-            <div><a href="{{ page.permalink }}" class="fill-div">{{ page.title }}</a></div>
+            <div class="navlink" onclick="location.href='{{ page.permalink }}';" style="cursor: pointer;">{{ page.title }}</div>
         {% endfor %}
     </div>
-    <div style="display: flex; flex-grow: 1; flex-direction: column">
+    <div class="navcolumn">
         <h2>Criterion Dungeons</h2>
         {% for page in site.criterion %}
-            <div><a href="{{ page.permalink }}" class="fill-div">{{ page.title }}</a></div>
+            <div class="navlink" onclick="location.href='{{ page.permalink }}';" style="cursor: pointer;">{{ page.title }}</div>
         {% endfor %}
     </div>
 </div>

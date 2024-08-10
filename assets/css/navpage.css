@@ -1,0 +1,18 @@
+.navcolumn {
+    padding: 0em 0.5em 0em 0.5em;
+    display: flex; 
+    flex-grow: 1;
+    flex-direction: column
+}
+
+.navlink {
+    height: 60px;
+    border: 0px solid #aaa;
+    border-radius: 4px;
+    background-color: #302d36;
+    padding: 0.5em 0.5em 0.5em 0.7em;
+    font-size: 1.3em;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
