@@ -12,6 +12,7 @@ PF Strats
 
 ## Credits
 - Materia Raiding (macros/waymarks)
+- Kobe (video guide)
 
 ## Video Guide
 
