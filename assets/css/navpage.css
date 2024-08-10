@@ -20,14 +20,16 @@
     align-items: flex-end;
     margin-bottom: 0.4em;
     color: #f77e7e;
-    transition: 0.3s;
+    transition: 0.2s;
     background-size: cover;
     background-position: center;
     cursor: pointer;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08)
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 1);
+    font-weight: 500;
 }
 
 .navlink:hover {
     color: #ffffff;
-    padding: 0.5em 0.5em 0.5em 0.7em;
+    padding: 0.5em 0.5em 0.5em 0.8em;
 }
