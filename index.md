@@ -24,23 +24,27 @@ Updated for Dawntrail! ☀️
 
 <div style="display: flex">
     <div style="display: flex; flex-grow: 1; flex-direction: column">
+        <h2>Savage Raids</h2>
         {% for page in site.savage %}
-            <div><a href="{{ page.permalink }}" class="btn">{{ page.title }}</a></div>
+            <div><a href="{{ page.permalink }}" class="fill-div">{{ page.title }}</a></div>
         {% endfor %}
     </div>
     <div style="display: flex; flex-grow: 1; flex-direction: column">
+        <h2>Ultimate Raids</h2>
         {% for page in site.ultimate %}
-            <div><a href="{{ page.permalink }}" class="btn">{{ page.title }}</a></div>
+            <div><a href="{{ page.permalink }}" class="fill-div">{{ page.title }}</a></div>
         {% endfor %}
     </div>
     <div style="display: flex; flex-grow: 1; flex-direction: column">
+        <h2>Extreme Trials</h2>
         {% for page in site.extreme %}
-            <div><a href="{{ page.permalink }}" class="btn">{{ page.title }}</a></div>
+            <div><a href="{{ page.permalink }}" class="fill-div">{{ page.title }}</a></div>
         {% endfor %}
     </div>
     <div style="display: flex; flex-grow: 1; flex-direction: column">
+        <h2>Criterion Dungeons</h2>
         {% for page in site.criterion %}
-            <div><a href="{{ page.permalink }}" class="btn">{{ page.title }}</a></div>
+            <div><a href="{{ page.permalink }}" class="fill-div">{{ page.title }}</a></div>
         {% endfor %}
     </div>
 </div>
