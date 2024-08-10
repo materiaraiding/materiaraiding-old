@@ -15,7 +15,7 @@
     border: 0px solid #aaa;
     border-radius: 4px;
     background-color: #302d36;
-    padding: 0.5em 0.5em 0.5em 0.6em;
+    padding: 0.5em 0.5em 0.4em 0.6em;
     font-size: 1.3em;
     display: flex;
     align-items: flex-end;
@@ -25,12 +25,12 @@
     background-size: cover;
     background-position: center;
     cursor: pointer;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.25);
     text-shadow: 3px 3px 5px rgba(0, 0, 0, 1);
     font-weight: 500;
 }
 
 .navlink:hover {
     color: #ffffff;
-    padding: 0.5em 0.5em 0.5em 0.8em;
+    padding: 0.5em 0.5em 0.4em 0.8em;
 }
