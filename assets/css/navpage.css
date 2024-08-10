@@ -33,4 +33,5 @@
 .navlink:hover {
     color: #ffffff;
     padding: 0.5em 0.5em 0.4em 0.8em;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
 }
