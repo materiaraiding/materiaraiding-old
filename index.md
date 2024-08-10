@@ -26,25 +26,25 @@ Updated for Dawntrail! ☀️
     <div class="navcolumn">
         <h2>Savage Raids</h2>
         {% for page in site.savage %}
-            <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.png');">{{ page.title }}</div>
+            <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.webp');">{{ page.title }}</div>
         {% endfor %}
     </div>
     <div class="navcolumn">
         <h2>Ultimate Raids</h2>
         {% for page in site.ultimate %}
-            <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.png');">{{ page.title }}</div>
+            <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.webp');">{{ page.title }}</div>
         {% endfor %}
     </div>
     <div class="navcolumn">
         <h2>Extreme Trials</h2>
         {% for page in site.extreme %}
-            <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.png');">{{ page.title }}</div>
+            <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.webp');">{{ page.title }}</div>
         {% endfor %}
     </div>
     <div class="navcolumn">
         <h2>Criterion Dungeons</h2>
         {% for page in site.criterion %}
-            <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.png');">{{ page.title }}</div>
+            <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.webp');">{{ page.title }}</div>
         {% endfor %}
     </div>
 </div>
