@@ -22,7 +22,7 @@ Updated for Dawntrail! ☀️
 |                           |[TOP](/top){: .btn }  |                    |                    |
 |                           |[FRU](/fru){: .btn }  |                    |                    |
 
-<div style="display: flex">
+<div style="display: flex; flex-wrap: wrap;">
     <div class="navcolumn">
         <h2>Savage Raids</h2>
         {% assign pages_in_order = site.savage | sort: "nav_order" %}
