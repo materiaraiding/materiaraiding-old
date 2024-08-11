@@ -456,7 +456,7 @@ Nidhogg will dive 2 random red tether players 4 times in a row. Each hit player 
 
 Finishing all these dives and having good damage will result in both eyes dying before they cast a final **Steep in Rage** cast. If both eyes are alive during this, the party will wipe. If the **Red** eye is alive during this, it will resurrect the **Blue** eye so it's important to keep an eye on it to mitigate possible wipes.
 
-# Intermission
+## Intermission
 
 Intermission is a run back of the **Pure of Heart** mechanic from Phase 1 with some key differences.
 
@@ -470,7 +470,7 @@ Most importantly, Haurchefant will now be _targetable_. However he has a "HP Rec
 
 Following the same H -> M -> R -> T prio as phase 1, players will resolve the mechanic and then face an additional DPS check on the **Spear of the Fury** that Haurchefant is currently blocking. Successfully defeating the spear allows players to continue on to phase 5. If unsuccessful, the party will be sent back to phase 2.
 
-# Phase 5 - Dark King Thordan
+## Phase 5 - Dark King Thordan
 
 {: .warning}
 Guide is not yet completed, apologies. Please refer to the Toolboxes for the remaining phases.
