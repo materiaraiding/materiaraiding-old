@@ -6,11 +6,13 @@ nav_order: 1
 ---
 
 # AAC Light-heavyweight M1 (Savage) 🐈
+{: .no_toc }
 
 PF Strats 
 {: .label .label-red }
 
 ### Credits
+{: .no_toc }
 - Materia Raiding (macros/waymarks)
 - Shaba (raidplan)
 - Kobe (video guide)

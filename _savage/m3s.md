@@ -6,11 +6,13 @@ nav_order: 3
 ---
 
 # AAC Light-heavyweight M3 (Savage) 💣
+{: .no_toc }
 
 PF Strats 
 {: .label .label-red }
 
 ### Credits
+{: .no_toc }
 - Materia Raiding (macros/waymarks)
 - Em Gram (toolbox)
 - Pickle Tickle (toolbox)

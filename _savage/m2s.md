@@ -6,11 +6,13 @@ nav_order: 2
 ---
 
 # AAC Light-heavyweight M2 (Savage) 🐝
+{: .no_toc }
 
 PF Strats 
 {: .label .label-red }
 
 ### Credits
+{: .no_toc }
 - Materia Raiding (macros/waymarks)
 - Kobe (video guide)
 - DiscoKnees (PoV)
