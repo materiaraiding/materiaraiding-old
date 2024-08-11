@@ -1,5 +1,5 @@
 ---
-layout: guide
+layout: default
 title: TOP
 permalink: /top
 longtitle: The Omega Protocol (Ultimate)
