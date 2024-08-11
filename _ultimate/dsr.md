@@ -417,6 +417,8 @@ These towers will drop clones similar to the ones in dive from grace, however on
 The Main tank will then face Nidhogg south and continue to take auto-attacks. After one more **south-facing** drachenlance, Nidhogg will cast his enrage: **Revenge of the Horde**
 
 ## **Phase 4: Eyes**
+{: .tanks }
+> Tanks should communicate which eye they are taking before this phase, as each eye deals auto-attacks. Generally in OCE, MT takes the **Red** eye, and OT takes the **Blue** eye.
 
 Everyone will begin this phase by grouping on top of Alphinaud as he walks into the arena.
 
