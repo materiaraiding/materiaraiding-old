@@ -2,6 +2,7 @@
 layout: default
 title: M1S
 permalink: /m1s
+longtitle: AAC Light-heavyweight M1 (Savage)
 nav_order: 1
 ---
 
