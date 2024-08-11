@@ -10,21 +10,27 @@ nav_order: 1
 PF Strats 
 {: .label .label-red }
 
-## Credits
+### Credits
 - Materia Raiding (macros/waymarks)
 - Shaba (raidplan)
 - Kobe (video guide)
 - Valyntine (PoV)
 
-## Video Guide
+### Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+### Video Guide
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3NkfJduH750" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## POV
+### POV
 
 [M1S AST OCE POV](https://www.youtube.com/watch?v=4nN8KSS2EGs){: .btn }
 
-## Macro
+### Macro
 
 ```
 ■ Cardinal Baits/Pairs　■ Light Party Stacks
@@ -47,11 +53,11 @@ PF Strats
 　　  H1H2D3 [Far]
 ```
 
-## Toolboxes
+### Toolboxes
 
 [Mouser Toolbox](https://raidplan.io/plan/bZmdPoU2lde6UbSu){: .btn .btn-blue }
 
-## Waymarks
+### Waymarks
 For import with waymark addon.
 
 ```

@@ -10,12 +10,18 @@ nav_order: 3
 PF Strats 
 {: .label .label-red }
 
-## Credits
+### Credits
 - Materia Raiding (macros/waymarks)
 - Em Gram (toolbox)
 - Pickle Tickle (toolbox)
 
-## Macro
+### Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+### Macro
 
 ```
 ■ Lariat
@@ -48,13 +54,13 @@ PF Strats
 　 H1　　　 　H2
 ```
 
-## Toolboxes
+### Toolboxes
 
 [Barbarous Barrage Toolbox](https://raidplan.io/plan/CWX-puH0h72E14CF){: .btn .btn-blue }
 
 [Final Fusedown Toolbox](https://ff14.toolboxgaming.space/?id=400793777952271&preview=1){: .btn .btn-blue }
 
-## Waymarks
+### Waymarks
 For import with waymark addon.
 
 > 1 2 3 4 show safe spots for Tag Team / max melee range

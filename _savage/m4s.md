@@ -11,25 +11,25 @@ nav_order: 4
 PF Strats 
 {: .label .label-red }
 
-## Credits
+### Credits
 {: .no_toc }
 - Materia Raiding (macros/waymarks)
 - Evansith (toolbox)
 - Liminal Space (toolbox)
 
-## Table of Contents
+### Table of Contents
 {: .no_toc }
 
 1. TOC
 {:toc}
 
-# General Resources
+## General Resources
 
-## POV
+### POV
 
 [M4S PLD POV MT](https://www.youtube.com/watch?v=Xp8pGkvgOCM){: .btn }
 
-## Cheatsheets
+### Cheatsheets
 
 {: .note }
 > Electrope Edge 2 uses "FAR" and "CLOSE" categories rather than "CORNER" and "EDGE".
@@ -52,7 +52,7 @@ Will re-evaluate strats during week 2 and see what pf prefers, and have hopefull
 <a href="https://github.com/user-attachments/assets/bebdf892-275c-4012-a2eb-b5c7cbf8b0fe" target="_blank"><img src="https://github.com/user-attachments/assets/bebdf892-275c-4012-a2eb-b5c7cbf8b0fe"></a>
 </details>
 
-## Macro
+### Macro
 
 ```
 ■ Electrifying　■ Witch Hunt (Fixed Baits)
@@ -111,13 +111,13 @@ Will re-evaluate strats during week 2 and see what pf prefers, and have hopefull
 　　  H2　　D3
 ```
 
-## Toolbox
+### Toolbox
 
 [Twilight/Midnight Sabbath Toolbox](https://ff14.toolboxgaming.space/?id=539690421352271&preview=1){: .btn .btn-blue }
 
 [Sunrise Sabbath Toolbox](https://raidplan.io/plan/4Y4GauMc_iRFnJXV){: .btn .btn-blue }
 
-## Waymarks
+### Waymarks
 A B C D are exactly on the middle of in/out dodges for witch hunt
 1 2 3 4 are where to stand to aim cannons
 ```
@@ -126,10 +126,10 @@ A B C D are exactly on the middle of in/out dodges for witch hunt
 
 ![image](https://github.com/user-attachments/assets/0adaf5f6-87a1-4e0a-84a4-5586706feadb)
 
-# Written Guide
+## Written Guide
 By Pipiro Piro
 
-## Debuffs & Status Effects
+### Debuffs & Status Effects
 This fight contains several recurring and new status effects. It is important that you **DO** know what these debuffs look like as the guide will make frequent reference to them. You **DO NOT** necessarily need to know their effects to complete the fight but I have included them below for completeness.
 
 |          Debuff Name         | Icon |                                                                                                                                          Effect                                                                                                                                         |
@@ -153,7 +153,7 @@ This fight contains several recurring and new status effects. It is important th
 {: .note }
 Getting hit by any avoidable mechanics in this fight will incur a Damage Down debuff that will reduce damage dealt by 25% for 30s. Some mechanics will also inflict Sustained Damage , which is a heavy bleed that cannot be mitigated.
 
-## Phase 1
+### Phase 1
 The fight begins with two autos and a hard-hitting raidwide Wrath of Zeus. Wicked Thunder will then spawn a pair of wings before jumping north to the wall and casting:
 
 {: .tanks }
