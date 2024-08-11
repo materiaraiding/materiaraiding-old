@@ -17,6 +17,7 @@ PF Strats
 - Materia Raiding (macros/waymarks)
 - Em Gram (toolbox)
 - Pickle Tickle (toolbox)
+- Kobe (video guide)
 
 ### Table of Contents
 {: .no_toc }
