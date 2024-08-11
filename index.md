@@ -10,9 +10,6 @@ nav_order: 1
 
 This website is a resource provided by Materia Raiding community, as a one-stop shop for your Savage and Ultimate Raiding needs for the Materia FF14 Datacenter.
 
-Updated for Dawntrail! ☀️
-{: .label .label-yellow }
-
 {% include navblock.html %}
 
 ## Looking for a group? 🚩
@@ -53,5 +50,5 @@ Or join the discussion on Discord!
 - Kurume
 - Adrian
 - Geel
-- Materia Raiding Community (Various Resources)
-- Materia Ultimate Raiding Community (Various Resources)
+- Materia Raiding Community (Various Contributors)
+- Materia Ultimate Raiding Community (Various Contributors)
