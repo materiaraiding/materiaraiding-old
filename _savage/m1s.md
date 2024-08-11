@@ -34,7 +34,7 @@ PF Strats
 
 ### Macro
 
-{% include m1s.macro %}
+{% include_relative m1s.macro %}
 
 ### Toolboxes
 
