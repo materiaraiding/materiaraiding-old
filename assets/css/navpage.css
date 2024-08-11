@@ -8,7 +8,7 @@
     flex-direction: column;
     width: 218px;
     max-width: 300px;
-    gap: 0.4em;
+    gap: 0.5em;
 }
 
 @media only screen and (max-width: 500px) {
@@ -18,7 +18,7 @@
         flex-direction: column;
         width: 218px;
         max-width: 500px;
-        gap: 0.4em;
+        gap: 0.5em;
     }
 }
 
