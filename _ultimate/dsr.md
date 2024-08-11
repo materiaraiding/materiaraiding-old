@@ -465,7 +465,7 @@ Most importantly, Haurchefant will now be _targetable_. However he has a "HP Rec
 {: .tanks}
 > Either tank should LB3 as soon as Haurchefant appears. (This also works roughly after your 2nd GCD on Charibert).
 
-{: .healers}
+{: .healers }
 > Healers should keep an eye on Haurchefant throughout the entire mechanic. You want him to be almost, if not full health before the final **Pure of Heart** raidwide, as it will do significant damage. A WHM can save benediction for this, simplfying the healing greatly.
 
 Following the same H -> M -> R -> T prio as phase 1, players will resolve the mechanic and then face an additional DPS check on the **Spear of the Fury** that Haurchefant is currently blocking. Successfully defeating the spear allows players to continue on to phase 5. If unsuccessful, the party will be sent back to phase 2.
