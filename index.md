@@ -4,11 +4,12 @@ layout: home
 nav_order: 1
 ---
 
-<img src="{{ site.baseurl }}/assets/images/icons/materia.png" alt="materia" width="128" style="float: right">
+<div style="display: flex; justify-content: space-between">
+    <div markdown="1"># Welcome to Materia Raiding
 
-# Welcome to Materia Raiding
-
-This website is a resource provided by Materia Raiding community, as a one-stop shop for your Savage and Ultimate Raiding needs for the Materia FF14 Datacenter.
+This website is a resource provided by Materia Raiding community, as a one-stop shop for your Savage and Ultimate Raiding needs for the Materia FF14 Datacenter.</div>
+    <div><img src="{{ site.baseurl }}/assets/images/icons/materia.png" alt="materia" width="128" style="float: right"></div>
+</div>
 
 {% include navblock.html %}
 
