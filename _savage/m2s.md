@@ -23,15 +23,6 @@ PF Strats
 1. TOC
 {:toc}
 
-### Video Guide
-By Kobe
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dTlOIu3_NzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-### PoV
-
-[M2S OCE POV](https://www.youtube.com/watch?v=L_rUvJEsgFo){: .btn }
-
 ### Macro
 
 ```
@@ -62,8 +53,17 @@ By Kobe
 　 ※ Basic Spread
 ```
 
+### Video Guide
+By Kobe
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dTlOIu3_NzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### PoV
+
+[M2S OCE POV](https://www.youtube.com/watch?v=L_rUvJEsgFo){: .btn }
+
 ### Waymarks
-For import with waymark addon.
+Waymarks can be imported to the game using the Waymark Import addon, or you can ask a friend to import them for you and save a copy for yourself.
 
 ```
 {"Name":"M2S OCE","MapID":988,"A":{"X":100.0,"Y":0.0,"Z":87.5,"ID":0,"Active":true},"B":{"X":112.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":112.5,"ID":2,"Active":true},"D":{"X":87.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":91.5,"Y":0.0,"Z":91.5,"ID":4,"Active":true},"Two":{"X":108.5,"Y":0.0,"Z":91.5,"ID":5,"Active":true},"Three":{"X":108.5,"Y":0.0,"Z":108.5,"ID":6,"Active":true},"Four":{"X":91.5,"Y":0.0,"Z":108.5,"ID":7,"Active":true}}

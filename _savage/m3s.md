@@ -57,13 +57,14 @@ PF Strats
 ```
 
 ### Toolboxes
+Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
 [Barbarous Barrage Toolbox](https://raidplan.io/plan/CWX-puH0h72E14CF){: .btn .btn-blue }
 
 [Final Fusedown Toolbox](https://ff14.toolboxgaming.space/?id=400793777952271&preview=1){: .btn .btn-blue }
 
 ### Waymarks
-For import with waymark addon.
+Waymarks can be imported to the game using the Waymark Import addon, or you can ask a friend to import them for you and save a copy for yourself.
 
 > 1 2 3 4 show safe spots for Tag Team / max melee range
 ```

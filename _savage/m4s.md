@@ -25,33 +25,6 @@ PF Strats
 
 ## General Resources
 
-### PoV
-
-[M4S PLD POV MT](https://www.youtube.com/watch?v=Xp8pGkvgOCM){: .btn }
-
-### Cheatsheets
-
-{: .note }
-> Electrope Edge 2 uses "FAR" and "CLOSE" categories rather than "CORNER" and "EDGE".
-> - Adjusted after significant feedback.
-> - Close = Close to boss and safespot, Far = Far from boss and safespot
-> 
-> At this point there are 2 cheatsheets floating around, "Corner/Edge" one and "1+3 / 2+2" one.
-> - If you are pushing to clear I recomend using whatever is most comfortable.
-> - If you are progging, I would recommend "FAR" and "CLOSE" (cheatsheet with green number 2 in top right) as it seems to be most reasonable based on m4s discussion consensus
-
-Will re-evaluate strats during week 2 and see what pf prefers, and have hopefully have a single universal cheatsheet by the end of the week.
-
-<details markdown=1>
-<summary>Phase 1 Cheatsheet</summary>
-<a href="https://github.com/user-attachments/assets/15cb8780-a15f-4906-98d1-45b38332a13c" target="_blank"><img src="https://github.com/user-attachments/assets/15cb8780-a15f-4906-98d1-45b38332a13c"></a>
-</details>
-
-<details markdown=1>
-<summary>Phase 2 Cheatsheet</summary>
-<a href="https://github.com/user-attachments/assets/bebdf892-275c-4012-a2eb-b5c7cbf8b0fe" target="_blank"><img src="https://github.com/user-attachments/assets/bebdf892-275c-4012-a2eb-b5c7cbf8b0fe"></a>
-</details>
-
 ### Macro
 
 ```
@@ -112,12 +85,42 @@ Will re-evaluate strats during week 2 and see what pf prefers, and have hopefull
 ```
 
 ### Toolbox
+Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
 [Twilight/Midnight Sabbath Toolbox](https://ff14.toolboxgaming.space/?id=539690421352271&preview=1){: .btn .btn-blue }
 
 [Sunrise Sabbath Toolbox](https://raidplan.io/plan/4Y4GauMc_iRFnJXV){: .btn .btn-blue }
 
+### PoV
+
+[M4S PLD POV MT](https://www.youtube.com/watch?v=Xp8pGkvgOCM){: .btn }
+
+### Cheatsheets
+
+{: .note }
+> Electrope Edge 2 uses "FAR" and "CLOSE" categories rather than "CORNER" and "EDGE".
+> - Adjusted after significant feedback.
+> - Close = Close to boss and safespot, Far = Far from boss and safespot
+> 
+> At this point there are 2 cheatsheets floating around, "Corner/Edge" one and "1+3 / 2+2" one.
+> - If you are pushing to clear I recomend using whatever is most comfortable.
+> - If you are progging, I would recommend "FAR" and "CLOSE" (cheatsheet with green number 2 in top right) as it seems to be most reasonable based on m4s discussion consensus
+
+Will re-evaluate strats during week 2 and see what pf prefers, and have hopefully have a single universal cheatsheet by the end of the week.
+
+<details markdown=1>
+<summary>Phase 1 Cheatsheet</summary>
+<a href="https://github.com/user-attachments/assets/15cb8780-a15f-4906-98d1-45b38332a13c" target="_blank"><img src="https://github.com/user-attachments/assets/15cb8780-a15f-4906-98d1-45b38332a13c"></a>
+</details>
+
+<details markdown=1>
+<summary>Phase 2 Cheatsheet</summary>
+<a href="https://github.com/user-attachments/assets/bebdf892-275c-4012-a2eb-b5c7cbf8b0fe" target="_blank"><img src="https://github.com/user-attachments/assets/bebdf892-275c-4012-a2eb-b5c7cbf8b0fe"></a>
+</details>
+
 ### Waymarks
+Waymarks can be imported to the game using the Waymark Import addon, or you can ask a friend to import them for you and save a copy for yourself.
+
 A B C D are exactly on the middle of in/out dodges for witch hunt
 1 2 3 4 are where to stand to aim cannons
 ```
