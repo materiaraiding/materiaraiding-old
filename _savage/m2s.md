@@ -27,7 +27,7 @@ PF Strats
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dTlOIu3_NzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### POV
+### PoV
 
 [M2S OCE POV](https://www.youtube.com/watch?v=L_rUvJEsgFo){: .btn }
 

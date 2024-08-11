@@ -25,7 +25,7 @@ PF Strats
 
 ## General Resources
 
-### POV
+### PoV
 
 [M4S PLD POV MT](https://www.youtube.com/watch?v=Xp8pGkvgOCM){: .btn }
 
