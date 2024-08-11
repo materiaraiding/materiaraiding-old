@@ -181,7 +181,7 @@ Guide written by Juno
 
 As a starter, a lot of the mechanics in this fight will cause **Damage Down** if solved incorrectly. This debuff reduces your damage by about 50% and it is common practice to wall **IF IT IS SAFE TO DO SO**, as the damage loss from resurrection weakness is less than damage down.
 
-## Phase 1: Knights
+## **Phase 1: Knights**
 
 This phase begins with two targetable bosses: Adelphel and Grinnaux.
 Once pulled, tanks will stack the bosses and the party will stay south.
@@ -417,6 +417,7 @@ These towers will drop clones similar to the ones in dive from grace, however on
 The Main tank will then face Nidhogg south and continue to take auto-attacks. After one more **south-facing** drachenlance, Nidhogg will cast his enrage: **Revenge of the Horde**
 
 ## **Phase 4: Eyes**
+
 {: .tanks}
 > Tanks should communicate which eye they are taking before this phase, as each eye deals auto-attacks. Generally in OCE, MT takes the **Red** eye, and OT takes the **Blue** eye.
 
@@ -430,6 +431,7 @@ Alphinaud and a random party member will be given a buff that applies to everyon
 Estinien will cast a heavy raidwide: **Resentment**, that applies a bleed.
 
 ### **Hatebound**
+{: .no_toc }
 
 Tethers will randomly get applied to the party in such a way that there is **4 blue** and **4 red** tethers, attached to their respective eye. Taking damage while having a blue tether will **heal the blue eye**, and taking damage with a red tether will **damage the red eye**. 
 
@@ -444,8 +446,9 @@ Supports will move to the **Red** eye and DPS to the **Blue** eye as seen below:
 Once the yellow orb grows **twice**, all melee will walk into it together to take a pair stack. Afterwards, they will split and stand on top of their ranged partner, swapping tethers before moving to the middle. After the ranged take their orbs everyone will move to the **Blue** eye. All red tethers (now ranged players) will stand in a square-like formation around the eye, and all the melee will stack under the eye.
 
 ### **Mirage Dives**
+{: .no_toc }
 
-Nidhogg will then dive 2 random red tether players 4 times in a row. Each player must be swapped with to ensure they won't be struck twice and instantly killed as the dive applies a vuln up.
+Nidhogg will then dive 2 random red tether players 4 times in a row. Each hit player must be swapped with to ensure they won't be struck twice and instantly killed as the dive applies a vuln up.
 
 {: .damage }
 > Around 35-40% HP on the **Red** eye, ranged should swap to the **Blue** eye.
