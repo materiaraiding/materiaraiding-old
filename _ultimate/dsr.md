@@ -474,7 +474,8 @@ Following the same H -> M -> R -> T order as phase 1, players will resolve the m
 
 After 2 AOE autoattacks, Thordan will begin to cast:
 
-## Wrath of the Heavens (WOTH/Wrath)
+### Wrath of the Heavens (WOTH/Wrath)
+{: .no_toc }
 
 Thordan will become untargetable, and 2 knights and a dragon will drop down on a random cardinal/intercardinal. **This will become your new north**.
 
@@ -507,7 +508,8 @@ Everyone will then make their way to the warrior as he will shortly cast a donut
 Both bait players should _not_ overlap their baits on top of the warrior to make room for the rest of the party. It is possible to walk away from the safe spot and loop back around in time to the safe spot.
 
 
-## Death of the Heavens (DOTH/Death)
+### Death of the Heavens (DOTH/Death)
+{: .no_toc }
 
 {: .warning}
 Guide is not yet completed, apologies. Please refer to the Toolboxes for the remaining phases.
