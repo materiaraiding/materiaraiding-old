@@ -417,7 +417,7 @@ These towers will drop clones similar to the ones in dive from grace, however on
 The Main tank will then face Nidhogg south and continue to take auto-attacks. After one more **south-facing** drachenlance, Nidhogg will cast his enrage: **Revenge of the Horde**
 
 ## **Phase 4: Eyes**
-{: .tanks }
+{: .tanks}
 > Tanks should communicate which eye they are taking before this phase, as each eye deals auto-attacks. Generally in OCE, MT takes the **Red** eye, and OT takes the **Blue** eye.
 
 Everyone will begin this phase by grouping on top of Alphinaud as he walks into the arena.
@@ -433,7 +433,7 @@ Estinien will cast a heavy raidwide: **Resentment**, that applies a bleed.
 
 Tethers will randomly get applied to the party in such a way that there is **4 blue** and **4 red** tethers, attached to their respective eye. Taking damage while having a blue tether will **heal the blue eye**, and taking damage with a red tether will **damage the red eye**. 
 
-At the same time a large yellow orbs will appear in front of either eye, and 2 smaller blue orbs will spawn to the sides of each eye.
+At the same time a large yellow orb will appear in front of either eye, and 2 smaller blue orbs will spawn to the sides of each eye.
 
 Tethers are able to be swapped by standing on a player of the opposite colour, so be careful not to accidentally swap by walking on top of other players. In this strat, we want all melees (MT, ST, D1, D2) to begin with red tethers. If a melee does not sttart with this colour, they will walk to the middle of the arena and stack on Estinien. The ranged player that has the wrong colour will do the same, allowing both players to swap and receive the right coloured tether.
 
