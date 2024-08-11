@@ -26,10 +26,11 @@ PF Strats
 
 ### Macro
 
+Current M2S Macro 09/08/24
 ```
 ■ Venom Spread (True North)
 　 D3　D4　　MTD3　STD4
-　 MT　ST　　    ★
+　 MT　ST　　　　    ★
 　 D1　D2　　H1D1　H2D2
 　 H1　H2
 ■ Live 1
@@ -43,10 +44,10 @@ PF Strats
 　 Puddle/Stacks: TH West　DPS East
 ■ Live 3
 　 MTD3　STD4
-　     ★
+　 　　    ★
 　 H1D1　H2D2
-　 ※ Defam: Intercard Far, in your colour
-　 ※ Tower: Wait in center, tower in your colour
+　 ※ Defam: Intercard Far in Quadrant
+　 ※ Tower: Wait in center, tower in Quadrant
 ■ Rotten Heart
 　 D3 MT D4
 　 H1 ★ H2
@@ -59,7 +60,7 @@ By Kobe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dTlOIu3_NzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### PoV
+### PoV Videos
 
 [M2S OCE POV](https://www.youtube.com/watch?v=L_rUvJEsgFo){: .btn }
 

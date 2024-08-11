@@ -27,6 +27,7 @@ PF Strats
 
 ### Macro
 
+Current M1S Macro 09/08/24
 ```
 ■ Cardinal Baits/Pairs　■ Light Party Stacks
 　※ True North　　　　　H1D1MTD3 ★ H2D2STD4
@@ -53,7 +54,7 @@ By Kobe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3NkfJduH750" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### PoV
+### PoV Videos
 
 [M1S AST OCE POV](https://www.youtube.com/watch?v=4nN8KSS2EGs){: .btn }
 

@@ -26,6 +26,7 @@ PF Strats
 
 ### Macro
 
+Current M3S Macro 09/08/24
 ```
 ■ Lariat
 　 D3 MT D4　 ※ DPS Rotate CW 

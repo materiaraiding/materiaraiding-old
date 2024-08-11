@@ -44,10 +44,10 @@ PF Strats
 　 D3  H1　　　　　 　　D3H1
 ■ Electrope Edge 2 (Safe Spot South) 
 　 ※TH West　※DPS East
-　 Spread　　　　　 Stack
-　　D1   MT   D2　　(TH) E (TH) C  (DPS) C
-　H1　   ST   　D4　　　　(DPS) E
-　　  H2　　D3　　※E = Edge | C = Corner
+　 Spread　　　　　 Pairs
+　　D1   MT   D2　　(TH) Close　(DPS) Close
+　H1　   ST   　D4　(TH) Far　　(DPS) Far
+　　  H2　　D3
 ■ Electron Stream
  　TH　　　DPS
 　　Far/Close　　　※ Stand infront of Purple
@@ -92,7 +92,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 [Sunrise Sabbath Toolbox](https://raidplan.io/plan/4Y4GauMc_iRFnJXV){: .btn .btn-blue }
 
-### PoV
+### PoV Videos
 
 [M4S PLD POV MT](https://www.youtube.com/watch?v=Xp8pGkvgOCM){: .btn }
 
