@@ -193,7 +193,7 @@ After a **Holiest of Holy** raid wide Grinnaux will cast **Empty Dimension**, fo
 
 After this stack and tankbuster combo, Adelphel will become untargetable and Grinnaux will cast:
 
-### **Hyperdimensional Slash**
+### Hyperdimensional Slash
 {: .no_toc }
 
 Grinnaux will then target 4 random players with a line AOE. This AOE will drop a purple portal on the edge of the arena wherever it was aimed, and if two portals are too close to one another they will tether to eachother and wipe the raid. Similarly, if a player stands too close to a portal they will become tethered and die.
@@ -217,7 +217,7 @@ After completing his dashes, Adelphel will drop onto the player who had the high
 
 Adelphel will then immediately begin casting 1 of 3 instances of **Holiest Hallowing**, an interruptible heal targeted on Grinnaux. The OT will interrupt this and both tanks will position their bosses in the center of the arena for:
 
-### **Playstation Chains**
+### Playstation Chains
 {: .no_toc }
 
 Each player will be marked with either a cross, square, circle, or triangle, so that there is two of each symbol. 
@@ -240,7 +240,7 @@ After dropping their health to 0%, they will immediately become untargetable. Gr
 
 A new boss **Charibert** will then appear at the southern side of the circle and begin to cast **Pure of Heart**, the enrage of phase 1.
 
-### **Pure of Heart**
+### Pure of Heart
 {: .no_toc }
 
 **Haurchefant** will run to the side of the circle and block an arrow. This arrow pulses intermittently, dealing damage to the party. 
@@ -249,7 +249,7 @@ Charibert will then cleave the two players closest to him, applying a 5s debuff 
 
 Once Charibert is reduced to approximately ~25-30% health, the DPS check is reached and as long as one player survives the transition the party will receive a checkpoint.
 
-## **Phase 2: Thordan**
+## Phase 2: Thordan
 
 Phase 2 will begin with the MT facing Thordan north for 2 auto-attacks before he will begin casting **Ascalon's Mercy**, a baited protean on every member of the party.
 The party will stack up behind Thordan before dodging to the side to avoid the cleave. 
@@ -264,7 +264,7 @@ Thordan will then slash 3 times at the Main Tank with a tank buster **Ascalon's 
 
 After moving to the center, Thordan will cast the first trio of the fight:
 
-### **Strength of the Ward**
+### Strength of the Ward
 {: .no_toc }
 
 Thordan will become untargetable and jump from the arena, and both Light parties will split East/West. 
@@ -310,7 +310,7 @@ Thordan will then drop into the center of the arena and cast **Ancient Quaga** a
 
 He will then begin to the cast the next trio of the fight:
 
-### **Sanctity of the Ward**
+### Sanctity of the Ward
 {: .no_toc }
 
 Thordan will then leave the arena and 2 knights will drop down near the center, on opposite sides to each other. These knights can either be facing clockwise or counter-clockwise, which will determine the way they are about to dash across the arena. A third knight will also spawn on one of the waymarks near the outside of the arena.
@@ -325,7 +325,7 @@ Just before these stacks and cleaves go off, Thordan and a large red eye that ap
 
 After the last AoEs resolve, various knights will appear around the arena alongside thordan, preparing to cast various new mechanics in tandem. This set of mechanics is referred to as:
 
-### **Meteors**
+### Meteors
 {: .no_toc }
 
 Players should split off into pairs on each of the cardinals as per the cheatsheet (MT/D3 N, OTD4 S, H1D1 E, H2D2 W), standing between the AOEs that have spawned on the intercardinals. 2 players will be marked by "Meteors", a small red arrow above the players head. These 2 players will **ALWAYS** be part of the same role. The role that gets the meteors is deemed as the "priority" role.
@@ -348,14 +348,14 @@ After these towers are resolved, Thordan will drop down at true north and begin 
 
 Thordan will then cast his enrage: **Atheric Burst**.
 
-## **Phase 3: Nidhogg**
+## Phase 3: Nidhogg
 
 {: .everyone }
 > This phase begins with a HEAVY raidwide attack and should be mitigated appropriately
 
 Nidhogg will drop down and begin auto-attacking the main tank, before casting:
 
-### **Dive from Grace**
+### Dive from Grace
 {: .no_toc }
 
 {: .note }
@@ -391,9 +391,9 @@ As seen above we place the **Up Arrow** West, and the **Down Arrow** East. If bo
 The order that the numbers will soak the towers is as follows:
 
 (using their previously indicated positions, or their arrow positions)
-* 3s soak 1s towers 
-* East and West 1s soak 2s
-* 2s and South 1 soak 3s
+* 3rd dive players will soak the towers dropped by 1st dive players 
+* East and West 1st dive players will soak the towers dropped by 2nd dive players
+* 2nd dive players and the South 1st dive player will soak the towers dropped by 3rd dive players
 
 Upon soaking a tower, a Nidhogg clone will drop down and aim a line AOE at that closest player. Simply bait this out of the arena, and **when Nidhogg glows**, step through Nidhogg to avoid being hit.
 
@@ -406,7 +406,8 @@ The sets of towers will be dropped when the cast is finished, and the towers wil
 
 While it is possible to live getting hit by Lash/Gnash, it will knock the player back away from Nidhogg and apply a **damage down** debuff. At the time of writing the P3 damage check isn't incredibly tight, but with only a few damage downs it may be impossible to beat the damage check.
 
-### **Enumeration Towers**
+### Enumeration Towers
+{: .no_toc }
 
 Immediately after this mechanic, the tank will take a few more auto-attacks before casting Drachenlance on a random player, which is a short conal AOE that will deal lethal damage to anyone hit.
 
@@ -416,39 +417,60 @@ These towers will drop clones similar to the ones in dive from grace, however on
 
 The Main tank will then face Nidhogg south and continue to take auto-attacks. After one more **south-facing** drachenlance, Nidhogg will cast his enrage: **Revenge of the Horde**
 
-## **Phase 4: Eyes**
+## Phase 4: Eyes
+
+{: .tanks}
+> Tanks should communicate which eye they are taking before this phase, as each eye deals auto-attacks. Generally in OCE, MT takes the **Red** eye, and OT takes the **Blue** eye.
 
 Everyone will begin this phase by grouping on top of Alphinaud as he walks into the arena.
 
-Alphinaud and a random party member will be given a buff that applies to everyone in a short range, hence why we stack up. These buffs; **Soul of Devotion** and **Soul of Friendship** allow players to damage the eyes.
+Alphinaud and a random party member will be given a buff that applies to everyone in a short range, hence why we stack up. These buffs: **Soul of Devotion** and **Soul of Friendship** allow players to damage the **Blue** and **Red** eyes respectively. The buffs are also lost upon death.
 
 {: .damage }
 > Ranged should begin to focus on the **Red** eye, and melee should focus on the **Blue** eye
 
-Estinien will cast a heavy raidwide: **Resentment**, that applies a bleed.
+Estinien will cast a heavy raidwide and bleed: **Resentment**
 
-### **Hatebound**
+### Hatebound
+{: .no_toc }
 
 Tethers will randomly get applied to the party in such a way that there is **4 blue** and **4 red** tethers, attached to their respective eye. Taking damage while having a blue tether will **heal the blue eye**, and taking damage with a red tether will **damage the red eye**. 
 
-At the same time a large yellow orbs will appear in front of either eye, and 2 smaller blue orbs will spawn to the sides of each eye.
+At the same time a large yellow orb will appear in front of either eye, and 2 smaller blue orbs will spawn to the sides of each eye.
 
-Tethers are able to be swapped by standing on a player of the opposite colour, so be careful not to accidentally swap by walking on top of other players. In this strat, we want all melees (MT, ST, D1, D2) to begin with red tethers. If a melee does not sttart with this colour, they will walk to the middle of the arena and stack on Estinien. The ranged player that has the wrong colour will do the same, allowing both players to swap and receive the right coloured tether.
+Tethers are able to be swapped by standing on a player of the opposite colour, so be careful not to accidentally swap by walking on top of other players. In this strat, we want all melees (MT, ST, D1, D2) to begin with red tethers. If a melee does not start with this colour, they will walk to the middle of the arena and stack on Estinien. The ranged player that has the wrong colour will do the same, allowing both players to swap and receive the right coloured tether.
 
 Supports will move to the **Red** eye and DPS to the **Blue** eye as seen below:
 
 (Image)
 
-Once the yellow orb grows **twice**, all melee will walk into it together to take a pair stack. Afterwards, they will split and stand on top of their ranged partner, swapping tethers before moving to the middle. After the ranged take their orbs everyone will move to the **Blue** eye. All red tethers (now ranged players) will stand in a square-like formation around the eye, and all the melee will stack under the eye.
+Once the yellow orb grows **twice**, all melee will walk into it together to take a pair stack. Afterwards, they will split and stand on top of their ranged partner, swapping tethers before moving to the middle. The ranged players will wait for their orb to grow twice, before walking into it. Everyone will then move to the **Blue** eye. All red tethers (now ranged players) will stand in a square-like formation around the eye, and all the melee will stack under the eye.
 
-### **Mirage Dives**
+### Mirage Dives
+{: .no_toc }
 
-Nidhogg will then dive 2 random red tether players 4 times in a row. Each player must be swapped with to ensure they won't be struck twice and instantly killed as the dive applies a vuln up.
+Nidhogg will dive 2 random red tether players 4 times in a row. Each hit player must be swapped with to ensure they won't be struck twice and instantly killed as the dive applies a vuln up.
 
 {: .damage }
-> Around 35-40% HP on the **Red** eye, ranged should swap to the **Blue** eye.
+> Around 38-40% HP on the **Red** eye, ranged should swap to the **Blue** eye.
 
 Finishing all these dives and having good damage will result in both eyes dying before they cast a final **Steep in Rage** cast. If both eyes are alive during this, the party will wipe. If the **Red** eye is alive during this, it will resurrect the **Blue** eye so it's important to keep an eye on it to mitigate possible wipes.
+
+# Intermission
+
+Intermission is a run back of the **Pure of Heart** mechanic from Phase 1 with some key differences.
+
+Most importantly, Haurchefant will now be _targetable_. However he has a "HP Recovery Down" debuff. To remove this, a tank must use **Limit Break 3**, allowing Haurchefant to not only take significantly reduced damage, but also allowing him to be healed.
+
+{: .tanks}
+> Either tank should LB3 as soon as Haurchefant appears. (This also works roughly after your 2nd GCD on Charibert).
+
+{: .healers }
+> Healers should keep an eye on Haurchefant throughout the entire mechanic. You want him to be almost, if not full health before the final **Pure of Heart** raidwide, as it will do significant damage. A WHM can save benediction for this, simplfying the healing greatly.
+
+Following the same H -> M -> R -> T prio as phase 1, players will resolve the mechanic and then face an additional DPS check on the **Spear of the Fury** that Haurchefant is currently blocking. Successfully defeating the spear allows players to continue on to phase 5. If unsuccessful, the party will be sent back to phase 2.
+
+# Phase 5 - Dark King Thordan
 
 {: .warning}
 Guide is not yet completed, apologies. Please refer to the Toolboxes for the remaining phases.
