@@ -468,9 +468,46 @@ Most importantly, Haurchefant will now be _targetable_. However he has a "HP Rec
 {: .healers }
 > Healers should keep an eye on Haurchefant throughout the entire mechanic. You want him to be almost, if not full health before the final **Pure of Heart** raidwide, as it will do significant damage. A WHM can save benediction for this, simplfying the healing greatly.
 
-Following the same H -> M -> R -> T prio as phase 1, players will resolve the mechanic and then face an additional DPS check on the **Spear of the Fury** that Haurchefant is currently blocking. Successfully defeating the spear allows players to continue on to phase 5. If unsuccessful, the party will be sent back to phase 2.
+Following the same H -> M -> R -> T order as phase 1, players will resolve the mechanic and then face an additional DPS check on the **Spear of the Fury** that Haurchefant is currently blocking. Successfully defeating the spear before it casts **Pierce** allows players to continue on to phase 5. If unsuccessful, the party will be sent back to phase 2.
 
 ## Phase 5 - Dark King Thordan
+
+After 2 AOE autoattacks, Thordan will begin to cast:
+
+## Wrath of the Heavens (WOTH/Wrath)
+
+Thordan will become untargetable, and 2 knights and a dragon will drop down on a random cardinal/intercardinal. **This will become your new north**.
+
+A player will then be marked with a blue **defamation** marker and 2 players will be marked with 2 line-AOEs, indicated by orange tethers coming from the knights. 
+
+The tether players will pull these tethers across the arena from their knight, and the defamation will stand near the western knight.
+
+{: .note}
+> Tether players can use the line markings in the arena to line up their tethers. The defamation can similarly count 2 lines from the waymark to the west of the knight to ensure they don't clip the tether player.
+
+The rest of the party should spread along the relative east wall. During this, the dragon will have been casting **Twisting Dive**, and all players should move towards the center of the arena to avoid any twisters that appear under them (or others).
+
+{: .note}
+> For the timing of twisters you can either look at the dragon or the orange tethers stretching through the arena. As soon as the dragon moves (shortly after when the cast finishes), or the tethers disappear is when you should move to avoid twisters.
+
+As Twisting Dive is going off, two more knights and thordan will drop into the center of the arena. After avoiding the twisters, players should spread on their side of the arena for an upcoming protean. A non-tether/defamation player will then be marked with **dive bomb** and should run to the wall behind the **knight with a staff** to bait it.
+
+This effectively splits the party into 2 groups. 4 players who have done a mechanic, and 4 which haven't.
+
+After a protean slash from Thordan a random **non-mechanic** player will be targeted with 5 consecutive **Liquid Heaven** baits, and a random **mechanic** player will be targeted with 4 **Eruption** baits.
+2 random players (these can be the same players as above) will also be targeted with lightning AOEs.
+
+(video of baits)
+
+{: .warning}
+> It is very important that players stay on their side of the arena here. All **mechanic** players will have a **Magic Vuln** debuff which means that they will **instantly die** upon touching a Liquid Heaven.
+
+Everyone will then make their way to the warrior as he will shortly cast a donut AOE. Everyone should stack near Thordan, whilst the two lightning AOEs should spread near the rear of the donut AOE to form a "Mickey Mouse" style shape.
+
+Both bait players should _not_ overlap their baits on top of the warrior to make room for the rest of the party. It is possible to walk away from the safe spot and loop back around in time to the safe spot.
+
+
+## Death of the Heavens (DOTH/Death)
 
 {: .warning}
 Guide is not yet completed, apologies. Please refer to the Toolboxes for the remaining phases.
