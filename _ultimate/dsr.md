@@ -477,7 +477,7 @@ After 2 AOE autoattacks, Thordan will begin to cast:
 ### Wrath of the Heavens (WOTH/Wrath)
 {: .no_toc }
 
-Thordan will become untargetable, and 2 knights and a dragon will drop down on a random cardinal/intercardinal. **This will become your new north**.
+Thordan will become untargetable, and 2 knights and a dragon will drop down on a random cardinal/intercardinal. **This will become our new north.**
 
 A player will then be marked with a blue **defamation** marker and 2 players will be marked with 2 line-AOEs, indicated by orange tethers coming from the knights. 
 
@@ -507,9 +507,68 @@ Everyone will then make their way to the warrior as he will shortly cast a donut
 
 Both bait players should _not_ overlap their baits on top of the warrior to make room for the rest of the party. It is possible to walk away from the safe spot and loop back around in time to the safe spot.
 
+After this is resolved, Thordan will cast an **Ancient Quaga** raidwide, followed by 2 more AOE auto attacks and another **Heavenly Heel** into **Ascalon's Might** tank buster.
+
+{: .tanks }
+> Due to the mit plan that MUR PF uses, if the MT is a **WAR** they can use their invincibility here for free.
+
+Thordan will then cast:
 
 ### Death of the Heavens (DOTH/Death)
 {: .no_toc }
+
+This mechanic has a lot of moving parts, I highly recommend looking at POVs and toolboxes.
+
+Thordan will go untargetable and jump to the arena's edge, summoning his eye. Several dragons and a knight also drop onto the arena's edge. Another knight wielding an axe will drop into the arena, slightly offset from the centre towards a cardinal/intercardinal. **This knight is our new north.**
+
+The party will immediately line up as follows:
+
+        _Knight_
+H1 MT D3 D1 D2 D4 ST H2
+
+Four random players will be selected with a visible red **Doom** debuff that lasts for 26 seconds, killing the player if it is not cleansed. Any player who has not got a Doom will shortly drop a Doom cleaning puddle. Because of mechanics coming up, we want to spread these at west/east and the northern intercardinals. 
+
+Looking at our line up, each player must determine what number they are counting from left to right. As OCE does **Dooms south**, each Doom player will position themselves 1-4 along the relative south wall. The non-Doom players will do the opposite, lining up 1-4 along the relative north wall. 
+
+Because there will shortly be several dives going through the arena from the dragons and a spread mechanic from the other knight, the actual positions for the intercardinal players can be a little finnicky. Thankfully, the waymarks we use make it incredibly easy:
+
+(image)
+
+Once in position, all the dives from the dragons and the lightning spread from the knight will go off. As one of the dragons was the same one from **Wrath**, there will also be twisters. 
+
+{: .note}
+> The timing for this twister is as soon as the lightning AOE goes off.
+
+In addition, the knight in the middle will also be doing an earthshaker that will gradually spread outwards from his position.
+
+Dodging this is relatively simple. All the north, close west, and close east players will simply hold forward towards the knight as soon as their lightning AOE goes off.
+The rest of the players will begin to walk along the arenas edge, dodging in to the 2nd earthshaker AOE that goes off.
+
+As these go off, several knights will replace the axe knight in the middle, including our favourite **Grinnaux.**
+
+Once players reach the middle, everyone will be assigned **Playstation Tethers**. These work slightly different from Phase 1 in that only Doom players can receive circle (which are baited by the furthest away players), and only non-Doom players can receive cross. There can also only be one square and one triangle per group. 
+
+The 1st and 4th Doom will stand outside of the the inner circle to bait the circle tethers, and the other Doom players will stand on the relative NW/NE of the middle circle, surrounding Grinnaux. 
+The non-Doom players should roughly spread to SW/SE and N/S, using eyes to adjust to be opposite your Doom player.
+
+At this point (if not before), players should be identifying where Thordan and the giant Red eye are as there will shortly be a gaze attack from each of them.
+
+Players will then all look away from the gazes and ride a **Faith Unmoving** knockback from grinnaux. Doom players should immediately move into the cleanse puddles if they aren't knocked back perfectly (I find wiggling in the puddle sometimes helps the game to register you standing in it).
+
+### Meteors
+{: .no_toc }
+
+Without a break, 8 meteors will spawn on each cardinal and intercardinal. The 3 meteors at N/NW/NE will be killed using a targeted magic LB2 on the meteor at north, whilst the rest of the party bursts down the reamining meteors.
+
+Killing the meteors results in Thordan jumping back to the arena and performing another **Ancient Quaga**, followed by yet another 2 AOE auto-attacks into **Heavenly Heel** and an **Ascalon's Might** tank buster.
+
+{: .warning} 
+> Players **MUST** stop DPSing Thordan below %2.8 health. If Thordan dies here, it is **impossible** to beat the fight.
+> This is indicated by the text "I yield..." and Thordan dropping onto one knee
+
+Players will then immediately position south for the next phase:
+
+## Phase 6: Double Dragons - Nidhogg & Hraesvelgr
 
 {: .warning}
 Guide is not yet completed, apologies. Please refer to the Toolboxes for the remaining phases.
