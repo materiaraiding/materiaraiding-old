@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/d4364537-5d7a-475b-9709-2232cd24649a)---
 layout: default
 title: M4S
 permalink: /m4s
@@ -42,11 +42,11 @@ PF Strats
 　 MT  D2  D4　　　 ★　STD2   
 　 D1  ST   H2　　    MTD1　H2D4
 　 D3  H1　　　　　 　　D3H1
-■ Electrope Edge 2 (Safe Spot South) 
+■ Electrope Edge 2 (Uptime T Shape) 
 　 ※TH West　※DPS East
-　 Spread　　　　　 Pairs
-　　D1   MT   D2　　(TH) Close　(DPS) Close
-　H1　   ST   　D4　(TH) Far　　(DPS) Far
+　 Spread　　　　　 Stack
+　　D1   MT   D2　　(TH) Close  (TH) Far  (DPS) Close
+　H1　   ST   　D4　　　　(DPS) Far
 　　  H2　　D3
 ■ Electron Stream
  　TH　　　DPS
@@ -75,16 +75,6 @@ PF Strats
  　H1D3　　  H2D4
 ```
 
-"Uptime" T Variant
-```
-■ Electrope Edge 2 (Uptime T Shape) 
-　 ※TH West　※DPS East
-　 Spread　　　　　 Stack
-　　D1   MT   D2　　(TH) Close  (TH) Far  (DPS) Close
-　H1　   ST   　D4　　　　(DPS) Far
-　　  H2　　D3
-```
-
 ### Toolbox
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
@@ -97,26 +87,29 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 [M4S PLD POV MT](https://www.youtube.com/watch?v=Xp8pGkvgOCM){: .btn }
 
 ### Cheatsheets
+*Updated as of 13/08/24*
 
-{: .note }
-> Electrope Edge 2 uses "FAR" and "CLOSE" categories rather than "CORNER" and "EDGE".
-> - Adjusted after significant feedback.
-> - Close = Close to boss and safespot, Far = Far from boss and safespot
-> 
-> At this point there are 2 cheatsheets floating around, "Corner/Edge" one and "1+3 / 2+2" one.
-> - If you are pushing to clear I recomend using whatever is most comfortable.
-> - If you are progging, I would recommend "FAR" and "CLOSE" (cheatsheet with green number 2 in top right) as it seems to be most reasonable based on m4s discussion consensus
+<a href="https://github.com/user-attachments/assets/a9338c87-f251-4063-88ec-72f4c368094c" target="_blank"><img style="width: 400px" src="https://github.com/user-attachments/assets/a9338c87-f251-4063-88ec-72f4c368094c"></a>
 
-Will re-evaluate strats during week 2 and see what pf prefers, and have hopefully have a single universal cheatsheet by the end of the week.
+<a href="https://github.com/user-attachments/assets/1d662d5f-baa5-4e04-a1a6-89b2b041b5ed" target="_blank"><img style="width: 400px" src="https://github.com/user-attachments/assets/1d662d5f-baa5-4e04-a1a6-89b2b041b5ed"></a>
+
+<a href="https://github.com/user-attachments/assets/5dd75d7d-cef7-4beb-8335-c0900250cb8b" target="_blank"><img style="width: 400px" src="https://github.com/user-attachments/assets/5dd75d7d-cef7-4beb-8335-c0900250cb8b"></a>
 
 <details markdown=1>
-<summary>Phase 1 Cheatsheet</summary>
-<a href="https://github.com/user-attachments/assets/15cb8780-a15f-4906-98d1-45b38332a13c" target="_blank"><img src="https://github.com/user-attachments/assets/15cb8780-a15f-4906-98d1-45b38332a13c"></a>
-</details>
+<summary>Recent Changes</summary>
+- No strat updates from previous version. 
+PHASE 1:
+- Removed Downtime EE2 Pairs. This was added without knowing how tight uptime Pairs was. AOE is smaller than expected so uptime is easy. 
+- Added diagram displaying typical max melee / unsafe ranges for uptime. 
 
-<details markdown=1>
-<summary>Phase 2 Cheatsheet</summary>
-<a href="https://github.com/user-attachments/assets/bebdf892-275c-4012-a2eb-b5c7cbf8b0fe" target="_blank"><img src="https://github.com/user-attachments/assets/bebdf892-275c-4012-a2eb-b5c7cbf8b0fe"></a>
+PHASE 2:
+- Added clarification to Midnight Sabbath with spread positions (added CCW/CW directions, still resolves the exact same)
+- Wall baits are compatible with marker baits (wasn't added to the cheatsheet. Linked is a quick guide showing where you can wall bait and still live with both strats)
+
+ETC:
+- Minor clarifications + strat name changes to hopefully match other guides out there.
+
+Not looking to make any more updates unless true braindead strats start popping up.
 </details>
 
 ### Waymarks
