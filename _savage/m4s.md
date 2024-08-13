@@ -64,9 +64,9 @@ PF Strats
 　　　　　　　　　　  D3　D4
 ■ Midnight Sabbath
 　MT　D1　N+NW　※ Spread
- 　ST　D2　E+NE　　　Looking Out
-　H1　D3　W+SW　　 TH Left
-　H2　D4　S+SE　　　DPS Right
+ 　ST　D2　E+NE　　　TH CCW
+　H1　D3　W+SW　　  DPS CW
+　H2　D4　S+SE　　 in Clone Safe Spots
 ■ Sunrise Sabbath (Guns & Towers)
  　DPS North CW
  　TH NW CCW
