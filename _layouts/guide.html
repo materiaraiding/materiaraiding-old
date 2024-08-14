@@ -4,10 +4,7 @@ layout: default
 
 <div class="guide_subtitle">{{ page.expansion }} - {{ page.difficulty }}</div>
 {% if page.difficulty == "Ultimate" %}
-    <div  class="guide_titlebox" style="display: flex; justify-content: flex-start; gap: 0.5em;">
-        <img class="guide_titleimg" src='{{ site.baseurl }}/assets/images/icons/highendduty.webp'/>
-        <h1>{{ page.longtitle }}</h1>
-    </div>
+    <h1 class="guide_title"><img class="guide_titleimg" src='{{ site.baseurl }}/assets/images/icons/raid.png'/>{{ page.longtitle }}</h1>
 {% endif %}
 {% if page.difficulty == "Savage" %}
     <h1 class="guide_title"><img class="guide_titleimg" src='{{ site.baseurl }}/assets/images/icons/raid.png'/>{{ page.longtitle }}</h1>
