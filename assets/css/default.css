@@ -4,12 +4,9 @@
     color: #959396;
 }
 
-.guide_title {
-}
-
 .guide_titleimg {
     display:inline;
     height: 1em;
     vertical-align: bottom;
-    margin-right: 0.2em;
+    margin-right: 10px;
 }
