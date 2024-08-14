@@ -82,7 +82,7 @@ back_to_top_text: "Back to top"
 # Footer content
 # appears at the bottom of every page's main content
 # Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust
-footer_content: "Website built and deployed by Em Gram on behalf of the Materia Raiding and Materia Ultimate Raiding Community."
+footer_content: "© SQUARE ENIX CO., LTD. All Rights Reserved | FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd. | All content © their respective authors | Materia Raiding is a non-profit community-owned website."
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
