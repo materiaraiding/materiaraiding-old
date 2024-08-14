@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-
+{% if page.difficulty == "Ultimate" %}
 <img src="{{ site.baseurl }}/assets/images/{{ page.image }}" alt="DKT" width="150" style="float: right">
+{% endif %}
 <div class="guide_subtitle">{{ page.expansion }} - {{ page.difficulty }}</div>
 {% if page.difficulty == "Ultimate" %}
     <h1 class="guide_title" style="margin-top: 0.1em;"><img class="guide_titleimg" src='{{ site.baseurl }}/assets/images/icons/highendduty.webp'/>{{ page.longtitle }}</h1>
@@ -15,6 +16,12 @@ layout: default
 {% endif %}
 {% if page.difficulty == "Ultimate" %}
     <div class="label-mur">Materia Ultimate Raiding</div>
+{% endif %}
+{% if page.difficulty == "Savage" %}
+    <div class="label-pf">Materia Party Finder</div>
+{% endif %}
+{% if page.difficulty == "Extreme" %}
+    <div class="label-pf">Materia Party Finder</div>
 {% endif %}
 
 {{ content }}

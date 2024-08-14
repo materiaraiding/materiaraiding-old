@@ -1,20 +1,13 @@
 ---
-layout: default
+layout: guide
 title: UWU
 permalink: /uwu
 longtitle: The Weapon's Refrain (Ultimate)
 nav_order: 2
 expansion: Stormblood
 difficulty: Ultimate
+image: ultima.webp
 ---
-
-<img src="{{ site.baseurl }}/assets/images/ultima.webp" alt="Ultima Weapon" width="150px" style="float: right">
-
-# The Weapons Refrain
-{: .no_toc }
-
-MUR Strats
-{: .label .label-purple }
 
 {: .warning }
 This page is currently a work-in-progress, some sections are incomplete. We hope to have this finished soon.

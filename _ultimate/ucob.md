@@ -1,20 +1,13 @@
 ---
-layout: default
+layout: guide
 title: UCOB
 permalink: /ucob
 longtitle: The Unending Coil of Bahamut (Ultimate)
 nav_order: 1
 expansion: Stormblood
 difficulty: Ultimate
+image: goldenbaha.png
 ---
-
-<img src="./assets/images/goldenbaha.png" alt="Bahamut" width="150px" style="float: right">
-
-# The Unending Coil of Bahamut
-{: .no_toc }
-
-MUR Strats 
-{: .label .label-purple }
 
 This guide is based off the original and very detailed guide by Clees, which can be found below:
 

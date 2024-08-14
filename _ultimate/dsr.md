@@ -9,9 +9,6 @@ difficulty: Ultimate
 image: dkt.webp
 ---
 
-MUR Strats 
-{: .label .label-purple }
-
 ### Credits
 {: .no_toc }
 - Written guide by Juno
