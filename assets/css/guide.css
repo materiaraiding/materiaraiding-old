@@ -1,0 +1,13 @@
+.guide_subtitle {
+    text-transform: uppercase;
+    font-weight: 500; 
+    color: #959396;
+}
+
+.guide_title {
+    margin-top: 0.1em;
+}
+
+.guide_titleimg {
+    display:inline;
+}
