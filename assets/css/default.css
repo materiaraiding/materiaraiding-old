@@ -18,9 +18,6 @@
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.25);
     background: rgb(143,49,207);
     background: linear-gradient(90deg, rgba(143,49,207,1) 0%, rgba(228,29,253,1) 50%, rgba(252,69,214,1) 100%);
-}
-
-.label-mur p {
     color: white;
     font-weight: 500;
 }
