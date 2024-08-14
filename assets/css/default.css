@@ -8,6 +8,19 @@
     display:inline;
     height: 1em;
     vertical-align: bottom;
-    margin-right: 8px;
+    margin-right: 7px;
     margin-bottom: 3px;
+}
+
+.label-mur {
+    padding: 4px 6px 4px 6px;
+    border-radius: 4px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.25);
+    background: rgb(143,49,207);
+    background: linear-gradient(90deg, rgba(143,49,207,1) 0%, rgba(228,29,253,1) 50%, rgba(252,69,214,1) 100%);
+}
+
+.label-mur p {
+    color: white;
+    font-weight: 500;
 }
