@@ -4,13 +4,13 @@ layout: default
 
 <div style="text-transform: uppercase;">{{ page.expansion }} - {{ page.difficulty }}</div>
 {% if page.difficulty == "Ultimate" %}
-    <h1><img style='display:inline;' src='../assets/images/icons/highendduty.webp'/>{{ page.longtitle }}</h1>
+    <h1><img style='display:inline;' src='{{ site.baseurl }}/assets/images/icons/highendduty.webp'/>{{ page.longtitle }}</h1>
 {% endif %}
 {% if page.difficulty == "Savage" %}
-    <h1><img style='display:inline;' src='../assets/images/icons/highendduty.webp'/>{{ page.longtitle }}</h1>
+    <h1><img style='display:inline;' src='{{ site.baseurl }}/assets/images/icons/highendduty.webp'/>{{ page.longtitle }}</h1>
 {% endif %}
 {% if page.difficulty == "Extreme" %}
-    <h1><img style='display:inline;' src='../assets/images/icons/highendduty.webp'/>{{ page.longtitle }}</h1>
+    <h1><img style='display:inline;' src='{{ site.baseurl }}/assets/images/icons/highendduty.webp'/>{{ page.longtitle }}</h1>
 {% endif %}
 
 {{ content }}
