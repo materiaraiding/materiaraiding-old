@@ -13,9 +13,7 @@ nav_order: 1
 </div>
 
 * * *
-
 {% include navblock.html %}
-
 * * *
 
 ## Looking for a group? 🚩
