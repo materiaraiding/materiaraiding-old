@@ -10,4 +10,5 @@
 .guide_titleimg {
     display:inline;
     height: 1em;
+    vertical-align: bottom;
 }
