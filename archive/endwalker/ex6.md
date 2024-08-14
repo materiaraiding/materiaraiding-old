@@ -2,7 +2,8 @@
 layout: default
 title: EX6
 permalink: /ew/ex6
-parent: Archive
+parent: Endwalker
+grand_parent: Archive
 expansion: Endwalker
 difficulty: Extreme
 ---

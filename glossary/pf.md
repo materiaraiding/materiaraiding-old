@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Party Finder
-parent: Glossary
+parent: glossary
 nav_order: 1
+permalink: /glossary/pf
 ---
 
 # Party Finder
 
-Discover common terminology used in the party finder of the Materia date centre.
----
+Discover common terminology used in party finder descriptions.
 
 ## Progression
 

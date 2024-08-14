@@ -2,7 +2,8 @@
 layout: default
 title: EX4
 permalink: /ew/ex4
-parent: Archive
+parent: Endwalker
+grand_parent: Archive
 expansion: Endwalker
 difficulty: Extreme
 ---

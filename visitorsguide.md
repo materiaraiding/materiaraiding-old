@@ -2,7 +2,7 @@
 layout: default
 title: Visitors Guide to OCE Raiding
 permalink: /visitorsguide
-nav_order: 99
+nav_order: 4
 ---
 
 # Visitors Guide to Oceanic Raiding

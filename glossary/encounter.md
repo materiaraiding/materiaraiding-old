@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Encounter
-parent: Glossary
+parent: glossary
 nav_order: 2
+permalink: /glossary/encounter
 ---
 
 # Encounter
 
-## Discover common terminology used within encounters on the Materia data centre.
+Discover common terminology used during encounters.
 
 ## General
 
