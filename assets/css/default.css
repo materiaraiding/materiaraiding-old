@@ -20,7 +20,7 @@
     width: fit-content;
     padding: 1px 6px 1px 6px;
     border-radius: 6px;
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
     background: rgb(143,49,207);
     background: linear-gradient(45deg, rgba(143,49,207,1) 0%, rgba(228,29,253,1) 50%, rgba(252,69,214,1) 100%);
     color: white;
@@ -32,7 +32,7 @@
     width: fit-content;
     padding: 1px 6px 1px 6px;
     border-radius: 6px;
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
     background: rgb(207,49,49);
     background: linear-gradient(45deg, rgba(207,49,49,1) 0%, rgba(253,96,29,1) 50%, rgba(252,188,69,1) 100%);
     color: white;
