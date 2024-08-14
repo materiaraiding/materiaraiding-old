@@ -15,5 +15,7 @@ The following pages are Archived and no longer current content. Once a new raid 
 
 {% assign pages = site.pages | sort: "nav_order" | where: "expansion", "Endwalker" %}
 {% for page in pages %}
+{% unless page.difficulty == "Ultimate" %}
 - <a href="{{ site.baseurl }}{{ page.permalink }}">{{ page.title }}</a>
+{% endunless %}
 {% endfor %}
