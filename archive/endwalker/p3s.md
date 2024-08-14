@@ -3,6 +3,9 @@ layout: default
 title: P3S
 permalink: /p3s
 parent: Archive
+nav_order: 3
+expansion: Endwalker
+difficulty: Savage
 ---
 
 # P3S

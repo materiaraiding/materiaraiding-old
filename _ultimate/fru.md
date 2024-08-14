@@ -1,18 +1,13 @@
 ---
-layout: default
+layout: guide
 title: FRU
 permalink: /fru
 longtitle: Future's Rewritten (Ultimate)
 nav_order: 16
+expansion: Danwtrail
+difficulty: Ultimate
+image: eden.webp
 ---
-
-<img src="{{ site.baseurl }}/assets/images/eden.webp" alt="eden" width="150" style="float: right">
-
-# Futures Rewritten
-{: .no_toc }
-
-MUR Strats 
-{: .label .label-purple }
 
 Currently Futures UNwritten...
 

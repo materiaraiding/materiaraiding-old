@@ -3,7 +3,9 @@ layout: default
 title: P9S
 permalink: /p9s
 parent: Archive
-nav_order: 1
+nav_order: 9
+expansion: Endwalker
+difficulty: Savage
 ---
 
 # Anabaseios: The Ninth Circle (Savage)

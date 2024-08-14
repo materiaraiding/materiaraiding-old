@@ -3,6 +3,8 @@ layout: default
 title: EX5 - Endwalker
 permalink: /ew/ex5
 parent: Archive
+expansion: Endwalker
+difficulty: Extreme
 ---
 
 # EX5

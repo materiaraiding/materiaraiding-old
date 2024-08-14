@@ -1,18 +1,13 @@
 ---
-layout: default
+layout: guide
 title: DSR
 permalink: /dsr
 longtitle: Dragonsong's Reprise (Ultimate)
 nav_order: 4
+expansion: Endwalker
+difficulty: Ultimate
+image: dkt.webp
 ---
-
-<img src="{{ site.baseurl }}/assets/images/dkt.webp" alt="DKT" width="150" style="float: right">
-
-# Dragonsong Reprise
-{: .no_toc }
-
-MUR Strats 
-{: .label .label-purple }
 
 ### Credits
 {: .no_toc }

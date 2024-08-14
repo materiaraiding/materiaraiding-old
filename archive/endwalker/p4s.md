@@ -3,6 +3,9 @@ layout: default
 title: P4S
 permalink: /p4s
 parent: Archive
+nav_order: 4
+expansion: Endwalker
+difficulty: Savage
 ---
 
 # P4S

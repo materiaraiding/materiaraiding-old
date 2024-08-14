@@ -2,6 +2,8 @@
 layout: default
 title: EX1
 permalink: /ex1
+expansion: Dawntrail
+difficulty: Extreme
 ---
 
 # EX1 - Worqor Lar Dor

@@ -2,6 +2,8 @@
 layout: default
 title: EX2
 permalink: /ex2
+expansion: Dawntrail
+difficulty: Extreme
 ---
 
 # EX2 - Everkeep

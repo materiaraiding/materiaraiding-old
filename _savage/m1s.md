@@ -1,16 +1,12 @@
 ---
-layout: default
+layout: guide
 title: M1S
 permalink: /m1s
 longtitle: AAC Light-heavyweight M1 (Savage)
 nav_order: 1
+expansion: Dawntrail
+difficulty: Savage
 ---
-
-# AAC Light-heavyweight M1 (Savage) 🐈
-{: .no_toc }
-
-PF Strats 
-{: .label .label-red }
 
 ### Credits
 {: .no_toc }

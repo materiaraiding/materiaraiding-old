@@ -1,18 +1,13 @@
 ---
-layout: default
+layout: guide
 title: TOP
 permalink: /top
 longtitle: The Omega Protocol (Ultimate)
 nav_order: 5
+expansion: Endwalker
+difficulty: Ultimate
+image: alphaomega.webp
 ---
-
-<img src="{{ site.baseurl }}/assets/images/alphaomega.webp" alt="AlphaOmega" width="150" style="float: right">
-
-# The Omega Protocol
-{: .no_toc }
-
-MUR Strats 
-{: .label .label-purple }
 
 ### Credits
 {: .no_toc }
