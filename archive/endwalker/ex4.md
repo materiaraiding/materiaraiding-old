@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EX4 - Endwalker
+title: EX4
 permalink: /ew/ex4
 parent: Archive
 expansion: Endwalker
