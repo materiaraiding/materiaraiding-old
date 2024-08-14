@@ -4,7 +4,7 @@ title: FRU
 permalink: /fru
 longtitle: Future's Rewritten (Ultimate)
 nav_order: 16
-expansion: Danwtrail
+expansion: Dawntrail
 difficulty: Ultimate
 image: eden.webp
 ---
