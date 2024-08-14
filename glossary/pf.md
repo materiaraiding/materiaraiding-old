@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Party Finder
-parent: glossary
+parent: Glossary
 nav_order: 1
 permalink: /glossary/pf
 ---

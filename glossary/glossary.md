@@ -12,10 +12,9 @@ permalink: /glossary
 Use the following to find definitions of various raiding terminology in their given categories.
 
 <ol>
-  {% assign parent_slug = page.url | split: '/' | last %}
-  {% for page in site.pages %}
-    {% if page.parent == parent_slug %}
-      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+  {% for child in site.pages %}
+    {% if child.url contains page.url and child.url != page.url %}
+      <li><a href="{{ site.baseurl }}{{ child.url }}">{{ child.title }}</a></li>
     {% endif %}
   {% endfor %}
 </ol>

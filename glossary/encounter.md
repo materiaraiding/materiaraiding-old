@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Encounter
-parent: glossary
+parent: Glossary
 nav_order: 2
 permalink: /glossary/encounter
 ---
