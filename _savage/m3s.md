@@ -4,6 +4,8 @@ title: M3S
 permalink: /m3s
 longtitle: AAC Light-heavyweight M3 (Savage)
 nav_order: 3
+expansion: Dawntrail
+difficulty: Savage
 ---
 
 # AAC Light-heavyweight M3 (Savage) 💣

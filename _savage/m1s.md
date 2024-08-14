@@ -4,6 +4,8 @@ title: M1S
 permalink: /m1s
 longtitle: AAC Light-heavyweight M1 (Savage)
 nav_order: 1
+expansion: Dawntrail
+difficulty: Savage
 ---
 
 # AAC Light-heavyweight M1 (Savage) 🐈

@@ -4,6 +4,8 @@ title: FRU
 permalink: /fru
 longtitle: Future's Rewritten (Ultimate)
 nav_order: 16
+expansion: Danwtrail
+difficulty: Ultimate
 ---
 
 <img src="{{ site.baseurl }}/assets/images/eden.webp" alt="eden" width="150" style="float: right">

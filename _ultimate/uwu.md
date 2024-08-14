@@ -4,6 +4,8 @@ title: UWU
 permalink: /uwu
 longtitle: The Weapon's Refrain (Ultimate)
 nav_order: 2
+expansion: Stormblood
+difficulty: Ultimate
 ---
 
 <img src="{{ site.baseurl }}/assets/images/ultima.webp" alt="Ultima Weapon" width="150px" style="float: right">

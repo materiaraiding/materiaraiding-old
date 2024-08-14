@@ -4,6 +4,8 @@ title: TEA
 permalink: /tea
 longtitle: The Epic of Alexander (Ultimate)
 nav_order: 3
+expansion: Shadowbringers
+difficulty: Ultimate
 ---
 
 <img src="{{ site.baseurl }}/assets/images/BJCC2.png" alt="BJCC" width="150" style="float: right">

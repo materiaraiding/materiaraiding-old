@@ -4,6 +4,8 @@ title: UCOB
 permalink: /ucob
 longtitle: The Unending Coil of Bahamut (Ultimate)
 nav_order: 1
+expansion: Stormblood
+difficulty: Ultimate
 ---
 
 <img src="./assets/images/goldenbaha.png" alt="Bahamut" width="150px" style="float: right">

@@ -2,7 +2,15 @@
 layout: default
 ---
 
-# {{ page.longtitle }}
-{: .no_toc }
+<div style="text-transform: uppercase;">{{ page.expansion }} - {{ page.difficulty }}</div>
+{% if product.difficulty == "Ultimate" %}
+    <h1><img style='display:inline;' src='../assets/images/icons/highendduty.webp'/>{{ page.longtitle }}</h1>
+{% endif %}
+{% if product.difficulty == "Savage" %}
+    <h1><img style='display:inline;' src='../assets/images/icons/highendduty.webp'/>{{ page.longtitle }}</h1>
+{% endif %}
+{% if product.difficulty == "Extreme" %}
+    <h1><img style='display:inline;' src='../assets/images/icons/highendduty.webp'/>{{ page.longtitle }}</h1>
+{% endif %}
 
 {{ content }}

@@ -4,6 +4,8 @@ title: M4S
 permalink: /m4s
 longtitle: AAC Light-heavyweight M4 (Savage)
 nav_order: 4
+expansion: Dawntrail
+difficulty: Savage
 ---
 
 # AAC Light-heavyweight M4 (Savage) 🦄

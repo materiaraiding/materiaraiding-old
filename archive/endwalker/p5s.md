@@ -3,6 +3,9 @@ layout: default
 title: P5S
 permalink: /p5s
 parent: Archive
+nav_order: 5
+expansion: Endwalker
+difficulty: Savage
 ---
 
 # P5S

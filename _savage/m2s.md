@@ -4,6 +4,8 @@ title: M2S
 permalink: /m2s
 longtitle: AAC Light-heavyweight M2 (Savage)
 nav_order: 2
+expansion: Dawntrail
+difficulty: Savage
 ---
 
 # AAC Light-heavyweight M2 (Savage) 🐝

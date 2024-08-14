@@ -4,6 +4,8 @@ title: TOP
 permalink: /top
 longtitle: The Omega Protocol (Ultimate)
 nav_order: 5
+expansion: Endwalker
+difficulty: Ultimate
 ---
 
 <img src="{{ site.baseurl }}/assets/images/alphaomega.webp" alt="AlphaOmega" width="150" style="float: right">
