@@ -12,6 +12,10 @@
     margin-bottom: 3px;
 }
 
+.guide_title {
+    font-weight: 400;
+}
+
 .label-mur {
     width: fit-content;
     padding: 1px 6px 1px 6px;
