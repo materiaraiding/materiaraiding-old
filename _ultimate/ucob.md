@@ -6,7 +6,7 @@ longtitle: The Unending Coil of Bahamut (Ultimate)
 nav_order: 1
 expansion: Stormblood
 difficulty: Ultimate
-image: goldenbaha.png
+image: goldenbaha.webp
 ---
 
 ### Credits
@@ -157,7 +157,7 @@ Golden Bahamut Mits
 <div id="window" markdown=1>
 <div id="windowheader">
 <h2 id="windowtitle">2-Minute Windows</h2>
-<img src="{{ site.baseurl }}/assets/images/icons/phys.png" alt="dmgup" style="height: 40px; float: right">
+<img src="{{ site.baseurl }}/assets/images/icons/phys.webp" alt="dmgup" style="height: 40px; float: right">
 </div>
 
 - Twin opener
@@ -174,7 +174,7 @@ Golden Bahamut Mits
 <div id="window" markdown=1>
 <div id="windowheader">
 <h2 id="windowtitle">Pot Windows</h2>
-<img src="{{ site.baseurl }}/assets/images/icons/pot.png" alt="pot" style="height: 40px; float: right">
+<img src="{{ site.baseurl }}/assets/images/icons/pot.webp" alt="pot" style="height: 40px; float: right">
 </div>
 
 - Twin opener
@@ -205,7 +205,7 @@ This guide is based off the original and very detailed guide by Clees, which can
 >
 > Your role is to position the boss in a way to drop a {% glossary Neurolink %} on Waymarks 1 -> 2 -> 3 markers in order. This will happen when the boss hits 74%, 44% and 0%. You should be on the outside of the boss towards the wall unless moving in to stack with party for other mechanics.
 >
-> <img src="{{ site.baseurl }}/assets/images/diagrams/ucobmarkers.png" alt="UCOB Markers" style="height: 300px">
+> <img src="{{ site.baseurl }}/assets/images/diagrams/ucobmarkers.webp" alt="UCOB Markers" style="height: 300px">
 
 {: .damage }
 > You will have two roles in this phase. Firstly **Ranged** will need to bait {% glossary Liquid Hell %} by being the furthest player from the boss through the phase. Assign a **Primary Baiter** (generally D3) and **Backup Baiter** (generally D4).
@@ -373,7 +373,7 @@ QUOTE 4:
 
 The two players with {% glossary Thunderstruck %} must seperate from the party and take up a position near the boss on north side. {% glossary Thunderstruck %} will resolve before the second mechanic in the quote. Two players who had {% glossary Thunderstruck %} then rejoin or run out depending on quotes.
 
-<img src="{{ site.baseurl }}/assets/images/diagrams/ucobthunder.png" alt="UCOB Markers" style="height: 300px">
+<img src="{{ site.baseurl }}/assets/images/diagrams/ucobthunder.webp" alt="UCOB Markers" style="height: 300px">
 
 {% glossary Doom %} will apply to two players (6s and 10s). {% glossary Wings of Salvation %} will target a party member and the party should rotate **clockwise** around the boss. Shortest {% glossary Doom %} timer takes the small puddle after {% glossary Wings of Salvation %} explodes. Another {% glossary Wings of Salvation %} and {% glossary Doom %} cleanse following that. {% glossary Bahamut's Claw %} will happen during {% glossary Doom %} cleanses.
 
@@ -387,7 +387,7 @@ During the first quotes, a player will also get targetted with a **Fire Tether**
 #### Icebitten and Firescorched Debuffs
 {: .no_toc }
 
-Through the phase, dragons will attack players with iceballs and AOE other players with a fire tether, each applies a debuff or removes the opposite debuff. If you have either debuff and you are hit by the same effect again (ie: hit by fireball and you already have firescorched <img src="./assets/images/icons/firescorched.png" class="bufficon">) you will die.
+Through the phase, dragons will attack players with iceballs and AOE other players with a fire tether, each applies a debuff or removes the opposite debuff. If you have either debuff and you are hit by the same effect again (ie: hit by fireball and you already have firescorched <img src="./assets/images/icons/firescorched.webp" class="bufficon">) you will die.
 
 To safely manage this, you will stack together for Fire tethers, to remove the ice debuffs from the party. There will be **FOUR** fire tethers during the phase and they should be stacked or taken out of the group using the following order;
 
@@ -405,7 +405,7 @@ Party should aim to move together as one, **clockwise** around the boss as each 
 
 Second Fire Tether appears and this should be taken **OUT**** of the party stack.
 
-<img src="{{ site.baseurl }}/assets/images/diagrams/ucobfire2.png" alt="UCOB Markers" style="height: 300px">
+<img src="{{ site.baseurl }}/assets/images/diagrams/ucobfire2.webp" alt="UCOB Markers" style="height: 300px">
 
 {% glossary Thunderstruck %} will apply to two players after fireball resolves, these need to leave the party stack.
 
@@ -462,7 +462,7 @@ This quote will not resolve until after the Second Dive finishes.
 
 The dragons on the outside of the room will start targetting players for Dives. Three players will be fixated with a green marker on their head, these go out one at a time.
 
-<img src="{{ site.baseurl }}/assets/images/diagrams/divemarker.png" alt="Dive Marker" style="height: 200px">
+<img src="{{ site.baseurl }}/assets/images/diagrams/divemarker.webp" alt="Dive Marker" style="height: 200px">
 
 The Dragons will dive in sets of **2-1-2** starting at True North. The 1st and 2nd Dragon will fixate on the 1st marked player. The 3rd Dragon will fixate on the 2nd marked player, and the last two dragons will fixate on the 3rd marked player.
 

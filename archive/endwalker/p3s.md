@@ -66,7 +66,7 @@ Hobolala (Fixed) - <https://www.youtube.com/watch?v=88PZJIV6pqc>
 Inumaru - <https://youtu.be/BHMjrxpZb7k?t=981>
 Tuufless - <https://na.finalfantasyxiv.com/lodestone/character/10898230/blog/4933610/>
 Myta - <https://imgur.com/leXttey>
-Elmo - <https://cdn.discordapp.com/attachments/843355000729501738/930353049392791553/unknown-1.png>
+Elmo - <https://cdn.discordapp.com/attachments/843355000729501738/930353049392791553/unknown-1.webp>
 
 **Darkblaze Twister**
 - Searing Breeze baits from Darkfire Tornado, baiting clockwise.

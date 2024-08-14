@@ -71,7 +71,7 @@ Code for Waymark Plugin
 <div id="window" markdown=1>
 <div id="windowheader">
 <h2 id="windowtitle">2-Minute Windows</h2>
-<img src="{{ site.baseurl }}/assets/images/icons/phys.png" alt="dmgup" style="height: 40px; float: right">
+<img src="{{ site.baseurl }}/assets/images/icons/phys.webp" alt="dmgup" style="height: 40px; float: right">
 </div>
 
 - P1 Opener
@@ -99,7 +99,7 @@ Cont..
 <div id="window" markdown=1>
 <div id="windowheader">
 <h2 id="windowtitle">Pot Windows</h2>
-<img src="{{ site.baseurl }}/assets/images/icons/pot.png" alt="pot" style="height: 40px; float: right">
+<img src="{{ site.baseurl }}/assets/images/icons/pot.webp" alt="pot" style="height: 40px; float: right">
 </div>
 
 Pot timings changes depending on buff timings, go check a log with same buff timings as you
@@ -123,9 +123,9 @@ The phase begins with heavy hitting auto-attacks before starting the first mecha
 ### Program Loop
 {: .no_toc }
 
-Program loop begins with each player being assigned a number from 1 to 4, with two of each across the party. This mechanic requires 4 sets of 2 towers to be soaked in a sequential order **(<img src="{{ site.baseurl }}/assets/images/icons/first-in-line.png" class="bufficon"> → <img src="{{ site.baseurl }}/assets/images/icons/second-in-line.png" class="bufficon"> → <img src="{{ site.baseurl }}/assets/images/icons/third-in-line.png" class="bufficon"> → <img src="{{ site.baseurl }}/assets/images/icons/fourth-in-line.png" class="bufficon">)** that will deal significant damage to the player inside. 
+Program loop begins with each player being assigned a number from 1 to 4, with two of each across the party. This mechanic requires 4 sets of 2 towers to be soaked in a sequential order **(<img src="{{ site.baseurl }}/assets/images/icons/first-in-line.webp" class="bufficon"> → <img src="{{ site.baseurl }}/assets/images/icons/second-in-line.webp" class="bufficon"> → <img src="{{ site.baseurl }}/assets/images/icons/third-in-line.webp" class="bufficon"> → <img src="{{ site.baseurl }}/assets/images/icons/fourth-in-line.webp" class="bufficon">)** that will deal significant damage to the player inside. 
 
-For each set of towers that needs to be soaked, two tethers must be taken by two players and taken away from the towers in the order **(<img src="{{ site.baseurl }}/assets/images/icons/third-in-line.png" class="bufficon"> → <img src="{{ site.baseurl }}/assets/images/icons/fourth-in-line.png" class="bufficon"> → <img src="{{ site.baseurl }}/assets/images/icons/first-in-line.png" class="bufficon"> → <img src="{{ site.baseurl }}/assets/images/icons/second-in-line.png" class="bufficon">)**.
+For each set of towers that needs to be soaked, two tethers must be taken by two players and taken away from the towers in the order **(<img src="{{ site.baseurl }}/assets/images/icons/third-in-line.webp" class="bufficon"> → <img src="{{ site.baseurl }}/assets/images/icons/fourth-in-line.webp" class="bufficon"> → <img src="{{ site.baseurl }}/assets/images/icons/first-in-line.webp" class="bufficon"> → <img src="{{ site.baseurl }}/assets/images/icons/second-in-line.webp" class="bufficon">)**.
 
 These tethers will explode in a large AOE on the targeted player and inflict a HP penalty debuff which will wear off after 10 seconds. 
 
@@ -190,7 +190,7 @@ Omega-M and Omega-F will then cast:
 
 Both bosses will become untargetable and disappear as the mechanic begins. 
 
-The party is inflicted with either **Mid Glitch** <img src="{{ site.baseurl }}/assets/images/icons/mid-glitch.png" class="bufficon">  or **Remote Glitch** <img src="{{ site.baseurl }}/assets/images/icons/remote-glitch.png" class="bufficon">. Each player is also assigned 1 of 4 coloured symbols above their head, with two of each. 
+The party is inflicted with either **Mid Glitch** <img src="{{ site.baseurl }}/assets/images/icons/mid-glitch.webp" class="bufficon">  or **Remote Glitch** <img src="{{ site.baseurl }}/assets/images/icons/remote-glitch.webp" class="bufficon">. Each player is also assigned 1 of 4 coloured symbols above their head, with two of each. 
 
 {: .everyone }
 > The party should line-up from East to West as seen in the cheatsheet. 
@@ -213,18 +213,18 @@ The possible combinations are:
 | Skates | Shield |
 | Skates | Sword  |
 
-[![](https://cdn.discordapp.com/attachments/862721895962902589/1108336788021444689/p2_dodges.png)](https://cdn.discordapp.com/attachments/862721895962902589/1108336788021444689/p2_dodges.png)
+[![](https://cdn.discordapp.com/attachments/862721895962902589/1108336788021444689/p2_dodges.webp)](https://cdn.discordapp.com/attachments/862721895962902589/1108336788021444689/p2_dodges.webp)
 
 {: .note }
 > The "cursed" pattern (F-Staff & M-Shield) can be easily resolved by using the far edges of the waymarks eitherside of the male.
 > 
 > These waymarks also help to position during **Mid/Remote Glitch.**
 
-Once the dodge is made, all players must resolve their **Mid/Remote Glitch** by splitting into the previously designated light parties and moving to the West (LP1) and East (LP2) **relative to Omega's Eye**. If **Remote Glitch** <img src="{{ site.baseurl }}/assets/images/icons/remote-glitch.png" class="bufficon"> is being solved, the cross and triangle players in Light Party 2 will swap positions.
+Once the dodge is made, all players must resolve their **Mid/Remote Glitch** by splitting into the previously designated light parties and moving to the West (LP1) and East (LP2) **relative to Omega's Eye**. If **Remote Glitch** <img src="{{ site.baseurl }}/assets/images/icons/remote-glitch.webp" class="bufficon"> is being solved, the cross and triangle players in Light Party 2 will swap positions.
 
 After each player takes an AOE, two stacks will then appear on two random players. Multiple clones will spawn around the arena, including a line of 3 Males, and 1 Female in the center. Using the **middle of the 3 males as relative north**, the party must form two stacks in their designated light parties around the female to get pushed back to 1 of 3 safe spots.
 
-Light Party 1 will always anchor West, and Light Party 2 will either be pushed South for **Mid Glitch** <img src="{{ site.baseurl }}/assets/images/icons/mid-glitch.png" class="bufficon">, or East for **Remote Glitch** <img src="{{ site.baseurl }}/assets/images/icons/remote-glitch.png" class="bufficon">.
+Light Party 1 will always anchor West, and Light Party 2 will either be pushed South for **Mid Glitch** <img src="{{ site.baseurl }}/assets/images/icons/mid-glitch.webp" class="bufficon">, or East for **Remote Glitch** <img src="{{ site.baseurl }}/assets/images/icons/remote-glitch.webp" class="bufficon">.
 
 If the stack players are part of the **same light party** the north most stack relative to the eye must swap positions with their partner. 
 
@@ -277,7 +277,7 @@ Upon defeating Omega-F, the transition begins:
 {: .healers }
 > To survive this transition the party must have *at least* a barrier healer's shield covering the hits.
 
-The debuffs assigned will target 4 players with **Sniper Cannon Fodder** (spread) <img src="{{ site.baseurl }}/assets/images/icons/sniper.png" class="bufficon">, 2 players with **High-powered Sniper Cannon Fodder** (stack) <img src="{{ site.baseurl }}/assets/images/icons/high-power-sniper.png" class="bufficon"> and 2 players will not be assigned a debuff.
+The debuffs assigned will target 4 players with **Sniper Cannon Fodder** (spread) <img src="{{ site.baseurl }}/assets/images/icons/sniper.webp" class="bufficon">, 2 players with **High-powered Sniper Cannon Fodder** (stack) <img src="{{ site.baseurl }}/assets/images/icons/high-power-sniper.webp" class="bufficon"> and 2 players will not be assigned a debuff.
 
 Players must spread according to their debuff and priority, with the stacks and non-debuff players along the south edge of the arena, and the spread players along the north edge.
 
@@ -307,16 +307,16 @@ For those interested I've attached the ignorable debuffs in the dropdown below:
 <details markdown=1>
 <summary>Hello World Debuffs</summary>
 
-**Cascading Latent Defect** <img src="{{ site.baseurl }}/assets/images/icons/latent cascade.png" class="bufficon">
+**Cascading Latent Defect** <img src="{{ site.baseurl }}/assets/images/icons/latent cascade.webp" class="bufficon">
 > Received from soaking a red puddle. Cleansed by allowing **Critical Underflow Bug** to expire. Failing to do so will wipe the raid.
 
-**Latent Performance Defect** <img src="{{ site.baseurl }}/assets/images/icons/latent performance defect.png" class="bufficon">
+**Latent Performance Defect** <img src="{{ site.baseurl }}/assets/images/icons/latent performance defect.webp" class="bufficon">
 > Received from soaking a blue puddle. Cleansed by allowing **Critical Performance Bug** to expire. Failing to do so will wipe the raid.
 
-**Latent Defect** <img src="{{ site.baseurl }}/assets/images/icons/latent defect.png" class="bufficon">
+**Latent Defect** <img src="{{ site.baseurl }}/assets/images/icons/latent defect.webp" class="bufficon">
 > Players must take damage before the debuff expires or they will die. This is assigned to **Christmas Tether** players.
 
-**Latent Synchronization Bug** <img src="{{ site.baseurl }}/assets/images/icons/latent synch.png" class="bufficon">
+**Latent Synchronization Bug** <img src="{{ site.baseurl }}/assets/images/icons/latent synch.webp" class="bufficon">
 > Must be hit by **Critical Synchronization Bug** to remove. Failure to do so results in death.
 
 </details>
@@ -324,11 +324,11 @@ For those interested I've attached the ignorable debuffs in the dropdown below:
 However, to actually resolve the mechanic we only care about 5 of them:
 
 - **Critical Underflow Bug** (aka Red Rot) <img src="{{ site.baseurl }}/assets/images/icons/Red Rot.webp" class="bufficon">
-- **Critical Performance Bug** (aka Blue Rot) <img src="{{ site.baseurl }}/assets/images/icons/Blue Rot.png" class="bufficon">
+- **Critical Performance Bug** (aka Blue Rot) <img src="{{ site.baseurl }}/assets/images/icons/Blue Rot.webp" class="bufficon">
 - **Critical Overflow Bug** (aka Defamation) <img src="{{ site.baseurl }}/assets/images/icons/Defamation.webp" class="bufficon">
 - **Critical Synchronization Bug** (aka Stack) <img src="{{ site.baseurl }}/assets/images/icons/Stack (HW).webp" class="bufficon">
-- **Local Code Smell/Local Regression** (aka Christmas Tether) <img src="{{ site.baseurl }}/assets/images/icons/local regression.png" class="bufficon">
-- **Remote Code Smell/Remote Regression** (aka Blue Tether) <img src="{{ site.baseurl }}/assets/images/icons/remote regression.png" class="bufficon">
+- **Local Code Smell/Local Regression** (aka Christmas Tether) <img src="{{ site.baseurl }}/assets/images/icons/local regression.webp" class="bufficon">
+- **Remote Code Smell/Remote Regression** (aka Blue Tether) <img src="{{ site.baseurl }}/assets/images/icons/remote regression.webp" class="bufficon">
 
 Throughout the phase, each player will have to get each of these debuffs. Once you have received and resolved your debuff, you will become immune to getting it again.
 
@@ -399,17 +399,17 @@ This phase is very mechanically heavy, having 3 trios and lasting approximately 
 
 Each trio is split into a "mechanic" section and a "Hello World" section. During the Hello World sections, 2 players are assigned the debuffs:
 
-**Hello, Distant World** <img src="{{ site.baseurl }}/assets/images/icons/distant-world.png" class="bufficon">
+**Hello, Distant World** <img src="{{ site.baseurl }}/assets/images/icons/distant-world.webp" class="bufficon">
 > Causes a large AOE on the player. This AOE "bounces" to the **furthest player away** causing a smaller AOE. This AOE then "bounces" once more to the **furthest player away** again. 
 > 
-> These AOEs inflict 1 stack of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.png" class="bufficon"> to each player.
+> These AOEs inflict 1 stack of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.webp" class="bufficon"> to each player.
 
-**Hello, Near World** <img src="{{ site.baseurl }}/assets/images/icons/near-world.png" class="bufficon">
+**Hello, Near World** <img src="{{ site.baseurl }}/assets/images/icons/near-world.webp" class="bufficon">
 > Causes a large AOE on the player. This AOE "bounces" to the **closest player** causing a smaller AOE. This AOE then "bounces" once more to the **closest player** again. 
 > 
-> These AOEs inflict 1 stack of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.png" class="bufficon"> to each player.
+> These AOEs inflict 1 stack of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.webp" class="bufficon"> to each player.
 
-The goal of the entirety of phase 5 is to end the phase with 3 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.png" class="bufficon"> on every player, as this is required to complete phase 6.
+The goal of the entirety of phase 5 is to end the phase with 3 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.webp" class="bufficon"> on every player, as this is required to complete phase 6.
 
 {: .note }
 > MUR employs blasphemous strategies of using AMs (they're actually really nice for the last trio), that simplifies the **Hello World** sections of Sigma and Omega. This guide is written assuming players will be using these, though I will explain why some players are *required* to be in certain positions.
@@ -431,7 +431,7 @@ I highly recommend looking at the toolbox for this trio as well as reading this 
 
 Omega-M will become untargetable and disappear, **Beetle Omega** and **Final Omega** will then spawn randomly on two opposite cardinals, and **Omega's Eye** will spawn on one of the remaining cardinals, and will treated as north. Each player will then be inflicted with **Local Code Smell** and **Remote Code Smell**, such that there will be **2 Blue Tethers** and **2 Christmas Tethers**.
 
-Two **Blue Tether Players** will also receive **Hello, Distant World** <img src="{{ site.baseurl }}/assets/images/icons/distant-world.png" class="bufficon"> and **Hello, Near World** <img src="{{ site.baseurl }}/assets/images/icons/near-world.png" class="bufficon">.
+Two **Blue Tether Players** will also receive **Hello, Distant World** <img src="{{ site.baseurl }}/assets/images/icons/distant-world.webp" class="bufficon"> and **Hello, Near World** <img src="{{ site.baseurl }}/assets/images/icons/near-world.webp" class="bufficon">.
 
 **Blues Tethers** will then go to **Beetle Omega**, and **Christmas Tethers** to **Final Omega**. Both pairs of tethers will line up parallel to the edge of the arena on their respective side. This is so that  there is a tether closer to the center of the arena (**Inner Tether**), and a tether closer to the edge of the arena (**Outer Tether**). 
 
@@ -471,14 +471,14 @@ After the Monitors resolve, **Beetle Omega** will cleave one side of the arena w
 > Similarly, the second **Christmas Tether** break can be done at ~2 seconds.
 
 {: .note }
-> If solved correctly, 6 players will have 1 stack of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.png" class="bufficon">.
+> If solved correctly, 6 players will have 1 stack of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.webp" class="bufficon">.
 
 **Omega-M** will then do another **Solar Ray** tank buster before casting:
 
 ### Run: Dynamis (Sigma Version)
 [P5 Dynamis Sigma Toolbox](https://ff14.toolboxgaming.space/?id=107380954136761&preview=1){: .btn }
 
-At the beginning of Sigma, each player will be assigned 1 of 4 symbols and be inflicted with **Mid Glitch** or **Remote Glitch**, identical to **Party Synergy**. Two players will also be assigned a **Hello, Distant World** <img src="{{ site.baseurl }}/assets/images/icons/distant-world.png" class="bufficon"> and **Hello, Near World** <img src="{{ site.baseurl }}/assets/images/icons/near-world.png" class="bufficon"> debuff. Two **Arms** will then spawn eitherside of a random cardinal/intercardinal and attach tethers to the two **furthest players** away from them. Directly opposite this is where **Omega-M** will spawn, where the party will move to line up as seen in the MUR cheatsheet. 
+At the beginning of Sigma, each player will be assigned 1 of 4 symbols and be inflicted with **Mid Glitch** or **Remote Glitch**, identical to **Party Synergy**. Two players will also be assigned a **Hello, Distant World** <img src="{{ site.baseurl }}/assets/images/icons/distant-world.webp" class="bufficon"> and **Hello, Near World** <img src="{{ site.baseurl }}/assets/images/icons/near-world.webp" class="bufficon"> debuff. Two **Arms** will then spawn eitherside of a random cardinal/intercardinal and attach tethers to the two **furthest players** away from them. Directly opposite this is where **Omega-M** will spawn, where the party will move to line up as seen in the MUR cheatsheet. 
 
 This **Omega-M (or the waymark he is on)** becomes **relative North** for the remainder of the tether mechanic.
 
@@ -514,7 +514,7 @@ Players will then move into their **Hello World** positions as seen below:
 > If you are not running AMs players can pre-position in a line up while they are waiting for the rotating AOE to begin, indicating which position they will take.
 
 {: .note }
-> If solved correctly, 4 players will have 1 stack of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.png" class="bufficon">, and 4 players will have 2 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.png" class="bufficon">.
+> If solved correctly, 4 players will have 1 stack of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.webp" class="bufficon">, and 4 players will have 2 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.webp" class="bufficon">.
 
 **Omega-F** will then spawn in the center and become targetable.
 
@@ -523,7 +523,7 @@ After another **Solar Ray** tank buster, **Omega-F** casts:
 ### Run: Dynamis (Omega Version)
 [P5 Dynamis Omega Toolbox](https://ff14.toolboxgaming.space/?id=078384491946761&preview=1){: .btn }
 
-After the initial raid-wide, 4 players are assigned **Hello World** debuffs. Two players are assigned with **First in Line** <img src="{{ site.baseurl }}/assets/images/icons/first-in-line.png" class="bufficon">, and two others will be assigned with **Second in Line** <img src="{{ site.baseurl }}/assets/images/icons/second-in-line.png" class="bufficon">. One player from each pair will be assigned **Hello, Distant World** <img src="{{ site.baseurl }}/assets/images/icons/distant-world.png" class="bufficon"> and the other **Hello, Near World** <img src="{{ site.baseurl }}/assets/images/icons/near-world.png" class="bufficon">.
+After the initial raid-wide, 4 players are assigned **Hello World** debuffs. Two players are assigned with **First in Line** <img src="{{ site.baseurl }}/assets/images/icons/first-in-line.webp" class="bufficon">, and two others will be assigned with **Second in Line** <img src="{{ site.baseurl }}/assets/images/icons/second-in-line.webp" class="bufficon">. One player from each pair will be assigned **Hello, Distant World** <img src="{{ site.baseurl }}/assets/images/icons/distant-world.webp" class="bufficon"> and the other **Hello, Near World** <img src="{{ site.baseurl }}/assets/images/icons/near-world.webp" class="bufficon">.
 
 **Omega-F** will remain targetable and **Final Omega** will spawn in the center of the arena. Clones of **Omega-M** and **Omega-F** will appear on opposite intercardinals next to **Final Omega** with the same **Staff/Skates + Sword/Shield** combo that's seen in phase 2. **Final Omega** will then cast 2 large cleaves on opposite cardinals of the arena, before cleaving the opposite cardinals.
 
@@ -553,9 +553,9 @@ Anyone who fails to make this dodge will take **HEAVY** damage and be inflicted 
 
 After the dodges are resolved, **Omega-F** will become untargetable and disappear. **Final Omega** will then point a monitor at either true East or true West. Like before, two players must be hit by this monitor while the rest need to line up for the first **Hello World** section.
 
-The two players that must be hit by the monitor are picked to be players with 2 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.png" class="bufficon">. Players with 2 stacks *and* **Second in Line** <img src="{{ site.baseurl }}/assets/images/icons/second-in-line.png" class="bufficon"> take priority for this position. 
+The two players that must be hit by the monitor are picked to be players with 2 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.webp" class="bufficon">. Players with 2 stacks *and* **Second in Line** <img src="{{ site.baseurl }}/assets/images/icons/second-in-line.webp" class="bufficon"> take priority for this position. 
 
-If these players are not given the monitor position, they cannot line up for the 2nd Hello World as they will have 3 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.png" class="bufficon"> and will get a 4th from their own **Hello World** debuff, forcing a wipe.
+If these players are not given the monitor position, they cannot line up for the 2nd Hello World as they will have 3 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.webp" class="bufficon"> and will get a 4th from their own **Hello World** debuff, forcing a wipe.
 
 The party will then line up as seen below:
 
@@ -564,14 +564,14 @@ The party will then line up as seen below:
 > If you are not running AMs, the line up used in this strategy can prove awkward and difficult to pre-position for, so a different line up (such as in JP strats) can be used to make it more comfy.
 
 {: .note }
-> If solved correctly, 2 players will have 3 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.png" class="bufficon"> and the remaining 6 will have 2 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.png" class="bufficon">.
+> If solved correctly, 2 players will have 3 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.webp" class="bufficon"> and the remaining 6 will have 2 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.webp" class="bufficon">.
 
-**Beetle Omega** will then spawn on a random cardinal, and a second and final **Hello World** line up must be formed. The players with **3 stacks** of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.png" class="bufficon"> must take two tethers from **Beetle Omega** while the other 6 players position themselves as seen below:
+**Beetle Omega** will then spawn on a random cardinal, and a second and final **Hello World** line up must be formed. The players with **3 stacks** of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.webp" class="bufficon"> must take two tethers from **Beetle Omega** while the other 6 players position themselves as seen below:
 
 [![](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/751a990e-660a-40ec-9c3a-2d8e90865b2b)](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/751a990e-660a-40ec-9c3a-2d8e90865b2b)
 
 {: .note }
-> If solved correctly all 8 players will have 3 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.png" class="bufficon">.
+> If solved correctly all 8 players will have 3 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.webp" class="bufficon">.
 
 **Omega-F** will then become targetable and do one last **Solar Ray** tank buster.
 
@@ -591,12 +591,12 @@ The party will then line up as seen below:
 {: .tanks }
 > Between every mechanic **Alpha Omega** will do 2 AOE auto-attacks. These will target the player with the highest emnity and the player who is **furthest** from the boss. The OT should stand outside the hitbox between mechanics to take these.
 
-**Alpha Omega** will become targetable and immediately begin casting **Cosmo Memory**, which requires a tank LB3 to survive. Upon taking damage from **Cosmo Memory**, everyone's 3 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.png" class="bufficon"> will be transformed to **Brilliant Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/brilliant-dynamis.png" class="bufficon">.
+**Alpha Omega** will become targetable and immediately begin casting **Cosmo Memory**, which requires a tank LB3 to survive. Upon taking damage from **Cosmo Memory**, everyone's 3 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.webp" class="bufficon"> will be transformed to **Brilliant Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/brilliant-dynamis.webp" class="bufficon">.
 
-The **Brilliant Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/brilliant-dynamis.png" class="bufficon"> buff allows every player to use a LB3 during the phase, as it will refund the gauge upon use. Once this limit break is used, **Brilliant Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/brilliant-dynamis.png" class="bufficon"> will turn into **Spark of Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/spark-dynamis.png" class="bufficon">. Any player **without** **Brilliant Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/brilliant-dynamis.png" class="bufficon"> or **Spark of Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/spark-dynamis.png" class="bufficon"> will take lethal damage from any damage the boss inflicts. 
+The **Brilliant Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/brilliant-dynamis.webp" class="bufficon"> buff allows every player to use a LB3 during the phase, as it will refund the gauge upon use. Once this limit break is used, **Brilliant Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/brilliant-dynamis.webp" class="bufficon"> will turn into **Spark of Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/spark-dynamis.webp" class="bufficon">. Any player **without** **Brilliant Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/brilliant-dynamis.webp" class="bufficon"> or **Spark of Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/spark-dynamis.webp" class="bufficon"> will take lethal damage from any damage the boss inflicts. 
 
 {: .warning }
-> **Brilliant Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/brilliant-dynamis.png" class="bufficon"> and **Spark of Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/spark-dynamis.png" class="bufficon"> buffs are lost upon death so it is imperative players do not die during this phase until the very end.
+> **Brilliant Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/brilliant-dynamis.webp" class="bufficon"> and **Spark of Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/spark-dynamis.webp" class="bufficon"> buffs are lost upon death so it is imperative players do not die during this phase until the very end.
 
 **Alpha Omega** will then cast **Cosmo Arrow** (aka **Exasquares**), and will perform 1 of 2 patterns of AOEs. These patterns are referred to as plus (in), or square/box (out). These can be seen in the videos by user **sausoftheroll** below:
 
@@ -652,13 +652,13 @@ A random **non-flare** player will then be targeted with a non-telegraphed stack
 ### Magic Number
 {: .no_toc }
 
-**Alpha Omega** will then cast the first **Magic Number**. Tanks must LB3 this to survive. Shortly after the hit a 6s **Magic Number** <img src="{{ site.baseurl }}/assets/images/icons/magic-number.png" class="bufficon"> debuff will be applied to the party, killing the player once the debuff falls off. This debuff is cleansed by a healer LB3.
+**Alpha Omega** will then cast the first **Magic Number**. Tanks must LB3 this to survive. Shortly after the hit a 6s **Magic Number** <img src="{{ site.baseurl }}/assets/images/icons/magic-number.webp" class="bufficon"> debuff will be applied to the party, killing the player once the debuff falls off. This debuff is cleansed by a healer LB3.
 
 {: .note }
 > Although I said before that it's important to not have players die in p6, there is an exception. DRK is able to **click off** the tank LB3 for both magic numbers, and get resurrected by the healer LB3. This results in **no weakness** and **full mana** when they are resurrected, netting a DPS gain.
 
 {: .healers }
-> Healers should wait for the debuff to actually appear before casting their LB3, as **Magic Number** <img src="{{ site.baseurl }}/assets/images/icons/magic-number.png" class="bufficon"> takes a second or two to apply after the initial damage goes out.
+> Healers should wait for the debuff to actually appear before casting their LB3, as **Magic Number** <img src="{{ site.baseurl }}/assets/images/icons/magic-number.webp" class="bufficon"> takes a second or two to apply after the initial damage goes out.
 
 This set of mechanics repeats twice, until **Alpha Omega** casts the final enrage:
 

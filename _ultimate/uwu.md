@@ -119,7 +119,7 @@ D3                                D4
 <div id="window" markdown=1>
 <div id="windowheader">
 <h2 id="windowtitle">2-Minute Windows</h2>
-<img src="{{ site.baseurl }}/assets/images/icons/phys.png" alt="dmgup" style="height: 40px; float: right">
+<img src="{{ site.baseurl }}/assets/images/icons/phys.webp" alt="dmgup" style="height: 40px; float: right">
 </div>
 
 - Garuda opener
@@ -135,7 +135,7 @@ D3                                D4
 <div id="window" markdown=1>
 <div id="windowheader">
 <h2 id="windowtitle">Pot Windows</h2>
-<img src="{{ site.baseurl }}/assets/images/icons/pot.png" alt="pot" style="height: 40px; float: right">
+<img src="{{ site.baseurl }}/assets/images/icons/pot.webp" alt="pot" style="height: 40px; float: right">
 </div>
 
 - Ifrit reopener
@@ -319,7 +319,7 @@ OT will be tethered to a random DPS - try to stay close to them, but focus on na
 
 Ranged will split and bait {% glossary Eruptions %} at SE and SW, moving up to hit each nail twice with a {% glossary Eruptions %}, this will cause the nails to grow. Once the nails have been hit twice, destroy them in the following order.
 
-![](./assets/images/diagrams/nails.png)
+![](./assets/images/diagrams/nails.webp)
 
 The order that Infernal Nails are destroyed will determine the order of Ifrit’s Crimson Cyclone charges in a later phase (i.e. the first Crimson Cyclone comes from the same location as the first nail that was killed). This is a very tight DPS window and you will need to ensure you weaken the nails to ensure you can kill them quickly once they are fully grown.
 
@@ -402,11 +402,11 @@ Geocrush is very fast, Titan will start turning towards a cardinal and then jump
 
 Party starts with a stack on Titan, check where the Bombs spawn at the back of the room, there are two possible combinations.
 
-![](./assets/images/diagrams/jails.png)
+![](./assets/images/diagrams/jails.webp)
 
 Use the boss target marker as a reference for where to stand.
 
-![](./assets/images/diagrams/jailsleftright.png)
+![](./assets/images/diagrams/jailsleftright.webp)
 
 After the knockback, AM will apply 1,2,3 markers to the people with Gaols. 
 
@@ -422,7 +422,7 @@ After the knockback, AM will apply 1,2,3 markers to the people with Gaols.
 {: .important }
 Gaols MUST be positioned in-line with the raidmarker. Ideally dead center otherwise the chain of explosions will fail.
 
-![](./assets/images/diagrams/jailsfinal.png)
+![](./assets/images/diagrams/jailsfinal.webp)
 
 If all three bombs puddles are correctly overlapping, Titan will gain a stacking Wakening buff and become Awoken. This will greatly increase the speed of mechanics and change their patterns throughout the fight.
 
@@ -435,7 +435,7 @@ The party can move up to Titan on the left side of the puddles. Your burst phase
 {: .no_toc }
 Party will stack on the Left Side looking at Titan, ready to move for {% glossary Weight of the Land %}. Dodge through Titan and prepare for {% glossary Landslides %}. Each landslide set will now be immediately followed by a second set of {% glossary Landslides %} between the first set. 
 
-![](./assets/images/diagrams/landslides.jpg)
+![](./assets/images/diagrams/landslides.webp)
 
 Watch for the first set, as soon as you see the Landslide visual dissapear, you want to **immediately move into the first set of landslides** to avoid the second set. This is **VERY** fast.
 

@@ -53,4 +53,4 @@ There are two common variations of this fight, using different strats for Cachex
 
 ## Resources
 
-![](./assets/images/diagrams/p6sref.png)
+![](./assets/images/diagrams/p6sref.webp)

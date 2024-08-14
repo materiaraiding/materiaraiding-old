@@ -78,7 +78,7 @@ Primarily, Materia follows Clees' UCOB guide, this is common in some other regio
 
 One key difference is due to being in the southern hemisphere, we flip the arena upside down and drop the Hatch puddles in a V shape, obviously. This looks something like this: 
 
-<img src="{{ site.baseurl }}/assets/images/diagrams/ucobmarkers.png" alt="UCOB Markers" style="height: 400px">
+<img src="{{ site.baseurl }}/assets/images/diagrams/ucobmarkers.webp" alt="UCOB Markers" style="height: 400px">
 
 For all of Bahamut, we use the following toolboxes: 
 
@@ -270,7 +270,7 @@ TOP strats are similar (but not identical!) to NA, which are *substantially* dif
 <summary>NA Differences</summary>
 
 For NA players, both DPS and supports move during P6 WC2 instead of DPS not moving. DPS dodge CW, supports CCW.
-<img src="./assets/images/diagrams/exasquares.png" alt="Cosmo Arrow 2 Spread Positions" style="height: 400px">
+<img src="./assets/images/diagrams/exasquares.webp" alt="Cosmo Arrow 2 Spread Positions" style="height: 400px">
 
 [Full TOP OCE Guide](/top){: .btn }
 </details>
