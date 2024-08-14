@@ -1,15 +1,11 @@
 ---
-layout: default
+layout: guide
 title: EX1
 permalink: /ex1
+longtitle: Worqor Lar Dor (Extreme)
 expansion: Dawntrail
 difficulty: Extreme
 ---
-
-# EX1 - Worqor Lar Dor
-
-PF Strats 
-{: .label .label-red }
 
 ## Macro
 
