@@ -9,20 +9,6 @@ difficulty: Ultimate
 image: ultima.webp
 ---
 
-{: .warning }
-This page is currently a work-in-progress, some sections are incomplete. We hope to have this finished soon.
-
-The Weapons Refrain is a multi-phase fight that covers an alternative retelling of the Warrior of Light's fight against the Primals and the Ultima Weapon.
-
-{: .note }
-This fight is commonly referred to as **UWU** for *Ultima Weapon: Ultimate*, and frankly I agree its a better abbreviation than **TWR** too...
-
-The fight will see you squaring off against Garuda, Ifrit and Titan before completing a LB3-filled intermission with Lahabrea before facing the Ultima Weapon itself, angrier than ever.
-
-This guide is based off the original and very detailed guide by Clees, which can be found below:
-
-[Clees Guide](https://ultimates.guide/uwu/){: .btn .btn-purple }
-
 ### Credits
 {: .no_toc }
 Written Guide by Em'gram
@@ -160,15 +146,27 @@ D3                                D4
 </div>
 </div>
 
+# Written Guide
 
-### Puddles (Candy)
+{: .warning }
+This page is currently a work-in-progress, some sections are incomplete. We hope to have this finished soon.
+
+The Weapons Refrain is a multi-phase fight that covers an alternative retelling of the Warrior of Light's fight against the Primals and the Ultima Weapon.
+
+{: .note }
+This fight is commonly referred to as **UWU** for *Ultima Weapon: Ultimate*, and frankly I agree its a better abbreviation than **TWR** too...
+
+The fight will see you squaring off against Garuda, Ifrit and Titan before completing a LB3-filled intermission with Lahabrea before facing the Ultima Weapon itself, angrier than ever.
+
+This guide is based off the original and very detailed guide by Clees, which can be found below:
+
+[Clees Guide](https://ultimates.guide/uwu/){: .btn .btn-purple }
+
+### Awakening
 
 Throughout the first 3 phases, you will be aiming to complete special requirements to **Awaken** all three primals, once awoken their mechanics may change and they will drop a puddle (Candy) when they die, this must be picked up in a specific order, these will give you extra LB3's later which are required to clear the fight.
 
 **Healer (Garuda) > Caster (Ifrit) > Melee (Titan)**
-
-# Phase Summaries
-{: .no_toc }
 
 ## Phase 1: Garuda
 [Toolbox](https://ff14.toolboxgaming.space/?id=882261013862561&preview=1){: .btn .btn-blue }

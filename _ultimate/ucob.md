@@ -9,10 +9,6 @@ difficulty: Ultimate
 image: goldenbaha.png
 ---
 
-This guide is based off the original and very detailed guide by Clees, which can be found below:
-
-[Clees Guide](https://clees.me/guides/ucob/){: .btn .btn-purple }
-
 ### Credits
 {: .no_toc }
 Written Guide by Em Quackingway (Phases 1, 2 and 3) and Noz Leafhill (Phases 4 and 5)
@@ -191,6 +187,10 @@ Golden Bahamut Mits
 </div>
 
 ## Phase 1: Twintania
+
+This guide is based off the original and very detailed guide by Clees, which can be found below:
+
+[Clees Guide](https://clees.me/guides/ucob/){: .btn .btn-purple }
 
 ### Key Mechanics
 {: .no_toc }
