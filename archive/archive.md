@@ -13,7 +13,7 @@ The following pages are Archived and no longer current content. Once a new raid 
 
 ## Endwalker
 
-{% assign pages_in_order = site.pages | sort: "nav_order" %}
-{% for page in pages_in_order %}
-- [{{ page.longtitle }}]({{ site.baseurl }}{{ page.permalink }})
+{% assign pages = site.pages | sort: "nav_order" | where: "expansion", "Endwalker" %}
+{% for page in pages %}
+- <a href="{{ site.baseurl }}{{ page.permalink }}">{{ page.title }}</a>
 {% endfor %}
