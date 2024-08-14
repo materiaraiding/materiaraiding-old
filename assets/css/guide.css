@@ -4,10 +4,11 @@
     color: #959396;
 }
 
-.guide_title {
+.guide_titlebox {
     margin-top: 0.1em;
 }
 
 .guide_titleimg {
     display:inline;
+    height: 1em;
 }
