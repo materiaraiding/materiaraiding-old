@@ -3,13 +3,13 @@ layout: default
 ---
 
 <div style="text-transform: uppercase;">{{ page.expansion }} - {{ page.difficulty }}</div>
-{% if product.difficulty == "Ultimate" %}
+{% if page.difficulty == "Ultimate" %}
     <h1><img style='display:inline;' src='../assets/images/icons/highendduty.webp'/>{{ page.longtitle }}</h1>
 {% endif %}
-{% if product.difficulty == "Savage" %}
+{% if page.difficulty == "Savage" %}
     <h1><img style='display:inline;' src='../assets/images/icons/highendduty.webp'/>{{ page.longtitle }}</h1>
 {% endif %}
-{% if product.difficulty == "Extreme" %}
+{% if page.difficulty == "Extreme" %}
     <h1><img style='display:inline;' src='../assets/images/icons/highendduty.webp'/>{{ page.longtitle }}</h1>
 {% endif %}
 
