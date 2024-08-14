@@ -12,9 +12,7 @@ nav_order: 1
     <img src="{{ site.baseurl }}/assets/images/icons/materia.webp" alt="materia" style="object-fit: contain;">
 </div>
 
-* * *
 {% include navblock.html %}
-* * *
 
 ## Looking for a group? 🚩
 
