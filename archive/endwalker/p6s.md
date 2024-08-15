@@ -2,7 +2,8 @@
 layout: default
 title: P6S
 permalink: /p6s
-parent: Archive
+parent: Endwalker
+grand_parent: Archive
 nav_order: 6
 expansion: Endwalker
 difficulty: Savage
