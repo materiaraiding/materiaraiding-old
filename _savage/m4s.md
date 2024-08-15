@@ -85,11 +85,11 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 ### Cheatsheets
 *Updated as of 13/08/24*
 
-<a href="https://github.com/user-attachments/assets/a9338c87-f251-4063-88ec-72f4c368094c" target="_blank"><img style="width: 400px" src="https://github.com/user-attachments/assets/a9338c87-f251-4063-88ec-72f4c368094c"></a>
+<a href="{{ site.baseurl }}/assets/images/cheatsheets/m4s1.webp" target="_blank"><img style="width: 400px" src="{{ site.baseurl }}/assets/images/cheatsheets/m4s1.webp"></a>
 
-<a href="https://github.com/user-attachments/assets/1d662d5f-baa5-4e04-a1a6-89b2b041b5ed" target="_blank"><img style="width: 400px" src="https://github.com/user-attachments/assets/1d662d5f-baa5-4e04-a1a6-89b2b041b5ed"></a>
+<a href="{{ site.baseurl }}/assets/images/cheatsheets/m4s2.webp" target="_blank"><img style="width: 400px" src="{{ site.baseurl }}/assets/images/cheatsheets/m4s2.webp"></a>
 
-<a href="https://github.com/user-attachments/assets/5dd75d7d-cef7-4beb-8335-c0900250cb8b" target="_blank"><img style="width: 400px" src="https://github.com/user-attachments/assets/5dd75d7d-cef7-4beb-8335-c0900250cb8b"></a>
+<a href="{{ site.baseurl }}/assets/images/cheatsheets/m4s3.webp" target="_blank"><img style="width: 400px" src="{{ site.baseurl }}/assets/images/cheatsheets/m4s3.webp"></a>
 
 <details markdown=1>
 <summary>Recent Changes</summary>
@@ -117,7 +117,7 @@ A B C D are exactly on the middle of in/out dodges for witch hunt
 {"Name":"M4S OCE","MapID":992,"A":{"X":93.125,"Y":0.001,"Z":93.125,"ID":0,"Active":true},"B":{"X":106.875,"Y":0.001,"Z":93.125,"ID":1,"Active":true},"C":{"X":106.875,"Y":0.0,"Z":106.875,"ID":2,"Active":true},"D":{"X":93.125,"Y":0.0,"Z":106.875,"ID":3,"Active":true},"One":{"X":90.8,"Y":0.0,"Z":155.8,"ID":4,"Active":true},"Two":{"X":109.2,"Y":0.0,"Z":155.8,"ID":5,"Active":true},"Three":{"X":109.2,"Y":0.0,"Z":174.2,"ID":6,"Active":true},"Four":{"X":90.8,"Y":0.001,"Z":174.2,"ID":7,"Active":true}}
 ```
 
-![image](https://github.com/user-attachments/assets/0adaf5f6-87a1-4e0a-84a4-5586706feadb)
+![image]({{ site.baseurl }}/assets/images/354851355-0adaf5f6-87a1-4e0a-84a4-5586706feadb.webp)
 
 ## Written Guide
 By Pipiro Piro
@@ -127,21 +127,21 @@ This fight contains several recurring and new status effects. It is important th
 
 |          Debuff Name         | Icon |  Effect  |
 |:----------------------------:|:----:|:----:|
-| Physical Vulnerability Up    |![image](https://github.com/user-attachments/assets/cf2bac2b-f033-4843-ba31-a50f7213ffa2)| Prevents you from receiving any other physical damage until this debuff wears off. Doing so kills you.|
-| Forked Lightning             |![image](https://github.com/user-attachments/assets/f2c6c055-754e-41ba-9b2e-6bec34eab3d8)| Causes a point blank (PB) AOE around the affected player. This AOE does not do damage to you but will kill anyone else who is hit by it.|
-| Magic Vulnerability Up       |![image](https://github.com/user-attachments/assets/377b45e1-c671-406e-bdd2-407aa4088a22)| Prevents you from receiving any other magic damage until this debuff wears off. Doing so kills you.|
-| Electrical Condenser         |![image](https://github.com/user-attachments/assets/5a633adf-26fd-4d99-8836-356a740adbc9)| Causes tiles in a R-tile radius around the player to explode dealing lightning damage and inflicting Lightning Resistance Down II.  R here is the number of times the player receives lightning damage from the boss while the debuff is up from either Witchgleam or Eight/Four Star.|
-| Lightning Resistance Down II |![image](https://github.com/user-attachments/assets/add28c14-336c-4887-8de9-e2fb78791bb7)| Prevents you from receiving any other lightning damage until this debuff wears off. Doing so kills you.|
-| Positron                     |![image](https://github.com/user-attachments/assets/f9d9c750-eb1a-443c-ba6e-bdf179f0d674)| Stacks up to 6. Will instantly kill the player once the timer reaches zero. Getting hit by a cannon of the opposite colour/polarity (blue) will cleanse a stack.|
-| Negatron                     |![image](https://github.com/user-attachments/assets/b690fe3d-ca7c-4194-8616-25a4a2dd7522)| Stacks up to 6. Will instantly kill the player once the timer reaches zero. Getting hit by a cannon of the opposite colour/polarity (yellow) will cleanse a stack.|
-| Spinning Conductor           |![image](https://github.com/user-attachments/assets/2dd21638-6f48-4bd7-b54a-2244c1c8b9ea)| Causes a tiny PB AOE round the player that will kill any other players hit.|
-| Roundhouse Conductor         |![image](https://github.com/user-attachments/assets/27c93ba7-3540-477e-9010-2f9454297cdc)| Causes a massive donut around the player that will kill any other players hit.|
-| Collider Conductor           |![image](https://github.com/user-attachments/assets/1c76ae5a-4d47-4e6d-8fff-0b1c9c31d95e)| Will cause a player to explode if not resolved before the timer reaches zero, inflicting Damage Down and Sustained Damage on the entire party. Can be cleansed by taking damage from cleaves from Remote/Proximate Current.|
-| Remote Current               |![image](https://github.com/user-attachments/assets/6663c2d7-863c-48db-aa8b-ab05d034d708)| Fires a narrow lightning cone at the farthest player.|
-| Proximate Current            |![image](https://github.com/user-attachments/assets/ffe0c646-7da8-47ac-bb22-9abab13f4691)| Fires a narrow lightning cone at the closest player.|
-| Fire Resistance Down II      |![image](https://github.com/user-attachments/assets/72234285-9ba2-42e3-8819-0ef644d04497)| Prevents you from receiving any other fire damage until this debuff wears off. Doing so kills you.|
-| Mustard Bomb                 |![image](https://github.com/user-attachments/assets/64977bae-426d-4fd5-b1e4-1e64dce2adb8)| Causes a delayed PB AOE around the affected player dealing fire damage and inflicting Fire Resistance Down II.. Can be passed to other players via physical contact.|
-| Mustard Bombproof            |![image](https://github.com/user-attachments/assets/47919de1-be0a-458d-9ce8-5d73267a1db0)| Granted when passing Mustard Bomb to another player and prevents you from being able to receive it.|
+| Physical Vulnerability Up    |![image]({{ site.baseurl }}/assets/images/355771612-cf2bac2b-f033-4843-ba31-a50f7213ffa2.webp)| Prevents you from receiving any other physical damage until this debuff wears off. Doing so kills you.|
+| Forked Lightning             |![image]({{ site.baseurl }}/assets/images/355771753-f2c6c055-754e-41ba-9b2e-6bec34eab3d8.webp)| Causes a point blank (PB) AOE around the affected player. This AOE does not do damage to you but will kill anyone else who is hit by it.|
+| Magic Vulnerability Up       |![image]({{ site.baseurl }}/assets/images/355771847-377b45e1-c671-406e-bdd2-407aa4088a22.webp)| Prevents you from receiving any other magic damage until this debuff wears off. Doing so kills you.|
+| Electrical Condenser         |![image]({{ site.baseurl }}/assets/images/355771368-5a633adf-26fd-4d99-8836-356a740adbc9.webp)| Causes tiles in a R-tile radius around the player to explode dealing lightning damage and inflicting Lightning Resistance Down II.  R here is the number of times the player receives lightning damage from the boss while the debuff is up from either Witchgleam or Eight/Four Star.|
+| Lightning Resistance Down II |![image]({{ site.baseurl }}/assets/images/355771907-add28c14-336c-4887-8de9-e2fb78791bb7.webp)| Prevents you from receiving any other lightning damage until this debuff wears off. Doing so kills you.|
+| Positron                     |![image]({{ site.baseurl }}/assets/images/355771952-f9d9c750-eb1a-443c-ba6e-bdf179f0d674.webp)| Stacks up to 6. Will instantly kill the player once the timer reaches zero. Getting hit by a cannon of the opposite colour/polarity (blue) will cleanse a stack.|
+| Negatron                     |![image]({{ site.baseurl }}/assets/images/355772005-b690fe3d-ca7c-4194-8616-25a4a2dd7522.webp)| Stacks up to 6. Will instantly kill the player once the timer reaches zero. Getting hit by a cannon of the opposite colour/polarity (yellow) will cleanse a stack.|
+| Spinning Conductor           |![image]({{ site.baseurl }}/assets/images/355772096-2dd21638-6f48-4bd7-b54a-2244c1c8b9ea.webp)| Causes a tiny PB AOE round the player that will kill any other players hit.|
+| Roundhouse Conductor         |![image]({{ site.baseurl }}/assets/images/355772158-27c93ba7-3540-477e-9010-2f9454297cdc.webp)| Causes a massive donut around the player that will kill any other players hit.|
+| Collider Conductor           |![image]({{ site.baseurl }}/assets/images/355772223-1c76ae5a-4d47-4e6d-8fff-0b1c9c31d95e.webp)| Will cause a player to explode if not resolved before the timer reaches zero, inflicting Damage Down and Sustained Damage on the entire party. Can be cleansed by taking damage from cleaves from Remote/Proximate Current.|
+| Remote Current               |![image]({{ site.baseurl }}/assets/images/355772302-6663c2d7-863c-48db-aa8b-ab05d034d708.webp)| Fires a narrow lightning cone at the farthest player.|
+| Proximate Current            |![image]({{ site.baseurl }}/assets/images/355772356-ffe0c646-7da8-47ac-bb22-9abab13f4691.webp)| Fires a narrow lightning cone at the closest player.|
+| Fire Resistance Down II      |![image]({{ site.baseurl }}/assets/images/356843883-72234285-9ba2-42e3-8819-0ef644d04497.webp)| Prevents you from receiving any other fire damage until this debuff wears off. Doing so kills you.|
+| Mustard Bomb                 |![image]({{ site.baseurl }}/assets/images/355772457-64977bae-426d-4fd5-b1e4-1e64dce2adb8.webp)| Causes a delayed PB AOE around the affected player dealing fire damage and inflicting Fire Resistance Down II.. Can be passed to other players via physical contact.|
+| Mustard Bombproof            |![image]({{ site.baseurl }}/assets/images/355772507-47919de1-be0a-458d-9ce8-5d73267a1db0.webp)| Granted when passing Mustard Bomb to another player and prevents you from being able to receive it.|
 
 {: .note }
 Getting hit by any avoidable mechanics in this fight will incur a Damage Down debuff that will reduce damage dealt by 25% for 30s. Some mechanics will also inflict Sustained Damage , which is a heavy bleed that cannot be mitigated.
@@ -161,7 +161,7 @@ Wicked Thunder will spawn a pair of wings and electrope cubes on the west side o
 
 Following this, the vertical cleaves will each leave behind a glowing line of lightning. 
 
-|![image](https://github.com/user-attachments/assets/191e144c-354f-4ad5-b834-694d11a780a9)|![image](https://github.com/user-attachments/assets/291282ed-14c9-4955-82d7-2b8791af582b)|
+|![image]({{ site.baseurl }}/assets/images/355692641-191e144c-354f-4ad5-b834-694d11a780a9.webp)|![image]({{ site.baseurl }}/assets/images/355692679-291282ed-14c9-4955-82d7-2b8791af582b.webp)|
 
 The boss will then teleport back to the centre and immediately begin casting Electrifying Witch Hunt.
 
@@ -178,13 +178,13 @@ The following mechanics will occur as the boss is casting **Electrifying Witch H
 
 Combined, these overlapping mechanics will leave 8 small squares safe in which the party can spread as shown below.
 
-|![image](https://github.com/user-attachments/assets/6fab1f14-7711-4eca-b24f-c0ae862fd5bd)|![image](https://github.com/user-attachments/assets/7544889d-12f6-4f19-9a33-c3942a18ac8e)|
+|![image]({{ site.baseurl }}/assets/images/355693452-6fab1f14-7711-4eca-b24f-c0ae862fd5bd.webp)|![image]({{ site.baseurl }}/assets/images/355693479-7544889d-12f6-4f19-9a33-c3942a18ac8e.webp)|
 
 Following this, the remaining lightning lines on the floor will begin to glow and expand leaving the opposite area of the arena safe. Wicked Thunder will also cast **Witch Hunt**, which will target either the four closest or farthest players with a clone dive. This is determined by the symbol she shows on her chest during the castbar. 
 
 Given four players have already been dived and cannot be hit again, the opposite role group (supports/DPS) will step in or out take these baits. Wicked Thunder will then begin casting her next major mechanic **Widening/Narrowing Witch Hunt**.
 
-| ![image](https://github.com/user-attachments/assets/24819d69-c186-4ccf-95e2-9493a6253428) | ![image](https://github.com/user-attachments/assets/d80fff9c-5724-46e3-aadd-af7f14b86367) |
+| ![image]({{ site.baseurl }}/assets/images/355693582-24819d69-c186-4ccf-95e2-9493a6253428.webp) | ![image]({{ site.baseurl }}/assets/images/355693641-d80fff9c-5724-46e3-aadd-af7f14b86367.webp) |
 |:--:|:--:| 
 | **Close Bait** | **Far Bait** |
 
@@ -208,18 +208,18 @@ To resolve this mechanic, we have the party stand in their clock spots and dodge
 
 Ultimately, one of two bait patterns will be observed. You can make these into a macro to help you while progging.
 
-| ![image](https://github.com/user-attachments/assets/2eca2541-7e20-465c-bdb9-dd27ca4d76c4) | ![image](https://github.com/user-attachments/assets/f06be4a8-4114-4dba-ade4-fa076be6aaef) |
+| ![image]({{ site.baseurl }}/assets/images/355694345-2eca2541-7e20-465c-bdb9-dd27ca4d76c4.webp) | ![image]({{ site.baseurl }}/assets/images/355694519-f06be4a8-4114-4dba-ade4-fa076be6aaef.webp) |
 |:--:|:--:| 
 | Tanks > Healers > Melee > Ranged <br>(Close > Far > Close > Far) | Healers > Tanks > Ranged > Melee <br>(Far > Close > Far > Close) |
 
 {: .everyone }
 > To allow for better uptime and to prevent melees accidentally killing each other with close baits, this mechanic will be resolved with modified clock spots.
 > 
-> ![image](https://github.com/user-attachments/assets/58291d86-f143-4ebb-9616-6e9cc97fc583)
+> ![image]({{ site.baseurl }}/assets/images/355694769-58291d86-f143-4ebb-9616-6e9cc97fc583.webp)
 > 
 > The waymarks and floor markings here are also very useful to help you determine the size of the upcoming point-blank AOE. The PB AOE and donut cleave directly through the middle of the waymarks and the intersection of the cardinal tiles (green arrows).
 > 
-> ![image](https://github.com/user-attachments/assets/670cd245-1cf6-4989-bb5b-af1651dd115e)
+> ![image]({{ site.baseurl }}/assets/images/355694873-670cd245-1cf6-4989-bb5b-af1651dd115e.webp)
 
 Wicked Thunder will end this mechanic with another Wrath of Zeus raidwide before beginning the next major mechanic **Electrope Edge**. 
 
@@ -235,7 +235,7 @@ The half room cleave and exploding cubes will render a single quadrant safe in w
 {: .warning }
 These spread AOEs are very big. Melees should ensure they are max melee from the boss in order to avoid clipping the MT. The ST may need to take a GCD of downtime to do the same.
 
-![image](https://github.com/user-attachments/assets/2a53392f-6ada-4c71-ba6c-176c5d4a4f4d)
+![image]({{ site.baseurl }}/assets/images/355695086-2a53392f-6ada-4c71-ba6c-176c5d4a4f4d.webp)
 
 Wicked Thunder immediately follows this with Wicked Jolt, a hard-hitting line tankbuster that inflicts Magic Vulnerability Up for 5s, forcing either a tankswap or a tank invuln.
 
@@ -254,22 +254,22 @@ The number of times a player is hit while the debuff is active indicates the siz
 
 The boss will now cast **Lightning Cage** spawning the following grid pattern on the floor. This pattern is **always the same** but can spawn in any orientation. Here, we will take the square at the base of the ‘T’ as the new **relative south** for this mechanic. 
 
-![image](https://github.com/user-attachments/assets/9e7010d4-dcb3-45c9-a1ad-92317996ab32)
+![image]({{ site.baseurl }}/assets/images/356537018-9e7010d4-dcb3-45c9-a1ad-92317996ab32.webp)
 
 To resolve this mechanic, the **LONG** players need to stack on the safe spot at south. **SHORT** players need to head to their respective spots based on the number of times they were hit. To make this easier, we have the 3 hits go **far** to the corners and the 2 hits **close**, against the south set of AOEs at the wall. Supports will always go to the left and DPS will always go to the right, facing **relative north**. See the macro/cheatsheet for these exact spots.
 
-![image](https://github.com/user-attachments/assets/80f158da-52f6-42c3-ba33-d94f538448ac)
+![image]({{ site.baseurl }}/assets/images/356537183-80f158da-52f6-42c3-ba33-d94f538448ac.webp)
 
 {: .note }
 LONG players should add one to the number of times they are hit as the upcoming spread/stack mechanic will count as damage taken while the debuff is active. As such long 2 hit players will be going far and long 1 hit players will be going short. This is important for the upcoming mechanic if it is stack.
 
 Wicked Thunder will start casting Sideways Spark again, telegraphing a half room cleave. At the same time either 8 small orbs or 4 large orbs will be telegraphed on her body indicating either a spread (Eight Star) or pair stacks (Four Star) respectively. If it is spreads, players can go to their assigned positions and let the mechanic resolve.
 
-![image](https://github.com/user-attachments/assets/1a0cef71-c50a-4bc1-a873-ab3d40e0970a)
+![image]({{ site.baseurl }}/assets/images/356537348-1a0cef71-c50a-4bc1-a873-ab3d40e0970a.webp)
 
 If it is pairs, the pair stacks will target the long players meaning regular pair stacks cannot be used. Instead, static pair stack positions are assigned based on whether players were far or close as this guarantees a short and long player will be stacked. 
 
-![image](https://github.com/user-attachments/assets/387ecb2e-cada-428e-8cb4-437d2731731c)
+![image]({{ site.baseurl }}/assets/images/356537403-387ecb2e-cada-428e-8cb4-437d2731731c.webp)
 
 Following this, the boss will spawn the Lightning Cage grid pattern on the floor again, potentially in a different orientation. To resolve this, have the short players move to the safe square south and have long players resolve their debuffs in the same way as before. 
 
@@ -298,7 +298,7 @@ Each source of damage from these debuffs applies a short 2s Magic Vulnerability 
 
 While this mechanic sounds complicated, resolving it is fairly simple. Following each cannon hit, identify which debuff you have and stand in the correct position according to the cheatsheet.
 
-![image](https://github.com/user-attachments/assets/fd2c3662-42f3-49c8-bdda-76e6c568682f)
+![image]({{ site.baseurl }}/assets/images/356537774-fd2c3662-42f3-49c8-bdda-76e6c568682f.webp)
 
 {: .note }
 There are several floor markings which can be used to help you position yourself. Additionally, Spinning/Roundhouse Conductor players will all have the same buff and stand in the same spots regardless of which debuff they receive. The same applies to players with Remote/Proximate Current.
@@ -311,11 +311,11 @@ Ion Cluster is an incredibly hard-hitting set of mechanics requiring a fairly so
 ### Transition
 Wicked Thunder will cast Electrope Transplant, beginning the transition phase. Transition is a fast-paced phase that while mechanically simple, is quite execution heavy. She will be facing south this entire phase. As such, new spread spots are assigned for this entire phase. 
 
-![image](https://github.com/user-attachments/assets/d758ee8c-94fa-488d-b801-f238d39a861b)
+![image]({{ site.baseurl }}/assets/images/356538081-d758ee8c-94fa-488d-b801-f238d39a861b.webp)
 
 Wicked Thunder begins by telegraphing narrow proteans targeted at the cardinals and intercardinals. She will cleave these proteans before cleaving the safe spots. This will alternate back and forth, however only the initial cleave is telegraphed, each subsequent cleave is untelegraphed. 
 
-![image](https://github.com/user-attachments/assets/f9aaf815-e02d-4c4c-b45b-a870614a0887)
+![image]({{ site.baseurl }}/assets/images/356538141-f9aaf815-e02d-4c4c-b45b-a870614a0887.webp)
 
 All players want to be fairly spread while doing these dodges. To ensure this, every pair should be dodging these cleaves in the same manner. To resolve this, start at the safe spot directly clockwise of your assigned waymark with your partner - melees should be close to the boss at max melee while ranged should be further out. Rotate counterclockwise into the marker, dodge the cleave and then rotate clockwise back into the initial safe spot. Rinse and repeat. 
 

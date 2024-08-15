@@ -2,6 +2,7 @@
 layout: guide
 title: EX2
 permalink: /ex2
+nav_order: 2
 longtitle: Everkeep (Extreme)
 expansion: Dawntrail
 difficulty: Extreme
@@ -27,13 +28,13 @@ Projection of Turmoil - Bagel (braindead) Strat
 
 Use pairs from left-right looking at the new platform. Note: For better melee updatime, move you and your partner closer too the boss before the knockback, this should result in the partner landing closer to the boss on the other side.
 
-![Drumsofvollok](https://github.com/materiaraiding/materiaraiding/assets/85346345/a6337c36-2b94-41a9-90d8-d7d63ec5ef37)
+![Drumsofvollok]({{ site.baseurl }}/assets/images/346246631-a6337c36-2b94-41a9-90d8-d7d63ec5ef37.webp)
 
 ### Vollok + Aero III
 
 Spread out on the side without a sword in the front two rows. Using only 4 tiles. 
 
-![vollok](https://github.com/materiaraiding/materiaraiding/assets/85346345/1dfb6427-8e62-4002-b5be-699632edf7be)
+![vollok]({{ site.baseurl }}/assets/images/346246898-1dfb6427-8e62-4002-b5be-699632edf7be.webp)
 
 ### Projection of Turmoil - Bagel (braindead) Strat
 AKA: D1CBA4

@@ -577,15 +577,15 @@ This mechanic can be very overwhelming but it is simplest to break it down into 
 1. First, look for garuda and avoid either cardinal on her side of the room, these are out-of-bounds. 
 2. Run to either of the one or two possible safespots that do NOT have titan on them, take note of ultima weapon, as you will need to avoid it later.
 
-![titan](https://github.com/materiaraiding/materiaraiding/assets/85346345/2696d8f8-efe3-4b69-afe4-96114650aee6)
+![titan]({{ site.baseurl }}/assets/images/313371348-2696d8f8-efe3-4b69-afe4-96114650aee6.webp)
 
 4. Wait at the wall, Titan will begin {% glossary Landslides %}, you may need to dodge these near the cardinal.
 5. After the first landslide, immediately dodge into a clear intercard, making sure not to dodge towards Ultima.
 6. When dodging into a intercard you MUST stop at the wall using the pattern on the outside of the room to stop at the 4th visible rune. See the image below: 
 
-![ultima](https://github.com/materiaraiding/materiaraiding/assets/85346345/7da1c4c4-1447-4921-ae9a-37f7f22d7827)
+![ultima]({{ site.baseurl }}/assets/images/313372251-7da1c4c4-1447-4921-ae9a-37f7f22d7827.webp)
 
-![image](https://github.com/materiaraiding/materiaraiding/assets/85346345/64c362b6-208e-4da5-aa0e-a071e6267540)
+![image]({{ site.baseurl }}/assets/images/313372088-64c362b6-208e-4da5-aa0e-a071e6267540.webp)
 
 Your final goal is to reach one of several possible safespots, some of the options are VERY tight so make sure you stay close to the wall and use the runes on the wall to find the safe spot accurately. 
 
