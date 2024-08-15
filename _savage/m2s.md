@@ -67,5 +67,5 @@ Waymarks can be imported to the game using the Waymark Import addon, or you can 
 {"Name":"M2S OCE","MapID":988,"A":{"X":100.0,"Y":0.0,"Z":87.5,"ID":0,"Active":true},"B":{"X":112.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":112.5,"ID":2,"Active":true},"D":{"X":87.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":91.5,"Y":0.0,"Z":91.5,"ID":4,"Active":true},"Two":{"X":108.5,"Y":0.0,"Z":91.5,"ID":5,"Active":true},"Three":{"X":108.5,"Y":0.0,"Z":108.5,"ID":6,"Active":true},"Four":{"X":91.5,"Y":0.0,"Z":108.5,"ID":7,"Active":true}}
 ```
 
-![image]({{ site.baseurl }}/assets/images/353871964-49249bc6-05b5-4a9a-a3fa-f4bf069fde80.png)
+![image]({{ site.baseurl }}/assets/images/353871964-49249bc6-05b5-4a9a-a3fa-f4bf069fde80.webp)
 

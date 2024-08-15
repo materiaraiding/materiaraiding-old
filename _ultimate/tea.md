@@ -157,7 +157,7 @@ Shortly after all the dolls cast their first instance of **Exhaust**, the Hand w
 
 Approximately at the same time, 2 of the tornadoes will spawn 2 **Emboluses**, little orbs that will travel towards where the bosses are at the time of spawning - which at the moment should be the south west corner of the arena. On contact with a player or boss, the Embolus will **explode** and **wipe the raid**. As the orb is quite small they can be easy to miss, so below is a picture of what they look like.
 
-![image]({{ site.baseurl }}/assets/images/308551274-baa31377-57ff-46d4-9a9e-f74e707f8fc9.png)
+![image]({{ site.baseurl }}/assets/images/308551274-baa31377-57ff-46d4-9a9e-f74e707f8fc9.webp)
 
 So, after the first cast of **Exhaust**, the tanks should begin to drag their bosses to the centre to not only avoid the Embolus, but begin the **doll feeds**. At this point the melee DPS should be ready, or close to being ready to feed their dolls. If they need more time, they should move away and give space to the tanks to move.
 
@@ -191,7 +191,7 @@ The Hand will then cast another **Hand of Pain**, with LL following with **Casca
 
 With the new tornado puddle positions, we will once again treat the empty space as our **north**. Half the party will then split on the south side of the bosses, while the other half will sit north. MT should be facing the boss north.
 
-**Throttles** ![image]({{ site.baseurl }}/assets/images/308565483-b0f9219e-813d-4d3d-a059-b37cee1280d9.png)
+**Throttles** ![image]({{ site.baseurl }}/assets/images/308565483-b0f9219e-813d-4d3d-a059-b37cee1280d9.webp)
  will now appear on 6 party members, a debuff that must be cleansed with **Esuna** before the timer expires. If not cleansed, the player will die. Each healer will do 3 Esuna's each (1 less for 1 healer if there is a **BRD who uses The Warden's Paean**). Healers should firstly Esuna themselves if they have Throttle, then:
  - H1 will Esuna starting from the **top** of the party list and go **down**.
  - H2 will Esuna starting from the **bottom** of the party list and go **up**.
@@ -256,11 +256,11 @@ Once players identify their numbers, everyone will stack in the middle to wait t
 
 See the below diagram on the possible locations for the 1st explosions - remember the 2 explosions will always be 180 degrees from each other. This image was taken from the strats channel in the MUR discord.
 
-![image]({{ site.baseurl }}/assets/images/305965283-63d8dfd4-0361-49d5-bb54-25e975158bc8.png)
+![image]({{ site.baseurl }}/assets/images/305965283-63d8dfd4-0361-49d5-bb54-25e975158bc8.webp)
 
 Once the players reach their outer edge of the arena, we continue to dodge by rotating clockwise. To understand the spacing on how to move, notice how the circle in the middle part of the arena is sectioned into **pizza slices**, indicated by the drawn green lines:
 
-![TEALC]({{ site.baseurl }}/assets/images/305959471-8baa0e2c-2f67-48bf-b7d5-67f4c56f11cf.png)
+![TEALC]({{ site.baseurl }}/assets/images/305959471-8baa0e2c-2f67-48bf-b7d5-67f4c56f11cf.webp)
 
 As you can see, the AoE explosions are **2 pizza slices wide**. The epicentre of the explosion moves 1 pizza slice clockwise per explosion - so, for each explosion, **you can move up 1 pizza slice**. Remember to stop moving up after the 4th, as the next explosion will be in the middle, before the explosions resume from where they left off.
 
@@ -304,7 +304,7 @@ MT takes aggro of BJ and OT takes aggro of CC. The tanks should then pull the bo
 
 CC then casts **Whirlwind**, a raidwide. Then, BJ will cast **Judgment Nisi**, inflicting a debuff that we call **Nisi** on either all supports or all DPS. There will be a blue (alpha), purple (gamma), orange (beta) and green (delta) Nisi, as shown below:
 
-![image]({{ site.baseurl }}/assets/images/305642478-d7651f8d-6757-493c-a4f5-94e73600bbed.png)
+![image]({{ site.baseurl }}/assets/images/305642478-d7651f8d-6757-493c-a4f5-94e73600bbed.webp)
 
 A player carrying a Nisi will take mild DoT damage. The debuff lasts around 36 seconds in which afterwards the Nisi falls off. If a player with Nisi and a player with no debuff come in contact, the player with nothing receives the same Nisi with a fresh 36 second timer.
 
@@ -313,8 +313,8 @@ This is important as later in the phase, BJ will cast **Verdict** which is essen
 {: .warning }
 If 2 players with different Nisi's combine, both players will die and as some Nisi have been lost, it will result in a wipe as you will not survive the resolution of Verdict. Thus, throughout this phase, everyone must be aware of their surroundings and move carefully and with purpose, to avoid any collisions.
 
-BJ will then cast **Link-Up**, which inflicts 1 healer with a **water debuff** ![image]({{ site.baseurl }}/assets/images/305967668-f0b39cc0-07b5-4de1-a95a-627561eb0a8a.png)
- and 1 DPS with a **lightning debuff** ![image]({{ site.baseurl }}/assets/images/305967650-8cc998b7-898b-4b0d-8737-19a0ec7204fc.png). At the end of the debuff timers, they explode: 
+BJ will then cast **Link-Up**, which inflicts 1 healer with a **water debuff** ![image]({{ site.baseurl }}/assets/images/305967668-f0b39cc0-07b5-4de1-a95a-627561eb0a8a.webp)
+ and 1 DPS with a **lightning debuff** ![image]({{ site.baseurl }}/assets/images/305967650-8cc998b7-898b-4b0d-8737-19a0ec7204fc.webp). At the end of the debuff timers, they explode: 
 - The damage of the water explosion needs to be split between at least 3 players.
 - The lightning explosion damage needs to be split between at least 2 players.
 
@@ -396,7 +396,7 @@ Around this time, the ice puddle should have dissipated and the OT should drag C
 
 BJ will them cast **Verdict** - everyone will now receive a timerless debuff which shows a Nisi colour with two exclamation marks (!!). They look like this:
 
-![image]({{ site.baseurl }}/assets/images/305791268-601db108-7ae6-4eda-a694-99d8082bab3c.png) ![image]({{ site.baseurl }}/assets/images/305791303-885d36cc-2b81-48e1-a4b5-e48f352bae67.png) ![image]({{ site.baseurl }}/assets/images/305791320-5d48646d-3bf8-4a29-98cc-1726946f6c0f.png) ![image]({{ site.baseurl }}/assets/images/305791337-fe30fbb6-b3aa-4ea9-a119-dde88b591664.png)
+![image]({{ site.baseurl }}/assets/images/305791268-601db108-7ae6-4eda-a694-99d8082bab3c.webp) ![image]({{ site.baseurl }}/assets/images/305791303-885d36cc-2b81-48e1-a4b5-e48f352bae67.webp) ![image]({{ site.baseurl }}/assets/images/305791320-5d48646d-3bf8-4a29-98cc-1726946f6c0f.webp) ![image]({{ site.baseurl }}/assets/images/305791337-fe30fbb6-b3aa-4ea9-a119-dde88b591664.webp)
 
 This is BJ telling you, "**this needs to be your Nisi before I cast Gavel or it will be a wipe.**"
 
@@ -430,7 +430,7 @@ At this point, all players should be lined up except the OT, who is holding CC b
 
 Below is a screenshot from Kur Rumi's OT POV, showing the final BPOG lineup and how the ice block puts us out of CC's line of sight for Propeller Wind. If you pay attention to the party list debuffs you will also notice everyone's current Nisi matches their Verdict debuff:
 
-![image]({{ site.baseurl }}/assets/images/305801386-c5754e85-36c3-4913-a2f7-52015c36a483.png)
+![image]({{ site.baseurl }}/assets/images/305801386-c5754e85-36c3-4913-a2f7-52015c36a483.webp)
 
 As CC finishes casting Propeller Wind, BJ will cast **Gavel**. If everyone has the correct Nisi as per the requirements of Verdict, he will clear all debuffs, as well as remove the ice block and water tornado. If anyone has no Nisi or the incorrect Nisi, BJ will wipe the raid here.
 
@@ -467,11 +467,11 @@ Once the debuffs resolve, BJ will cast Flarethrower twice (conal AoE) to the 2 c
 {: .no_toc }
 
 The debuffs are as below. They are **role-based**, one DPS and one support will receive one of the following:
-- **Aggravated Assault**, shown by a lightning symbol ![image]({{ site.baseurl }}/assets/images/305104611-36aa1af3-daa6-4c3b-8ec2-fa2e04a53f6f.png)
+- **Aggravated Assault**, shown by a lightning symbol ![image]({{ site.baseurl }}/assets/images/305104611-36aa1af3-daa6-4c3b-8ec2-fa2e04a53f6f.webp)
  in the debuff. These 2 players will take moderate damage and receive physical and magic vulnerabilities and therefore cannot take any other damage during the timestop, otherwise they will die.
-- **Blue tether**. ![image]({{ site.baseurl }}/assets/images/305104749-163d6d46-601c-412c-9351-b73f1acabad2.png)
+- **Blue tether**. ![image]({{ site.baseurl }}/assets/images/305104749-163d6d46-601c-412c-9351-b73f1acabad2.webp)
  These 2 players must be far apart during the timestop or they will die.
-- A red and green tether, which we will call **Christmas tether**. ![image]({{ site.baseurl }}/assets/images/305104885-112e46c0-5aa3-4dd4-95fc-d6fb3339e28a.png)
+- A red and green tether, which we will call **Christmas tether**. ![image]({{ site.baseurl }}/assets/images/305104885-112e46c0-5aa3-4dd4-95fc-d6fb3339e28a.webp)
  These 2 players must be close together during the timestop or they will die.
 - One DPS and one support will receive **nothing**.
 
@@ -483,13 +483,13 @@ This is where everyone will stand to make this work:
 - **No debuff** players go towards the left boss. The support will go north of the boss and the DPS will go south of the boss to bait their cleaves.
 - **Christmas tether** players go towards the right boss. The support will go north of the boss and the DPS will go south of the boss to bait their cleaves. You will notice the (1) waymark will be under this boss - the width of the waymark is approximately how far the 2 players should be for the Christmas tether to resolve safely. Here's a screenshot that demonstrates that:
 
-![image]({{ site.baseurl }}/assets/images/305102604-4f371937-6aab-4332-8bc7-c2a6271c8245.png)
+![image]({{ site.baseurl }}/assets/images/305102604-4f371937-6aab-4332-8bc7-c2a6271c8245.webp)
 
 - Players with the **blue tether** will be across the room from each other - support to the west, DPS to the east. The player on the side nearest BJ should stand on the wall, with the Aggravated Assault players as they will not be baiting his flarethrower. **However**, the player on the side nearest CC should stand more inwards to ensure they bait his 3rd cleave (the D and 2 waymarks are good indicators on where to stand).
 
 Here is a diagram demonstrating the above information. Credits to Juno Dax for making this image.
 
-![TemporalStasisJuno]({{ site.baseurl }}/assets/images/305645723-31845dfb-fc41-4ad0-8f3c-5f6972c61b5a.png)
+![TemporalStasisJuno]({{ site.baseurl }}/assets/images/305645723-31845dfb-fc41-4ad0-8f3c-5f6972c61b5a.webp)
 
 Take note that in this scenario, as CC is on the right, D2 with the blue tether is a little more inwards and not on the wall to ensure they bait that 3rd CC cleave. If CC was on the left instead, D2 would be on the wall, the Aggravated Assault players on the right with D2 (as BJ would be there) and the H1 with blue tether would be a little more inwards to bait the CC cleave.
 
@@ -518,7 +518,7 @@ The first part of inception has 2 components occurring simulatneously - the **cr
 
 For the **crystals**, 4 players will receive a **large AoE spread marker** around them, which will **drop a crystal** when it explodes. These crystals **must not overlap** and their correct placement is **pivotal** in clearing the rest of the fight. These players should move themselves **relative south** (opposite Alexander Prime) and spread out in a box formation like so (credits to Sonya Sealle for the image):
 
-![image]({{ site.baseurl }}/assets/images/307308929-dc8059eb-95dd-44b1-ace2-849e2896f3e6.png)
+![image]({{ site.baseurl }}/assets/images/307308929-dc8059eb-95dd-44b1-ace2-849e2896f3e6.webp)
 
 If positioned correctly, there will be a small channel of space running vertically in the centre line of the area. As soon as the crystals drop, the 4 players should run **relative north**, towards Alexander Prime because the crystals will shortly do proximity damage.
 
@@ -536,7 +536,7 @@ To resolve, tethered players should initially hang **north and opposite the side
 
 Notice the **4 red dots** (2 on each side) on the northern part of the arena: 
 
-![image]({{ site.baseurl }}/assets/images/307271087-0ab9b075-0d31-4b03-b4d7-ce976ba6060a.png)
+![image]({{ site.baseurl }}/assets/images/307271087-0ab9b075-0d31-4b03-b4d7-ce976ba6060a.webp)
 
 Players should then move and **stand on a dot** that is on the side opposite of where their orb spawned. We generally say to pick the red dot that will make your tether cross over the tether of the person standing on the same side as you - but you don't need to be too pedantic about this.
 
@@ -553,10 +553,10 @@ While every other player runs north to avoid the proximity damage from the cryst
 Players will then gather around the True Heart. While it will not take damage, you can hit it to build job gauge, etc.
 
 Several players will then receive **debuffs**:
-- A tank and 1 DPS will be connected by a blue tether and need to be far to survive. ![image]({{ site.baseurl }}/assets/images/307272434-e9991105-9dac-4d3d-bfa7-1875a810350b.png)
-- 1 DPS will receive Shared Sentence, symbolised by an icon with 3 figures. ![image]({{ site.baseurl }}/assets/images/307272493-1ad428b5-1886-4220-bf70-ed8ed71d6fcc.png)
+- A tank and 1 DPS will be connected by a blue tether and need to be far to survive. ![image]({{ site.baseurl }}/assets/images/307272434-e9991105-9dac-4d3d-bfa7-1875a810350b.webp)
+- 1 DPS will receive Shared Sentence, symbolised by an icon with 3 figures. ![image]({{ site.baseurl }}/assets/images/307272493-1ad428b5-1886-4220-bf70-ed8ed71d6fcc.webp)
  This DPS will emit a small AoE around them that needs to be shared with 2 other players. The AoE will inflict both physical and magical vulnerabilities.
-- 2 DPS will get Aggravated Assault, denoted by a lightning symbol. ![image]({{ site.baseurl }}/assets/images/307272529-a8ed0fbb-d3e6-46d5-a885-435c88331d51.png)
+- 2 DPS will get Aggravated Assault, denoted by a lightning symbol. ![image]({{ site.baseurl }}/assets/images/307272529-a8ed0fbb-d3e6-46d5-a885-435c88331d51.webp)
  They will take moderate damage and receive vulnerabilities.
 
 The True Heart will then **move to the wall** and disappear, granting the **Enigma Codex** buff. Where the True Heart moves signifies where Alexander Prime will spawn, where he casts **Sacrament**, a T-shaped laser.
@@ -613,7 +613,7 @@ Players can jump to see their number while stacked as a group.
 
 Let's start by going through the **Limit Cut** numbers. See the diagram below - we will once again be using the **red dots** to help position ourselves (which #1, #2, #3 and #4 are standing on in the below diagram). The red lines show where the chakrams will slice through. This screenshot is taken from Juno Dax's Wormhole toolbox.
 
-![WHN]({{ site.baseurl }}/assets/images/308012817-9109e13d-2645-45b0-8d76-7cb41fdc57b0.png)
+![WHN]({{ site.baseurl }}/assets/images/308012817-9109e13d-2645-45b0-8d76-7cb41fdc57b0.webp)
 
 All **odd numbers move true west side** and all **even numbers move true east side**. Numbers 1/2 and 5/6 resolve their attacks **true north**, while numbers 3/4 and 7/8 resolve their numbers **true south**. We do it this way so CC only dashes around a small sector of the arena, rather than dashing across the middle.
 
@@ -694,9 +694,9 @@ The final phase of this fight involves several debuffs which can be simply resol
 
 Perfect Alexander begins by casting **The Final Word** and everyone will receive a debuff. 
 
-- 1 player will be the **light beacon** ![image]({{ site.baseurl }}/assets/images/305398042-a327616d-4f59-4293-bfc5-0c1fbc081e92.png) and 3 will be **light arrows** ![image]({{ site.baseurl }}/assets/images/305398129-8fc1a88e-de65-4f6e-bc04-99a2bb186fe1.png). When the debuff expires, the light arrows are forced to march **towards** the light beacon for a fixed duration. In this time, if a light arrow makes contact with the light beacon they die.
+- 1 player will be the **light beacon** ![image]({{ site.baseurl }}/assets/images/305398042-a327616d-4f59-4293-bfc5-0c1fbc081e92.webp) and 3 will be **light arrows** ![image]({{ site.baseurl }}/assets/images/305398129-8fc1a88e-de65-4f6e-bc04-99a2bb186fe1.webp). When the debuff expires, the light arrows are forced to march **towards** the light beacon for a fixed duration. In this time, if a light arrow makes contact with the light beacon they die.
 
-- 1 player will be the **dark beacon** ![image]({{ site.baseurl }}/assets/images/305398745-01d3f745-ff2f-4c6e-8327-c746ab7379a1.png) and 3 will be **dark arrows** ![image]({{ site.baseurl }}/assets/images/305398851-dfc13608-2195-410a-99d1-c3acbc15c1bb.png). When the debuff expires, the dark arrows are forced to march **away** from the dark beacon for a fixed duration. In this time, if a dark arrow makes contact or is too far away from the dark beacon they die.
+- 1 player will be the **dark beacon** ![image]({{ site.baseurl }}/assets/images/305398745-01d3f745-ff2f-4c6e-8327-c746ab7379a1.webp) and 3 will be **dark arrows** ![image]({{ site.baseurl }}/assets/images/305398851-dfc13608-2195-410a-99d1-c3acbc15c1bb.webp). When the debuff expires, the dark arrows are forced to march **away** from the dark beacon for a fixed duration. In this time, if a dark arrow makes contact or is too far away from the dark beacon they die.
 
 As soon as players get their debuffs, everyone should begin to preposition as per follows:
 - **Light Beacon** plants towards the western part of the D waymark.
@@ -705,7 +705,7 @@ As soon as players get their debuffs, everyone should begin to preposition as pe
 
 Below is a screenshot from the toolbox which demonstrates the above positioning.
 
-![FCB]({{ site.baseurl }}/assets/images/305698704-a882a1da-56df-4368-b56f-1a7fd00caff9.png)
+![FCB]({{ site.baseurl }}/assets/images/305698704-a882a1da-56df-4368-b56f-1a7fd00caff9.webp)
 
 This positioning ensures that all the criteria are met for the debuffs to resolve without any deaths.
 
@@ -750,7 +750,7 @@ Once these debuffs present themselves, another dark/light sword falls indicating
 
 Next, 3 out of 4 of the north Perfect Alexander clones will shoot **Sacrament** line lasers, leaving 2 safe zones in the arena. The Alexander clone that does not shoot will **always** be one of the 2 middle ones - looking at the diagram below, if (out of the 2 middle ones), the left does not shoot, the blue areas are safe and if the right one does not shoot, the green areas are safe.
 
-![FCA]({{ site.baseurl }}/assets/images/305699323-9492ad23-92fd-433d-9b6c-4b28c71cb3f3.png)
+![FCA]({{ site.baseurl }}/assets/images/305699323-9492ad23-92fd-433d-9b6c-4b28c71cb3f3.webp)
 
 - The defamation should stand in the northern safe zone so their explosion does not hit anyone.
 
@@ -788,7 +788,7 @@ Finally, one of the clones that J Jumped will cast **Radiant Sacrament**, a larg
 To resolve Fate Calibration Beta: 
 - The **Light Beacon** plants themselves on the yellow dot (commonly referred to as the nipple by players) left of the A waymark, near the wall. See as per the blue circle below:
   
-![image]({{ site.baseurl }}/assets/images/305677887-3ae1207d-22e5-4bab-ad39-ada5ef35f38c.png)
+![image]({{ site.baseurl }}/assets/images/305677887-3ae1207d-22e5-4bab-ad39-ada5ef35f38c.webp)
 
 - The **Dark Beacon** plants dead centre of the 2 waymark. After the forced march, they will bait the east J Jump.
 
@@ -799,7 +799,7 @@ The remaining players will then position themselves relative to the 2 waywark:
 
 The diagram below shows a simple layout of where everyone will stand, given that the yellow box is the 2 waymark.
 
-![image]({{ site.baseurl }}/assets/images/305678514-cf7b09a4-89b1-469f-a9bb-b5cd7fc20ebc.png)
+![image]({{ site.baseurl }}/assets/images/305678514-cf7b09a4-89b1-469f-a9bb-b5cd7fc20ebc.webp)
 
 At the end of Perfect Alexander's long Fate Calibration Beta cast, he comes untargetable and the forced march resolves. After, players have a couple moments to shuffle, allowing J Jump baiters to run to their cardinal and tethers to ensure they are the correct distance from each other. All players currently north should also group as a shared sentence will go off. 
 
@@ -827,7 +827,7 @@ Then, Perfect Alexander will do another set of trines, same mechanic as before, 
 
 Perfect Alexander begins casting **Temporal Prison** which is his enrage. During this long enrage cast, Perfect Alexander will gradually imprison each player in a time jail, essentially killing them. Notice how in the arena (image below), there are 7 circles with the perforated red outlines.
 
-![image]({{ site.baseurl }}/assets/images/305685188-3c4d3553-2f42-4656-9f95-9be5180b2b79.png)
+![image]({{ site.baseurl }}/assets/images/305685188-3c4d3553-2f42-4656-9f95-9be5180b2b79.webp)
 
 Starting from the top right circle, going clockwise, Perfect Alexander will gradually place the time jails on each circle. A player MUST be in a jail as it falls, otherwise it will be an instant wipe.
 
