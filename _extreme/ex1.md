@@ -2,6 +2,7 @@
 layout: guide
 title: EX1
 permalink: /ex1
+nav_order: 1
 longtitle: Worqor Lar Dor (Extreme)
 expansion: Dawntrail
 difficulty: Extreme

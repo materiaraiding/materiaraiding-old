@@ -2,6 +2,7 @@
 layout: guide
 title: EX2
 permalink: /ex2
+nav_order: 2
 longtitle: Everkeep (Extreme)
 expansion: Dawntrail
 difficulty: Extreme
