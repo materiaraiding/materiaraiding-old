@@ -85,11 +85,11 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 ### Cheatsheets
 *Updated as of 13/08/24*
 
-<a href="https://github.com/user-attachments/assets/a9338c87-f251-4063-88ec-72f4c368094c" target="_blank"><img style="width: 400px" src="https://github.com/user-attachments/assets/a9338c87-f251-4063-88ec-72f4c368094c"></a>
+<a href="{{ site.baseurl }}/assets/images/cheatsheets/m4s1.png" target="_blank"><img style="width: 400px" src="{{ site.baseurl }}/assets/images/cheatsheets/m4s1.png"></a>
 
-<a href="https://github.com/user-attachments/assets/1d662d5f-baa5-4e04-a1a6-89b2b041b5ed" target="_blank"><img style="width: 400px" src="https://github.com/user-attachments/assets/1d662d5f-baa5-4e04-a1a6-89b2b041b5ed"></a>
+<a href="{{ site.baseurl }}/assets/images/cheatsheets/m4s2.png" target="_blank"><img style="width: 400px" src="{{ site.baseurl }}/assets/images/cheatsheets/m4s2.png"></a>
 
-<a href="https://github.com/user-attachments/assets/5dd75d7d-cef7-4beb-8335-c0900250cb8b" target="_blank"><img style="width: 400px" src="https://github.com/user-attachments/assets/5dd75d7d-cef7-4beb-8335-c0900250cb8b"></a>
+<a href="{{ site.baseurl }}/assets/images/cheatsheets/m4s3.png" target="_blank"><img style="width: 400px" src="{{ site.baseurl }}/assets/images/cheatsheets/m4s3.png"></a>
 
 <details markdown=1>
 <summary>Recent Changes</summary>
