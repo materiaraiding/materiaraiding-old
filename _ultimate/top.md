@@ -151,7 +151,7 @@ This is done by the priority system used in program loop, with the lower priorit
 
 If Omega cleaves the NE and SW waymarkers first then each party rotates to the safespot clockwise of their original position.
 
-![]({{ site.baseurl }}/assets/images/304051465-50502fe5-a598-4713-a7cb-2b901fc31c12.webp)
+{% include image.html width="700px" path="/assets/images/304051465-50502fe5-a598-4713-a7cb-2b901fc31c12.webp" %}
 
 The cleaves will then either rotate clockwise or counter-clockwise. As the cleaves rotate each player will also leave behind puddles. The party stacks together at the rear cleave to take a **3 player line-stack**, whilst the numbers leave to take their AOE away from the group before joining back to the party. This process repeats until each number has taken their AOE and the cleaves cease.
 
@@ -197,7 +197,8 @@ The party is inflicted with either **Mid Glitch** <img src="{{ site.baseurl }}/a
 > 
 > The furthest West symbol of a pair will be designated as Light Party 1, whilst the furthest East will be designated Light Party 2.
 
-[![]({{ site.baseurl }}/assets/images/257986944-0069116b-8199-4dcc-8d26-8fa56403ccad.webp)](https://github.com/RancidDax/namazu.tools/assets/104756079/0069116b-8199-4dcc-8d26-8fa56403ccad)
+{% include image.html path="/assets/images/257986944-0069116b-8199-4dcc-8d26-8fa56403ccad.webp" %}
+
 > As seen above, because I am the western most cross player I move to Light Party 1. 
 
 At the same time, **Omega's Eye** will spawn on a random cardinal/intercardinal. **This will be designated as relative north**.
@@ -272,7 +273,7 @@ Upon defeating Omega-F, the transition begins:
 {: .everyone }
 >The party should line-up from East to West as seen in the cheatsheet before debuffs are assigned.
 >
->![image]({{ site.baseurl }}/assets/images/258101715-3552b589-9eaf-45be-8de0-c2b79cacf2f4.webp)
+> ![](/assets/images/258101715-3552b589-9eaf-45be-8de0-c2b79cacf2f4.webp)
 
 {: .healers }
 > To survive this transition the party must have *at least* a barrier healer's shield covering the hits.
@@ -490,7 +491,7 @@ The **North-most** pair of **1 marker** will move to the North-West and South-Ea
 
 Players will move to their designated positions, stepping in front of their waymarker for **Mid Glitch**, and moving to the wall for **Remote Glitch**. The 2 players with **no marker**, must be in the **relative North-East** and **relative North-West** position to bait two line AOEs from the Arms. This is to ensure that none of the players already being targeted get hit and killed.
 
-[![]({{ site.baseurl }}/assets/images/256717611-8e00e58c-2c31-4407-9ae1-50f012b05275.webp)](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/8e00e58c-2c31-4407-9ae1-50f012b05275)
+{% include image.html width="800px" path="/assets/images/256717611-8e00e58c-2c31-4407-9ae1-50f012b05275.webp" %}
 
 After the AOEs resolve, **Omega-M will change to Omega-F** and towers will spawn. If the party is inflicted with **Mid Glitch**, 6 towers in a "smiley face" pattern will spawn. If inflicted with **Remote Glitch**, 5 towers in a "star" pattern will spawn. This pattern will spawn relative to the **Relative North Omega-F**, and can also be flipped vertically. Because these towers must be soaked whilst also **resolving Mid/Remote Glitch** everyone must take a particular tower. 
 
