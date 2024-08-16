@@ -558,12 +558,46 @@ Without a break, 8 meteors will spawn on each cardinal and intercardinal. The 3 
 Killing the meteors results in Thordan jumping back to the arena and performing another **Ancient Quaga**, followed by yet another 2 AOE auto-attacks into **Heavenly Heel** and an **Ascalon's Might** tank buster.
 
 {: .warning} 
-> Players **MUST** stop DPSing Thordan below %2.8 health. If Thordan dies here, it is **impossible** to beat the fight.
-> This is indicated by the text "I yield..." and Thordan dropping onto one knee
+> Players **MUST** stop damaging Thordan below %2.8 health. If Thordan dies here it is **impossible** to beat the fight as he will wipe the party at the end of phase 6.
+> Once this threshold is reached, Thordan will say "I yield..." and drop to one knee.
 
 Players will then immediately position south for the next phase:
 
 ## Phase 6: Double Dragons - Nidhogg & Hraesvelgr
+
+An important mechanic to note in this phase is the two possible failure conditions:
+
+**Nidhogg's Vow** - Letting the **Mortal Vow** debuff fall off will result in Nidhogg's Vow being broken.
+**Hraesvelgr's Vow** - Dying to any instance of damage from Hraesvelgr (autos/stack/AOE/spread) will result in the Vow breaking.
+
+Breaking a vow will result in that dragon receiving a **Damage Up** and **Damage Taken Down** buff, effectively one shotting your tanks with auto attacks.
+
+Although breaking one of these vows may not be the end of your run later in the phase (i.e. dying in cauterize), early vow breaks will almost certainly result in a wipe.
+
+{: .tanks}
+> Phase 6 is very tank heavy compared to the previous phases. Knowing your mitigation is key as without the correct mits you may need healer help or you will die.
+
+{: .everyone }
+> Throughout this phase there are 2 **hand of pain** style HP checks. Fortunately for us, they're even more strict than Living Liquid. The health differential must be no more than 2.8% between both Nidhogg and Hraesvelgr. Especially during the opening mechanic, DPS must be attacking their assigned dragon and tabbing between both dragons to ensure the health difference is not too far apart.
+
+MT will grab Nidhogg, and OT will grab Hraesvelgr. After X auto attacks, both dragons will begin to cast:
+
+### Wyrmsbreath 1 (WB1)
+{. no_toc }
+
+The arena will be transformed into a donut via an AOE.
+
+Nidhogg will then target 3 random **Non Tank players** with fire tethers, and Hraesvelgr will target 3 random **Non Tank players** with ice tethers. These tethers will cause both Pyretic and a Frozen debuff respectively. To resolve this each fire tether player must stack with an ice tether player to cancel out the debuff. Because we can't determine which players are going to be targeted we set up 3 groups of 2 people where one person from each will be the designated "flex" player, and will swap with another player if they have the same tether as their partner.
+
+(image WB1)
+
+Tanks however will not need to worry about tethers as instead they will be looking at the mouths of both dragons to determine if they are about to take a single tank buster or a 2 person tank buster.
+If **both** mouths are glowing, the tanks will stack and take a buster together in the centre of the arena.
+If **one** mouth is glowing, the tank that is tanking the **non-glowing** dragon will take a **large** defamation style tank buster, and the other dragon will do a large conal cleave horizontally through the middle of the arena.
+
+(Image WB1 Tanks)
+
+Immediately afterwards, all players should spread away from DPS players as a random DPS will be assigned **Mortal Vow** in the form of a targeted AOE.
 
 {: .warning}
 Guide is not yet completed, apologies. Please refer to the Toolboxes for the remaining phases.
