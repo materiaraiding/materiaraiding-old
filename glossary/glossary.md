@@ -13,7 +13,7 @@ Use the following to find definitions of various raiding terminology in their gi
 
 <ol>
   {% for child in site.pages %}
-    {% if child.url contains page.url and child.url != page.url %}
+    {% if child.parent == page.title %}
       <li><a href="{{ site.baseurl }}{{ child.url }}">{{ child.title }}</a></li>
     {% endif %}
   {% endfor %}
