@@ -274,7 +274,7 @@ The way that the waymarkers are set up means that **Light Party 1** will always 
 
 Within both of those safespots, each light party will have to spread to avoid overlapping lightning AOEs that are about to drop on each player. These lightning AOEs will go off at the same time as the dashes go off.
 
-While the parties are getting into position **Grinnaux** and **Thordan** appear again, with Grinnaux being placed somewhere near the center of the arena and Thordan in the direct center. After everything resolves Grinnaux will begin to cast an earthshaker that will expand out towards each light party. Avoiding this is simple, just waiting until it is safe to walk forward and doing so. 
+While the parties are getting into position **Grinnaux** and **Thordan** appear again, with Grinnaux being placed somewhere near the center of the arena and Thordan in the direct center. After everything resolves Grinnaux will begin to cast a quake that will expand out towards each light party. Avoiding this is simple, just waiting until it is safe to walk forward and doing so. 
 
 While the party is dodging this, Thordan will cast another **Ascalon's Mercy**. Each light party must quickly make their way toward Thordan and stack up tightly on either side of him to bait the proteans.
 
@@ -534,7 +534,7 @@ Once in position, all the dives from the dragons and the lightning spread from t
 {: .note}
 > The timing for this twister is as soon as the lightning AOE goes off.
 
-In addition, the knight in the middle will also be doing an earthshaker that will gradually spread outwards from his position.
+In addition, the knight in the middle will also be doing a quake that will gradually spread outwards from his position.
 
 Dodging this is relatively simple. All the north, close west, and close east players will simply hold forward towards the knight as soon as their lightning AOE goes off.
 The rest of the players will begin to walk along the arenas edge, dodging in to the 2nd earthshaker AOE that goes off.
@@ -543,7 +543,7 @@ As these go off, several knights will replace the axe knight in the middle, incl
 
 Once players reach the middle, everyone will be assigned **Playstation Tethers**. These work slightly different from Phase 1 in that only Doom players can receive circle (which are baited by the furthest away players), and only non-Doom players can receive cross. There can also only be one square and one triangle per group. 
 
-The 1st and 4th Doom will stand outside of the the inner circle to bait the circle tethers, and the other Doom players will stand on the relative NW/NE of the middle circle, surrounding Grinnaux. 
+The 1st and 4th Doom will stand outside of the inner circle to bait the circle tethers, and the other Doom players will stand on the relative NW/NE of the middle circle, surrounding Grinnaux. 
 The non-Doom players should roughly spread to SW/SE and N/S, using eyes to adjust to be opposite your Doom player.
 
 At this point (if not before), players should be identifying where Thordan and the giant Red eye are as there will shortly be a gaze attack from each of them.
