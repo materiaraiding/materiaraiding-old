@@ -13,6 +13,7 @@ difficulty: Savage
 - Materia Raiding (macros/waymarks)
 - Evansith (toolbox)
 - Liminal Space (toolbox)
+- Kobe (video guide)
 
 ### Table of Contents
 {: .no_toc }
@@ -71,16 +72,21 @@ difficulty: Savage
  　H1D3　　  H2D4
 ```
 
+### Video Guide
+By Kobe
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v0hNlTEUZk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### PoV Videos
+
+[M4S PLD OCE POV](https://www.youtube.com/watch?v=nvIiQMKuO30){: .btn }
+
 ### Toolbox
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
 [Twilight/Midnight Sabbath Toolbox](https://ff14.toolboxgaming.space/?id=539690421352271&preview=1){: .btn .btn-blue }
 
 [Sunrise Sabbath Toolbox](https://raidplan.io/plan/4Y4GauMc_iRFnJXV){: .btn .btn-blue }
-
-### PoV Videos
-
-[M4S PLD POV MT](https://www.youtube.com/watch?v=Xp8pGkvgOCM){: .btn }
 
 ### Cheatsheets
 *Updated as of 13/08/24*
