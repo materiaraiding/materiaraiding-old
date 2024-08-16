@@ -583,7 +583,7 @@ Although breaking one of these vows may not be the end of your run later in the 
 MT will grab Nidhogg, and OT will grab Hraesvelgr. After X auto attacks, both dragons will begin to cast:
 
 ### Wyrmsbreath 1 (WB1)
-{. no_toc }
+{: .no_toc }
 
 The arena will be transformed into a donut via an AOE.
 
