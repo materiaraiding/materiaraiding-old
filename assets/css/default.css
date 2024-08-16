@@ -48,6 +48,7 @@
     scrollbar-color: transparent transparent;
 }
 
+html,
 .site-nav:hover,
 .search-results:hover,
 .highlight:hover {
