@@ -44,7 +44,6 @@
 .site-nav, .search-results {
     scrollbar-width: thin;
     scrollbar-color: transparent transparent;
-    transition: scrollbar-color 150ms
 }
 
 .site-nav:hover, .search-results:hover {
