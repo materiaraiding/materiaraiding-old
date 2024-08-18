@@ -118,10 +118,11 @@ html,
 
 /* Inline Buff Icons */
 
-.bufficon {
-    height: 1.4em;
-    width: auto;
+.statusicon {
     vertical-align: text-top;
+	max-height: 1.4em;
+	padding: 0px;
+	width: auto
 }
 
 /* Custom Image Embeds */
