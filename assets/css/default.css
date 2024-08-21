@@ -125,7 +125,7 @@ html,
 	width: auto
 }
 
-/* Custom Image Embeds */
+/* Custom Embeds */
 
 .imageembedbox {
     cursor: pointer;
@@ -149,4 +149,8 @@ figcaption {
     text-align: center;
     font-size: small;
     color: #959396;
+}
+
+.videoembed {
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.8);
 }

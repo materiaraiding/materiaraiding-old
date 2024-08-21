@@ -54,11 +54,11 @@ Current M2S Macro 09/08/24
 ### Video Guide
 By Kobe
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dTlOIu3_NzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% include videoembed.html videoid="dTlOIu3_NzY" %}
 
 ### PoV Videos
 
-[M2S OCE AST POV](https://youtu.be/QKAZHQhkn5M?si=aY6EPpzR1FQpHmfY){: .btn }
+{% include videoembed.html videoid="QKAZHQhkn5M" %}
 
 ### Waymarks
 Waymarks can be imported to the game using the Waymark Import addon, or you can ask a friend to import them for you and save a copy for yourself.

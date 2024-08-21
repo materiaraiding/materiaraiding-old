@@ -58,7 +58,15 @@ Current M3S Macro 09/08/24
 ### Video Guide
 By Kobe
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tR8nsfc-qfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% include videoembed.html videoid="tR8nsfc-qfw" %}
+
+### PoV
+
+{% include videoembed.html videoid="YUKXZTfbweQ" %}
+
+{% include videoembed.html videoid="6Xbhg-K8lBk" %}
+
+{% include videoembed.html videoid="eN3IzaXPGQg" %}
 
 ### Toolboxes
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.

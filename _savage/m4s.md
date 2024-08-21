@@ -75,11 +75,11 @@ difficulty: Savage
 ### Video Guide
 By Kobe
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v0hNlTEUZk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% include videoembed.html videoid="v0hNlTEUZk4" %}
 
 ### PoV Videos
 
-[M4S PLD OCE POV](https://www.youtube.com/watch?v=nvIiQMKuO30){: .btn }
+{% include videoembed.html videoid="nvIiQMKuO30" %}
 
 ### Toolbox
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
