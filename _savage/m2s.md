@@ -58,7 +58,7 @@ By Kobe
 
 ### PoV Videos
 
-[M2S OCE POV](https://www.youtube.com/watch?v=L_rUvJEsgFo){: .btn }
+[M2S OCE AST POV](https://youtu.be/QKAZHQhkn5M?si=aY6EPpzR1FQpHmfY){: .btn }
 
 ### Waymarks
 Waymarks can be imported to the game using the Waymark Import addon, or you can ask a friend to import them for you and save a copy for yourself.
