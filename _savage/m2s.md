@@ -60,6 +60,8 @@ By Kobe
 
 {% include videoembed.html videoid="QKAZHQhkn5M" %}
 
+{% include videoembed.html videoid="jw9_zyYpQTY" %}
+
 ### Waymarks
 Waymarks can be imported to the game using the Waymark Import addon, or you can ask a friend to import them for you and save a copy for yourself.
 
