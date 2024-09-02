@@ -1,0 +1,64 @@
+name: "Materia Raiding"
+macros:
+  # =============
+  # = Criterion =
+  # =============
+
+  - name: AAI - Boss 1
+    group: "Criterion/AAI"
+    iconId: 65105
+    markdownUrl: _criterion/aai.md
+    markdownMacroCodeBlockIndex: 0
+
+  - name: AAI - Boss 2
+    group: "Criterion/AAI"
+    iconId: 65105
+    markdownUrl: _criterion/aai.md
+    markdownMacroCodeBlockIndex: 1
+
+  - name: AAI - Boss 3
+    group: "Criterion/AAI"
+    iconId: 65105
+    markdownUrl: _criterion/aai.md
+    markdownMacroCodeBlockIndex: 2
+
+  # ============
+  # = Extremes =
+  # ============
+
+  - name: EX1
+    group: "Extreme"
+    iconId: 81825
+    markdownUrl: _extreme/ex1.md
+
+  - name: EX2
+    group: "Extreme"
+    iconId: 81807
+    markdownUrl: _extreme/ex2.md
+
+  # ==========
+  # = Savage =
+  # ==========
+
+  - name: M1S
+    group: "Savage"
+    iconId: 26457
+    markdownUrl: _savage/m1s.md
+    notes: |
+      Changelog:
+      - Jul 23, 2024: Introduced
+
+  - name: M2S
+    group: "Savage"
+    iconId: 26458
+    markdownUrl: _savage/m2s.md
+
+  - name: M3S
+    group: "Savage"
+    iconId: 26459
+    markdownUrl: _savage/m3s.md
+
+  - name: M4S
+    group: "Savage"
+    iconId: 26460
+    markdownUrl: _savage/m4s.md
