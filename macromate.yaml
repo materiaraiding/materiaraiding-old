@@ -80,3 +80,74 @@ macros:
     group: "Savage"
     iconId: 26460
     markdownUrl: _savage/m4s.md
+
+  # ==========
+  # = Ultimate =
+  # ==========
+  
+  # UWU
+  
+  - name: UWU - Garuda
+    group: "Ultimate/UWU"
+    iconId: 26532
+    markdownUrl: _ultimate/uwu.md
+    markdownMacroCodeBlockIndex: 1
+
+  - name: UWU - Ifrit
+    group: "Ultimate/UWU"
+    iconId: 26532
+    markdownUrl: _ultimate/uwu.md
+    markdownMacroCodeBlockIndex: 2
+
+  - name: UWU - Titan
+    group: "Ultimate/UWU"
+    iconId: 26532
+    markdownUrl: _ultimate/uwu.md
+    markdownMacroCodeBlockIndex: 3
+
+  - name: UWU - Ultima
+    group: "Ultimate/UWU"
+    iconId: 26532
+    markdownUrl: _ultimate/uwu.md
+    markdownMacroCodeBlockIndex: 4
+
+  # UCOB
+
+  - name: UCOB - Twin/Nael
+    group: "Ultimate/UCOB"
+    iconId: 26526
+    markdownUrl: _ultimate/ucob.md
+    markdownMacroCodeBlockIndex: 0
+
+  - name: UCOB - QMT/BFT
+    group: "Ultimate/UCOB"
+    iconId: 26526
+    markdownUrl: _ultimate/ucob.md
+    markdownMacroCodeBlockIndex: 1
+
+  - name: UCOB - FRT/HFT
+    group: "Ultimate/UCOB"
+    iconId: 26526
+    markdownUrl: _ultimate/ucob.md
+    markdownMacroCodeBlockIndex: 2
+
+  - name: UCOB - TST/GO
+    group: "Ultimate/UCOB"
+    iconId: 26526
+    markdownUrl: _ultimate/ucob.md
+    markdownMacroCodeBlockIndex: 3
+
+  - name: UCOB - Adds (D4 Float)
+    group: "Ultimate/UCOB"
+    iconId: 26526
+    markdownUrl: _ultimate/ucob.md
+    markdownMacroCodeBlockIndex: 4
+
+  - name: UCOB - Golden Baha Mits
+    group: "Ultimate/UCOB"
+    iconId: 26526
+    markdownUrl: _ultimate/ucob.md
+    markdownMacroCodeBlockIndex: 5
+
+  # DSR
+
