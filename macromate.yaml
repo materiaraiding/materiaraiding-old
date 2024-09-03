@@ -22,6 +22,24 @@ macros:
     markdownUrl: _criterion/aai.md
     markdownMacroCodeBlockIndex: 2
 
+  - name: ASS - Boss 1
+    group: "Criterion/ASS"
+    iconId: 65105
+    markdownUrl: _criterion/ass.md
+    markdownMacroCodeBlockIndex: 0
+
+  - name: ASS - Boss 2
+    group: "Criterion/ASS"
+    iconId: 65105
+    markdownUrl: _criterion/ass.md
+    markdownMacroCodeBlockIndex: 1
+
+  - name: ASS - Boss 3
+    group: "Criterion/ASS"
+    iconId: 65105
+    markdownUrl: _criterion/ass.md
+    markdownMacroCodeBlockIndex: 2
+
   # ============
   # = Extremes =
   # ============
