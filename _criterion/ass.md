@@ -14,7 +14,7 @@ PF Strats
 ## Macros
 By Materia Raiding
 
-Silkie
+### Silkie
 ```
 ■ Spread
    T          
@@ -29,7 +29,7 @@ Blue (Middle not Safe) Take to respective wall
 ■ Fresh Puff 4 (uptime)
 Stack Behind A marker, move 1 tile across to safe side. Stand Max North after
 ```
-Gladiator
+### Gladiator
 ```
 ■ General Spread
     T          
@@ -40,8 +40,7 @@ Quadrants: CCW Spread position
 ■ Chain break:
 T/M North, H/R South
 ```
-
-Shadow Caster
+### Shadow Caster
 ```
 ■ Spread
 T     M
