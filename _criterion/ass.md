@@ -14,39 +14,42 @@ PF Strats
 ## Macros
 By Materia Raiding
 
-```
 Silkie
-Spread
+```
+■ Spread
    T          
 H     M    
    R          
 
-Fresh Puff 2
+■ Fresh Puff 2
 Green (Middle Safe) Yellow to Cardinal, Blue to Intercards
 Blue (Middle not Safe) Take to respective wall
 (i.e - If North spawn, take to North wall)
 
-Fresh Puff 4 (uptime)
+■ Fresh Puff 4 (uptime)
 Stack Behind A marker, move 1 tile across to safe side. Stand Max North after
-----------------------------
+```
 Gladiator
-General Spread
+```
+■ General Spread
     T          
  H     M    
     R         
 Quadrants: CCW Spread position
 
-Chain break:
+■ Chain break:
 T/M North, H/R South
-----------------------------
+```
+
 Shadow Caster
-Spread
+```
+■ Spread
 T     M
 
 H     R
 T/M North, H/R South
 
-Infernal Brand 3
+■ Infernal Brand 3
 Orange North, Blue South
 East Portal Tail -> Starting In
 West Portal Tail -> Starting out
