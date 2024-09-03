@@ -22,8 +22,9 @@ MacroMate is a Dalamud plugin and will require the use of the XIVLauncher to ins
 2. Type `/mm` to open the **Macro Mate** window.<br>![image](https://github.com/user-attachments/assets/28ff55f6-0343-4ede-a7fe-d3cf7d033ecc)
 4. Select 'New' and click 'Subscription' from the dropdown menu.<br>![image](https://github.com/user-attachments/assets/4909e242-2fe9-4fd5-a081-c2e0cdc569fa)
 5. Enter the following URL into the Subscription URL field and then '**Save**'.<br>`https://raw.githubusercontent.com/materiaraiding/materiaraiding/main/macromate.yaml`
+6. (Optional) Enable Automatically check for subscription updates under the Settings tab.
 
-Done! you can now access all the latest Macros directly from your game using the `/mm` command at any time!
+Done! you can now access all the latest Macros directly from your game using the `/mm` command at any time! If you also enabled the "Automatic Updates" option you will receive all future macro updates whenever a change is made on the Materia Raiding website.
 
 ![image](https://github.com/user-attachments/assets/4eca5759-8e29-43ec-82f8-497ec66a40d3)
 
