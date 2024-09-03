@@ -151,3 +151,14 @@ macros:
 
   # DSR
 
+  - name: DSR - Playstation Chains
+    group: "Ultimate/DSR"
+    iconId: 26627
+    markdownUrl: _ultimate/dsr.md
+    markdownMacroCodeBlockIndex: 0
+
+  - name: DSR - Haurchefant
+    group: "Ultimate/DSR"
+    iconId: 26627
+    markdownUrl: _ultimate/dsr.md
+    markdownMacroCodeBlockIndex: 1
