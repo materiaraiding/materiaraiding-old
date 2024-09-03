@@ -12,7 +12,7 @@ difficulty: Savage
 {: .no_toc }
 - Materia Raiding (macros/waymarks)
 - Em Gram (toolbox)
-- Pickle Tickle (toolbox)
+- Velyntine (toolbox)
 - Kobe (video guide)
 
 ### Table of Contents
