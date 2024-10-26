@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Visitors Guide to OCE Raiding
+title: Visitor's Guide to OCE Raiding
 permalink: /visitorsguide
 nav_order: 4
 ---
 
-# Visitors Guide to Oceanic Raiding
+# Visitor's Guide to Oceanic Raiding
 {: .no_toc }
 
 G'day and welcome to the Oceanic datacenter, Here in the land Down Under (and surrounding regions), we do things a bit differently when it comes to ultimate and savage raids. It's not just about throwing another shrimp on the barbie; it's about mastering the unique strategies that our local raiding community swears by. We'll explore how Oceanic raiders tackle the toughest challenges with a fair dinkum approach and what sets us apart from the rest of the FF14 world. So, let's crack on and delve into the nitty-gritty of Oceanic's raiding scene!
@@ -107,7 +107,7 @@ Materia also follows [Clees' Guide](https://ultimates.guide/uwu/) for UWU. Poten
 [Full UWU OCE Guide](/uwu){: .btn }
 
 ## TEA
-Materia DC follows the oldbin TEA strats that are present on the NA DC's, this means that for BJ/CC, we do the split BJ/CC strat. this is very different to the Tollgate strat that is present in JP. Similarly, OCE prefers the 1256 method for Limit Cut rather than 1211 which is prevalent for JP. It is best to review the toolboxes for the initial phases ([Living Liquid](https://ff14.toolboxgaming.space/?id=830419115443951&preview=1), [Limit Cut](https://ff14.toolboxgaming.space/?id=240411819443951&preview=1), [BJ/CC](https://ff14.toolboxgaming.space/?id=340414049443951&preview=1)) and make sure the positions for everything else is the same.
+Materia DC follows the oldbin TEA strats that are present on the NA DCs, such as the split BJ/CC strat and 1256 method for Limit Cut. It is best to review the toolboxes for the initial phases ([Living Liquid](https://ff14.toolboxgaming.space/?id=830419115443951&preview=1), [Limit Cut](https://ff14.toolboxgaming.space/?id=240411819443951&preview=1), [BJ/CC](https://ff14.toolboxgaming.space/?id=340414049443951&preview=1)) and make sure the positions for everything else is the same.
 
 [Full TEA OCE Guide](/tea){: .btn }
 
