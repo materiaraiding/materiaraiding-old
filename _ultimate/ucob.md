@@ -299,7 +299,9 @@ If you have not phased yet, just get ready for miscellaneous quotes until Enrage
 
 The fight starts and a pillar will drop in the room, spread out for Meteor Stream and dodge the cleaves.
 
-Boss will enter on the tank who had aggro on Twintania as she was defeated (generally the OT) with {% glossary Dalamud Dive %} and the party will stack up behind the boss ready for the first quotes. Nael will use {% glossary Bahamut's Claw %} - the OT should use their invulnerability on both the entrance tankbuster and {% glossary Bahamut's Claw %} and then summon 5 dragons around the room with **Bahamut's Favor**.
+Boss will enter on the tank who had aggro on Twintania as she was defeated (generally the OT) with {% glossary Dalamud Dive %} and the party will stack up behind the boss ready for the first quotes. Nael will use {% glossary Bahamut's Claw %} - the OT should use their invulnerability on both the entrance tankbuster and {% glossary Bahamut's Claw %} before tank swapping with the MT. 
+
+Nael will then summon 5 dragons around the room with **Bahamut's Favor**.
 
 The 5 dragons will use various abilities through the phase that players need to deal with:
 
