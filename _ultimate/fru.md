@@ -13,8 +13,8 @@ Currently Futures UNwritten...
 
 ### Credits
 {: .no_toc }
-- Written guide by (potentially) Juno
-- Diagrams by (potentially) Juno, MUR
+- Written guide by Juno
+- Diagrams by Juno, MUR
 
 ### Table of Contents
 {: .no_toc }
