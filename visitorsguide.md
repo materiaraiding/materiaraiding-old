@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Visitors Guide to OCE Raiding
+title: Visitor's Guide to OCE Raiding
 permalink: /visitorsguide
 nav_order: 4
 ---
 
-# Visitors Guide to Oceanic Raiding
+# Visitor's Guide to Oceanic Raiding
 {: .no_toc }
 
 G'day and welcome to the Oceanic datacenter, Here in the land Down Under (and surrounding regions), we do things a bit differently when it comes to ultimate and savage raids. It's not just about throwing another shrimp on the barbie; it's about mastering the unique strategies that our local raiding community swears by. We'll explore how Oceanic raiders tackle the toughest challenges with a fair dinkum approach and what sets us apart from the rest of the FF14 world. So, let's crack on and delve into the nitty-gritty of Oceanic's raiding scene!
@@ -107,7 +107,7 @@ Materia also follows [Clees' Guide](https://ultimates.guide/uwu/) for UWU. Poten
 [Full UWU OCE Guide](/uwu){: .btn }
 
 ## TEA
-Materia DC follows the oldbin TEA strats that are present on the NA DC's, this means that for BJ/CC, we do the split BJ/CC strat. this is very different to the Tollgate strat that is present in JP. Similarly, OCE prefers the 1256 method for Limit Cut rather than 1211 which is prevalent for JP. It is best to review the toolboxes for the initial phases ([Living Liquid](https://ff14.toolboxgaming.space/?id=830419115443951&preview=1), [Limit Cut](https://ff14.toolboxgaming.space/?id=240411819443951&preview=1), [BJ/CC](https://ff14.toolboxgaming.space/?id=340414049443951&preview=1)) and make sure the positions for everything else is the same.
+Materia DC follows the oldbin TEA strats that are present on the NA DCs, such as the split BJ/CC strat and 1256 method for Limit Cut. It is best to review the toolboxes for the initial phases ([Living Liquid](https://ff14.toolboxgaming.space/?id=830419115443951&preview=1), [Limit Cut](https://ff14.toolboxgaming.space/?id=240411819443951&preview=1), [BJ/CC](https://ff14.toolboxgaming.space/?id=340414049443951&preview=1)) and make sure the positions for everything else is the same.
 
 [Full TEA OCE Guide](/tea){: .btn }
 
@@ -194,12 +194,35 @@ For an extended explanation you can see the complete TEA OCE Guide below by Noz 
 </details>
 <details markdown=1>
 <summary>JP Differences</summary>
-Please refer to full guide.
+OCE and JP vary considerably for TEA, especially for Brute Justice + Cruise Chaser. The latter half largely follows the same strats with minor positional differences. Please review this list for specific mechanics, using the language in [Tuufless' guide](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/ultimates/tea/). It is recommended that you know how to do the first half of the fight using OCE strats before you join clear/reclear parties.
 
-[Full TEA OCE Guide](/tea){: .btn }
+- **1. Living Liquid**
+    - **General**: Note that the OCE guide treats the quadrant with no tornado as north, rather than the middle tornado in JP.
+    - **Tornadoes**: 
+        - **D4 and D3** will be baiting the first tornado's protean waves instead of healers, in addition to taking Jagd Dolls. 
+        - Both players will be baiting on the sides of the tornadoes **further** from the MT (check cheatsheet).
+    - **Protean Waves #2**: 
+        - MT faces the boss **towards the open quadrant** and resolves mechanics on that side. 
+        - **ST, D1 and D2** will bait the second protean waves coming from the tornadoes. 
+        - ST should then gapclose to MT to resolve Hand of Parting and keep both bosses there. 
+        - The roles that go north/south are not fixed in OCE so keep an eye out and make sure you have enough space to resolve mechanics.
+- **2a. Limit Cut**: OCE uses **1256** for this mechanic instead of **1211**, in which parties are split apart according to their limit cut marker (1,2,5,6 + 3,4,7,8). Please read the full OCE guide or the bottom half of Tuufless' Limit Cut page for details.
+- **2b. Brute Justice + Cruise Chaser**: OCE uses **Split BJ/CC** instead of **Tollgate**, which makes vast majority of this phase completely different, such as general positioning, Nisi passes and mines. Please consult the full OCE guide and relevant [toolbox](https://ff14.toolboxgaming.space/?id=340414049443951&preview=1) for how to approach this phase.
+    - **Intro**: The party takes usual clock spots for resolving chakrams and Optical Sights.
+    - **Post-Gavel**: Tanks pull bosses to the **west** wall. D3 baits Super Jump **east**.
+- **3. Alexander Prime**
+    - **Temporal Stasis**: Players with **no debuff** go towards the **west** boss (using true north). Players with **red/green tethers** go towards the **east** boss.
+    - **Intro**: Usually the MT will take emnity and use their invulnerability on the first tankbuster, but this may not be feasible in the event of a fast killtime or a PLD MT. This should be discussed beforehand and ST should be prepared to provoke for the first or second tankbuster where necesssary.
+    - **Inception**: 
+        - Players handling aetheroplasms on the north may choose to stand on the red dot itself rather than one notch above. However, this should not make much of a difference.
+        - MT baits Super Jump instead of ST.
+    - **Wormhole**: The core mechanic is handled identically, but at the end, **tanks** will join the **west** enumeration while **healers** join the **east** enumeration.
+    - **J Waves**: Double check with the group how outgoing damage will be handled. Tanks may wish to consult the [mit sheet](https://docs.google.com/spreadsheets/d/11g88rCThCPuXadxc1S4pwXSxwVoX04nR77Z0lvbpd30/edit?gid=0#gid=0).
+- **4. Perfect Alexander**
+    - **Exatrines**: Dodge positions are considered to be the **centre** of the arena as well as the **1, 3 and 4 waymarks** (which are positioned differently compared to JP). 
 </details>
 
-<a href=".\assets\images\cheatsheets\teacheatsheet.webp" target="_blank"><img src=".\assets\images\cheatsheets\tescheatsheet.webp"></a>
+<a href=".\assets\images\cheatsheets\teacheatsheet.webp" target="_blank"><img src=".\assets\images\cheatsheets\teacheatsheet.webp"></a>
 
 ## DSR
 OCE DSR Strats are a variation on NA PF strats.
@@ -324,7 +347,7 @@ For JP players, please review this list of differences, using the language in [T
     - **General**: Review the cheat sheet for mitigations; tanks should also make sure to confirm their invuln/LB order.
     - **Unlimited Wave Cannon**: the party moves 1 waymark from the first Exaflare.
     - **Wave Cannon** is resolved south.
-    - **Cosmo Arrow 2**: initial spread positions are different; consult the cheat sheet below. **Both DPS and supports move for exasquares**: DPS CW, supports CCW (see the diagram at the start of the section). Do not move all the way to the cardinal waymark.
+    - **Cosmo Arrow 2**: initial spread positions are different; consult the cheat sheet below. **Both DPS and supports move for exasquares**: DPS CW, supports CCW. Do not move all the way to the cardinal waymark.
     - **Cosmo Meteor**: H1 will move to the centre by default.
 </details>
 
