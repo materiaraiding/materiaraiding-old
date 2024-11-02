@@ -293,14 +293,16 @@ The next phase involves taking on both Brute Justice (BJ) and Cruise Chaser (CC)
 
 In this phase, there is **a lot** going on. In saying that, depending on which role you are, a lot of these mechanics may not involve you **but it's still good to be aware of them so you are not in anyone's way and do not get hit by something you're not supposed to**.
 
-While I will provide general guidelines on positoning, I once again do not want to clutter this section with toolbox screenshots. Please refer to the actual toolbox for exact positioning throughout this phase.
+While I will provide general guidelines on positioning, I once again do not want to clutter this section with toolbox screenshots. Please refer to the actual toolbox for exact positioning throughout this phase.
 
 ### Intro: Before First Nisi Pass
 {: .no_toc }
 
 At the end of Limit Cut, players should preposition in their assigned clock spots within the green circle in the middle of the arena. This phase begins with CC appearing in the arena and BJ slamming down with **J Kick**, a heavy raidwide. 
 
-MT takes aggro of BJ and OT takes aggro of CC. The tanks should then pull the bosses to the centre for cleave damage before taking their clock spots. As a _general guide_ melee DPS should focus hitting BJ and ranged attacking CC.
+MT takes aggro of BJ and OT takes aggro of CC. The tanks should then pull the bosses to the centre for cleave damage before taking their clock spots. 
+
+As a _general guide_ melee DPS should focus hitting BJ and ranged attacking CC. Of course, if your job has DoT/cleave abilities, where possible maintain them on both bosses. Keep in mind - while the bosses do need to die around the same time, there is no 'hand of pain' type DPS check in this phase. So, although you should make an effort to balance the HP's of both bosses as much as possible, there is no need to be too pedantic as you will have time towards the end of the phase to safely hit whichever boss you need to.
 
 CC then casts **Whirlwind**, a raidwide. Then, BJ will cast **Judgment Nisi**, inflicting a debuff that we call **Nisi** on either all supports or all DPS. There will be a blue (alpha), purple (gamma), orange (beta) and green (delta) Nisi, as shown below:
 
@@ -443,7 +445,7 @@ Wait till all the debuffs are 100% gone before moving out of the lineup - if you
 ### Post-Gavel and Enrage
 {: .no_toc }
 
-After Gavel, both tanks should pull their bosses together to the west wall, allowing for cleave damage. At this point, **pay attention to both boss's HP's** and try to keep them as similar as possible as they need to die approximately at the same time.
+After Gavel, both tanks should pull their bosses together to the west wall, allowing for cleave damage. At this point is where we really need to **pay attention to both boss's HP's** and try to keep them as similar as possible as they need to die approximately at the same time.
 
 CC will then cast **Photon** again, but this will only affect tanks this time, dropping them both to 1HP. Healers should quickly top them up as a tankbuster is coming.
 
@@ -660,7 +662,7 @@ At the end of Wormhole, a party member will be marked with a **stack marker** wh
 
 After, 2 DPS will have **enumeration rings** which must have exactly 3 people inside the circle to resolve. Facing Alexander Prime, one should move left and the other to the right. Simply use eyes and adjust on the fly. To ensure there are 3 players in each ring, both tanks should move into the left enumeration, while both healers move into the right. The 2 remaining DPS with nothing should steer clear.
 
-Once the enumerations resolve, Alexander Prime once again becomes targetable and respawns in the middle of the arena, where he casts **Mega Holy** twice, a hardhitting raidwide which requires mitigation and healing in between.
+Once the enumerations resolve, Alexander Prime once again becomes targetable and respawns in the middle of the arena, where he casts **Mega Holy** twice, a hardhitting raidwide which requires mitigation and healing in between. Players should aim to stack towards the 3 Waymark, not only to be grouped for heals but be prepared for the next section.
 
 Alexander Prime will then begin casting **Summon Alexander**, the final part of this phase.
 
@@ -671,7 +673,7 @@ Alexander will spawn north, with BJ south west and CC south east of him. He begi
 
 CC will be casting **Eternal Darkness**, which wipes the party should the cast finish. 
 
-Meanwhile, BJ enters with **J Storm**, a hard hitting raidwide. From there, every few seconds, BJ casts **J Wave**, hard hitting raidwide that also grants him a **stacking damage up buff**. These J Waves will require a **lot of mitigation and healing**.
+Meanwhile, BJ enters with **J Storm**, a hard hitting raidwide. From there, every few seconds, BJ casts **J Wave**, hard hitting raidwide that also grants him a **stacking damage up buff**. These J Waves will require  **mitigation and a lot of healing**. The first few J Waves don't hurt too much - it is the later ones with BJ's damage up buffs that are a bigger deal. Therefore, any long cooldown mitigations should be used around the 4-5th J Wave so they last long enough to catch the final hard-hitting raidwides before BJ dies.
 
 The party should focus on taking down CC first, then BJ, then finishing off Alexander Prime.
 
@@ -757,9 +759,12 @@ As for everyone else - notice how in the bottom safe zones, each one looks to be
 
 Once Perfect Alexander finishes the long Fate Calibration Alpha cast, he becomes untargetable. Simply stay in your spot while handling the 2 sets of stillness or motion while all the debuffs resolve.
 
-Perfect Alexander becomes targetable again and will cast **Ordained Capital Punishment** on the highest emnity player (which should be the MT) - this is a triple-hit tankbuster. Then, Perfect Alexander follows with **Ordained Punishment**, which is a single heavy tankbuster that leaves a **Physical Vulnerability Up**.
+Perfect Alexander becomes targetable again and will cast **Ordained Capital Punishment** on the highest emnity player - this is a triple-hit tankbuster that can be shared. Then, Perfect Alexander follows with **Ordained Punishment**, which is a single heavy tankbuster that leaves a **Physical Vulnerability Up**.
 
-For the triple-hit, the tanks should share the damage and kitchen sink their mitigations. Then, during the cast of Ordained Punishment, the tanks should separate and the OT provokes. The MT will take the large tankbuster hit alone, then as OT will have aggro the MT with the physical vulnerability will not die to an autoattack.
+{: .tanks }
+Throughout **Phase 4: Perfect Alexander**, there will be a total of 3 instances of these tankbuster sets. It is 'standard' for the order of resolution to be both tanks share the first -> OT invulnerability on the second -> MT invulnerability on the third, and the guide reflects this. Of course, if any variation is required for whatever reason, simply discuss with your co-tank (the cutscene transition is a great time to do this) and make sure the correct tank has main aggro for Ordained Punishment.
+
+For the triple-hit, the tanks should share the damage and kitchen sink their mitigations. Then, during the cast of Ordained Punishment, the tanks should separate and the OT provokes. The MT will take the large tankbuster hit alone, then as OT will have aggro, the MT with the physical vulnerability will not die to an autoattack.
 
 ### Fate Calibration Beta
 {: .no_toc }
@@ -800,7 +805,7 @@ The diagram below shows a simple layout of where everyone will stand, given that
 
 At the end of Perfect Alexander's long Fate Calibration Beta cast, he comes untargetable and the forced march resolves. After, players have a couple moments to shuffle, allowing J Jump baiters to run to their cardinal and tethers to ensure they are the correct distance from each other. All players currently north should also group as a shared sentence will go off. 
 
-After the tethers, shared sentence and J Jumps resolve, players should position themselves for Optical Sight. Spread out, or if it was stack, all dark players gather mid while light players stack at A. Healers should ensure players are topped as much as possible for this part.
+After the tethers, shared sentence and J Jumps resolve, players should position themselves for Optical Sight. Spread out, or if it was stack, all dark players gather mid while light players stack at A. Healers should ensure players are topped as much as possible for this part and if it is spread, healers should take priority towards spreading mid to ensure they are in range to heal everyone up.
 
 Upon the resolution of Optical Sight, everyone runs (sprint is helpful here) to the safe Perfect Alexander clone to survive Radiant Sacrament (donut AoE).
 
