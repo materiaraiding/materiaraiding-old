@@ -11,7 +11,7 @@ image: ultima.webp
 
 ### Credits
 {: .no_toc }
-Written Guide by Em'gram
+Written Guide by Em Gram, edited/finished off by Noz Leafhill
 Toolboxes by MUR
 PoVs by Kur Rumi
 
@@ -164,9 +164,14 @@ This guide is based off the original and very detailed guide by Clees, which can
 
 ### Awakening
 
-Throughout the first 3 phases, you will be aiming to complete special requirements to **Awaken** all three primals, once awoken their mechanics may change and they will drop a puddle (Candy) when they die, this must be picked up in a specific order, these will give you extra LB3's later which are required to clear the fight.
+Throughout the first 3 phases, you will be aiming to complete special requirements to **Awaken** all three primals. Handling mechanics in a certain way gives the boss an **Aetherically Charged** buff - 4 stacks of this awakens the boss. Once awoken, their mechanics may change and they will drop a puddle (candy) when they die. This must be picked up as they provide extra LB3's later, which are required to clear the fight.
 
-**Healer (Garuda) > Caster (Ifrit) > Melee (Titan)**
+We set this specific order to pick up the candies to keep things consistent and organised: <br> **Healer (Garuda) > Caster (Ifrit) > Melee (Titan)**
+
+You will know who has the candy if they have the **Beyond Limits** buff.
+
+{: .warning }
+The candy spawns where the boss dies - if it is not your role's turn to pick up the candy, **steer clear**.
 
 ## Phase 1: Garuda
 [Toolbox](https://ff14.toolboxgaming.space/?id=882261013862561&preview=1){: .btn .btn-blue }
@@ -175,9 +180,9 @@ Throughout the first 3 phases, you will be aiming to complete special requiremen
 {: .no_toc }
 
 {: .everyone }
-> {% glossary Feather Rain %} Garuda will make a shriek sound and without any castbar, feathers will drop on all players, this will happen many times during the fight.
+> {% glossary Feather Rain %} Garuda will make a shriek sound and without any castbar, feathers will drop on multiple players' current position. Upon hearing the scream, move out to dodge. If hit by a feather, this will apply a DoT that requires heavy healing to survive. Being hit by 2 or more feathers is generally lethal. {% glossary Feather Rain %} will occur multiple times during the fight.
 >
-> **Friction** garuda casts a small heavy Soak on a single target, applying friction to anyone hit who is outside the Spiny Plume Bubble. Party needs to be tightly stacked.
+> **Friction** Garuda casts a small heavy AoE on a single target that is to be soaked, applying **Thermal Low** to anyone hit. This debuff can be stacked if hit by multiple Frictions without cleansing. Party needs to be tightly stacked for the AoE soak.
 
 {: .tanks }
 > {% glossary Slipstream %} A dodge-able cleave, be careful not to face this into the party.
@@ -186,49 +191,54 @@ Throughout the first 3 phases, you will be aiming to complete special requiremen
 
 This summary is written to accompany the above toolbox, use it as a reference.
 
-The phase starts with the {% glossary MT %} pulling boss to mid and facing boss north. DPS should be behind boss and {% glossary OT %} and Healers stay east with the {% glossary OT %} between Healers and the boss. One Healer will get {% glossary Mistral Song %}, the boss will send a ranged attacked to Healers and {% glossary OT %} will soak the hit with Healers (first hit takes more damage)
+The phase starts with the {% glossary MT %} pulling the boss to mid and facing her north. DPS should be behind the boss and {% glossary OT %}, alongside healers stay east with the {% glossary OT %} between healers and the boss. One healer will get {% glossary Mistral Song %} and the boss will send a ranged attack to the marked healer, in which {% glossary OT %} will soak the hit for the healers (first hit takes more damage).
+
+The {% glossary Mistral Song %} leaves behind a large green AoE circle (tornado) which will instantly kill you if you remain within, so the {% glossary MT %} should drag the boss west (opposite of where the Mistral Song occurred), onto the D Waywark, then re-face the boss north. The party should follow, staying behind Garuda.
 
 ### Plumes
 {: .no_toc }
-Multiple Plumes will spawn around the arena. {% glossary OT %} needs to grab the Spiny plume and be ready for heavy damage.
+Multiple **Satin Plumes** will spawn around the arena, plus a **Spiny Plume** just under Garuda. {% glossary OT %} needs to grab the Spiny Plume and be ready for heavy damage.
 
 {: .warning }
-STOP {% glossary AOE %} IMMEDIATELY. The Spiny plume will become fixated on the first person to deal damage to it, this MUST be the {% glossary OT %}.
+STOP {% glossary AOE %} IMMEDIATELY. The Spiny Plume will become fixated on the first person to deal damage to it and this MUST be the {% glossary OT %}. It cannot be provoked after fixating on a target.
 
-Once the plumes have gathered on the party, {% glossary AOE %} them down leaving the Spiny plume with some health left (aim for 25%ish).
+Garuda then casts {% glossary Slipstream %}, into a {% glossary Downburst %}. The plumes will then move to the party. Once the plumes have gathered on the party, {% glossary AOE %} them down **but being careful not to kill the Spiny Plume**. The Spiny Plume will attack the {% glossary OT %}, giving them a stack of **Thermal Low**. This does tankbuster levels of damage so mitigation is necessary.
 
-After {% glossary Feather Rain %}, wait for {% glossary OT %} to take second hit from Spiny Plume, then kill the spiny plume to spawn a bubble, party can then move into this ready for cleanses.
+Garuda will then cast {% glossary Feather Rain %}. Move out. After {% glossary Feather Rain %}, wait for {% glossary OT %} to take second a hit from the Spiny Plume (indicated by 2 stacks of **Thermal Low**), then kill the Spiny Plume to spawn a bubble. Be sure to dodge the AoE indicating the spawning of the bubble (ideally by moving towards the middle), then everyone except the OT should walk into the edge, staying tightly stacked.
 
 ### Cleanses
 {: .no_toc }
-The following is a mechanic where we will take turns to gain and cleanse Friction stacks by entering and leaving bubble, the order is very precise and required to be able to clear the fight, if you fail the order but survive the mechanic, you will fail later mechanics. You will gain Friction stacks if you are outside the bubble when Friction hits you. You will lose friction stacks when you enter the bubble dealing a heavy raidwide damage.
+The following is a mechanic where we will take turns to gain and cleanse **Thermal Low** stacks that are applied from **Friction**, by entering and leaving the bubble. The order is very precise and required to be able to clear the fight as this contributes to the progression of **awakening Garuda**. If you fail the order but survive the mechanic, you can still progress further in the fight for prog, but you will not be able to see **Phase 5: Ultima Weapon**. You will gain **Thermal Low** stacks if you are outside the bubble when **Friction** hits you. You will cleanse your **Thermal Low** debuff when you enter the bubble - this deals a heavy raidwide damage. **When a single player cleanses 2 stacks of Thermal Low at once, this gives Garuda a stack to progress her awakening**.
 
 {: .tanks }
-You must have two stacks of friction before the Spiny Plume dies, you gain this from the heavy attack from the Spiny Plume.
+{% glossary OT %} - you must have two stacks of Thermal Low before the Spiny Plume dies.
 
-- Kill spiny plume, everyone except {% glossary OT %} move into bubble.
-- After Raidwide, {% glossary OT %} enter bubble and cleanse stacks.
-- {% glossary OT %} and Melee leave bubble and wait outside.
-- Friction 1: Heavy party damage, Stacks applied to {% glossary OT %} and Melee, Party leaves bubble.
-- Friction 2: Heavy party damage, Stacks applied to everyone, Party leaves bubble.
-- Wait for party to be healed, First Melee cleanses stacks (Enter and exit bubble)
-- Wait for party to be healed, Second Melee cleanses stacks (Enter and exit bubble)
+- Kill the Spiny Plume, everyone except {% glossary OT %} moves into the bubble.
+- Garuda casts **Mistral Shriek** (raidwide damage). Healers should top players immediately.
+- Once players are topped, {% glossary OT %} enters bubble to cleanse stacks - +1 awakening charge.
+- {% glossary OT %}, D1 and D2 leave the bubble and wait outside. **It is important to still be stacked close to the party**.
+- Friction 1: Heavy party damage, stacks applied to {% glossary OT %} and D1+D2. Party leaves bubble.
+- Friction 2: Heavy party damage, Stacks applied to everyone. OT, D1 and D2 should have 2 stacks while everyone else has 1.
+- Wait for party to be healed, D1 cleanses stacks (enter and exit bubble) - +1 awakening charge.
+- Wait for party to be healed, D2 cleanses stacks (enter and exit bubble) - +1 awwakening charge.
 
 {: .healers }
 This is one of the biggest damage checks in this phase, use your big mits/CDs and don't be afraid to spam heal.
 
 {: .warning }
-Stay relatively stacked during this mechanic, friction is a small range and can miss people if you are too spread out.
+Stay relatively stacked during this mechanic, **Friction** has a small range and can miss people if you are too spread out.
 
 {: .note }
 If you did this mechanic correctly, the boss will now have 3 stacks of awakened. The last stack to Awaken the boss will apply later.
 
+As the bubble only lasts temporarily (~approximately 20 seconds), the mechanic must be completed in a timely manner. Afterwards, Garuda will cast {% glossary Feather Rain %} - move out. She will momentarily become untargetable, before returning to the centre to cast **Aerial Blast**, raidwide damage to be mitigated and healed through. The party should stay stacked (except for {% glossary MT %} who is facing her northwards) for an upcoming {% glossary Feather Rain %}.
+
 ### Twins
 {: .no_toc }
-Party to stack on **Waymark 4**, {% glossary Mistral Song %} will target two non-tanks from sisters. {% glossary MT %} and {% glossary OT %} dodge Wicked Wheel ({% glossary PBAOE %}) and stand on a cardinal in-front of each sister against edge of blue circle, intercepting one of the {% glossary Mistral Song %}s each.
+Garuda will then spawn 2 sisters, who cast {% glossary Feather Rain %}. Move out - all non-tank party members should head towards and stack on **Waymark 4** to evade **Eye of the Storm** (AoE on the outer ring of the arena). **Ensure Garuda is as centred as possible**. {% glossary Mistral Song %} will target two non-tanks from the 2 sisters, who will now be on 2 different cardinals. {% glossary MT %} and {% glossary OT %} need to dodge Wicked Wheel ({% glossary PBAOE %} centred around Garuda) and stand on a cardinal in-front of each sister against edge of blue circle (**Eye of the Storm**), intercepting one of the {% glossary Mistral Song %}s each.
 
 {: .tanks }
-> Tanks will need to make sure they intercept one of the Twins each, there are a few different ways commonly used to solve this, communicate with your cotank to make sure you understand which method your using to solve it. 
+> Tanks will need to make sure they intercept one of the sisters' {% glossary Mistral Song %}s each. There are a few different ways commonly used to solve this, communicate with your cotank to make sure you understand which method your using to solve it. 
 > 
 > - {% glossary MT %} Prioritize North first
 > - {% glossary OT %} Prioritize South first
@@ -241,22 +251,29 @@ Party to stack on **Waymark 4**, {% glossary Mistral Song %} will target two non
 >
 > Generally you can kinda use-eyes and solve the positions pretty fast, suggest staying near the middle of the room to allow fast adjustments. 
 
-After {% glossary Feather Rain %}, Party and Tanks to dodge Tornadoes (Spawning on tank locations) and then group up in mid.
+The sisters will cast {% glossary Feather Rain %} again. While doing so, the party needs to avoid the large AoE left behind by the {% glossary Mistral Song %} (they spawn on where the tank soaked them) and then group up towards mid.
 
 {: .note }
-If Tornadoes are on SOUTH and EAST, ranged can dodge out towards wall for safety.
+If tornadoes (Mistral Song puddles) are on SOUTH and EAST, ranged can dodge out towards the wall for safety.
 
 ### Tethers
 {: .no_toc }
-Second plumes spawn, wait for them to gather and {% glossary AOE %} them down as fast as possible. {% glossary OT %} takes WEST Tether, Caster take EAST Tether, walk Tether to edge of blue circle. Heavy Raidwide and {% glossary Downburst %} on {% glossary MT %}, followed by {% glossary Feather Rain %}.
+A second set of **Satin Plumes** will spawn, wait for them to gather and {% glossary AOE %} them down as fast as possible. Garuda will cast {% glossary Slipstream %}, so the {% glossary MT %} must maintain her facing north. The sisters spawn on the west and east cardinals with tethers. These tethers will cast **Mesohigh**, which cleanses **Thermal Low**, resulting in raidwide damage. Taking a **Mesohigh** tether without **Thermal Low** will instantly kill the player. {% glossary OT %} (who should have 2 stacks - this is essential to awaken Garuda!) takes WEST Tether (on D Waymark), D4 takes EAST Tether (on B waymark), walk Tether to edge of **Eye of the Storm**. As the **Mesohigh** tethers resolve, there will be heavy raidwide damage and a {% glossary Downburst %} on {% glossary MT %}, followed by {% glossary Feather Rain %}. Move out!
 
-Party stack behind Garuda and burn down the boss, you should phase at this point.
+{: .damage }
+D4 - as your **Satin Plume** will be out of the party, you can single target damage your add. Other players can help you too if they kill the remaining adds early.
+
+Failing to kill the adds in a timely manner will cause them to explode, putting everyone to sleep.
+
+The party should then move behind Garuda and burn down the boss, who should be close to dying. **Be careful not to kill Garuda before the Mesohigh tethers happen or she will not awaken - hold DPS if needed**!
 
 If you don't phase, you will need to look out for Wicked Wheel, a quick donut/{% glossary AOE %} dodge, followed by repeated mechanics.
 
 **Enrage Timer is 2:55**
 
-When you kill Garuda, DPS and Tanks stack middle, Healer grab the Glowing Puddle (Candy) for later.
+When you kill Garuda, DPS and tanks stack middle, healer grabs the Glowing Puddle (Candy) for later.
+
+By the end of this phase, these players should still have 1 stack of **Thermal Low**: MT, both healers and D3.
 
 <details markdown=1>
 <summary>Phase Rotation</summary>
@@ -296,55 +313,59 @@ When you kill Garuda, DPS and Tanks stack middle, Healer grab the Glowing Puddle
 {: .no_toc }
 
 {: .tanks }
-> {% glossary Incinerate %} Untelegraphed Tankbuster, Triple tankbuster with no broadcast, typically use invlun, darkness damage.
+> {% glossary Incinerate %} Untelegraphed Tankbuster, triple tankbuster with no broadcast, typically use invlunerability, darkness damage.
 
 {: .healers }
-> {% glossary Searing Wind %} One of the two healers will be targetted with a debuff, this will last for some time and cause periodic explosions around you, anyone caught in this will die. When you have this, watch the debuff and ensure you are out of the party stack.
+> {% glossary Searing Wind %} One of the two healers will be targetted with a debuff, this will last for some time and cause periodic explosions around you. Anyone caught in this will be knocked back and likely die. When you have this, watch the debuff and ensure you are out of the party stack.
 >
-> {% glossary Vulcan Burst %} Large Low-Damage {% glossary AOE %} with knockback, needs to be mitigated by applying shields.
+> {% glossary Vulcan Burst %} Large low-damage {% glossary AOE %} with knockback. The knockback can be avoided by applying shields (preferred method) and anti-knockback.
 
 {: .damage }
 > {% glossary Eruptions %} Ifrit will target the furthest players and cast a series of large explosions, these will be baited by ranged players and need to be baited away from the party. During Nails, you will use these to buff the nails for awakening.
 
-Start the phase by stacking mid, orient to face Ifrit and dodge left or right based on safe-spot (use sprint if you need more time to identify the safe spot). 
+Start the phase by stacking mid, orient your camera to face Ifrit and dodge left or right based on the available safe-spot (use sprint if you need more time to identify the safe spot). 
 
-**Shield Healer** prepare for {% glossary Vulcan Burst %} with shields and **Tanks** prepare for {% glossary Incinerate %} with a invuln.
+The party should then stack at Waymark A with tanks facing the boss at Waymark C. The {% glossary OT %} should grab initial aggro to invuln the first tankbuster. Ifrit will cast **Hellfire** - raidwide damage.
+
+The **shield healer** should prepare for {% glossary Vulcan Burst %} with shields and **OT** prepare for {% glossary Incinerate %} with an invuln. After the third incinerate, {% glossary MT %} should provoke back.
 
 ### Nails
 {: .no_toc }
 
-Four nails will spawn, orient yourself so the closest two nails are north. One Healer will get {% glossary Searing Wind %}, take this to relative south and stay on the wall, top yourself up as necessary and focus boss.
+Four nails will spawn in a trapezium formation - orient yourself so the closest two nails (tapering end) are the new relative north. One healer will get {% glossary Searing Wind %} - take this to relative south and stay on the wall, top yourself up as necessary and focus boss. The non-Searing Wind healer needs to bear the responsbility of keeping the party alive for this section.
 
-OT will be tethered to a random DPS - try to stay close to them, but focus on nails/ifrit. This Tether will reduce damage done based on stacks and stacks increase with distance.
+OT will be tethered to a random DPS - try to stay close to them, but focus on nails/Ifrit. This tether will reduce damage done based on stacks and stacks increase with distance.
 
-Ranged will split and bait {% glossary Eruptions %} at SE and SW, moving up to hit each nail twice with a {% glossary Eruptions %}, this will cause the nails to grow. Once the nails have been hit twice, destroy them in the following order.
+Ranged will split and bait 4 {% glossary Eruptions %} at D3 SW and D4 SE, moving up to hit each nail twice with a {% glossary Eruptions %}, this will cause the nails to grow. Once the nails have been hit twice, destroy them in the following order. Killing a nail that has grown twice gives Ifrit a stack to progress his awakening.
 
 ![](./assets/images/diagrams/nails.webp)
 
-The order that Infernal Nails are destroyed will determine the order of Ifrit’s Crimson Cyclone charges in a later phase (i.e. the first Crimson Cyclone comes from the same location as the first nail that was killed). This is a very tight DPS window and you will need to ensure you weaken the nails to ensure you can kill them quickly once they are fully grown.
+The order that Infernal Nails are destroyed will determine the order of Ifrit’s *Crimson Cyclone* charges (commonly referred to as dashes) in a later phase (i.e. the first Crimson Cyclone comes from the same location as the first nail that was killed). This is a very tight DPS window and you will need to ensure you weaken the nails to ensure you can kill them quickly once they are fully grown. At the same time, you must avoid killing them before before they are fully grown. If killed before they are fully grown, you can still continue to prog - just bear in mind you will not make it to **Phase 5: Ultima Weapon**.
 
 {: .note }
 If this is done correctly, the boss will now be awakened.
 
-Get ready for heavy raidwides as Ifrit will use another set of 
+Ifrit will briefly become untargetable and recentre. He will then cast **Hellfire** for raidwide damage to mitigate and heal through.
 
-Tanks now pull the boss between the two raid markers closest to relative north set during nails against the wall. Ranged will go SE of relative north and begin baits for {% glossary Eruptions %} rejoining the group counter-clockwise on the wall.
+The {% glossary MT %} will now pull the boss between the two raid markers closest to relative north set during nails against the wall. D3 and D4 will go SE of relative north and begin baits for 4 {% glossary Eruptions %}, rejoining the group counter-clockwise on the wall.
 
 {: .healers }
-One Healer will get {% glossary Searing Wind %}, go to WEST relative party and wait for debuff to expire. Healer to rejoin party when debuff drops.
+One healer will get {% glossary Searing Wind %}, go to relative WEST of the party and wait for the debuff to expire. Healer to rejoin party when debuff drops. Note: Searing Wind lasts longer when Ifrit is awakened.
 
-If DPS is good, you will phase just as the second healer gets {% glossary Searing Wind %}. Second {% glossary Searing Wind %} should be run-out of the party either south or east if you are about to skip dashes.
+Ifrit clones will prepare to dash across the (relative) intercardinals of the arena. We are already in position to avoid them and they go off shortly after the final **Eruption** baits. Shortly after, Ifrit afflicts the other healer with {% glossary Searing Wind %} (at this point, if the boss is awakened, there will still be ~15 seconds remaining on the first Searing Wind).
+
+With good DPS, you will phase just as the second healer gets {% glossary Searing Wind %}. Second {% glossary Searing Wind %} should be run-out of the party either south or east if you are about to skip dashes.
 
 ### Dashes
 {: .no_toc }
 
-If you do not phase the boss, party to stack on boss, with second {% glossary Searing Wind %} healer opposite the party.
+If you do not phase the boss, the party will remain stacked where they are with the first {% glossary Searing Wind %} healer joining them (as it should be expired at this point). The second {% glossary Searing Wind %} healer will be directly opposite the party on the other side.
 
 When Ifrit spawns, rotate if needed to ensure you have empty spot to your right (No ifrit), you will see one ifrit glowing. If this is on a cardinal relative to party, you will dodge 2 places to the right, otherwise just one.
 
-Kill the boss as quickly as you can after, there will be more {% glossary Eruptions %} coming which you want to skip if possible.
+Kill the boss as quickly as you can after, there will be an {% glossary Incinerate %} (which the MT will need to invuln) and more {% glossary Eruptions %} coming which you want to skip if possible.
 
-Move to the wall, ready for Titan to spawn. After titan drops, **Caster** to grab the candy from where ifrit died.
+Move to the wall, ready for Titan to spawn as he will jump for proximity damage. After Titan drops, **D4** should grab the candy from where Ifrit died. **Everyone else - be sure not to run over it**!
 
 <details markdown=1>
 <summary>Phase Rotation</summary>
@@ -378,9 +399,9 @@ The following is written to accompany the diagrams in the above toolbox.
 {: .everyone }
 > {% glossary Weight of the Land %} - Several large AOEs appear under all players one after another.
 >
-> {% glossary Landslides %} - Multiple Line AOEs radiating out from boss, when Awakened, these will happen much faster and need to be dodged into for safety.
+> {% glossary Landslides %} - Multiple Line AOEs radiating out from boss. When Awakened, these will happen much faster and need to be dodged into for safety.
 >
-> {% glossary Geocrush %} - Titan will turn to a cardinal and jump, crashing down at the side he was facing, Heavy distance AOE based on his landing location. Room will shrink in size.
+> {% glossary Geocrush %} - Titan will turn to a cardinal and jump, crashing down at the side he was facing. This deals heavy proximity damage based on his landing location. The room will shrink in size.
 
 {: .tanks }
 > {% glossary Mountain Buster %} - Heavy Tankbuster with Cleave
@@ -388,19 +409,19 @@ The following is written to accompany the diagrams in the above toolbox.
 ### Summary
 {: .no_toc }
 
-Fight starts with a heavy raidwide, healers will need to be prepared for this at the end of Ifrit.
+The fight starts with **Earthern Fury**, a heavy raidwide. Healers will need to be prepared for this at the end of Ifrit.
 
-MT takes boss mid and prepares for {% glossary Mountain Buster %}.
+The {% glossary OT %} should take initial aggro of Titan and face him towards te C Waymark, as he will use {% glossary Mountain Buster %}. This should *generally* be kitchen sink mitigated. The MT can provoke back after.
 
-Following the Toolbox, party starts on A marker, dodges {% glossary Weight of the Land %} and prepares for Gaols.
+The party should be on the A Waymark, ready to dodge {% glossary Weight of the Land %}. Afterwards, Titan will jump away for **Geocrush**. **Pay attention to where he faced as he jumped**, and walk to the edge opposite of where he looked.
 
 {: .tanks }
-Geocrush is very fast, Titan will start turning towards a cardinal and then jump, you MUST watch titan carefully to work out which cardinal he is jumping too. Tanks should always try move boss to the middle of the room before this happens otherwise it can be very difficult to tell which cardinal he is jumping too.
+Geocrush is very fast, you MUST watch Titan carefully to work out which cardinal he is jumping too. Tanks should always try move boss to the middle of the room before this happens otherwise it can be very difficult to tell which cardinal he is jumping too.
 
 ### Granite Gaols
 {: .no_toc }
 
-Party starts with a stack on Titan, check where the Bombs spawn at the back of the room, there are two possible combinations.
+Once he lands, the party should stack directly in front of Titan. Look behind you to check where the bombs spawn at the back of the room, there are two possible combinations. Titan will knock you back (**cannot be cancelled**) and you must land in the safe spot.
 
 ![](./assets/images/diagrams/jails.webp)
 
@@ -408,58 +429,56 @@ Use the boss target marker as a reference for where to stand.
 
 ![](./assets/images/diagrams/jailsleftright.webp)
 
-After the knockback, AM will apply 1,2,3 markers to the people with Gaols. 
+After the knockback, 3 people will have a yellow ticking circle beneath them, indicating they will be trapped in a gaol. In Party Finder, we generally use the melon to order the gaol players with 1, 2 and 3 markers. Before they are trapped, Titan will use {% glossary Landslides %} - this is baited by a random player so it is imperative that everyone runs down the middle after being knocked back to avoid blocking people's pathing, especially for gaol-afflicted players.
 
 **Players without Gaols** 
-- Run up the middle until landslide spawns, then move to the left side of the room and stay out of the way.
+- Run up the middle until {% glossary Landslides %} spawn, then move to the left side of the room and stay out of the way.
 
 **Players with Gaols** 
-- Check your number and work out your target raidmarker. Use the central "+" of raidmarkes, with 1 being closest to Titan, 2 being middle and 3 being furthest from Titan.
-- Run up the middle until landslide spawns, sidestep to the edge of landslide next to your raidmarker.
-- As soon as the landslide graphic dissapears, immediately move towards your raidmarker. You should get stunned just as you arrive.
-- After jail explosions, exit to the **left** of your puddle immediately.
+- Check your number and work out your Waymarker. Use the central "+" of Waymarks, with 1 being closest to Titan, 2 being middle and 3 being furthest from Titan.
+- Run up the middle until {% glossary Landslides %} spawn, sidestep to the edge of {% glossary Landslides %} next to your Waymark.
+- As soon as the {% glossary Landslides %} animation disappears, immediately move towards your Waymark. You should get stunned just as you arrive.
+- There will be a bomb at the back of the room that explodes - if the gaols are positioned correctly, it will result in a chain explosion of all the bombs.
+- The gaol explosions **leave deadly puddles**, exit to the **left** of your puddle immediately. Avoid moving diagonally as your puddles of your fellow gaolers overlap and you don't want to run into those.
 
 {: .important }
-Gaols MUST be positioned in-line with the raidmarker. Ideally dead center otherwise the chain of explosions will fail.
+Gaols MUST be positioned in-line with the Waymarks. Generally players can stand towards the middle of the Waymark but to be safe, it is a good idea for (if we treat Titan as relative north): Gaol 3 to be a nudge more towards the northern part of their waymark, and Gaol 1 to be a nudge more towards the southern part of their waymark, so they are both closer a tad to Gaol 2 and ensure the chain explosion lands.
 
 ![](./assets/images/diagrams/jailsfinal.webp)
 
-If all three bombs puddles are correctly overlapping, Titan will gain a stacking Wakening buff and become Awoken. This will greatly increase the speed of mechanics and change their patterns throughout the fight.
+If all three bombs puddles are correctly overlapping, the puddle left by Gaol 1 will be within Titan's hitbox, giving him stacks to progress his awakening. He will fully awaken by the time the puddles disappear. This will greatly increase the speed of mechanics and change their patterns throughout the rest of the fight.
 
-Titan uses a set of 8 {% glossary Tumults %} and deals heavy party wide damage, healers will need to be ready for this and top-up any extra damage from Gaols.
+Titan uses a set of 8 {% glossary Tumults %} and deals heavy party-wide damage, healers will need to be ready for this.
 
-The party can move up to Titan on the left side of the puddles. Your burst phase should be coming up at this point and if you skipped dashes in Ifrit, you can go ahead and use it here. 
-
+The party can move up to Titan on the left side of the puddles.
 
 ### Landslides
 {: .no_toc }
-Party will stack on the Left Side looking at Titan, ready to move for {% glossary Weight of the Land %}. Dodge through Titan and prepare for {% glossary Landslides %}. Each landslide set will now be immediately followed by a second set of {% glossary Landslides %} between the first set. 
+Party will stack on the Left Side looking at Titan, ready to move for {% glossary Weight of the Land %}. Dodge through Titan and prepare for {% glossary Landslides %}. Each Landslide set will now be immediately followed by a second set of {% glossary Landslides %} between the first set. 
 
 ![](./assets/images/diagrams/landslides.webp)
 
-Watch for the first set, as soon as you see the Landslide visual dissapear, you want to **immediately move into the first set of landslides** to avoid the second set. This is **VERY** fast.
+Watch for the first set - as soon as you see the Landslide visual disappear, you want to **immediately move into the first set of Landslides** to avoid the second set. This is **VERY** fast.
 
-Titan will once again face a direction and use {% glossary Geocrush %}. 
+Titan will once again face a direction and use {% glossary Geocrush %}. After the {% glossary Landslides %}, {% glossary MT %) should endeavour to recentre the boss to easily identify where Titan is jumping to.
 
 After this, one healer will be targetted with a Granite Gaol. This healer should move to the middle of the room. Once the Gaol is active, the party will be able to target and damage the Gaol. Break the healer out of the Gaol before Titan begins a set of {% glossary Landslides %} followed shortly by 6 {% glossary Tumults %}.
 
-Tanks, position the boss at north facing the wall. Party should be stacked behind Titan in the middle of the room.
+From there on, the boss should be positioned far north, facing the wall. Everyone should be stacked behind Titan in the middle of the room.
 
 After the final Tumult, Titan will follow up with a {% glossary Mountain Buster %} combo and summon 4 bomb boulders in the center of the room. Party will be stacked behind the boss and immediately after the {% glossary Mountain Buster %} cleave, move through the boss and meet at the wall.
 
-This is a modification of the mario kart strategy which allows some uptime.
+This is a modification of the Mario Kart strategy which allows some uptime.
 
-Ranged and Healers will dodge clockwise along the wall, carefully dodging the {% glossary Weight of the Land %} and {% glossary Landslides %} continuing clockwise around the room.
+Ranged and healers will dodge clockwise along the wall, carefully dodging the {% glossary Weight of the Land %} and {% glossary Landslides %}, continuing clockwise around the room.
 
-Tanks and Melee rotate counter-clockwise > clockwise > counter-clockwise for the {% glossary Weight of the Land %}. This will allow uptime while providing enough space to avoid {% glossary Landslides %} 
+Tanks and melee rotate counter-clockwise > clockwise > counter-clockwise for the {% glossary Weight of the Land %}. This will allow uptime while providing enough space to avoid {% glossary Landslides %} 
 
-Keep in mind, if nobody in your group gets a weight, you will still need to move as if you're dodging it.
-
-If you're having trouble staying alive as a melee, just follow ranged and do the strategy normally, or just keep moving counterclockwise (Right > Right > Right) to keep at least some uptime.
+Keep in mind - if nobody in your group is targeted for {% glossary Weight of the Land %}, you will still need to move as if you're dodging it. **Remember to dodge into the Landslide!**
 
 Avoid the bombs going off in the center.
 
-The goal with this uptime strategy is for landslide to be baited on a ranged player, leaving a safe area behind titan.
+The goal with this uptime strategy is for {% glossary Landslides %} to be baited on a ranged player, leaving a safe area behind titan.
 
 Typically Titan will die around this point depending on your party damage. If you have not finished Titan you will get a few more repeated mechanics until a final enrage. 
 
@@ -469,7 +488,7 @@ Typically Titan will die around this point depending on your party damage. If yo
 - Earthen Fury Enrage
 
 {: .important }
-If you have correctly awoken titan, he will drop a small candy puddle, this must be picked up by a Melee party member.
+If you have correctly awoken Titan, he will drop a small candy puddle, this must be picked up by a Melee party member.
 
 <details markdown=1>
 <summary>Phase Rotation</summary>
@@ -503,31 +522,31 @@ If you have correctly awoken titan, he will drop a small candy puddle, this must
 
 ## Phase 4: Lahabread Intermission
 
-The following phase will be a set of 4x LB3 limit breaks, to complete this the players with the **Beyond Limits** collected in the previous phases can use their LB3 without consuming the party LB bar. 
+The following phase will be a set of 4x LB3s. To complete this the players with the **Beyond Limits** (candy collectors) can use their LB3 and it will automatically regenerate.
 
 {: .important }
-You can leave any dead party members on the ground if they dont have the **Beyond Limits** buff as they will get ressed for free in this phase without damage down debuff, EXCEPT if they are in the wall, they will need a healer res otherwise they will die immediately.
+You can leave any dead party members on the ground if they dont have the **Beyond Limits** buff as they will be resurrected for free in this phase without head empty. However, if they are in the wall, they will need a healer res otherwise they will die immediately.
 
 ### Caster LB3
 {: .no_toc }
 Four ships/pillars crash dealing heavy proximity AOE, Healers will need to ensure party members are healed up for this. Party stack middle to avoid unnecessary deaths. 
 
-6 Magitech bits spawn on the outside of the arena, casting **Self-Destruct**. Use Caster LB3 in the middle of the room to destroy all the bits. Players should be hitting the bits as damage variance can leave these alives sometimes. 
+6 Magitech bits spawn on the outside of the arena, casting **Self-Destruct**. Use Caster LB3 in the middle of the room to destroy all the bits. Players should be hitting the bits as the LB3 leaves them on 1 hit. 
 
 {: .note }
 Use Caster LB3 when the freefire damage appears on your screen, the rest of the LBs can be used as soon as they are available.
 
 ### Healer LB3
 {: .no_toc }
-Lahabrea will cast blight, dropping all players to 1HP and applying Doom. Use Healer LB3 to dispell Doom and heal all players. This cannot be removed by normal dispell or healing to full. 
+Lahabrea will cast blight, dropping all players to 1HP and applying Doom. Use Healer LB3 to dispel Doom and heal all players. This cannot be removed by normal dispel or healing to full. 
 
 ### Melee LB3 
 {: .no_toc }
-Lahabread becomes targettable and begins casting a instant-wipe Dark IV. Immediately use Melee LB3 to defeat Lahabrea and prevent the cast. You can pad here I guess?
+Lahabread becomes targettable and begins casting a instant-wipe Dark IV. Immediately use Melee LB3 when available to defeat Lahabrea and prevent the cast. Other players can attack Lahabread and is a great chance to build job gauge if needed.
 
 ### Tank LB3
 {: .no_toc }
-The Ultima Weapon will appear and cast Ultima to wipe the party. Tank will need to use LB3 to mitigate the damage, spam the LB3 button and activate it as soon as possible.
+The Ultima Weapon will appear and cast **Ultima** to wipe the party. Tank will need to use LB3 to mitigate the damage, spam the LB3 button and activate it as soon as possible.
 
 With all the LB3s complete, you will now begin the Ultima Weapon phases.
 
@@ -536,7 +555,7 @@ With all the LB3s complete, you will now begin the Ultima Weapon phases.
 The Ultima Weapon will spawn and use abilities absorbed from the primals. This includes a number of new mechanics. 
 
 {: .important }
-During this phase Ultima will have a Duty Gauge bar that slowly fills up, this increases with Mechanics but also each death. When this bar fills ultima gains a massive Damage Up buff which will likely result in a wipe. Increases by 4 with some mechanics and 4 for each death.
+During this phase Ultima will have a Duty Gauge bar that slowly fills up, this increases with Mechanics but also each death. When this bar fills Ultima gains a massive Damage Up buff which will likely result in a wipe. Increases by 4 with some mechanics and 4 for each death.
 
 - {% glossary Ultima %}, Massive raidbuster dealing extremely heavy magic damage. Must be mitigated via the use of a Tank LB3.
 - {% glossary Tank Purge %}, Heavy Raidwide Magic Damage.
@@ -548,39 +567,44 @@ During this phase Ultima will have a Duty Gauge bar that slowly fills up, this i
 After consuming all Primals, Ultima begins the phase at the north of the room. 
 
 {: .note }
-For optimal pot timing, listen to the game music, and use your pot when you hear the first Drumroll.
+If your class requires any preparation (e.g. prepping Standard Step or Earthly Star), note that when the Ultima Weapon 'chomps' Garuda, it is about ~15 seconds till the boss is targetable. For optimal pot timing, listen to the game music and use your pot when you hear the first drumroll.
 
-DPS and healers starts the phase stacked in the middle of the room. Open with burst phase and continue with damage
+{: .warning }
+You will need to have LB3 again towards the end of the phase. **Do not use targetted mitigations** (Feint, Addle, Reprisal, etc.) as this will reduce LB generation.
 
-MT starts on the west side of ultima, with OT on the east. OT voke ultima on the first GCD, MT will then voke on second GCD to ensure that MT is TOP aggro and OT is second. 
+During the RP where the Ultima Weapon consumes the primals, non tank players should fan out along the wall of the north-west quadrant of the room. This will be their designated position for **Ultimate Suppression**, a mechanic later in this phase.
 
-Ultima starts with {% glossary Tank Purge %}. Ultima will then apply {% glossary Viscous Aetheroplasm %} to highest aggro (MT). Ensure the MT is NOT standing with the party as {% glossary Viscous Aetheroplasm %} is a small AOE. MT can then rejoin party.
+DPS and healers begin the phase stacked in the middle of the room. Open with burst phase and continue with damage.
 
-This is followed by {% glossary Homing Lasers %} on OT due to the tank swap, Kitchen Sink this due to heavy damage. 
+{% glossary MT %} starts on the west side of Ultima, with {% glossary OT %} on the east. The {% glossary OT %} will provoke Ultima on the first GCD - {% glossary MT %) will then voke on second GCD to ensure that MT is TOP aggro and OT is second. 
 
-Ultima will begin one of three sub-phases, each with a passive and active set of mechanics. The first is Ultimate Predation.
+Ultima starts with {% glossary Tank Purge %}. Ultima will then apply {% glossary Viscous Aetheroplasm %} to highest aggro (MT). Ensure the {% glossary MT %} is NOT standing with the party as {% glossary Viscous Aetheroplasm %} is a small AOE. Normally, {% glossary MT %} can then rejoin party.
+
+This is followed by {% glossary Homing Lasers %} on {% glossary OT %}, kitchen sink as it is heavy damage. 
+
+Ultima will begin one of three sub-phases, each with a passive and active set of mechanics. The first is **Ultimate Predation**.
 
 ## Phase 5.1: Ultimate Predation
 
 ### Passive Phase
 {: .no_toc }
 
-Ultimate predation begins with a dodge mechanic, all primals and ultima will appear around the arena. You will need to find one of several safe-spots to survive this mechanic. 
+Ultimate Predation begins with a dodge mechanic - all primals and Ultima will appear around the arena. You will need to find one of several safe-spots to survive this mechanic. 
 
 - Ultima will performa a large AOE on one quadrant of the arena
-- Ifrit will execute a Crimso Cyclone covering all cardinals
-- Garuda will use a wicked wheel, covering almost half the arena.
-- Titan will appear on a cardinal and use an awoken landslide with two sets.
+- Ifrit will first dash across the arena, before executing a Crimson Cyclone covering all cardinals
+- Garuda will use a **Wicked Wheel**, covering almost half the arena.
+- Titan will appear on a cardinal and use an awoken **Landslide** with two sets.
 
 This mechanic can be very overwhelming but it is simplest to break it down into a few logical steps to resolve.
 
-1. First, look for garuda and avoid either cardinal on her side of the room, these are out-of-bounds. 
-2. Run to either of the one or two possible safespots that do NOT have titan on them, take note of ultima weapon, as you will need to avoid it later.
+1. First, look for Garuda and avoid either cardinal on her side of the room - these are out-of-bounds. 
+2. Run to either of the one or two possible safespots that do NOT have Titan on them. Take note of where Ultima is, as you will need to avoid him later.
 
 ![titan]({{ site.baseurl }}/assets/images/313371348-2696d8f8-efe3-4b69-afe4-96114650aee6.webp)
 
-4. Wait at the wall, Titan will begin {% glossary Landslides %}, you may need to dodge these near the cardinal.
-5. After the first landslide, immediately dodge into a clear intercard, making sure not to dodge towards Ultima.
+4. Wait at the wall. Titan will begin {% glossary Landslides %} - you may need to dodge these near the cardinal.
+5. After the first Landslide, immediately dodge into a clear intercard, making sure not to dodge towards Ultima.
 6. When dodging into a intercard you MUST stop at the wall using the pattern on the outside of the room to stop at the 4th visible rune. See the image below: 
 
 ![ultima]({{ site.baseurl }}/assets/images/313372251-7da1c4c4-1447-4921-ae9a-37f7f22d7827.webp)
@@ -589,31 +613,29 @@ This mechanic can be very overwhelming but it is simplest to break it down into 
 
 Your final goal is to reach one of several possible safespots, some of the options are VERY tight so make sure you stay close to the wall and use the runes on the wall to find the safe spot accurately. 
 
-After the main mechs resolve, Garuda will perform another {% glossary Feather Rain %}, be ready to dodge this.
+After the main mechs resolve, Garuda will perform another {% glossary Feather Rain %}. Do not move until you hear the shriek to avoid dropping AoE's on your party members.
 
 ### Active Phase
 {: .no_toc }
 
-Ultima becomes targettable in the middle of the room. MT will grab aggro and pull ultima slightly northwest at A marker then join party stacking north on the visible second-line on the floor. Designate 2 ranged players to bait radiant plumes from Ifrit. Since there is no healing needed immediately, you can opt to have your usual caster stay put, or use the same baiters from phase 2. 
+Ultima becomes targettable in the middle of the room. MT will pull Ultima slightly northwest at the A Waymark then join party stacking north on the visible second-line on the floor. D3 and D4 will stay towards the C Waymark to bait upcoming **Eruptions** from Ifrit. If there is a death from the first section of **Ultimate Predation**, back baiters should be prepared (ideally healers or any other ranged player). During this section, the autoattacks on the MT **hurt**, so healers keep an eye on their HP. 
 
-Ultima hits the outside of the arena with radiant plumes. Boulders will be falling on the center, leaving you very little room between the plumes and boulders. Stay on the 2nd line and move out to the 2 marker as soon as plumes resolve. Titan is also baited to the southeast intercard as he drops at the furthest intercard from Ultima. This sets up Titan for consistent landslide pattern.
+After the **Eruption baits**, Ultima surrounds the outside of the arena with **Radiant Plumes**. Boulders will be falling on the center, leaving you very little room between the plumes and boulders. Stay on the 2nd line and move out to the 2 Waymark as soon as plumes resolve. Titan is also baited to the southeast intercardinal as he drops at the furthest intercard from Ultima. This sets up Titan for consistent Landslide pattern.
 
-Landslide will be baited as soon as plumes resolve by moving north to the wall, then clockwise into the safe spot. Ultima will also cast a landslide, however only Titan's will be awoken, hitting a 2nd time after Ultima's landslide resolves. Titan's landslide resolves, then Ultima's landslide resolves. Titan readies an untelegraphed 2nd hit, party will need to dodge back to immediate north. 
+Landslide will be baited as soon as plumes resolve by moving north to the wall, then clockwise into the safe spot. Ultima will also cast a Landslide - however only Titan's will be awoken, hitting a 2nd time after Ultima's Landslide resolves. Titan's Landslide resolves, then Ultima's Landslide resolves. Titan readies an untelegraphed 2nd hit, party will need to dodge back to immediate north. 
 
 {: .tanks }
-MT will go to the left side of Ultima (east), and the rest of the party will stack on the right (west) facing ultima. Ultima will cast a series of 7x {% glossary Tumults %} while the MT will be targetted for {% glossary Viscous Aetheroplasm %} and will need to take this away from the party. Once MT receives the aetherplasm, the tanks should swap aggro. This ensures that MT will take both the aetherplasm and the homing laser (as they are now 2nd aggro) and this will be **taken with invuln**. The timing for invuln is just after the upcoming scream for {% glossary Feather Rain %}.
+The MT will go to the left side of Ultima facing in (east), and the rest of the party will stack on the right (west) facing ultima. Ultima will cast a series of 7x {% glossary Tumults %} while the MT will be targetted for {% glossary Viscous Aetheroplasm %} and will need to take this away from the party. Once MT receives the aetheroplasm, the OT needs to provoke. This ensures that MT will take both the {% glossary Viscous Aetheroplasm %} and the {% glossary Homing Laser %} (as they are now 2nd aggro) and this will be **taken with invuln**. The timing for invuln is just after the upcoming scream for {% glossary Feather Rain %}.
 
-Garuda and her sisters spawn, Garuda will use Mistral Shriek dealing heavy raidwide damage, followed by her sisters with two sets of {% glossary Feather Rain %}. This is very high damage output and healers will need to spend heavily to ensure the party survives. Party stay stacked together and dodge {% glossary Feather Rain %} by moving counter-clockwise around the boss. Being careful to avoid the tanks side of the boss. 
+Garuda and her sisters spawn - Garuda will use **Mistral Shriek** dealing heavy raidwide damage, followed by her sisters with two sets of {% glossary Feather Rain %}. This is very high damage output and healers will need to spend heavily to ensure the party survives. The party should stay stacked together and dodge {% glossary Feather Rain %} by moving counter-clockwise around the boss. Being careful to avoid the tanks side of the boss. 
 
-Ultima will teleport to the north side of the arena. Stack tight on the SW side of where it will appear to prepare for Ultimate Annihilation.
+Ultima will teleport to the north side of the arena. Facing Ultima, stack tight on the SW side (his right foot) in preparation for **Ultimate Annihilation**.
 
 ## Phase 5.2: Annihilation
-Ultima will teleport to the North side of the arena.
+
 Stack up tight on the SW side of boss. For the most part, you will be dodging mechanics around the outside of its hitbox for this phase.
 
-Phase starts with a series of {% glossary Weight of the Land %}. Party stacks together and dodges Right. Garuda will also cast eye of the storm on the edges of the arena, and tether a random player at this time. This will need to be taken away by one of your players with a Thermal Low stack. This will generally be your Phys Ranged. 
-
-Party Dodges back to the left for {% glossary Weight of the Land %}, The dps with Thermal Low will take the tether South.
+Phase starts with a series of {% glossary Weight of the Land %}. Party stacks together and dodges right, left, then separate depending on your role. Garuda will also cast eye of the storm on the edges of the arena, and tether a random player at this time. This will need to be taken away by one of your players with a Thermal Low stack. This will generally be your Phys Ranged. 
 
 {: .warning}
 Guide is not yet completed, apologies. Please refer to the Toolboxes for the remaining phases.
