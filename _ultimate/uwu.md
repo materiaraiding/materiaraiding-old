@@ -148,9 +148,6 @@ D3                                D4
 
 # Written Guide
 
-{: .warning }
-This page is currently a work-in-progress, some sections are incomplete. We hope to have this finished soon.
-
 The Weapon's Refrain is a multi-phase fight that covers an alternative retelling of the Warrior of Light's fight against the Primals and the Ultima Weapon.
 
 {: .note }
@@ -314,7 +311,7 @@ By the end of this phase, these players should still have 1 stack of **Thermal L
 > {% glossary Incinerate %} Untelegraphed triple tankbuster with no broadcast. Typically use invlunerability to resolve.
 
 {: .healers }
-> {% glossary Searing Wind %} One of the two healers will be targetted with a debuff. This will last for some time and cause periodic explosions around you. Anyone caught in this will be knocked back and likely die. When you have this, watch the debuff and ensure you are out of the party stack.
+> {% glossary Searing Wind %} One of the two healers will be targeted with a debuff. This will last for some time and cause periodic explosions around you. Anyone caught in this will be knocked back and likely die. When you have this, watch the debuff and ensure you are out of the party stack.
 >
 > {% glossary Vulcan Burst %} Large low-damage {% glossary AOE %} with knockback. The knockback can be avoided by applying shields (preferred method) or an anti-knockback ability.
 
@@ -365,13 +362,13 @@ Before dashes, Ifrit will mark a player with **Flaming Crush**, dealing AoE dama
 ### Dashes
 {: .no_toc }
 
-Ifrit is untargettable for the duration of this mechanic.
+Ifrit is untargetable for the duration of this mechanic.
 
 If you do not phase the boss, the party will remain stacked where they are with the first {% glossary Searing Wind %} healer joining them (as it should be expired at this point). The second {% glossary Searing Wind %} healer will be directly opposite the party on the other side (relative south).
 
 When Ifrit spawns, rotate if needed to ensure you have empty spot to your right (no Ifrit). You will see one Ifrit glowing - ff this is on a cardinal relative to the party, you will dodge 2 places to the right, otherwise just one.
 
-Afterwards, Ifrit will become targettable again. Kill the boss as quickly as you can after. There will be an {% glossary Incinerate %} (which the MT will need to invuln) and more {% glossary Eruptions %} coming which you want to skip if possible.
+Afterwards, Ifrit will become targetable again. Kill the boss as quickly as you can after. There will be an {% glossary Incinerate %} (which the MT will need to invuln) and more {% glossary Eruptions %} coming which you want to skip if possible.
 
 Upon death, move to the wall, ready for Titan to spawn as he will jump in the centre, dealing proximity-based damage. After Titan drops, **D4** (or any magical DPS) should grab the candy from where Ifrit died. **Everyone else - be sure not to run over it**!
 
@@ -470,7 +467,7 @@ Watch for the first set - as soon as you see the Landslide visual disappear, you
 
 Titan will once again face a direction and use {% glossary Geocrush %}. After the {% glossary Landslides %}, {% glossary MT %) should endeavour to recentre the boss to easily identify where Titan is jumping to.
 
-After this, one healer will be targetted with a Granite Gaol. This healer should move to the middle of the room. Once the Gaol is active, the party will be able to target and damage the Gaol. Break the healer out of the Gaol before Titan begins a set of {% glossary Landslides %} followed shortly by 6 {% glossary Tumults %}. Remember to dodge into the first Landslide as he will do a double set.
+After this, one healer will be targeted with a Granite Gaol. This healer should move to the middle of the room. Once the Gaol is active, the party will be able to target and damage the Gaol. Break the healer out of the Gaol before Titan begins a set of {% glossary Landslides %} followed shortly by 6 {% glossary Tumults %}. Remember to dodge into the first Landslide as he will do a double set.
 
 From there on, the boss should be positioned far north, facing the wall. Everyone should be stacked behind Titan in the middle of the room.
 
@@ -550,7 +547,7 @@ Lahabrea will cast blight, dropping all players to 1HP and applying Doom. Use He
 
 ### Melee LB3 
 {: .no_toc }
-Lahabread becomes targettable and begins casting a instant-wipe Dark IV. Immediately use Melee LB3 when available to defeat Lahabrea and prevent the cast. Other players can attack Lahabread and is a great chance to build job gauge if needed.
+Lahabread becomes targetable and begins casting a instant-wipe Dark IV. Immediately use Melee LB3 when available to defeat Lahabrea and prevent the cast. Other players can attack Lahabread and is a great chance to build job gauge if needed.
 
 ### Tank LB3
 {: .no_toc }
@@ -578,7 +575,7 @@ After consuming all Primals, the Ultima Weapon begins the phase at the north of 
 If your class requires any preparation (e.g. prepping Standard Step or Earthly Star), note that when the Ultima Weapon 'chomps' Garuda, it is about ~15 seconds till the boss is targetable. For optimal pot timing, listen to the game music and use your pot when you hear the first drumroll.
 
 {: .warning }
-You will need to have LB3 again towards the end of the fight. **Do not use targetted mitigations** (Feint, Addle, Reprisal, etc.) for the entire phase as this will reduce LB generation.
+You will need to have LB3 again towards the end of the fight. **Do not use targeted mitigations** (Feint, Addle, Reprisal, etc.) for the entire phase as this will reduce LB generation.
 
 During the RP where the Ultima Weapon consumes the Primals, non tank players should fan out along the wall of the north-west quadrant of the room. This will become everyone's designated position for **Ultimate Suppression**, a mechanic later in this phase. Once spots are confirmed, everyone can return to the centre of the arena.
 
@@ -595,15 +592,15 @@ Ultima will begin one of three sub-phases, each with a passive and active set of
 {: .note }
 > **LB Cheesing**
 > 
-> By the end of **Ultimate Suppression**, we need to have a full LB3 bar again to survive the next attack. We've already mentioned not to use any targetted mitigations - but sometimes this is not enough. LB cheesing the first **Tank Purge** (i.e. generating extra LB by having less HP than the damage of the raidwide when it occurs, but surviving due to shields and party mitigations) is a good way to maximise LB generation. 
+> By the end of **Ultimate Suppression**, we need to have a full LB3 bar again to survive the next attack. We've already mentioned not to use any targeted mitigations - but sometimes this is not enough. LB cheesing the first **Tank Purge** (i.e. generating extra LB by having less HP than the damage of the raidwide when it occurs, but surviving due to shields and party mitigations) is a good way to maximise LB generation. 
 >
 > There's no single set-in-stone way to do it and you may need to adjust what abilities you use based on your tank composition. Use the below as a **GUIDELINE**. There is a lot of time during the RP of the Ultima Weapon consuming the Primals and this is a good opportunity for supports to discuss what abilities they will use, should the party opt for LB cheesing.
 >
 > After the **Ultima** raidwide during the intermission, the regen healer is NOT to use any healing abilities. Then:
 >
-> If **Scholar**: After the Ultima Weapon chomps Garuda, begin using Adloquium on a tank to try an get a crit shield proc. Once achieved, deploy/spread the shield. If you find a crit shield before the boss becomes targettable, spread it anyway. Pop down Sacred Soil. If you do not have the support of tank shields, you can use a Succor (**WITHOUT** Emergency Tactics) for a small party heal just to be safe. Don't stress about your fairy passive healing - it will not single-handedly top your party up but if desired, you can optionally dismiss the fairy until the beginning of the phase.
+> If **Scholar**: After the Ultima Weapon chomps Garuda, begin using Adloquium on a tank to try an get a crit shield proc. Once achieved, deploy/spread the shield. If you find a crit shield before the boss becomes targetable, spread it anyway. Pop down Sacred Soil. If you do not have the support of tank shields, you can use a Succor (**WITHOUT** Emergency Tactics) for a small party heal just to be safe. Don't stress about your fairy passive healing - it will not single-handedly top your party up but if desired, you can optionally dismiss the fairy until the beginning of the phase.
 >
-> If **Sage**: After the Ultima raidwide, use 1 Prognosis. Then, before the Ultima Weapon becomes targettable, use Zoe + Eukrasian Prognosis and Kerachole. If you have the support of tank shields (e.g. Shake it Off) from a tank, you can omit the Prognosis.
+> If **Sage**: After the Ultima raidwide, use 1 Prognosis. Then, before the Ultima Weapon becomes targetable, use Zoe + Eukrasian Prognosis and Kerachole. If you have the support of tank shields (e.g. Shake it Off) from a tank, you can omit the Prognosis.
 >
 > **Tanks**: you can use Divine Veil / Heart of Light. If using Shake it Off, it must be used JUST before the raidwide due to its heal over time effect. The MT can optionally solo the Viscous Aetheroplasm stack with kitchen sinked mitigations instead of sharing it with the party to built a little bit of extra LB.
 
@@ -611,6 +608,8 @@ Ultima will begin one of three sub-phases, each with a passive and active set of
 
 ### Passive Phase
 {: .no_toc }
+
+The Ultima Weapon is untargetable for this section.
 
 Ultimate Predation begins with a dodge mechanic - all Primals and the Ultima Weapon will appear around the arena. You will need to find one of several safe-spots to survive this mechanic. 
 
@@ -641,7 +640,7 @@ After the main mechanics resolve, Garuda will perform another {% glossary Feathe
 ### Active Phase
 {: .no_toc }
 
-The Ultima Weapon becomes targettable in the middle of the room. The {% glossary MT %} will pull the Ultima Weapon slightly northwest at the A Waymark, then join the party stacking north on the visible second-line on the floor. D3 and D4 will stay towards the south to bait 4 {% glossary Eruptions %} from Ifrit. If there is a death from the first section of **Ultimate Predation**, back-up baiters should be prepared (ideally healers or any other ranged player). During this section, the autoattacks on the {% glossary MT %} **hurt**, so healers keep an eye on their HP. 
+The Ultima Weapon becomes targetable in the middle of the room. The {% glossary MT %} will pull the Ultima Weapon slightly northwest at the A Waymark, then join the party stacking north on the visible second-line on the floor. D3 and D4 will stay towards the south to bait 4 {% glossary Eruptions %} from Ifrit. If there is a death from the first section of **Ultimate Predation**, back-up baiters should be prepared (ideally healers or any other ranged player). During this section, the autoattacks on the {% glossary MT %} **hurt**, so healers keep an eye on their HP. 
 
 After the **Eruption** baits, the Ultima Weapon surrounds the outside of the arena with **Radiant Plumes**. Boulders will be falling on the centre, leaving you very little room between the plumes and boulders. Stay on the 2nd line and move out to the 2 Waymark as soon as plumes resolve. Titan is also baited to the southeast intercardinal as he drops at the furthest intercardinal from the Ultima Weapon. This sets up Titan for a consistent {% glossary Landslides %} pattern.
 
@@ -649,7 +648,7 @@ After the **Eruption** baits, the Ultima Weapon surrounds the outside of the are
 
 The {% glossary MT %} will go to the left side of the Ultima Weapon facing in (east), and the rest of the party will stack on the right (west) facing the boss. The {% glossary OT %} will be tethered to a random DPS - this is just like the one during Ifrit nails, where they must stay grouped together. With the party minus the {% glossary MT %} stacked together, it will naturally resolve. 
 
-The Ultima Weapon will cast a series of 7x {% glossary Tumults %} while the {% glossary MT %} will be targetted for {% glossary Viscous Aetheroplasm %} and will need to take this away from the party. Once {% glossary MT %} receives the aetheroplasm, the {% glossary OT %} needs to provoke. This ensures that MT will take both the {% glossary Viscous Aetheroplasm %} and the {% glossary Homing Laser %} (as they are now 2nd aggro) and this will be **taken with their invulnerability**. The timing for the invulnerability is just after the upcoming scream for {% glossary Feather Rain %}.
+The Ultima Weapon will cast a series of 7x {% glossary Tumults %} while the {% glossary MT %} will be targeted for {% glossary Viscous Aetheroplasm %} and will need to take this away from the party. Once {% glossary MT %} receives the aetheroplasm, the {% glossary OT %} needs to provoke. This ensures that MT will take both the {% glossary Viscous Aetheroplasm %} and the {% glossary Homing Laser %} (as they are now 2nd aggro) and this will be **taken with their invulnerability**. The timing for the invulnerability is just after the upcoming scream for {% glossary Feather Rain %}.
 
 Garuda and her sisters spawn - Garuda will use **Mistral Shriek** dealing heavy raidwide damage, followed by her sisters with two sets of {% glossary Feather Rain %}. This is very high damage output and healers will need to spend heavily to ensure the party survives. The party should stay stacked together and dodge {% glossary Feather Rain %} by moving counter-clockwise around the boss. Being careful to avoid the {% glossary MT %} side of the boss. 
 
@@ -659,7 +658,9 @@ The Ultima Weapon will teleport to the north side of the arena. Facing the boss,
 
 ## Phase 5.2: Ultimate Annihilation
 
-Stack up tight on the southwest side of boss. For the most part, you will be dodging mechanics around the outside of its hitbox for this phase.
+### Passive Phase
+
+Although this is considered a passive phase, the Ultima Weapon will be targetable for this section. Stack up tight on the southwest side of boss. 
 
 This mechanic starts with a series of 3 {% glossary Weight of the Land %} AoE's. The party needs to remain stacked together - a player will be marked with **Flaming Crush**, a party stack. The AoE of the attack is **very small**, so it is important to stay as tightly grouped as possible. For the first 2 {% glossary Weight of the Land %} sets, firstly dodge right, then left, back to where you started. For the third set - the party will now split up as all 3 Primals will begin a variety of attacks. 
 
@@ -694,26 +695,89 @@ Below is how we resolve all these mechanics, depending on your role.
 > 
 > Once north, wait for Ifrit do dash across through the intercardinal - once he does, immediately run to the 2 Waymark (it is worthwhile to use sprint) to not only avoid **Crimson Cyclone**, but also dodge Titan's double {% glossary Landslides %}. After the **Crimson Cyclone**, run inwards to avoid Garuda's **Eye of the Storm** (donut AoE). Just be on the safe edge and do not run too inwards - tanks will be soaking orbs, and there will be a {% glossary Searing Wind %} healer exploding south. The Ultima Weapon will then cast {% glossary Tank Purge %} - as this goes off, Garuda will also {% glossary Feather Rain %}. Dodge.
 
-{: .warning}
-While it is not necessarily *lethal* for non-tanks to be accidentally hit by orbs, it affects how orbs in a future mechanic works. More on that after **Ultimate Suppression**.
+!!! DIAGRAM HERE PLEASE EM!!! :)
 
-After {% glossary Tank Purge %}, the Ultima Weapon will briefly become untargettable and reappear in the centre with Garuda casing **Eye of the Storm**. The {% glossary Searing Wind %} still has one more explosion to go before their debuff expires so they must stay in the south part of the safe spot. {% glossary MT %} stays north, {% glossary OT %} moves northeast (double check the {% glossary OT %} is 2nd in aggro here) and the rest of the party remains northwest.
+### Active Phase
 
-Once **Eye of the Storm** resolves, the searing healer should be safe to return to the party at northwest and the Ultima Weapon will use {% glossary Homing Lasers %}, targetted at the {% glossary OT %}, given they are 2nd in aggro. Use invulnerability.
+After {% glossary Tank Purge %}, the Ultima Weapon will briefly become untargetable and reappear in the centre with Garuda casing **Eye of the Storm**. The {% glossary Searing Wind %} still has one more explosion to go before their debuff expires so they must stay in the south part of the safe spot. {% glossary MT %} stays north, {% glossary OT %} moves northeast (double check the {% glossary OT %} is 2nd in aggro here) and the rest of the party remains northwest.
+
+Once **Eye of the Storm** resolves, the searing healer should be safe to return to the party at northwest and the Ultima Weapon will use {% glossary Homing Lasers %}, targeted at the {% glossary OT %}, given they are 2nd in aggro. Use invulnerability.
 
 If the boss is below 50% HP at this point (which they should be given the run has gone smoothly so far), they will begin casting **Ultimate Suppression**. 
 
 If not, they will continue to repeat the following mechanics until below 50% HP:
 - **Eye of the Storm** (donut AoE) into **Radiant Plumes** (middle becomes unsafe). Wait till **Eye of the Storm** resolves before moving out.
-- {% glossary Diffractive Laser %} - will be targetted on current aggro, which will be the {% glossary MT %}.
+- {% glossary Diffractive Laser %} - will be targeted on current aggro, which will be the {% glossary MT %}.
 - **Eye of the Storm** with {% glossary Vulcan Burst %} - PRE-SHIELD or use anti-knockback.
 - {% glossary Homing Lasers %} - the boss should *really* be below 50% at this point.
 
 ## Phase 5.3: Ultimate Suppression
 
-Non-tank players should make their way to their position that they predetermined during the RP transition to this phase. Meanwhile, tanks should stand 
+### Passive Phase
 
-<TO BE DONE>
+The Ultima Weapon will become untargetable for this section.
+
+Non-tank players should make their way to their position that they predetermined during the RP transition to this phase. 
+
+Meanwhile, tanks should stand slightly apart in the middle of the southwest quadrant. Note the Garuda sisters standing behind the D and C Waymarks - your job is to intercept the **Mistral Songs** they will cast on the DPS players. Below is a screenshot taken from Kur Rumi's OT POV:
+
+![image](https://github.com/user-attachments/assets/a7b89d4e-cd72-45fa-9d8d-96efd90b2f20)
+
+See how when **Mistral Song** affected players stand on the yellow spot, both tanks will successfully intercept the attack - this best describes how and why tanks should stand slightly apart within the southwest quadrant.
+
+When the mechanic begins, Ifrit will cast {% glossary Eruptions} on 3 players. **Double check your feet** to see if you are one of these players. Everyone should then begin to converge towards the centre.
+
+{: .warning}
+From this point, make a big deal of **never running to the wall at any point**. There will be feathers rotating around the perimeters of the arena that simply mean death if you touch them.
+
+Those with {% glossary Eruptions} - continue passing through the middle. One of the players with {% glossary Eruptions}* will be targeted to be stunned in a **Granite Gaol** - this player needs to move to Waymark 4 and stay there (the Eruption will not kill you so don't stress). 
+
+The remaining 2 players will *reach* Waymark 4, but then move **northwards** to avoid the Eruption AoE and not walk into the wall. The **Granite Gaol** will become targetable and begin casting **Granite Impact**. This is a DPS check - take down the add before the cast, otherwise it will result in wipe-causing raid damage. As you attack the gaol, there will be 2 sets of {% glossary Feather Rain %} to dodge.
+
+For the 3 non-Eruption players: shortly after, 2 players will receive the **Mistral Song** marker above their ahead and 1 last player will still have nothing. The 2 Mistral Song players, plus the nothing player, will make a right turn and stand behind the tanks (see the yellow spot in the above screenshot). Once the Mistral Songs resolve, stay standing and **WAIT** for that first **Feather Rain to occur**.
+
+When you hear the first {% glossary Feather Rain %}, the 2 Mistral Song players and 2 tanks should make their way towards the gaol to assist in killing it. They will naturally avoid the second {% glossary Feather Rain %} during their short journey to the gaol.
+
+On the other hand, the remaining player who had nothing (who stood with the Mistral Song players) will be targeted for **Light Pillar**. For a brief period, they will drop small puddles beneath them that are lethal if hit by. So, once that first {% glossary Feather Rain %} occurs, they will do a clockwise loop around the arena (**WITHOUT GOING TO THE WALL**) to keep these away from the party. By the time they reach the B Waymark, the gaol should be dead and they are safe to rejoin the party.
+
+**!!! DIAGRAM OF LIGHT PILLAR PATHING HERE PLEASE EM :D !!!**
+
+During all of these mechanics, the Ultima Weapon will be casting **Aetherochemical Lasers** (green rectangular AoEs) from their hitbox. These are not baited by anyone and will be aimed at the boss's front or diagonals, and generally insignificant to dodge.
+
+Once the gaol is dead, everyone will stack on the B Waymark, ready to bait upcoming Titan {% glossary Landslides %}.  There will also be a **Mesohigh** tether and a **Flame Crush** (party stack).
+- When the first Landslide set appears, the {% glossary MT %} runs **northwards** to take the **Mesohigh** tether. They should then dodge into where that west-most Landslide telegraph was to avoid the second Landslide set. Stay and wait for the **Mesohigh** to resolve.
+- For everyone else, when that Landslide telegraph appears - run to Waymark 4 just below. Then, once the first Landslide telegraph disappears, move back to the B Waymark to avoid the second Landslide set and stay grouped for the **Flaming Crush** stack.
+
+When the stack resolves, healers must top everyone ASAP as a raidwide is coming. Stay grouped - there will be a {% glossary Feather Rain %}. Once the {% glossary Feather Rain %} occurs, players can move out and the Ultima Weapon casts {% glossary Tank Purge %}. Heal up again.
+
+### Active Phase
+
+The Ultima Weapon becomes targetable in the centre of the arena and casts {% glossary Ultima %}. This requires a tank LB3 to survive, so if you haven't recharged all of your LB since intermission, it's unfortunately GG.
+
+{: .warning}
+If you died during **Ultimate Suppression** and are being resurrected, only take the resurrection if you know you will be up to receive the tank LB3. If not, stay died until {% glossary Ultima %} finishes casting otherwise you will just die again.
+
+Once topped from the heavy raidwide, tanks will then stand southwest of the boss hitbox (on their right foot), while everyone else stands southeast of the boss hitbox (on their left foot) in preparation for the next mechanic.
+
+Afterwards, the Ultima Weapon will cast {% glossary Aetheric Boom %}, knocking all players back and spawning 4 sets of Aetheroplasm Orbs on the intercardinals. We should have LB1 available due to the amount of damage taken from {% glossary Ultima %} - a tank should cast LB1 just before the knockback. If not - healers should be ready to pop a few extra party mitigations and healing.
+
+Each set includes 2 orbs tethered to each other that will gradually come together - if they collide, the party will wipe. Thus, **the orbs need to be soaked**, dealing **party-split damage**.
+
+Tanks will take the southwest, then the northwest set of orbs. Kitchen sink mitigations are essential.
+
+The rest of the party will take the southeast, then the northeast set of orbs.
+
+{: .healers}
+Healing between each set is mandatory and party members should ensure they have enough health before taking the second set of orbs.
+
+Once completed, top players up and everyone will gather dead north on Waymark 3, in preparation for the final mechanic of the fight.
+
+{: .note}
+> If you are curious on how the orbs work...
+>
+> The length of the tethers between orbs in {% glossary Aetheric Boom % is based on how many players soaked the orbs in **Ultimate Annihilation**. The more players that soaked, the longer the tether.
+>
+> The first 2 orbs were tanked by 2 players (both tanks), which is why the northern orbs in this current mechanic are slightly longer. This gives us some time to reach them. Meanwhile, the orbs that we were knocked back into are already almost touching, because the MT solo soaked them. We soak those orbs straight away so it doesn't matter that the tether length is shorter.
 
 ## Phase 5.4: Primal Roulette
 
@@ -724,7 +788,7 @@ Here is what each Primal does, then after we will detail what possible orders th
 {: .everyone}
 > **Garuda**: she will cast **Wicked Wheel** ({% glossary PBAOE %}), into a donut AoE. As a group, be on the edge of the point blank AoE, and immediately take a step in as soon as the telegraph disappears. The {% glossary Viscous Aetheroplasm %} stack occurs as you walk in for the donut. After, Garuda casts **Aerial Blast** for raidwide damage, then {% glossary Feather Rain %}.
 > 
-> **Ifrit**: he will cast a set of > {% glossary Eruptions}, then shortly after **Crimson Cyclone** (dash across the arena) on cardinals. The {% glossary Viscous Aetheroplasm %} stack occurs after **Crimson Cyclone** goes off. After, Ifrit casts **Hellfire** for raidwide damage.
+> **Ifrit**: he will cast a set of {% glossary Eruptions}, then shortly after **Crimson Cyclone** (dash across the arena) on cardinals. The {% glossary Viscous Aetheroplasm %} stack occurs after **Crimson Cyclone** goes off. After, Ifrit casts **Hellfire** for raidwide damage.
 > 
 > **Titan**: he will cast 3 sets of {% glossary Weight of the Land}. The {% glossary Viscous Aetheroplasm %} stack occurs as the 3rd set of AoE's appear. After, Titan casts **Earthern Fury** for raidwide damage.
 
@@ -761,6 +825,3 @@ After Primal Roulette, the Ultima Weapon teleports north to begin his enrage seq
 Should you reach this stage - refresh any DoTs before your turn. Depending on how your run has gone, it may still be an LB2 or has recharged to LB3. If you can afford to wait till it's LB3, do so before using it - however, once the enrage sequence starts, players are removed in fairly quick succession so if it can only be an LB2 - just send it!
 
 Good luck!
-
-{: .warning}
-Guide is not yet completed, apologies. Please refer to the Toolboxes for the remaining phases.
