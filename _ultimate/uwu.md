@@ -465,7 +465,7 @@ The party will now stack on the left side looking at Titan, ready to move for {%
 
 Watch for the first set - as soon as you see the Landslide visual disappear, you want to **immediately move into the first set of Landslides** to avoid the second set. This is **VERY** fast.
 
-Titan will once again face a direction and use {% glossary Geocrush %}. After the {% glossary Landslides %}, {% glossary MT %) should endeavour to recentre the boss to easily identify where Titan is jumping to.
+Titan will once again face a direction and use {% glossary Geocrush %}. After the {% glossary Landslides %}, {% glossary MT %} should endeavour to recentre the boss to easily identify where Titan is jumping to.
 
 After this, one healer will be targeted with a Granite Gaol. This healer should move to the middle of the room. Once the Gaol is active, the party will be able to target and damage the Gaol. Break the healer out of the Gaol before Titan begins a set of {% glossary Landslides %} followed shortly by 6 {% glossary Tumults %}. Remember to dodge into the first Landslide as he will do a double set.
 
