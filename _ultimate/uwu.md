@@ -725,12 +725,12 @@ Meanwhile, tanks should stand slightly apart in the middle of the southwest quad
 
 See how when **Mistral Song** affected players stand on the yellow spot, both tanks will successfully intercept the attack - this best describes how and why tanks should stand slightly apart within the southwest quadrant.
 
-When the mechanic begins, Ifrit will cast {% glossary Eruptions} on 3 players. **Double check your feet** to see if you are one of these players. Everyone should then begin to converge towards the centre.
+When the mechanic begins, Ifrit will cast {% glossary Eruptions %} on 3 players. **Double check your feet** to see if you are one of these players. Everyone should then begin to converge towards the centre.
 
 {: .warning}
 From this point, make a big deal of **never running to the wall at any point**. There will be feathers rotating around the perimeters of the arena that simply mean death if you touch them.
 
-Those with {% glossary Eruptions} - continue passing through the middle. One of the players with {% glossary Eruptions}* will be targeted to be stunned in a **Granite Gaol** - this player needs to move to Waymark 4 and stay there (the Eruption will not kill you so don't stress). 
+Those with {% glossary Eruptions %} - continue passing through the middle. One of the players with {% glossary Eruptions %}* will be targeted to be stunned in a **Granite Gaol** - this player needs to move to Waymark 4 and stay there (the Eruption will not kill you so don't stress). 
 
 The remaining 2 players will *reach* Waymark 4, but then move **northwards** to avoid the Eruption AoE and not walk into the wall. The **Granite Gaol** will become targetable and begin casting **Granite Impact**. This is a DPS check - take down the add before the cast, otherwise it will result in wipe-causing raid damage. As you attack the gaol, there will be 2 sets of {% glossary Feather Rain %} to dodge.
 
@@ -788,7 +788,7 @@ Here is what each Primal does, then after we will detail what possible orders th
 {: .everyone}
 > **Garuda**: she will cast **Wicked Wheel** ({% glossary PBAOE %}), into a donut AoE. As a group, be on the edge of the point blank AoE, and immediately take a step in as soon as the telegraph disappears. The {% glossary Viscous Aetheroplasm %} stack occurs as you walk in for the donut. After, Garuda casts **Aerial Blast** for raidwide damage, then {% glossary Feather Rain %}.
 > 
-> **Ifrit**: he will cast a set of {% glossary Eruptions}, then shortly after **Crimson Cyclone** (dash across the arena) on cardinals. The {% glossary Viscous Aetheroplasm %} stack occurs after **Crimson Cyclone** goes off. After, Ifrit casts **Hellfire** for raidwide damage.
+> **Ifrit**: he will cast a set of {% glossary Eruptions %}, then shortly after **Crimson Cyclone** (dash across the arena) on cardinals. The {% glossary Viscous Aetheroplasm %} stack occurs after **Crimson Cyclone** goes off. After, Ifrit casts **Hellfire** for raidwide damage.
 > 
 > **Titan**: he will cast 3 sets of {% glossary Weight of the Land}. The {% glossary Viscous Aetheroplasm %} stack occurs as the 3rd set of AoE's appear. After, Titan casts **Earthern Fury** for raidwide damage.
 
@@ -801,13 +801,13 @@ There are 3 possible orders in which they attack. The main thing to note for eac
 
 Resolve Garuda as described above. Then, importantly, **WAIT FOR FEATHER RAIN TO HAPPEN** before immediately making your way dead north (on the 3 Waymark).
 
-Once north, as the entire party will be stacked together, {% glossary Eruptions}* all go on the one spot - run to the 2 Waymark (intercardinal) to dodge **Crimson Cyclone**.  Stay at 2, ready for Titan.
+Once north, as the entire party will be stacked together, {% glossary Eruptions %}* all go on the one spot - run to the 2 Waymark (intercardinal) to dodge **Crimson Cyclone**.  Stay at 2, ready for Titan.
 
 When the {% glossary Weight of the Land} sets appear, dodge CW -> CCW -> CW. After the raidwide, move towards north, ready to finish off the Ultima Weapon.
 
 2. **Ifrit -> Garuda -> Titan**
 
-As everyone will be tightly stacked north, {% glossary Eruptions} all go on the one spot - run to the 2 Waymark (intercardinal) to dodge **Crimson Cyclone**. 
+As everyone will be tightly stacked north, {% glossary Eruptions %} all go on the one spot - run to the 2 Waymark (intercardinal) to dodge **Crimson Cyclone**. 
 
 After, move towards the middle to resolve Garuda's out->in AoE. Then, importantly, **WAIT FOR FEATHER RAIN TO HAPPEN** before immediately making your way dead north (on the 3 Waymark), ready for Titan's attack
 
@@ -817,7 +817,7 @@ When the {% glossary Weight of the Land} sets appear, dodge CCW -> CW -> CCW. Af
 
 When the {% glossary Weight of the Land} sets appear, dodge CCW -> CW -> CCW. After the last dodge, make sure to return dead on the 3 Waymark (north).
 
-{% glossary Eruptions} all go on the one spot - run to the 2 Waymark (intercardinal) to dodge **Crimson Cyclone**. 
+{% glossary Eruptions %} all go on the one spot - run to the 2 Waymark (intercardinal) to dodge **Crimson Cyclone**. 
 
 After, move towards the middle to resolve Garuda's out->in AoE. Then, importantly, **WAIT FOR FEATHER RAIN TO HAPPEN** before moving north, ready to finish off the Ultima Weapon.
 
