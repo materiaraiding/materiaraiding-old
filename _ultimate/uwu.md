@@ -1,4 +1,4 @@
-vvvvvvvvvvvvvvvvvvvvvv---
+---
 layout: guide
 title: UWU
 permalink: /uwu
