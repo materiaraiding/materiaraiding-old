@@ -801,7 +801,7 @@ There are 3 possible orders in which they attack. The main thing to note for eac
 
 Resolve Garuda as described above. Then, importantly, **WAIT FOR FEATHER RAIN TO HAPPEN** before immediately making your way dead north (on the 3 Waymark).
 
-Once north, as the entire party will be stacked together, {% glossary Eruptions %}* all go on the one spot - run to the 2 Waymark (intercardinal) to dodge **Crimson Cyclone**.  Stay at 2, ready for Titan.
+Once north, as the entire party will be stacked together, {% glossary Eruptions %} * all go on the one spot - run to the 2 Waymark (intercardinal) to dodge **Crimson Cyclone**.  Stay at 2, ready for Titan.
 
 When the {% glossary Weight of the Land} sets appear, dodge CW -> CCW -> CW. After the raidwide, move towards north, ready to finish off the Ultima Weapon.
 
