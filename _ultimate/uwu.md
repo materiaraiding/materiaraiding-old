@@ -1,4 +1,4 @@
----
+vvvvvvvvvvvvvvvvvvvvvv---
 layout: guide
 title: UWU
 permalink: /uwu
@@ -775,7 +775,7 @@ Once completed, top players up and everyone will gather dead north on Waymark 3,
 {: .note}
 > If you are curious on how the orbs work...
 >
-> The length of the tethers between orbs in {% glossary Aetheric Boom % is based on how many players soaked the orbs in **Ultimate Annihilation**. The more players that soaked, the longer the tether.
+> The length of the tethers between orbs in {% glossary Aetheric Boom %} is based on how many players soaked the orbs in **Ultimate Annihilation**. The more players that soaked, the longer the tether.
 >
 > The first 2 orbs were tanked by 2 players (both tanks), which is why the northern orbs in this current mechanic are slightly longer. This gives us some time to reach them. Meanwhile, the orbs that we were knocked back into are already almost touching, because the MT solo soaked them. We soak those orbs straight away so it doesn't matter that the tether length is shorter.
 
