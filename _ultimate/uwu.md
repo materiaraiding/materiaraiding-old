@@ -581,7 +581,7 @@ During the RP where the Ultima Weapon consumes the Primals, non tank players sho
 
 DPS and healers begin the phase stacked in the middle of the room. Open with burst phase and continue with damage.
 
-{% glossary MT %} starts on the west side of the Ultima Weapon, with {% glossary OT %} on the east. The {% glossary OT %} will provoke the boss on the first GCD - {% glossary MT %) will then voke on second GCD to ensure that MT is TOP aggro and OT is second. 
+{% glossary MT %} starts on the west side of the Ultima Weapon, with {% glossary OT %} on the east. The {% glossary OT %} will provoke the boss on the first GCD - {% glossary MT %} will then voke on second GCD to ensure that MT is TOP aggro and OT is second. 
 
 The Ultima Weapon starts with {% glossary Tank Purge %}. They will then apply {% glossary Viscous Aetheroplasm %} to the highest aggro target (MT). Ensure the {% glossary MT %} is NOT standing with the party as {% glossary Viscous Aetheroplasm %} is a small AOE. Normally, {% glossary MT %} can then rejoin party.
 
@@ -730,7 +730,7 @@ When the mechanic begins, Ifrit will cast {% glossary Eruptions %} on 3 players.
 {: .warning}
 From this point, make a big deal of **never running to the wall at any point**. There will be feathers rotating around the perimeters of the arena that simply mean death if you touch them.
 
-Those with {% glossary Eruptions %} - continue passing through the middle. One of the players with {% glossary Eruptions %}* will be targeted to be stunned in a **Granite Gaol** - this player needs to move to Waymark 4 and stay there (the Eruption will not kill you so don't stress). 
+Those with {% glossary Eruptions %} - continue passing through the middle. One of the players with {% glossary Eruptions %} will be targeted to be stunned in a **Granite Gaol** - this player needs to move to Waymark 4 and stay there (the Eruption will not kill you so don't stress). 
 
 The remaining 2 players will *reach* Waymark 4, but then move **northwards** to avoid the Eruption AoE and not walk into the wall. The **Granite Gaol** will become targetable and begin casting **Granite Impact**. This is a DPS check - take down the add before the cast, otherwise it will result in wipe-causing raid damage. As you attack the gaol, there will be 2 sets of {% glossary Feather Rain %} to dodge.
 
@@ -786,7 +786,7 @@ During **Primal Roulette**, the 3 Primals will one-by-one execute attacks. First
 Here is what each Primal does, then after we will detail what possible orders they can attack in:
 
 {: .everyone}
-> **Garuda**: she will cast **Wicked Wheel** ({% glossary PBAOE %}), into a donut AoE. As a group, be on the edge of the point blank AoE, and immediately take a step in as soon as the telegraph disappears. The {% glossary Viscous Aetheroplasm %} stack occurs as you walk in for the donut. After, Garuda casts **Aerial Blast** for raidwide damage, then {% glossary Feather Rain %}.
+> **Garuda**: she will cast **Wicked Wheel** ( {% glossary PBAOE %} ), into a donut AoE. As a group, be on the edge of the point blank AoE, and immediately take a step in as soon as the telegraph disappears. The {% glossary Viscous Aetheroplasm %} stack occurs as you walk in for the donut. After, Garuda casts **Aerial Blast** for raidwide damage, then {% glossary Feather Rain %}.
 > 
 > **Ifrit**: he will cast a set of {% glossary Eruptions %}, then shortly after **Crimson Cyclone** (dash across the arena) on cardinals. The {% glossary Viscous Aetheroplasm %} stack occurs after **Crimson Cyclone** goes off. After, Ifrit casts **Hellfire** for raidwide damage.
 > 
@@ -801,7 +801,7 @@ There are 3 possible orders in which they attack. The main thing to note for eac
 
 Resolve Garuda as described above. Then, importantly, **WAIT FOR FEATHER RAIN TO HAPPEN** before immediately making your way dead north (on the 3 Waymark).
 
-Once north, as the entire party will be stacked together, {% glossary Eruptions %} * all go on the one spot - run to the 2 Waymark (intercardinal) to dodge **Crimson Cyclone**.  Stay at 2, ready for Titan.
+Once north, as the entire party will be stacked together, {% glossary Eruptions %} all go on the one spot - run to the 2 Waymark (intercardinal) to dodge **Crimson Cyclone**.  Stay at 2, ready for Titan.
 
 When the {% glossary Weight of the Land %} sets appear, dodge CW -> CCW -> CW. After the raidwide, move towards north, ready to finish off the Ultima Weapon.
 
