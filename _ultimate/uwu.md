@@ -23,7 +23,7 @@ PoVs by Kur Rumi
 
 ### Toolboxes
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
-UWU has multiple Toolboxes, each are listed here in order of phases in the fight.
+UWU has multiple Toolboxes and each are listed here in order of phases in the fight.
 
 [Garuda](https://ff14.toolboxgaming.space/?id=882261013862561&preview=1){: .btn }
 [Ifrit](https://ff14.toolboxgaming.space/?id=562530446784261&preview=1){: .btn }
@@ -797,21 +797,24 @@ As all the raidwide damage at the end of each Primal attack is from the Primal a
 
 There are 3 possible orders in which they attack. The main thing to note for each order is which way we move to dodge Titan's {% glossary Weight of the Land} but basically, dodge in the direction that will keep you within the quadrant between Waymarks 2 and 3 (north west, if you look at the map)
 
-1. **Garuda -> Ifrit -> Titan** <br>
+1. **Garuda -> Ifrit -> Titan**
+
 Resolve Garuda as described above. Then, importantly, **WAIT FOR FEATHER RAIN TO HAPPEN** before immediately making your way dead north (on the 3 Waymark).
 
 Once north, as the entire party will be stacked together, {% glossary Eruptions}* all go on the one spot - run to the 2 Waymark (intercardinal) to dodge **Crimson Cyclone**.  Stay at 2, ready for Titan.
 
 When the {% glossary Weight of the Land} sets appear, dodge CW -> CCW -> CW. After the raidwide, move towards north, ready to finish off the Ultima Weapon.
 
-2. **Ifrit -> Garuda -> Titan** <br>
+2. **Ifrit -> Garuda -> Titan**
+
 As everyone will be tightly stacked north, {% glossary Eruptions} all go on the one spot - run to the 2 Waymark (intercardinal) to dodge **Crimson Cyclone**. 
 
 After, move towards the middle to resolve Garuda's out->in AoE. Then, importantly, **WAIT FOR FEATHER RAIN TO HAPPEN** before immediately making your way dead north (on the 3 Waymark), ready for Titan's attack
 
 When the {% glossary Weight of the Land} sets appear, dodge CCW -> CW -> CCW. After the raidwide, move towards north, ready to finish off the Ultima Weapon.
 
-3. **Titan -> Ifrit -> Garuda** <br>
+3. **Titan -> Ifrit -> Garuda**
+
 When the {% glossary Weight of the Land} sets appear, dodge CCW -> CW -> CCW. After the last dodge, make sure to return dead on the 3 Waymark (north).
 
 {% glossary Eruptions} all go on the one spot - run to the 2 Waymark (intercardinal) to dodge **Crimson Cyclone**. 
