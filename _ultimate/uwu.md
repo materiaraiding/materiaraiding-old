@@ -471,7 +471,7 @@ The party will now stack on the left side looking at Titan, ready to move for {%
 
 Watch for the first set - as soon as you see the Landslide visual disappear, you want to **immediately move into the first set of Landslides** to avoid the second set. This is **VERY** fast.
 
-Titan will once again face a direction and use {% glossary Geocrush %}. After the {% glossary Landslides %}, {% glossary MT %) should endeavour to recentre the boss to easily identify where Titan is jumping to.
+Titan will once again face a direction and use {% glossary Geocrush %}. After the {% glossary Landslides %}, {% glossary MT %} should endeavour to recentre the boss to easily identify where Titan is jumping to.
 
 After this, one healer will be targeted with a Granite Gaol. This healer should move to the middle of the room. Once the Gaol is active, the party will be able to target and damage the Gaol. Break the healer out of the Gaol before Titan begins a set of {% glossary Landslides %} followed shortly by 6 {% glossary Tumults %}. Remember to dodge into the first Landslide as he will do a double set.
 
@@ -587,7 +587,7 @@ You will need to have LB3 again towards the end of the fight. **Do not use targe
 
 DPS and healers begin the phase stacked in the middle of the room. Open with burst phase and continue with damage.
 
-{% glossary MT %} starts on the west side of the Ultima Weapon, with {% glossary OT %} on the east. The {% glossary OT %} will provoke the boss on the first GCD - {% glossary MT %) will then provoke on second GCD to ensure that MT is TOP aggro and OT is second. 
+{% glossary MT %} starts on the west side of the Ultima Weapon, with {% glossary OT %} on the east. The {% glossary OT %} will provoke the boss on the first GCD - {% glossary MT %} will then provoke on second GCD to ensure that MT is TOP aggro and OT is second. 
 
 The Ultima Weapon starts with {% glossary Tank Purge %}. They will then apply {% glossary Viscous Aetheroplasm %} to the highest aggro target (MT). Ensure the {% glossary MT %} is NOT standing with the party as {% glossary Viscous Aetheroplasm %} is a small AoE. Normally, {% glossary MT %} can then rejoin party.
 
@@ -654,7 +654,7 @@ After the **Eruption** baits, the Ultima Weapon surrounds the outside of the are
 
 The {% glossary MT %} will go to the left side of the Ultima Weapon facing in (east), and the rest of the party will stack on the right (west) facing the boss. The {% glossary OT %} will be tethered to a random DPS - this is just like the one during Ifrit nails, where they must stay grouped together. With the party minus the {% glossary MT %} stacked together, it will naturally resolve. 
 
-The Ultima Weapon will cast a series of 7x {% glossary Tumults %} while the {% glossary MT %} will be targeted for {% glossary Viscous Aetheroplasm %} and will need to take this away from the party. Once {% glossary MT %} receives the aetheroplasm, the {% glossary OT %} needs to provoke. This ensures that {% glossary MT %} will take both the {% glossary Viscous Aetheroplasm %} and the {% glossary Homing Laser %} (as they are now 2nd aggro) and this will be **taken with their invulnerability**. The timing for the invulnerability is just after the upcoming scream for {% glossary Feather Rain %}.
+The Ultima Weapon will cast a series of 7x {% glossary Tumults %} while the {% glossary MT %} will be targeted for {% glossary Viscous Aetheroplasm %} and will need to take this away from the party. Once {% glossary MT %} receives the aetheroplasm, the {% glossary OT %} needs to provoke. This ensures that {% glossary MT %} will take both the {% glossary Viscous Aetheroplasm %} and the {% glossary Homing Lasers %} (as they are now 2nd aggro) and this will be **taken with their invulnerability**. The timing for the invulnerability is just after the upcoming scream for {% glossary Feather Rain %}.
 
 Garuda and her sisters spawn - Garuda will use **Mistral Shriek** dealing heavy raidwide damage, followed by her sisters with two sets of {% glossary Feather Rain %}. This is very high damage output and healers will need to spend heavily to ensure the party survives. The party should stay stacked together and dodge {% glossary Feather Rain %} by moving counter-clockwise around the boss. Being careful to avoid the {% glossary MT %} side of the boss. 
 
@@ -739,7 +739,7 @@ When the mechanic begins, Ifrit will cast {% glossary Eruptions %} on 3 players.
 {: .warning}
 From this point, make a big deal of **never running to the wall at any point**. There will be feathers rotating around the perimeters of the arena that simply mean death if you touch them.
 
-Those with {% glossary Eruptions %}, continue passing through the middle. One of the players with {% glossary Eruptions %}* will be targeted to be stunned in a **Granite Gaol** (yellow ticking marker beneath feet) - this player needs to move to Waymark 4 and stay there (the Eruption will not kill you so don't stress). 
+Those with {% glossary Eruptions %}, continue passing through the middle. One of the players with {% glossary Eruptions %} will be targeted to be stunned in a **Granite Gaol** (yellow ticking marker beneath feet) - this player needs to move to Waymark 4 and stay there (the Eruption will not kill you so don't stress). 
 
 The remaining 2 players will *reach* Waymark 4, but then move **northwards** to avoid the Eruption AoE and not walk into the wall. The **Granite Gaol** will become targetable and begin casting **Granite Impact**. This is a DPS check - take down the add before the cast, otherwise it will result in wipe-causing raid damage. As you attack the gaol, there will be 2 sets of {% glossary Feather Rain %} to dodge.
 
@@ -785,7 +785,7 @@ Once completed, top players up and everyone will gather dead north on Waymark 3,
 {: .note}
 > If you are curious on how the orbs work...
 >
-> The length of the tethers between orbs in {% glossary Aetheric Boom % is based on how many players soaked the orbs in **Ultimate Annihilation**. The more players that soaked, the longer the tether.
+> The length of the tethers between orbs in {% glossary Aetheric Boom %} is based on how many players soaked the orbs in **Ultimate Annihilation**. The more players that soaked, the longer the tether.
 >
 > The first 2 orbs were tanked by 2 players (both tanks), which is why the northern orbs in this current mechanic are slightly longer. This gives us some time to reach them. Meanwhile, the orbs that we were knocked back into are already almost touching, because the MT solo soaked them. We soak those orbs straight away so it doesn't matter that the tether length is shorter.
 
@@ -796,24 +796,24 @@ During **Primal Roulette**, the 3 Primals will one-by-one execute attacks. First
 Here is what each Primal does, then after we will detail what possible orders they can attack in:
 
 {: .everyone}
-> **Garuda**: she will cast **Wicked Wheel** ({% glossary PBAOE %}), into a donut AoE. As a group, be on the edge of the point blank AoE, and immediately take a step in as soon as the telegraph disappears. The {% glossary Viscous Aetheroplasm %} stack occurs as you walk in for the donut. After, Garuda casts **Aerial Blast** for raidwide damage, then {% glossary Feather Rain %}.
+> **Garuda**: she will cast **Wicked Wheel** ( {% glossary PBAOE %} ), into a donut AoE. As a group, be on the edge of the point blank AoE, and immediately take a step in as soon as the telegraph disappears. The {% glossary Viscous Aetheroplasm %} stack occurs as you walk in for the donut. After, Garuda casts **Aerial Blast** for raidwide damage, then {% glossary Feather Rain %}.
 > 
 > **Ifrit**: he will cast a set of {% glossary Eruptions %}, then shortly after **Crimson Cyclone** (dash across the arena) on cardinals. The {% glossary Viscous Aetheroplasm %} stack occurs after **Crimson Cyclone** goes off. After, Ifrit casts **Hellfire** for raidwide damage.
 > 
-> **Titan**: he will cast 3 sets of {% glossary Weight of the Land}. The {% glossary Viscous Aetheroplasm %} stack occurs as the 3rd set of AoE's appear. After, Titan casts **Earthern Fury** for raidwide damage.
+> **Titan**: he will cast 3 sets of {% glossary Weight of the Land %}. The {% glossary Viscous Aetheroplasm %} stack occurs as the 3rd set of AoE's appear. After, Titan casts **Earthern Fury** for raidwide damage.
 
 {: .note}
 As all the raidwide damage at the end of each Primal attack is from the Primal and not the Ultima Weapon themself, targeted mitigation (Feint, Addle, Reprisal, etc.) **do not reduce its damage**. You will need to rely on **party mitigation** for the raidwides.
 
-There are 3 possible orders in which they attack. The main thing to note for each order is which way we move to dodge Titan's {% glossary Weight of the Land} but basically, dodge in the direction that will keep you within the quadrant between Waymarks 2 and 3 (north west, if you look at the map)
+There are 3 possible orders in which they attack. The main thing to note for each order is which way we move to dodge Titan's {% glossary Weight of the Land %} but basically, dodge in the direction that will keep you within the quadrant between Waymarks 2 and 3 (north west, if you look at the map)
 
 - **Garuda -> Ifrit -> Titan**
 
 Resolve Garuda as described above. Then, importantly, **WAIT FOR FEATHER RAIN TO HAPPEN** before immediately making your way dead north (on the 3 Waymark).
 
-Once north, as the entire party will be stacked together, {% glossary Eruptions %} * all go on the one spot - run to the 2 Waymark (intercardinal) to dodge **Crimson Cyclone**.  Stay at 2, ready for Titan.
+Once north, as the entire party will be stacked together, {% glossary Eruptions %} all go on the one spot - run to the 2 Waymark (intercardinal) to dodge **Crimson Cyclone**.  Stay at 2, ready for Titan.
 
-When the {% glossary Weight of the Land} sets appear, dodge CW -> CCW -> CW. After the raidwide, move towards north, ready to finish off the Ultima Weapon.
+When the {% glossary Weight of the Land %} sets appear, dodge CW -> CCW -> CW. After the raidwide, move towards north, ready to finish off the Ultima Weapon.
 
 - **Ifrit -> Garuda -> Titan**
 
@@ -821,11 +821,11 @@ As everyone will be tightly stacked north, {% glossary Eruptions %} all go on th
 
 After, move towards the middle to resolve Garuda's out->in AoE. Then, importantly, **WAIT FOR FEATHER RAIN TO HAPPEN** before immediately making your way dead north (on the 3 Waymark), ready for Titan's attack
 
-When the {% glossary Weight of the Land} sets appear, dodge CCW -> CW -> CCW. After the raidwide, move towards north, ready to finish off the Ultima Weapon.
+When the {% glossary Weight of the Land %} sets appear, dodge CCW -> CW -> CCW. After the raidwide, move towards north, ready to finish off the Ultima Weapon.
 
 - **Titan -> Ifrit -> Garuda**
 
-When the {% glossary Weight of the Land} sets appear, dodge CCW -> CW -> CCW. After the last dodge, make sure to return dead on the 3 Waymark (north).
+When the {% glossary Weight of the Land %} sets appear, dodge CCW -> CW -> CCW. After the last dodge, make sure to return dead on the 3 Waymark (north).
 
 {% glossary Eruptions %} all go on the one spot - run to the 2 Waymark (intercardinal) to dodge **Crimson Cyclone**. 
 
