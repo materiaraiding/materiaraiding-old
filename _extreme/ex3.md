@@ -3,7 +3,7 @@ layout: guide
 title: EX3
 permalink: /ex3
 nav_order: 2
-longtitle: Minstrel's Ballad: Sphene's Burden (Extreme)
+longtitle: Minstrels Ballad Sphene's Burden (Extreme)
 expansion: Dawntrail
 difficulty: Extreme
 ---
