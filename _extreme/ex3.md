@@ -17,24 +17,24 @@ difficulty: Extreme
 　※ Break Chain
 　　T/H → SW, DPS →NE
 ■【Visual Shift 2 Stone】※ Towers & Square Meteors
-　MT D1 D2 ST　　　　　　　※ Tether: NW/NE
-　D3 H1 H2 D4　　　　　　　※ AOE: W/E
+　　MT D1 D2 ST　　　　　　※ Tether: NW/NE
+　　D3 H1 H2 D4　　　　　　※ AOE: W/E
 ■【Coronation】　　　　■【Absolute Authority】
-　CW Color Code　　　　　　Stack [1] -> [2]
+　 Color Code　　　　　　　Stack [1] -> [2]
 ■【Visual Shift 3 Ice】　■ 【Bridge】
 　MTTT (Raining Cats) 　　F　　　　　 F
 ■【Radical Shift】　　　　 B　　　　　 B
-　　MT D1 D2 ST　　　　　 　　F B B F 
+　　MT D1 D2 ST　　　　 　　F B B F 
 　　D3 H1 H2 D4　　　※F = Front | B = Back
 ```
 
 ## Strategies
 
 Absolute Authority: (p2 top all stack)
-https://youtu.be/0c82RF5DRrA
+()[https://youtu.be/0c82RF5DRrA]
 
 Linestrat example if u want to try (just state in pf): 
-https://www.youtube.com/watch?v=SgPsjP5EaKY
+()[https://www.youtube.com/watch?v=SgPsjP5EaKY]
 
 WMs will be 
 1　A　2
