@@ -38,7 +38,7 @@ Linestrat example if u want to try (just state in pf):
 
 WMs will be 
 1　A　2
-D　　  B
+D　　 B
 4　C　3
 
 ![image](https://github.com/user-attachments/assets/2efb5d1b-ce8b-4b4b-8a3c-e03fdadc3ab7)
