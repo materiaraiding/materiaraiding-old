@@ -42,3 +42,7 @@ D　　 B
 4　C　3
 
 ![image](https://github.com/user-attachments/assets/2efb5d1b-ce8b-4b4b-8a3c-e03fdadc3ab7)
+
+## Waymarks
+
+```{"Name":"EX3 OCE","MapID":1017,"A":{"X":100.0,"Y":0.0,"Z":81.5,"ID":0,"Active":true},"B":{"X":118.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.5,"ID":2,"Active":true},"D":{"X":81.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":81.5,"Y":0.0,"Z":81.5,"ID":4,"Active":true},"Two":{"X":118.5,"Y":0.0,"Z":81.5,"ID":5,"Active":true},"Three":{"X":118.5,"Y":0.0,"Z":118.5,"ID":6,"Active":true},"Four":{"X":81.5,"Y":0.0,"Z":118.5,"ID":7,"Active":true}}```
