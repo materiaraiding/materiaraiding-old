@@ -57,13 +57,13 @@ collections:
   savage:
     permalink: "/:collection/:path/"
     output: true
-  chaotic:
-    permalink: "/:collection/:path/"
-    output: true
   extreme:
     permalink: "/:collection/:path/"
     output: true
   criterion:
+    permalink: "/:collection/:path/"
+    output: true
+  othercontent:
     permalink: "/:collection/:path/"
     output: true
 
@@ -73,12 +73,12 @@ just_the_docs:
       name: Ultimate
     savage:
       name: Savage
-    chaotic:
-      name: Chaotic
     extreme:
       name: Extreme
     criterion:
       name: Criterion
+    othercontent:
+      name: Other Content
 
 # Back to top link
 back_to_top: true

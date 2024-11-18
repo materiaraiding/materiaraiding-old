@@ -14,6 +14,8 @@ nav_order: 1
 
 {% include navblock.html %}
 
+---
+
 ## Looking for a group? 🚩
 
 If you are looking for a group to raid with or want to create your own team, the Materia Raiding server acts as a hub for finding teams. Join the server and look for the "Looking-for-group" and "Looking-for-members" channels and DM.
