@@ -35,7 +35,7 @@ Currently Futures UNwritten...
 ### Buff Timings
 
 {: .warning }
-> This guide will be written using prog strats and is mainly an explanation of how mechanics work and their failure conditions
-> This guide will be updated as strats are standardised in the OCE community
+> This guide will be written using prog strats and is mainly an explanation of how mechanics work and their failure conditions.
+> This guide will be updated as strats are standardised in the OCE community.
 
 # Phase 1: Fatebreaker
