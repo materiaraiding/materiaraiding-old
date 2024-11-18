@@ -11,6 +11,10 @@
     gap: 0.5em;
 }
 
+.navcolumn h2 {
+    margin-top: 1em;
+}
+
 @media only screen and (max-width: 500px) {
     .navcolumn {
         display: flex; 
@@ -41,8 +45,43 @@
     font-weight: 500;
 }
 
+.navlinkdiscord {
+    width: 100%;
+    border-radius: 9px;
+    border: 2px solid #5865F2;
+    background-color: #302d36;
+    padding: 0.3em 0.7em 0.3em 0.6em;
+    font-size: 1.1em;
+    display: flex;
+    align-items: flex-end;
+    color: #ffffff;
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.25);
+    font-weight: 500;
+}
+
+.navlinkdiscord:hover {
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
+}
+
 .navlink:hover {
     color: #ffffff;
     padding: 0.5em 0.5em 0.4em 0.8em;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+.discordlinks {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6em;
+    margin-top: 1.2em;
+}
+
+.discordlogo {
+    height: 1.2em;
+    margin-bottom: 0.18em;
+    margin-right: 0.4em;
 }

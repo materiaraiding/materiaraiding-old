@@ -149,3 +149,34 @@ figcaption {
     font-size: small;
     color: #959396;
 }
+
+/* homepage sections for bottom of homepage */
+
+.homepagesections {
+    display: flex;
+    gap: 1em;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+
+.section {
+    width: calc(50% - 0.5em);
+    background-color: #222125;
+    border-radius: 6px;
+    padding: 1em;
+    text-align: justify;
+}
+
+@media only screen and (max-width: 1000px) {
+    .section {
+        width: 100%;
+        background-color: #222125;
+        border-radius: 4px;
+        padding: 1em;
+        text-align: justify;
+    }
+}
+
+.section h2 {
+    margin-top: 0em;
+}

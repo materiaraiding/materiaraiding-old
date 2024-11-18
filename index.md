@@ -16,36 +16,38 @@ nav_order: 1
 
 ---
 
+<div class="homepagesections" markdown="1">
+<div class="section" markdown="1">
+## Join us on Discord 💬
+
+<div class="discordlinks">
+    <div class="navlinkdiscord" onclick="window.open('https://discord.gg/EySn5dRj65')"><img class="discordlogo" src='{{ site.baseurl }}/assets/images/icons/discord-mark-white.svg'/>Materia Raiding Discord</div>
+    <div class="navlinkdiscord" onclick="window.open('https://discord.gg/mur')"><img class="discordlogo" src='{{ site.baseurl }}/assets/images/icons/discord-mark-white.svg'/>Materia Ultimate Raiding Discord</div>
+</div>
+</div>
+
+<div class="section" markdown="1">
 ## Looking for a group? 🚩
 
-If you are looking for a group to raid with or want to create your own team, the Materia Raiding server acts as a hub for finding teams. Join the server and look for the "Looking-for-group" and "Looking-for-members" channels and DM.
+Check out the **Looking-for-members** or **Looking-for-group** channels in the Materia Raiding discord to find or create your own static team.
 
-[Visit the OCE Party Finder Channels](https://discord.gg/EySn5dRj65){: .btn .btn-purple }
+[Visit the OCE Party Finder Channels](https://discord.gg/EySn5dRj65){: .btn }
+</div>
 
-![](https://github.com/user-attachments/assets/2d07e5ea-7ff7-4bfe-8286-43edddd1458f)
-
-## Voyagers (NA/EU/JP) 🌏
-
-Visiting from another region? check out our visitors guide for a quick breakdown on differences in strats.
-
-[Visitors Guide to OCE Raiding](/visitorsguide){: .btn } 
-
+<div class="section" markdown="1">
 ## About 📜
 
-This site was put together to help combine various resources and guides into one comprehensive resource, our strategies are a collaboration of guides and tools from various other FF14 communities, with credits included on the pages and at the bottom of this page also.
+This site was put together to help combine various resources and guides into one comprehensive resource, our strategies are a collaboration of guides and tools from various other FF14 communities.
 
 As this site originates from the Oceanic **Materia** community, the strategies are based on the most commonly adopted strategies on Materia Party Finder and are recommended for PF groups. You can join the discussion about these strats at the discord links on this page.
 
 This website uses github pages, you can submit your own changes and suggestions using Github PR requests at the link below!
 
 [Contribute](/about){: .btn }
+</div>
 
-Or join the discussion on Discord!
-
-[Materia Raiding Discord](https://discord.gg/EySn5dRj65){: .btn .btn-purple }
-[Materia Ultimate Raiding Discord](https://discord.gg/mur){: .btn .btn-purple }
-
-### Key Contributors 📝
+<div class="section" markdown="1">
+## Key Contributors 📝
 - Em Gram (Website and Github Management) 🦆
 - Juno Dax
 - Noz Leafhill
@@ -54,5 +56,7 @@ Or join the discussion on Discord!
 - Kurume
 - Adrian
 - Geel
-- Materia Raiding Community (Various Contributors)
-- Materia Ultimate Raiding Community (Various Contributors)
+- MR and MUR Community (Various Contributors)
+</div>
+
+</div>
