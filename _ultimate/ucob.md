@@ -11,9 +11,8 @@ image: goldenbaha.webp
 
 ### Credits
 {: .no_toc }
-Written Guide by Em Quackingway (Phases 1, 2 and 3) and Noz Leafhill (Phases 4 and 5)
-
-PoVs by Kur Rumi
+- Written Guide by Em Gram (Phases 1, 2 and 3) and Noz Leafhill (Phases 4 and 5)
+- PoVs by Kur Rumi
 
 ### Table of Contents
 {: .no_toc }

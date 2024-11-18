@@ -11,9 +11,10 @@ image: ultima.webp
 
 ### Credits
 {: .no_toc }
-Written Guide by Em Gram, edited/finished off by Noz Leafhill
-Toolboxes by MUR
-PoVs by Kur Rumi
+- Written Guide by Em Gram and Noz Leafhill
+- Editing by Noz Leafhill
+- Toolboxes by MUR
+- PoVs by Kur Rumi
 
 ### Table of Contents
 {: .no_toc }
@@ -702,7 +703,7 @@ Below is how we resolve all these mechanics, depending on your role.
 > 
 > Once we are all north, wait for Ifrit to dash across through the intercardinal - once he does, immediately run to the 2 Waymark (it is worthwhile to use sprint) to not only avoid **Crimson Cyclone**, but also dodge Titan's double {% glossary Landslides %}. After the **Crimson Cyclone**, run inwards to avoid Garuda's **Eye of the Storm** (donut AoE). Just be on the safe edge and do not run too inwards - tanks will be soaking orbs, and there will be a {% glossary Searing Wind %} healer exploding south. The Ultima Weapon will then cast {% glossary Tank Purge %}. As this goes off, Garuda will also {% glossary Feather Rain %}. Dodge.
 
-!!! DIAGRAM HERE PLEASE EM!!! :)
+![image]({{ site.baseurl }}/assets/images/diagrams/anni.webp)
 
 ### Active Phase
 {: .no_toc }
@@ -749,7 +750,7 @@ When you hear the first {% glossary Feather Rain %}, the 2 {% glossary Mistral S
 
 On the other hand, the remaining player who had nothing (who stood with the {% glossary Mistral Song %} players) will be targeted for **Light Pillar**. For a brief period, they will drop small puddles beneath them that are lethal if hit by. So, once that first {% glossary Feather Rain %} occurs, they will do a clockwise loop around the arena (**WITHOUT GOING TO THE WALL**) to keep these away from the party. By the time they reach the B Waymark, the gaol should be dead and they are safe to rejoin the party.
 
-**!!! DIAGRAM OF LIGHT PILLAR PATHING HERE PLEASE EM :D !!!**
+![image]({{ site.baseurl }}/assets/images/diagrams/supp.webp)
 
 During all of these mechanics, the Ultima Weapon will be casting **Aetherochemical Lasers** (green rectangular AoEs) from their hitbox. These are not baited by anyone and will be aimed at the boss's front or diagonals, and generally insignificant to dodge.
 
