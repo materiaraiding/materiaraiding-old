@@ -123,9 +123,9 @@ The phase begins with heavy hitting auto-attacks before starting the first mecha
 ### Program Loop
 {: .no_toc }
 
-Program loop begins with each player being assigned a number from 1 to 4, with two of each across the party. This mechanic requires 4 sets of 2 towers to be soaked in a sequential order **({% include status.html name="First in Line" %} → {% include status.html name="Second in Line" %} → {% include status.html name="Third in Line" %} → {% include status.html name="Fourth in Line" %})** that will deal significant damage to the player inside. 
+Program loop begins with each player being assigned a number from 1 to 4, with two of each across the party. This mechanic requires 4 sets of 2 towers to be soaked in a sequential order **(<img src="{{ site.baseurl }}/assets/images/icons/first-in-line.webp" class="bufficon"> → <img src="{{ site.baseurl }}/assets/images/icons/second-in-line.webp" class="bufficon"> → <img src="{{ site.baseurl }}/assets/images/icons/third-in-line.webp" class="bufficon"> → <img src="{{ site.baseurl }}/assets/images/icons/fourth-in-line.webp" class="bufficon">)** that will deal significant damage to the player inside. 
 
-For each set of towers that needs to be soaked, two tethers must be taken by two players and taken away from the towers in the order **({% include status.html name="Third in Line" %} → {% include status.html name="Fourth in Line" %} → {% include status.html name="First in Line" %} → {% include status.html name="Second in Line" %})**.
+For each set of towers that needs to be soaked, two tethers must be taken by two players and taken away from the towers in the order **(<img src="{{ site.baseurl }}/assets/images/icons/third-in-line.webp" class="bufficon"> → <img src="{{ site.baseurl }}/assets/images/icons/fourth-in-line.webp" class="bufficon"> → <img src="{{ site.baseurl }}/assets/images/icons/first-in-line.webp" class="bufficon"> → <img src="{{ site.baseurl }}/assets/images/icons/second-in-line.webp" class="bufficon">)**.
 
 These tethers will explode in a large AOE on the targeted player and inflict a HP penalty debuff which will wear off after 10 seconds. 
 
@@ -524,7 +524,7 @@ After another **Solar Ray** tank buster, **Omega-F** casts:
 ### Run: Dynamis (Omega Version)
 [P5 Dynamis Omega Toolbox](https://ff14.toolboxgaming.space/?id=078384491946761&preview=1){: .btn }
 
-After the initial raid-wide, 4 players are assigned **Hello World** debuffs. Two players are assigned with **First in Line** <img src="{{ site.baseurl }}/assets/images/icons/first-in-line.webp" class="bufficon">, and two others will be assigned with **Second in Line** {% include status.html status="Second in Line" %}. One player from each pair will be assigned **Hello, Distant World** <img src="{{ site.baseurl }}/assets/images/icons/distant-world.webp" class="bufficon"> and the other **Hello, Near World** <img src="{{ site.baseurl }}/assets/images/icons/near-world.webp" class="bufficon">.
+After the initial raid-wide, 4 players are assigned **Hello World** debuffs. Two players are assigned with **First in Line** <img src="{{ site.baseurl }}/assets/images/icons/first-in-line.webp" class="bufficon">, and two others will be assigned with **Second in Line** <img src="{{ site.baseurl }}/assets/images/icons/second-in-line.webp" class="bufficon">. One player from each pair will be assigned **Hello, Distant World** <img src="{{ site.baseurl }}/assets/images/icons/distant-world.webp" class="bufficon"> and the other **Hello, Near World** <img src="{{ site.baseurl }}/assets/images/icons/near-world.webp" class="bufficon">.
 
 **Omega-F** will remain targetable and **Final Omega** will spawn in the center of the arena. Clones of **Omega-M** and **Omega-F** will appear on opposite intercardinals next to **Final Omega** with the same **Staff/Skates + Sword/Shield** combo that's seen in phase 2. **Final Omega** will then cast 2 large cleaves on opposite cardinals of the arena, before cleaving the opposite cardinals.
 
@@ -554,7 +554,7 @@ Anyone who fails to make this dodge will take **HEAVY** damage and be inflicted 
 
 After the dodges are resolved, **Omega-F** will become untargetable and disappear. **Final Omega** will then point a monitor at either true East or true West. Like before, two players must be hit by this monitor while the rest need to line up for the first **Hello World** section.
 
-The two players that must be hit by the monitor are picked to be players with 2 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.webp" class="bufficon">. Players with 2 stacks *and* **Second in Line** {% include status.html status="Second in Line" %} take priority for this position. 
+The two players that must be hit by the monitor are picked to be players with 2 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.webp" class="bufficon">. Players with 2 stacks *and* **Second in Line** <img src="{{ site.baseurl }}/assets/images/icons/second-in-line.webp" class="bufficon"> take priority for this position. 
 
 If these players are not given the monitor position, they cannot line up for the 2nd Hello World as they will have 3 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.webp" class="bufficon"> and will get a 4th from their own **Hello World** debuff, forcing a wipe.
 
