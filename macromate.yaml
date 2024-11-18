@@ -54,6 +54,11 @@ macros:
     iconId: 81807
     markdownUrl: _extreme/ex2.md
 
+  - name: EX3
+    group: "Extreme"
+    iconId: 81807
+    markdownUrl: _extreme/ex3.md
+
   # ==========
   # = Savage =
   # ==========

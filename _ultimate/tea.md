@@ -12,7 +12,7 @@ image: BJCC2.webp
 ### Credits
 {: .no_toc }
 - Toolboxes by MUR
-- PoVs by Kur Rumi
+- PoVs by Kur Rumi, Olg
 - Cheatsheets by MUR and Em Gram
 - Written guide by Noz Leafhill
 
