@@ -20,13 +20,7 @@ layout: default
 {% if page.difficulty == "Ultimate" %}
     <div class="label-mur">Materia Ultimate Raiding</div>
 {% endif %}
-{% if page.difficulty == "Savage" %}
-    <div class="label-pf">Materia Party Finder</div>
-{% endif %}
-{% if page.difficulty == "Extreme" %}
-    <div class="label-pf">Materia Party Finder</div>
-{% endif %}
-{% if page.difficulty == "Other Content" %}
+{% if page.difficulty == "Savage" or page.difficulty == "Extreme" or page.difficulty == "Other Content" %}
     <div class="label-pf">Materia Party Finder</div>
 {% endif %}
 <br>
