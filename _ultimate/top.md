@@ -229,8 +229,6 @@ Light Party 1 will always anchor West, and Light Party 2 will either be pushed S
 
 If the stack players are part of the **same light party** the north most stack relative to the eye must swap positions with their partner. 
 
-**(video)**
-
 {: .tanks }
 > Between the start of the phase and after party synergy Omega-M has changed to Omega-F and vice versa, meaning you will both have to re-provoke your boss.
 
@@ -282,7 +280,7 @@ The debuffs assigned will target 4 players with **Sniper Cannon Fodder** (spread
 
 Players must spread according to their debuff and priority, with the stacks and non-debuff players along the south edge of the arena, and the spread players along the north edge.
 
-Two sets of **Arms** will appear that will cause large circular AOEs, as well as a cascading donut AOE (Wave Repeater) originating from the center. To resolve this, players will dodge Wave Repeater by moving in and out from the edge of the arena, and then dodging into the first arm explosion where they will take their spread or stack. **video** (I need to add this still, I keep forgetting :3 - Juno) 
+Two sets of **Arms** will appear that will cause large circular AOEs, as well as a cascading donut AOE (Wave Repeater) originating from the center. To resolve this, players will dodge Wave Repeater by moving in and out from the edge of the arena, and then dodging into the first arm explosion where they will take their spread or stack. 
 
 {: .note }
 > Using **sprint** can help make the 2->1 dodge easier, but isn't required.
