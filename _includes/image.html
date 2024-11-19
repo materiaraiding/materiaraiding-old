@@ -1,6 +1,16 @@
-<div class="imageembedbox" onclick="location.href='{{ site.baseurl }}{{ include.path }}';">
+{% assign modalid = include.path | split: "/" | last %}
+
+<div id="img-{{ modalid }}" class="imageembedbox" onclick="document.getElementById('myModal-{{ modalid }}').style.display = 'block';">
     <figure style="display: inline-block;">
         <img class="imageembed" src="{{ site.baseurl }}{{ include.path }}" width="{{ include.width }}">
         <figcaption>{{ include.caption }}</figcaption>
     </figure>
+</div>
+
+<!-- The Modal -->
+<div id="myModal-{{ modalid }}" class="modal" onclick="document.getElementById('myModal-{{ modalid }}').style.display = 'none';">
+    <!-- Modal content -->
+    <div class="modal-content">
+        <img class="modal-image" src="{{ site.baseurl }}{{ include.path }}" width="100%">
+    </div>
 </div>
