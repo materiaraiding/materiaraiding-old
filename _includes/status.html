@@ -1,2 +1,2 @@
 {% assign status = site.data.status | where: "Name", include.name %}
-<img src="https://xivapi.com/{{ status[0].Icon }}" class="statusicon">
+<img id="{{ include.name }}" src="https://xivapi.com/{{ status[0].Icon }}" class="statusicon" title="{{ status[0].Name }}">

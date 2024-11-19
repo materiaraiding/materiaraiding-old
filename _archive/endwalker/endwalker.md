@@ -3,7 +3,6 @@ layout: default
 title: Endwalker
 has_children: true
 has_toc: false
-parent: Archive
 permalink: /ew
 nav_order: 1
 ---

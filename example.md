@@ -66,6 +66,14 @@ even when it comes at the beginning](.) of the line.
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
+## Inline Game Status Effects
+Use the correct status effect name to load the status effect icons
+
+{% include status.html name="First in Line" %}
+{% include status.html name="Second in Line" %}
+{% include status.html name="Third in Line" %}
+{% include status.html name="Fourth in Line" %}
+
 ## Callouts
 
 {: .healers }

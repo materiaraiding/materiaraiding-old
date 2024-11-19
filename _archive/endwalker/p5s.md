@@ -1,9 +1,8 @@
 ---
 layout: default
 title: P5S
-permalink: /p5s
+permalink: /ew/p5s
 parent: Endwalker
-grand_parent: Archive
 nav_order: 5
 expansion: Endwalker
 difficulty: Savage

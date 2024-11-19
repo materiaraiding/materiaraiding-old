@@ -2,7 +2,7 @@
 layout: guide
 title: EX3
 permalink: /ex3
-nav_order: 2
+nav_order: 3
 longtitle: Sphene's Burden (Extreme)
 expansion: Dawntrail
 difficulty: Extreme
@@ -41,11 +41,13 @@ WMs will be
 D　　 B
 4　C　3
 
-![image](https://github.com/user-attachments/assets/2efb5d1b-ce8b-4b4b-8a3c-e03fdadc3ab7)
 
-![image](https://github.com/user-attachments/assets/eeb5d19d-deea-44b0-8b1c-ffc011018489)
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/2efb5d1b-ce8b-4b4b-8a3c-e03fdadc3ab7" %}
 
-![image](https://github.com/user-attachments/assets/307c6049-9f41-44f3-9f03-f114ca69e90b)
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/eeb5d19d-deea-44b0-8b1c-ffc011018489" %}
+
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/307c6049-9f41-44f3-9f03-f114ca69e90b" %}
+
 
 ## Waymarks
 
@@ -53,5 +55,5 @@ For import with Waymark Addon
 
 ```{"Name":"EX3 OCE","MapID":1017,"A":{"X":100.0,"Y":0.0,"Z":81.5,"ID":0,"Active":true},"B":{"X":118.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.5,"ID":2,"Active":true},"D":{"X":81.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":81.5,"Y":0.0,"Z":81.5,"ID":4,"Active":true},"Two":{"X":118.5,"Y":0.0,"Z":81.5,"ID":5,"Active":true},"Three":{"X":118.5,"Y":0.0,"Z":118.5,"ID":6,"Active":true},"Four":{"X":81.5,"Y":0.0,"Z":118.5,"ID":7,"Active":true}}```
 
-![image](https://github.com/user-attachments/assets/8dfee9b4-8e99-4e1d-96f2-31bd1b076421)
+{% include image.html width="400px" path="https://github.com/user-attachments/assets/8dfee9b4-8e99-4e1d-96f2-31bd1b076421" %}
 

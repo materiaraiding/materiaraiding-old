@@ -1,9 +1,8 @@
 ---
 layout: default
 title: P3S
-permalink: /p3s
+permalink: /ew/p3s
 parent: Endwalker
-grand_parent: Archive
 nav_order: 3
 expansion: Endwalker
 difficulty: Savage

@@ -1,9 +1,8 @@
 ---
 layout: default
 title: P9S
-permalink: /p9s
+permalink: /ew/p9s
 parent: Endwalker
-grand_parent: Archive
 nav_order: 9
 expansion: Endwalker
 difficulty: Savage

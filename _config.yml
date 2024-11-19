@@ -12,6 +12,13 @@ aux_links:
   Materia Ultimate Raiding Discord: https://discord.gg/mur
   Github: https://github.com/materiaraiding/materiaraiding
 
+# External navigation links
+nav_external_links:
+  - title: Discord
+    url: https://discord.gg/EySn5dRj65
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+
 favicon_ico: "/assets/images/favicon.ico"
 
 color_scheme: namastyle-dark
@@ -69,6 +76,9 @@ collections:
   othercontent:
     permalink: "/:collection/:path/"
     output: true
+  archive:
+    permalink: "/:collection/:path/"
+    output: true
 
 just_the_docs:
   collections:
@@ -82,6 +92,10 @@ just_the_docs:
       name: Criterion
     othercontent:
       name: Other Content
+    archive:
+      name: Archive
+      nav_fold: true
+
 
 # Back to top link
 back_to_top: true
