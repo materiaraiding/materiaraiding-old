@@ -49,6 +49,9 @@ callouts:
   everyone:
     title: Everyone
     color: yellow
+  important:
+    title: Important
+    color: yellow
 
 collections:
   ultimate:
