@@ -1,5 +1,6 @@
 {% assign modalid = include.path | split: "/" | last %}
 
+<!-- Image on the page -->
 <div id="img-{{ modalid }}" class="imageembedbox" onclick="document.getElementById('Modal-{{ modalid }}').style.display = 'block';">
     <figure style="display: inline-block;">
         <img class="imageembed" src="{{ site.baseurl }}{{ include.path }}" width="{{ include.width }}">
@@ -7,7 +8,7 @@
     </figure>
 </div>
 
-<!-- The Modal -->
+<!-- The Modal Popup -->
 <div id="Modal-{{ modalid }}" class="modal" style="display: none;" onclick="document.getElementById('Modal-{{ modalid }}').style.display = 'none';">
     <!-- Modal content -->
     <div class="modal-content">
