@@ -58,7 +58,7 @@ Space = Hold to select numbers
 
 ### Mitigation Plan
 
-[Tank Mit Plan](https://docs.google.com/spreadsheets/d/1zB5NpvIR0J5uAybtYkqAn_gglnmYcSCo0b0mgSZagUg/edit#gid=917445177){: .btn .btn-green }
+[Tank Mit Plan](https://docs.google.com/spreadsheets/d/11g88rCThCPuXadxc1S4pwXSxwVoX04nR77Z0lvbpd30/edit?gid=0#gid=0){: .btn .btn-green }
 
 ### Cheatsheets and Visual Guides
 
