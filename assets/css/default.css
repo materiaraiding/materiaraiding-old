@@ -164,6 +164,10 @@ figcaption {
 
 /* homepage sections for bottom of homepage */
 
+#homepage_title {
+    font-weight: 400;
+}
+
 .homepagesections {
     display: flex;
     gap: 1em;

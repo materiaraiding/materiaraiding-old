@@ -6,8 +6,8 @@ nav_order: 1
 
 <div style="display: flex; gap: 0.5em">
     <div>
-        <h1>Welcome to Materia Raiding</h1>
-        <p>This website is a resource provided by Materia Raiding community, as a one-stop shop for your Savage and Ultimate Raiding needs for the Materia FF14 Datacenter.</p>
+        <h1 id="homepage_title">Welcome to Materia Raiding</h1>
+        <p>Materia Raiding is your one-stop shop for your Savage and Ultimate Raiding needs for the Materia FF14 Datacenter. Here you will find guides and resources for Materia Raiding and Materia Ultimate Raiding strats.</p>
     </div>
     <img src="{{ site.baseurl }}/assets/images/icons/materia.webp" alt="materia" style="object-fit: contain;">
 </div>
