@@ -51,10 +51,7 @@ Mitigation plan spreadsheet
 
 ### Cheatsheet
 
-<details markdown=1>
-<summary>View Cheatsheet</summary>
-<a href="{{ site.baseurl }}/assets/images/cheatsheets/topcheatsheet.webp" target="_blank"><img src="{{ site.baseurl }}/assets/images/cheatsheets/topcheatsheet.webp"></a>
-</details>
+{% include image.html width="400px" path="topcheatsheet.webp" %}
 
 ### Waymarks
 Waymarks are incredibly important in TOP as they are used for many mechanics in the fight for easy solves. 
@@ -152,7 +149,7 @@ This is done by the priority system used in program loop, with the lower priorit
 
 If Omega cleaves the NE and SW waymarkers first then each party rotates to the safespot clockwise of their original position.
 
-{% include image.html width="700px" path="/assets/images/304051465-50502fe5-a598-4713-a7cb-2b901fc31c12.webp" %}
+{% include image.html width="700px" path="304051465-50502fe5-a598-4713-a7cb-2b901fc31c12.webp" %}
 
 The cleaves will then either rotate clockwise or counter-clockwise. As the cleaves rotate each player will also leave behind puddles. The party stacks together at the rear cleave to take a **3 player line-stack**, whilst the numbers leave to take their AOE away from the group before joining back to the party. This process repeats until each number has taken their AOE and the cleaves cease.
 
@@ -198,7 +195,7 @@ The party is inflicted with either **Mid Glitch** <img src="{{ site.baseurl }}/a
 > 
 > The furthest West symbol of a pair will be designated as Light Party 1, whilst the furthest East will be designated Light Party 2.
 
-{% include image.html path="/assets/images/257986944-0069116b-8199-4dcc-8d26-8fa56403ccad.webp" %}
+{% include image.html path="257986944-0069116b-8199-4dcc-8d26-8fa56403ccad.webp" %}
 
 > As seen above, because I am the western most cross player I move to Light Party 1. 
 
@@ -215,7 +212,7 @@ The possible combinations are:
 | Skates | Shield |
 | Skates | Sword  |
 
-[![image]({{ site.baseurl }}/assets/images/357671492-7b6a6296-1ab6-4b0c-a795-6f2907919b15.webp)](https://github.com/user-attachments/assets/7b6a6296-1ab6-4b0c-a795-6f2907919b15)
+{% include image.html path="357671492-7b6a6296-1ab6-4b0c-a795-6f2907919b15.png" %}
 
 {: .note }
 > The "cursed" pattern (F-Staff & M-Shield) can be easily resolved by using the far edges of the waymarks eitherside of the male.
@@ -271,8 +268,7 @@ Upon defeating Omega-F, the transition begins:
 
 {: .everyone }
 >The party should line-up from East to West as seen in the cheatsheet before debuffs are assigned.
->
-> ![](/assets/images/258101715-3552b589-9eaf-45be-8de0-c2b79cacf2f4.webp)
+> {% include image.html path="258101715-3552b589-9eaf-45be-8de0-c2b79cacf2f4.webp" %}
 
 {: .healers }
 > To survive this transition the party must have *at least* a barrier healer's shield covering the hits.
@@ -435,7 +431,7 @@ Two **Blue Tether Players** will also receive **Hello, Distant World** {% includ
 
 **Blues Tethers** will then go to **Beetle Omega**, and **Christmas Tethers** to **Final Omega**. Both pairs of tethers will line up parallel to the edge of the arena on their respective side. This is so that  there is a tether closer to the center of the arena (**Inner Tether**), and a tether closer to the edge of the arena (**Outer Tether**). 
 
-[![]({{ site.baseurl }}/assets/images/239018857-1d95a258-2f1d-4b07-9c57-42f650ce9b60.webp)](https://github.com/RancidDax/namazu.tools/assets/104756079/1d95a258-2f1d-4b07-9c57-42f650ce9b60)
+{% include image.html path="239018857-1d95a258-2f1d-4b07-9c57-42f650ce9b60.png" %}
 
 Much like phase 3, breaking tethers results in a **large raid-wide hit** as well as inflicting **Thrice-come Ruin** <img src="{{ site.baseurl }}/assets/images/icons/Thrice come Ruin.webp" class="statusicon"> on the party. However if the tether debuffs expire the party is killed. As such, we want to gradually break all 4 throughout the course of the mechanic so that the damage does not kill the party whilst not letting the tethers expire.
 
@@ -462,7 +458,7 @@ After baiting their Arms, **Outer Blue Tethers** will go to the middle to stack 
 
 After the Monitors resolve, **Beetle Omega** will cleave one side of the arena with a 60% angled cleave. The **Non-debuff Blue Tether Players** will move to the side opposite of **Beetle Omega**. The **Outer Christmas Tethers** will rotate so that the player that is currently within the cleave ends up under Omega, and the **Inner Christmas Tether** will then break their tether as everyone else lines up for **Hello World** as seen below:
 
-[![]({{ site.baseurl }}/assets/images/239021463-0a1c5576-830f-4ea1-8d00-5d12a23f06e4.webp)](https://github.com/RancidDax/namazu.tools/assets/104756079/0a1c5576-830f-4ea1-8d00-5d12a23f06e4)
+{% include image.html path="239021463-0a1c5576-830f-4ea1-8d00-5d12a23f06e4.webp" %}
 *Image by Bird*
 
 {: .warning}
@@ -490,13 +486,13 @@ The **North-most** pair of **1 marker** will move to the North-West and South-Ea
 
 Players will move to their designated positions, stepping in front of their waymarker for **Mid Glitch**, and moving to the wall for **Remote Glitch**. The 2 players with **no marker**, must be in the **relative North-East** and **relative North-West** position to bait two line AOEs from the Arms. This is to ensure that none of the players already being targeted get hit and killed.
 
-{% include image.html width="800px" path="/assets/images/256717611-8e00e58c-2c31-4407-9ae1-50f012b05275.webp" %}
+{% include image.html width="800px" path="256717611-8e00e58c-2c31-4407-9ae1-50f012b05275.webp" %}
 
 After the AOEs resolve, **Omega-M will change to Omega-F** and towers will spawn. If the party is inflicted with **Mid Glitch**, 6 towers in a "smiley face" pattern will spawn. If inflicted with **Remote Glitch**, 5 towers in a "star" pattern will spawn. This pattern will spawn relative to the **Relative North Omega-F**, and can also be flipped vertically. Because these towers must be soaked whilst also **resolving Mid/Remote Glitch** everyone must take a particular tower. 
 
 Player's tower positions are designated by the waymark that they **originally spread to**:
 
-[![]({{ site.baseurl }}/assets/images/239234349-8af3cafd-9756-4ef9-a9d5-08c511d9185c.webp)](https://github.com/RancidDax/namazu.tools/assets/104756079/8af3cafd-9756-4ef9-a9d5-08c511d9185c)
+{% include image.html path="239234349-8af3cafd-9756-4ef9-a9d5-08c511d9185c.webp" %}
 
 > As an example, if my spread position is the **A Waymark**, my tower to soak would be the **A Tower** as shown in the pictures above.
 
@@ -509,7 +505,7 @@ After the towers are soaked, **Final Omega's Blades** will spawn in the center w
 
 Players will then move into their **Hello World** positions as seen below:
 
-[![]({{ site.baseurl }}/assets/images/239696181-e096327b-c6f3-4e75-8484-5b6a314de6c4.webp)](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/e096327b-c6f3-4e75-8484-5b6a314de6c4)
+{% include image.html path="239696181-e096327b-c6f3-4e75-8484-5b6a314de6c4.webp" %}
 
 > If you are not running AMs players can pre-position in a line up while they are waiting for the rotating AOE to begin, indicating which position they will take.
 
@@ -533,7 +529,7 @@ This dodge sounds incredibly complicated but it can be split up into several seg
 >
 > Players must then determine if the dodge is going to be an **inner, mid, or outer** dodge as shown by the diagram below:
 >
-> [![]({{ site.baseurl }}/assets/images/239667774-1d70b8eb-cecc-428c-9d60-57658bddbfcd.webp)](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/1d70b8eb-cecc-428c-9d60-57658bddbfcd)
+> {% include image.html path="239667774-1d70b8eb-cecc-428c-9d60-57658bddbfcd.webp" %}
 >
 > The 2 cardinals adjacent to the safe clone will be the two possible safe spots after that. **Final Omega** will then point it's blades either North/South or East/West for it's cleave, leaving the one cardinal that is uncleaved to be the safespot.
 
@@ -559,7 +555,7 @@ If these players are not given the monitor position, they cannot line up for the
 
 The party will then line up as seen below:
 
-[![]({{ site.baseurl }}/assets/images/239696209-939c9abc-6e5b-411f-8992-b59d4f560487.webp)](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/939c9abc-6e5b-411f-8992-b59d4f560487)
+{% include image.html path="239696209-939c9abc-6e5b-411f-8992-b59d4f560487.webp" %}
 
 > If you are not running AMs, the line up used in this strategy can prove awkward and difficult to pre-position for, so a different line up (such as in JP strats) can be used to make it more comfy.
 
@@ -568,7 +564,7 @@ The party will then line up as seen below:
 
 **Beetle Omega** will then spawn on a random cardinal, and a second and final **Hello World** line up must be formed. The players with **3 stacks** of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.webp" class="statusicon"> must take two tethers from **Beetle Omega** while the other 6 players position themselves as seen below:
 
-[![]({{ site.baseurl }}/assets/images/239696254-751a990e-660a-40ec-9c3a-2d8e90865b2b.webp)](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/751a990e-660a-40ec-9c3a-2d8e90865b2b)
+{% include image.html path="239696254-751a990e-660a-40ec-9c3a-2d8e90865b2b.webp" %}
 
 {: .note }
 > If solved correctly all 8 players will have 3 stacks of **Quickening Dynamis** <img src="{{ site.baseurl }}/assets/images/icons/quickening-dynamis.webp" class="statusicon">.

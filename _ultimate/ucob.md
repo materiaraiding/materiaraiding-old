@@ -213,7 +213,7 @@ This guide is based off the original and very detailed guide by Clees, which can
 >
 > Your role is to position the boss in a way to drop a {% glossary Neurolink %} on Waymarks 1 -> 2 -> 3 markers in order. This will happen when the boss hits 74%, 44% and 0%. You should be on the outside of the boss towards the wall unless moving in to stack with party for other mechanics.
 >
-> <img src="{{ site.baseurl }}/assets/images/diagrams/ucobmarkers.webp" alt="UCOB Markers" style="height: 300px">
+> {% include image.html path="ucobmarkers.webp" %}
 
 {: .damage }
 > You will have two roles in this phase. Firstly **Ranged** will need to bait {% glossary Liquid Hell %} by being the furthest player from the boss through the phase. Assign a **Primary Baiter** (generally D3) and **Backup Baiter** (generally D4).
@@ -307,9 +307,9 @@ If you have not phased yet, just get ready for miscellaneous quotes until Enrage
 
 The fight starts and a pillar will drop in the room, spread out for Meteor Stream and dodge the cleaves.
 
-Boss will enter on the tank who had aggro on Twintania as she was defeated (generally the OT) with {% glossary Dalamud Dive %} and the party will stack up behind the boss ready for the first quotes. Nael will use {% glossary Bahamut's Claw %} - the OT should use their invulnerability on both the entrance tankbuster and {% glossary Bahamut's Claw %} before tank swapping with the MT. 
+Boss will enter on the tank who had aggro on Twintania as she was defeated (generally the OT) with {% glossary Dalamud Dive %} and the party will stack up behind the boss ready for the first quotes. Nael will use {% glossary Bahamuts Claw %} - the OT should use their invulnerability on both the entrance tankbuster and {% glossary Bahamuts Claw %} before tank swapping with the MT. 
 
-Nael will then summon 5 dragons around the room with **Bahamut's Favor**.
+Nael will then summon 5 dragons around the room with **bahamuts Favor**.
 
 The 5 dragons will use various abilities through the phase that players need to deal with:
 
@@ -327,9 +327,9 @@ The 5 dragons will use various abilities through the phase that players need to 
 {: .tanks }
 > {% glossary Dalamud Dive %} Nael jumps onto her target, dealing significant splash damage. Make sure to spread away from the tank to prevent any extra damage.
 > 
-> {% glossary Bahamut's Claw %} Physical tankbuster consisting of 5 successive hits to her target.
+> {% glossary Bahamuts Claw %} Physical tankbuster consisting of 5 successive hits to her target.
 > 
-> As mentioned, Nael enters with {% glossary Dalamud Dive %} on the **tank with last aggro on Twintania** (generally OT), followed by {% glossary Bahamut's Claw %}. Use an invulnerability here and keep this away from party.
+> As mentioned, Nael enters with {% glossary Dalamud Dive %} on the **tank with last aggro on Twintania** (generally OT), followed by {% glossary Bahamuts Claw %}. Use an invulnerability here and keep this away from party.
 
 ### First Quotes
 {: .no_toc }
@@ -383,9 +383,9 @@ QUOTE 4:
 
 The two players with {% glossary Thunderstruck %} must seperate from the party and take up a position near the boss on north side. {% glossary Thunderstruck %} will resolve before the second mechanic in the quote. Two players who had {% glossary Thunderstruck %} then rejoin or run out depending on quotes.
 
-<img src="{{ site.baseurl }}/assets/images/diagrams/ucobthunder.webp" alt="UCOB Markers" style="height: 300px">
+{% include image.html path="ucobthunder.webp" %}
 
-{% glossary Doom %} will apply to two players (6s and 10s). {% glossary Wings of Salvation %} will target a party member and the party should rotate **clockwise** around the boss. Shortest {% glossary Doom %} timer takes the small puddle after {% glossary Wings of Salvation %} explodes. Another {% glossary Wings of Salvation %} and {% glossary Doom %} cleanse following that. {% glossary Bahamut's Claw %} will happen during {% glossary Doom %} cleanses.
+{% glossary Doom %} will apply to two players (6s and 10s). {% glossary Wings of Salvation %} will target a party member and the party should rotate **clockwise** around the boss. Shortest {% glossary Doom %} timer takes the small puddle after {% glossary Wings of Salvation %} explodes. Another {% glossary Wings of Salvation %} and {% glossary Doom %} cleanse following that. {% glossary Bahamuts Claw %} will happen during {% glossary Doom %} cleanses.
 
 You should be taking the cleanse puddle when your Doom is less than **5 seconds**.
 
@@ -415,7 +415,7 @@ Party should aim to move together as one, **clockwise** around the boss as each 
 
 Second Fire Tether appears and this should be taken **OUT**** of the party stack.
 
-<img src="{{ site.baseurl }}/assets/images/diagrams/ucobfire2.webp" alt="UCOB Markers" style="height: 300px">
+{% include image.html path="ucobfire2.webp" %}
 
 {% glossary Thunderstruck %} will apply to two players after fireball resolves, these need to leave the party stack.
 
@@ -437,7 +437,7 @@ The third **Fire Tether** will appear and this should be stacked with the party.
 {: .note }
 The player who had to take Second Fire Tether MUST NOT be in the Third Fire Tether stack, otherwise you will die due to still having **Firescorched** from the Second Tether.
 
-Nael will follow this up with another {% glossary Bahamut's Claw %} for Tanks.
+Nael will follow this up with another {% glossary Bahamuts Claw %} for Tanks.
 
 ### Third Quotes
 {: .no_toc }
@@ -472,7 +472,7 @@ This quote will not resolve until after the Second Dive finishes.
 
 The dragons on the outside of the room will start targetting players for Dives. Three players will be fixated with a green marker on their head, these go out one at a time.
 
-<img src="{{ site.baseurl }}/assets/images/diagrams/divemarker.webp" alt="Dive Marker" style="height: 200px">
+{% include image.html path="divemarker.webp" %}
 
 The Dragons will dive in sets of **2-1-2** starting at True North. The 1st and 2nd Dragon will fixate on the 1st marked player. The 3rd Dragon will fixate on the 2nd marked player, and the last two dragons will fixate on the 3rd marked player.
 
@@ -480,7 +480,7 @@ Your goal is to position the three marked players in such a way that they bait t
 
 There are 8 possible locations for the Dragons to spawn. Only 5 dragons will spawn.
 
-![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/c687614b-96af-4f14-b6d3-5f42866b8482)
+{% include image.html path="239670444-c687614b-96af-4f14-b6d3-5f42866b8482.png" %}
 
 You need to bait the dives in such a way to avoid the middle of the room, such as the following example where RED is the first dive, YELLOW is the second dive and BLUE is the third dive.
 
@@ -760,14 +760,14 @@ Keep the HP's of both bosses as similar as possible, as they need to be killed a
 <details markdown=1>
 <summary>Expand Phase Timeline</summary>
 
-1. Twintania {% glossary Plummet %} and Nael {% glossary Bahamut's Claw %} on their respective aggro'd player.
+1. Twintania {% glossary Plummet %} and Nael {% glossary Bahamuts Claw %} on their respective aggro'd player.
 2. Twintania {% glossary Liquid Hell %}.
 3. Twintania Generate ({% glossary Hatch %}) into {% glossary Twister %}.
 4. Nael **Quotes**.
 5. Twintania {% glossary Twister %}.
 6. Nael Megaflare (raidwide).
 7. Twintania {% glossary Death Sentence %} and Nael {% glossary Ravensbeak %} (tankbusters that require a tank swap).
-8. Twintania {% glossary Plummet %} and Nael {% glossary Bahamut's Claw %} on their respective aggro'd player.
+8. Twintania {% glossary Plummet %} and Nael {% glossary Bahamuts Claw %} on their respective aggro'd player.
 9. Twintania {% glossary Liquid Hell %}.
 10. Twintania Generate ({% glossary Hatch %}) into {% glossary Twister %}.
 11. Nael **Quotes**.
@@ -903,7 +903,7 @@ For an {% glossary Akh Morn %} that is shared by both tanks, watch their health,
 12. {% glossary Exaflare %}
 13. {% glossary Morn Afah %}
 
-After is **Golden Bahamut's enrage** - he will continuously cast **Morn Afah** for lethal damage, so everyone should spread out as he takes everyone down one by one.
+After is **Golden bahamuts enrage** - he will continuously cast **Morn Afah** for lethal damage, so everyone should spread out as he takes everyone down one by one.
 
 {: .tanks }
 The Morn Afah enrage is based on emnity, so if you see the enrage, it is a good idea to **shirk** your healers to give DPS a few extra seconds to defeat him.

@@ -109,7 +109,7 @@ External Image
 {% include image.html path="https://github.com/user-attachments/assets/08a05d6a-adcf-4d97-8baa-a1ffa50dbb43" %}
 
 Locally Stored Image
-{% include image.html width="700px" path="/assets/images/304051465-50502fe5-a598-4713-a7cb-2b901fc31c12.webp" %}
+{% include image.html width="700px" path="304051465-50502fe5-a598-4713-a7cb-2b901fc31c12.webp" %}
 
 ## Dropdown Section 
 

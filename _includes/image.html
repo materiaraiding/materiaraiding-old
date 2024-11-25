@@ -1,9 +1,15 @@
 {% assign modalid = include.path | split: "/" | last %}
+{% if include.path contains "https://" %}
+{% assign imagepath = include.path %}
+{% else %}
+{% assign imagepath = site.baseurl | append: "/assets/images/" | append: include.path %}
+{% endif %}
+
 
 <!-- Image on the page -->
 <div id="img-{{ modalid }}" class="imageembedbox" onclick="document.getElementById('Modal-{{ modalid }}').style.display = 'block';">
     <figure style="display: inline-block;">
-        <img class="imageembed" src="{{ site.baseurl }}{{ include.path }}" width="{{ include.width }}">
+        <img class="imageembed" src="{{ imagepath }}" width="{{ include.width }}">
         <figcaption>{{ include.caption }}</figcaption>
     </figure>
 </div>
@@ -12,6 +18,6 @@
 <div id="Modal-{{ modalid }}" class="modal" style="display: none;" onclick="document.getElementById('Modal-{{ modalid }}').style.display = 'none';">
     <!-- Modal content -->
     <div class="modal-content">
-        <img class="modal-image" src="{{ site.baseurl }}{{ include.path }}">
+        <img class="modal-image" src="{{ imagepath }}">
     </div>
 </div>

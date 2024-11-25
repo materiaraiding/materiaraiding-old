@@ -145,7 +145,6 @@ html,
 
 .imageembed {
     border-radius: 6px; 
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
     outline: 2px solid rgba(255, 255, 255, 0);
     outline-offset: -2px;
     transition: 0.1s;
@@ -209,7 +208,7 @@ figcaption {
     height: 100%; /* Full height */
     width: 100%; 
     background-color: rgb(0,0,0); /* Fallback color */
-    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    background-color: rgba(0, 0, 0, 0.884); /* Black w/ opacity */
     border-radius: 10px;
     cursor: pointer;
     }

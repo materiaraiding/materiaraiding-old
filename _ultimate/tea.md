@@ -61,20 +61,9 @@ Space = Hold to select numbers
 
 ### Cheatsheets and Visual Guides
 
-<details markdown=1>
-<summary>Full Cheatsheet</summary>
-<a href=".\assets\images\cheatsheets\teacheatsheet.webp" target="_blank"><img src=".\assets\images\cheatsheets\teacheatsheet.webp"></a>
-</details>
-
-<details markdown=1>
-<summary>Wormhole (crappy) Visual Guide</summary>
-<a href="https://github.com/materiaraiding/materiaraiding/assets/85346345/f58044da-89ba-4708-8d26-83ce7df50675" target="_blank"><img src="https://github.com/materiaraiding/materiaraiding/assets/85346345/f58044da-89ba-4708-8d26-83ce7df50675"></a>
-</details>
-
-<details markdown=1>
-<summary>Perfect Alexander Cheatsheet</summary>
-<a href="https://github.com/materiaraiding/materiaraiding/assets/85346345/4583252e-31eb-43f2-a0c3-d97cf40ca2c0" target="_blank"><img src="https://github.com/materiaraiding/materiaraiding/assets/85346345/4583252e-31eb-43f2-a0c3-d97cf40ca2c0"></a>
-</details>
+{% include image.html width="400px" path="teacheatsheet.webp" %}
+{% include image.html width="400px" path="308899790-f58044da-89ba-4708-8d26-83ce7df50675.png" %}
+{% include image.html width="400px" path="308899673-4583252e-31eb-43f2-a0c3-d97cf40ca2c0.png" %}
 
 ### Buff Timings
 
@@ -163,7 +152,7 @@ Shortly after all the dolls cast their first instance of **Exhaust**, the Hand w
 
 Approximately at the same time, 2 of the tornadoes will spawn 2 **Emboluses**, little orbs that will travel towards where the bosses are at the time of spawning - which at the moment should be the south west corner of the arena. On contact with a player or boss, the Embolus will **explode** and **wipe the raid**. As the orb is quite small they can be easy to miss, so below is a picture of what they look like.
 
-{% include image.html path="/assets/images/308551274-baa31377-57ff-46d4-9a9e-f74e707f8fc9.webp" %}
+{% include image.html path="308551274-baa31377-57ff-46d4-9a9e-f74e707f8fc9.webp" %}
 
 So, after the first cast of **Exhaust**, the tanks should begin to drag their bosses to the centre to not only avoid the Embolus, but begin the **doll feeds**. At this point the melee DPS should be ready, or close to being ready to feed their dolls. If they need more time, they should move away and give space to the tanks to move.
 
@@ -262,11 +251,11 @@ Once players identify their numbers, everyone will stack in the middle to wait t
 
 See the below diagram on the possible locations for the 1st explosions - remember the 2 explosions will always be 180 degrees from each other. This image was taken from the strats channel in the MUR discord.
 
-{% include image.html path="/assets/images/305965283-63d8dfd4-0361-49d5-bb54-25e975158bc8.webp" %}
+{% include image.html path="305965283-63d8dfd4-0361-49d5-bb54-25e975158bc8.webp" %}
 
 Once the players reach their outer edge of the arena, we continue to dodge by rotating clockwise. To understand the spacing on how to move, notice how the circle in the middle part of the arena is sectioned into **pizza slices**, indicated by the drawn green lines:
 
-![TEALC]({{ site.baseurl }}/assets/images/305959471-8baa0e2c-2f67-48bf-b7d5-67f4c56f11cf.webp)
+{% include image.html path="305959471-8baa0e2c-2f67-48bf-b7d5-67f4c56f11cf.webp" %}
 
 As you can see, the AoE explosions are **2 pizza slices wide**. The epicentre of the explosion moves 1 pizza slice clockwise per explosion - so, for each explosion, **you can move up 1 pizza slice**. Remember to stop moving up after the 4th, as the next explosion will be in the middle, before the explosions resume from where they left off.
 
@@ -312,7 +301,7 @@ As a _general guide_ melee DPS should focus hitting BJ and ranged attacking CC. 
 
 CC then casts **Whirlwind**, a raidwide. Then, BJ will cast **Judgment Nisi**, inflicting a debuff that we call **Nisi** on either all supports or all DPS. There will be a blue (alpha), purple (gamma), orange (beta) and green (delta) Nisi, as shown below:
 
-{% include image.html path="/assets/images/305642478-d7651f8d-6757-493c-a4f5-94e73600bbed.webp" %}
+{% include image.html path="305642478-d7651f8d-6757-493c-a4f5-94e73600bbed.webp" %}
 
 A player carrying a Nisi will take mild DoT damage. The debuff lasts around 36 seconds in which afterwards the Nisi falls off. If a player with Nisi and a player with no debuff come in contact, the player with nothing receives the same Nisi with a fresh 36 second timer.
 
@@ -438,7 +427,7 @@ At this point, all players should be lined up except the OT, who is holding CC b
 
 Below is a screenshot from Kur Rumi's OT POV, showing the final BPOG lineup and how the ice block puts us out of CC's line of sight for Propeller Wind. If you pay attention to the party list debuffs you will also notice everyone's current Nisi matches their Verdict debuff:
 
-{% include image.html path="/assets/images/305801386-c5754e85-36c3-4913-a2f7-52015c36a483.webp" %}
+{% include image.html path="305801386-c5754e85-36c3-4913-a2f7-52015c36a483.webp" %}
 
 As CC finishes casting Propeller Wind, BJ will cast **Gavel**. If everyone has the correct Nisi as per the requirements of Verdict, he will clear all debuffs, as well as remove the ice block and water tornado. If anyone has no Nisi or the incorrect Nisi, BJ will wipe the raid here.
 
@@ -489,12 +478,12 @@ The debuffs are as below. They are **role-based**, one DPS and one support will 
 This is where everyone will stand to make this work:
 - Both **Aggravated Assault** players run hard east or west to the wall - whichever one BJ is closest to. This ensures they are far enough to not be hit by anything and do not bait any cleaves.
 - **No debuff** players go towards the left boss. The support will go north of the boss and the DPS will go south of the boss to bait their cleaves.
-- **Christmas tether** players go towards the right boss. The support will go north of the boss and the DPS will go south of the boss to bait their cleaves. You will notice the (1) waymark will be under this boss - the width of the waymark is approximately how far the 2 players should be for the Christmas tether to resolve safely. Here's a screenshot that demonstrates that: ![image]({{ site.baseurl }}/assets/images/305102604-4f371937-6aab-4332-8bc7-c2a6271c8245.webp)
+- **Christmas tether** players go towards the right boss. The support will go north of the boss and the DPS will go south of the boss to bait their cleaves. You will notice the (1) waymark will be under this boss - the width of the waymark is approximately how far the 2 players should be for the Christmas tether to resolve safely. Here's a screenshot that demonstrates that: {% include image.html path="305102604-4f371937-6aab-4332-8bc7-c2a6271c8245.webp" %}
 - Players with the **blue tether** will be across the room from each other - support to the west, DPS to the east. The player on the side nearest BJ should stand on the wall, with the Aggravated Assault players as they will not be baiting his flarethrower. **However**, the player on the side nearest CC should stand more inwards to ensure they bait his 3rd cleave (the D and 2 waymarks are good indicators on where to stand).
 
 Here is a diagram demonstrating the above information. Credits to Juno Dax for making this image.
 
-![TemporalStasisJuno]({{ site.baseurl }}/assets/images/305645723-31845dfb-fc41-4ad0-8f3c-5f6972c61b5a.webp)
+{% include image.html path="305645723-31845dfb-fc41-4ad0-8f3c-5f6972c61b5a.webp" %}
 
 Take note that in this scenario, as CC is on the right, D2 with the blue tether is a little more inwards and not on the wall to ensure they bait that 3rd CC cleave. If CC was on the left instead, D2 would be on the wall, the Aggravated Assault players on the right with D2 (as BJ would be there) and the H1 with blue tether would be a little more inwards to bait the CC cleave.
 
@@ -523,7 +512,7 @@ The first part of inception has 2 components occurring simulatneously - the **cr
 
 For the **crystals**, 4 players will receive a **large AoE spread marker** around them, which will **drop a crystal** when it explodes. These crystals **must not overlap** and their correct placement is **pivotal** in clearing the rest of the fight. These players should move themselves **relative south** (opposite Alexander Prime) and spread out in a box formation like so (credits to Sonya Sealle for the image):
 
-{% include image.html path="/assets/images/307308929-dc8059eb-95dd-44b1-ace2-849e2896f3e6.webp" %}
+{% include image.html path="307308929-dc8059eb-95dd-44b1-ace2-849e2896f3e6.webp" %}
 
 If positioned correctly, there will be a small channel of space running vertically in the centre line of the area. As soon as the crystals drop, the 4 players should run **relative north**, towards Alexander Prime because the crystals will shortly do proximity damage.
 
@@ -541,7 +530,7 @@ To resolve, tethered players should initially hang **north and opposite the side
 
 Notice the **4 red dots** (2 on each side) on the northern part of the arena: 
 
-{% include image.html path="/assets/images/307271087-0ab9b075-0d31-4b03-b4d7-ce976ba6060a.webp" %}
+{% include image.html path="307271087-0ab9b075-0d31-4b03-b4d7-ce976ba6060a.webp" %}
 
 Players should then move and **stand on a dot** that is on the side opposite of where their orb spawned. We generally say to pick the red dot that will make your tether cross over the tether of the person standing on the same side as you - but you don't need to be too pedantic about this.
 
@@ -618,7 +607,7 @@ Players can jump to see their number while stacked as a group.
 
 Let's start by going through the **Limit Cut** numbers. See the diagram below - we will once again be using the **red dots** to help position ourselves (which #1, #2, #3 and #4 are standing on in the below diagram). The red lines show where the chakrams will slice through. This screenshot is taken from Juno Dax's Wormhole toolbox.
 
-![WHN]({{ site.baseurl }}/assets/images/308012817-9109e13d-2645-45b0-8d76-7cb41fdc57b0.webp)
+{% include image.html path="308012817-9109e13d-2645-45b0-8d76-7cb41fdc57b0.webp" %}
 
 All **odd numbers move true west side** and all **even numbers move true east side**. Numbers 1/2 and 5/6 resolve their attacks **true north**, while numbers 3/4 and 7/8 resolve their numbers **true south**. We do it this way so CC only dashes around a small sector of the arena, rather than dashing across the middle.
 
@@ -710,7 +699,7 @@ As soon as players get their debuffs, everyone should begin to preposition as pe
 
 Below is a screenshot from the toolbox which demonstrates the above positioning.
 
-![FCB]({{ site.baseurl }}/assets/images/305698704-a882a1da-56df-4368-b56f-1a7fd00caff9.webp)
+{% include image.html path="305698704-a882a1da-56df-4368-b56f-1a7fd00caff9.webp" %}
 
 This positioning ensures that all the criteria are met for the debuffs to resolve without any deaths.
 
@@ -755,7 +744,7 @@ Once these debuffs present themselves, another dark/light sword falls indicating
 
 Next, 3 out of 4 of the north Perfect Alexander clones will shoot **Sacrament** line lasers, leaving 2 safe zones in the arena. The Alexander clone that does not shoot will **always** be one of the 2 middle ones - looking at the diagram below, if (out of the 2 middle ones), the left does not shoot, the blue areas are safe and if the right one does not shoot, the green areas are safe.
 
-![FCA]({{ site.baseurl }}/assets/images/305699323-9492ad23-92fd-433d-9b6c-4b28c71cb3f3.webp)
+{% include image.html path="305699323-9492ad23-92fd-433d-9b6c-4b28c71cb3f3.webp" %}
 
 - The defamation should stand in the northern safe zone so their explosion does not hit anyone.
 
@@ -796,7 +785,7 @@ Finally, one of the clones that J Jumped will cast **Radiant Sacrament**, a larg
 To resolve Fate Calibration Beta: 
 - The **Light Beacon** plants themselves on the yellow dot (commonly referred to as the nipple by players) left of the A waymark, near the wall. See as per the blue circle below:
   
-{% include image.html path="/assets/images/305677887-3ae1207d-22e5-4bab-ad39-ada5ef35f38c.webp" %}
+{% include image.html path="305677887-3ae1207d-22e5-4bab-ad39-ada5ef35f38c.webp" %}
 
 - The **Dark Beacon** plants dead centre of the 2 waymark. After the forced march, they will bait the east J Jump.
 
@@ -807,7 +796,7 @@ The remaining players will then position themselves relative to the 2 waywark:
 
 The diagram below shows a simple layout of where everyone will stand, given that the yellow box is the 2 waymark.
 
-{% include image.html path="/assets/images/305678514-cf7b09a4-89b1-469f-a9bb-b5cd7fc20ebc.webp" %}
+{% include image.html path="305678514-cf7b09a4-89b1-469f-a9bb-b5cd7fc20ebc.webp" %}
 
 At the end of Perfect Alexander's long Fate Calibration Beta cast, he comes untargetable and the forced march resolves. After, players have a couple moments to shuffle, allowing J Jump baiters to run to their cardinal and tethers to ensure they are the correct distance from each other. All players currently north should also group as a shared sentence will go off. 
 
@@ -835,7 +824,7 @@ Then, Perfect Alexander will do another set of trines, same mechanic as before, 
 
 Perfect Alexander begins casting **Temporal Prison** which is his enrage. During this long enrage cast, Perfect Alexander will gradually imprison each player in a time jail, essentially killing them. Notice how in the arena (image below), there are 7 circles with the perforated red outlines.
 
-{% include image.html path="/assets/images/305685188-3c4d3553-2f42-4656-9f95-9be5180b2b79.webp" %}
+{% include image.html path="305685188-3c4d3553-2f42-4656-9f95-9be5180b2b79.webp" %}
 
 Starting from the top right circle, going clockwise, Perfect Alexander will gradually place the time jails on each circle. A player MUST be in a jail as it falls, otherwise it will be an instant wipe.
 
