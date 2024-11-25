@@ -7,6 +7,7 @@ nav_order: 5
 expansion: Endwalker
 difficulty: Ultimate
 image: alphaomega.webp
+discussionlink: https://discord.com/channels/944115415385247784/1055803481820246056
 ---
 
 ### Credits

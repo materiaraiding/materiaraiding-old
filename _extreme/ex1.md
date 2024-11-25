@@ -6,6 +6,7 @@ nav_order: 1
 longtitle: Worqor Lar Dor (Extreme)
 expansion: Dawntrail
 difficulty: Extreme
+discussionlink: https://discord.com/channels/895516967543390249/1011883681222234182
 ---
 
 ## Macro

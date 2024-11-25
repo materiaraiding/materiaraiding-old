@@ -7,6 +7,7 @@ nav_order: 3
 expansion: Shadowbringers
 difficulty: Ultimate
 image: BJCC2.webp
+discussionlink: https://discord.com/channels/944115415385247784/954964515399811093
 ---
 
 ### Credits

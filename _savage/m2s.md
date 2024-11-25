@@ -6,6 +6,7 @@ longtitle: AAC Light-heavyweight M2 (Savage)
 nav_order: 2
 expansion: Dawntrail
 difficulty: Savage
+discussionlink: https://discord.com/channels/895516967543390249/1267677717495681064
 ---
 
 ### Credits

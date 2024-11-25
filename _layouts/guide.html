@@ -17,12 +17,17 @@ layout: default
 {% if page.difficulty == "Other Content" %}
     <h1 class="guide_title" style="margin-top: 0.1em; font-weight: 400;"><img class="guide_titleimg" src='{{ site.baseurl }}/assets/images/icons/highendduty.webp'/>{{ page.longtitle }}</h1>
 {% endif %}
-{% if page.difficulty == "Ultimate" %}
-    <div class="label-mur">Materia Ultimate Raiding</div>
-{% endif %}
-{% if page.difficulty == "Savage" or page.difficulty == "Extreme" or page.difficulty == "Other Content" %}
-    <div class="label-pf">Materia Party Finder</div>
-{% endif %}
+<div class="guide_label_box">
+    {% if page.difficulty == "Ultimate" %}
+    <div onclick="window.open('https://discord.gg/EySn5dRj65')" class="guide_label label_mur">MUR Strat</div>
+    {% endif %}
+    {% if page.difficulty == "Savage" or page.difficulty == "Extreme" or page.difficulty == "Other Content" %}
+        <div onclick="window.open('https://discord.gg/mur')" class="guide_label label_pf">MR Strat</div>
+    {% endif %}
+    {% if page.discussionlink != blank %}
+        <div onclick="window.open('{{ page.discussionlink }}')" class="guide_label label_discussion">Join Discussion</div>
+    {% endif %}
+</div>
 <br>
 
 {{ content }}

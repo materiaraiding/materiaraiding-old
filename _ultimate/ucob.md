@@ -7,6 +7,7 @@ nav_order: 1
 expansion: Stormblood
 difficulty: Ultimate
 image: goldenbaha.webp
+discussionlink: https://discord.com/channels/944115415385247784/954964367462514710
 ---
 
 ### Credits

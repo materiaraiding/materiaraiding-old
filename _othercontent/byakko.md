@@ -6,6 +6,7 @@ nav_order: 1
 longtitle: The Jade Stoa (Unreal)
 expansion: Dawntrail
 difficulty: Other Content
+discussionlink: https://discord.com/channels/895516967543390249/1011883681222234182
 ---
 
 ## Guide Video

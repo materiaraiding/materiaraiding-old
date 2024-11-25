@@ -6,6 +6,7 @@ longtitle: AAC Light-heavyweight M4 (Savage)
 nav_order: 4
 expansion: Dawntrail
 difficulty: Savage
+discussionlink: https://discord.com/channels/895516967543390249/1267677404135034930
 ---
 
 ### Credits

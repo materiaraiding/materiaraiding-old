@@ -6,6 +6,7 @@ longtitle: AAC Light-heavyweight M3 (Savage)
 nav_order: 3
 expansion: Dawntrail
 difficulty: Savage
+discussionlink: https://discord.com/channels/895516967543390249/1267677593943933080
 ---
 
 ### Credits

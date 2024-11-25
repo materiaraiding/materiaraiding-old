@@ -7,6 +7,7 @@ nav_order: 6
 expansion: Dawntrail
 difficulty: Ultimate
 image: eden.webp
+discussionlink: https://discord.com/channels/944115415385247784/1303228301015384106
 ---
 
 Currently Futures UNwritten...

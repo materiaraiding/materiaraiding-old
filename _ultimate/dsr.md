@@ -7,6 +7,7 @@ nav_order: 4
 expansion: Endwalker
 difficulty: Ultimate
 image: dkt.webp
+discussionlink: https://discord.com/channels/944115415385247784/954964560606015508
 ---
 
 ### Credits

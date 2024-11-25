@@ -6,6 +6,7 @@ nav_order: 3
 longtitle: Sphene's Burden (Extreme)
 expansion: Dawntrail
 difficulty: Extreme
+discussionlink: https://discord.com/channels/895516967543390249/1011883681222234182
 ---
 
 ## Macro

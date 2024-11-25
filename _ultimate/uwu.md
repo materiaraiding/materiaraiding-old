@@ -7,6 +7,7 @@ nav_order: 2
 expansion: Stormblood
 difficulty: Ultimate
 image: ultima.webp
+discussionlink: https://discord.com/channels/944115415385247784/954964398206758952
 ---
 
 ### Credits
