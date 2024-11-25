@@ -7,7 +7,7 @@ nav_order: 7
 
 # Raidplan Templates
 
-Raidplan is a great website for designing strats for fights. To save you time, we have compiled a set of premade Raidplan Templates you can use for building strats in upcoming fights. 
+To save you time, we have compiled a set of premade Raidplan Templates you can use for building strats in upcoming fights. Raidplan is a tool for designing raid strats from a top-down POV with multiple steps. 
 
 ### How do I use this?
 
