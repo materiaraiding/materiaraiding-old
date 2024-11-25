@@ -21,17 +21,17 @@ discussionlink: https://discord.com/channels/944115415385247784/9549645606060155
 1. TOC
 {:toc}
 
-### Toolboxes
+### Toolbox/Raidplan
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
-[Phase 1: Knights](https://ff14.toolboxgaming.space/?id=199680719834861&preview=1){: .btn }
-[Phase 2: Thordan](https://ff14.toolboxgaming.space/?id=110786314454861&preview=1){: .btn }
-[Phase 3: Nidhogg](https://ff14.toolboxgaming.space/?id=654299805191961&preview=1){: .btn }
-[Phase 4: Eyes](https://ff14.toolboxgaming.space/?id=674291612991961&preview=1){: .btn }
-[Phase 5: Dark Thordan: Wrath](https://ff14.toolboxgaming.space/?id=143466228734561&preview=1){: .btn }
-[Phase 5: Dark Thordan: Death](https://ff14.toolboxgaming.space/?id=268588669900861&preview=1){: .btn }
-[Phase 6: Double Dragons](https://ff14.toolboxgaming.space/?id=610785126654861&preview=1){: .btn }
-[Phase 7: Dragon King Thordan](){: .btn }
+[Phase 1: Knights](https://ff14.toolboxgaming.space/?id=199680719834861&preview=1){: .btn .btn-blue }
+[Phase 2: Thordan](https://ff14.toolboxgaming.space/?id=110786314454861&preview=1){: .btn .btn-blue }
+[Phase 3: Nidhogg](https://ff14.toolboxgaming.space/?id=654299805191961&preview=1){: .btn .btn-blue }
+[Phase 4: Eyes](https://ff14.toolboxgaming.space/?id=674291612991961&preview=1){: .btn .btn-blue }
+[Phase 5: Dark Thordan: Wrath](https://ff14.toolboxgaming.space/?id=143466228734561&preview=1){: .btn .btn-blue }
+[Phase 5: Dark Thordan: Death](https://ff14.toolboxgaming.space/?id=268588669900861&preview=1){: .btn .btn-blue }
+[Phase 6: Double Dragons](https://ff14.toolboxgaming.space/?id=610785126654861&preview=1){: .btn .btn-blue }
+[Phase 7: Dragon King Thordan](){: .btn .btn-blue }
 
 ### PoVs Videos
 Videos covering clears by different roles.
@@ -135,11 +135,11 @@ SGE/WHM:
 
 ### Buff Timings
 
-<div id="timingwindow">
-<div id="burstwindowwrap">
-<div id="window" markdown=1>
-<div id="windowheader">
-<h2 id="windowtitle">2-Minute Windows</h2>
+<div class="timingwindow">
+<div class="burstwindowwrap">
+<div class="window" markdown=1>
+<div class="windowheader">
+<div class="windowtitle">2-Minute Windows</div>
 <img src="{{ site.baseurl }}/assets/images/icons/phys.webp" alt="dmgup" style="height: 40px; float: right">
 </div>
 
@@ -154,10 +154,10 @@ SGE/WHM:
 
 </div>
 </div>
-<div id="potwindowwrap">
-<div id="window" markdown=1>
-<div id="windowheader">
-<h2 id="windowtitle">Pot Windows</h2>
+<div class="potwindowwrap">
+<div class="window" markdown=1>
+<div class="windowheader">
+<div class="windowtitle">Pot Windows</div>
 <img src="{{ site.baseurl }}/assets/images/icons/pot.webp" alt="pot" style="height: 40px; float: right">
 </div>
 
@@ -169,6 +169,18 @@ SGE/WHM:
 </div>
 </div>
 </div>
+
+### Waymarks
+These can be imported using an XIV Launcher Plugin.
+
+Phase 1
+```
+{"Name":"P1","MapID":788,"A":{"X":93.331,"Y":0.0,"Z":103.162,"ID":0,"Active":true},"B":{"X":96.814,"Y":0.0,"Z":106.708,"ID":1,"Active":true},"C":{"X":103.22,"Y":0.0,"Z":106.666,"ID":2,"Active":true},"D":{"X":106.597,"Y":0.0,"Z":103.18,"ID":3,"Active":true},"One":{"X":93.138,"Y":0.0,"Z":96.403,"ID":4,"Active":true},"Two":{"X":96.841,"Y":0.0,"Z":93.277,"ID":5,"Active":true},"Three":{"X":103.2,"Y":0.0,"Z":93.412,"ID":6,"Active":true},"Four":{"X":106.664,"Y":0.0,"Z":96.402,"ID":7,"Active":true}}
+```
+Phase 2 onwards
+```
+{"Name":"DSR","MapID":788,"A":{"X":99.663,"Y":0.0,"Z":80.695,"ID":0,"Active":true},"B":{"X":114.335,"Y":0.0,"Z":85.543,"ID":1,"Active":true},"C":{"X":120.013,"Y":0.0,"Z":99.957,"ID":2,"Active":true},"D":{"X":113.466,"Y":0.0,"Z":113.585,"ID":3,"Active":true},"One":{"X":99.991,"Y":0.0,"Z":120.12,"ID":4,"Active":true},"Two":{"X":85.942,"Y":0.0,"Z":113.995,"ID":5,"Active":true},"Three":{"X":79.691,"Y":0.0,"Z":100.098,"ID":6,"Active":true},"Four":{"X":85.919,"Y":0.0,"Z":86.197,"ID":7,"Active":true}}
+```
 
 ## Fight Writeup (W.I.P)
 {: .no_toc }

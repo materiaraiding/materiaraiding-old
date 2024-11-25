@@ -23,9 +23,7 @@ discussionlink: https://discord.com/channels/944115415385247784/9549645153998110
 1. TOC
 {:toc}
 
-### Toolboxes
-By MUR and Juno Dax
-
+### Toolbox/Raidplan
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 TEA has multiple Toolboxes, each are listed here in order of phases in the fight.
 
@@ -80,11 +78,11 @@ Space = Hold to select numbers
 
 ### Buff Timings
 
-<div id="timingwindow">
-<div id="burstwindowwrap">
-<div id="window" markdown=1>
-<div id="windowheader">
-<h2 id="windowtitle">2-Minute Windows</h2>
+<div class="timingwindow">
+<div class="burstwindowwrap">
+<div class="window" markdown=1>
+<div class="windowheader">
+<div class="windowtitle">2-Minute Windows</div>
 <img src="{{ site.baseurl }}/assets/images/icons/phys.webp" alt="dmgup" style="height: 40px; float: right">
 </div>
 
@@ -99,10 +97,10 @@ Space = Hold to select numbers
 
 </div>
 </div>
-<div id="potwindowwrap">
-<div id="window" markdown=1>
-<div id="windowheader">
-<h2 id="windowtitle">Pot Windows</h2>
+<div class="potwindowwrap">
+<div class="window" markdown=1>
+<div class="windowheader">
+<div class="windowtitle">Pot Windows</div>
 <img src="{{ site.baseurl }}/assets/images/icons/pot.webp" alt="pot" style="height: 40px; float: right">
 </div>
 
@@ -114,6 +112,13 @@ Space = Hold to select numbers
 </div>
 </div>
 </div>
+
+### Waymarks
+These can be imported using an XIV Launcher Plugin.
+
+```
+{"Name":"TEA","MapID":694,"A":{"X":100.007,"Y":0.0,"Z":86.474,"ID":0,"Active":true},"B":{"X":113.707,"Y":0.0,"Z":91.866,"ID":1,"Active":true},"C":{"X":100.085,"Y":0.0,"Z":115.876,"ID":2,"Active":true},"D":{"X":86.18,"Y":0.0,"Z":100.052,"ID":3,"Active":true},"One":{"X":107.96,"Y":0.0,"Z":100.164,"ID":4,"Active":true},"Two":{"X":113.778,"Y":0.0,"Z":100.118,"ID":5,"Active":true},"Three":{"X":99.848,"Y":0.0,"Z":107.723,"ID":6,"Active":true},"Four":{"X":108.031,"Y":0.0,"Z":107.966,"ID":7,"Active":true}}
+```
 
 ## Written Guide
 

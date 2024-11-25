@@ -21,14 +21,15 @@ discussionlink: https://discord.com/channels/944115415385247784/9549643674625147
 1. TOC
 {:toc}
 
-### Toolboxes
+### Toolbox/Raidplan
+Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
-[QMT](https://ff14.toolboxgaming.space/?id=877146678916361&preview=1){: .btn }
-[BFT](https://ff14.toolboxgaming.space/?id=838145884536361&preview=1){: .btn }
-[FRT](https://ff14.toolboxgaming.space/?id=810783368854861&preview=1){: .btn }
-[HFT](https://ff14.toolboxgaming.space/?id=740246169786361&preview=1){: .btn }
-[TST](https://ff14.toolboxgaming.space/?id=141245760517361&preview=1){: .btn }
-[GO](https://ff14.toolboxgaming.space/?id=803246524767361&preview=1){: .btn }
+[Quick March Trio (QMT)](https://ff14.toolboxgaming.space/?id=877146678916361&preview=1){: .btn .btn-blue }
+[Blackfire Trio (BFT)](https://ff14.toolboxgaming.space/?id=838145884536361&preview=1){: .btn .btn-blue }
+[Fellruin Trio (FRT)](https://ff14.toolboxgaming.space/?id=810783368854861&preview=1){: .btn .btn-blue }
+[Heavensfall Trio (HFT)](https://ff14.toolboxgaming.space/?id=740246169786361&preview=1){: .btn .btn-blue }
+[Tenstrike Trio (TST)](https://ff14.toolboxgaming.space/?id=141245760517361&preview=1){: .btn .btn-blue }
+[Grand Octet (GO)](https://ff14.toolboxgaming.space/?id=803246524767361&preview=1){: .btn .btn-blue }
 
 ### PoVs
 
@@ -152,11 +153,11 @@ Golden Bahamut Mits
 
 ### Buff Timings
 
-<div id="timingwindow">
-<div id="burstwindowwrap">
-<div id="window" markdown=1>
-<div id="windowheader">
-<h2 id="windowtitle">2-Minute Windows</h2>
+<div class="timingwindow">
+<div class="burstwindowwrap">
+<div class="window" markdown=1>
+<div class="windowheader">
+<div class="windowtitle">2-Minute Windows</div>
 <img src="{{ site.baseurl }}/assets/images/icons/phys.webp" alt="dmgup" style="height: 40px; float: right">
 </div>
 
@@ -170,10 +171,10 @@ Golden Bahamut Mits
 
 </div>
 </div>
-<div id="potwindowwrap">
-<div id="window" markdown=1>
-<div id="windowheader">
-<h2 id="windowtitle">Pot Windows</h2>
+<div class="potwindowwrap">
+<div class="window" markdown=1>
+<div class="windowheader">
+<div class="windowtitle">Pot Windows</div>
 <img src="{{ site.baseurl }}/assets/images/icons/pot.webp" alt="pot" style="height: 40px; float: right">
 </div>
 
@@ -185,6 +186,13 @@ Golden Bahamut Mits
 </div>
 </div>
 </div>
+
+### Waymarks
+These can be imported using an XIV Launcher Plugin.
+
+```
+{"Name":"UCoB","MapID":280,"A":{"X":-11.472,"Y":0.0,"Z":-16.383,"ID":0,"Active":true},"B":{"X":11.47153,"Y":0.0,"Z":-16.383,"ID":1,"Active":true},"C":{"X":19.31852,"Y":0.0,"Z":5.176381,"ID":2,"Active":true},"D":{"X":-19.319,"Y":0.0,"Z":5.176,"ID":3,"Active":true},"One":{"X":-7.57,"Y":0.0,"Z":-4.38,"ID":4,"Active":true},"Two":{"X":7.57,"Y":0.0,"Z":-4.38,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":8.75,"ID":6,"Active":true},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":true}}
+```
 
 ## Phase 1: Twintania
 

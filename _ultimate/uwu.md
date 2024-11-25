@@ -23,24 +23,17 @@ discussionlink: https://discord.com/channels/944115415385247784/9549643982067589
 1. TOC
 {:toc}
 
-### Toolboxes
+### Toolbox/Raidplan
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 UWU has multiple Toolboxes and each are listed here in order of phases in the fight.
 
-[Garuda](https://ff14.toolboxgaming.space/?id=882261013862561&preview=1){: .btn }
-[Ifrit](https://ff14.toolboxgaming.space/?id=562530446784261&preview=1){: .btn }
-[Titan](https://ff14.toolboxgaming.space/?id=982261963862561&preview=1){: .btn }
-[Lahabrea](https://ff14.toolboxgaming.space/?id=430631425646261&preview=1){: .btn }
-[Predation](https://ff14.toolboxgaming.space/?id=530635345646261&preview=1){: .btn }
-[Annihilation](https://ff14.toolboxgaming.space/?id=930637786646261&preview=1){: .btn }
-[Suppression](https://ff14.toolboxgaming.space/?id=192261294862561&preview=1){: .btn }
-
-### Waymarks
-These can be imported using an XIV Launcher Plugin.
-
-```
-{"Name":"Imported","MapID":539,"A":{"X":100.061,"Y":0.0,"Z":92.092,"ID":0,"Active":true},"B":{"X":106.897,"Y":0.0,"Z":100.122,"ID":1,"Active":true},"C":{"X":100.219,"Y":0.0,"Z":107.013,"ID":2,"Active":true},"D":{"X":93.161,"Y":0.0,"Z":100.149,"ID":3,"Active":true},"One":{"X":100.119,"Y":0.0,"Z":100.181,"ID":4,"Active":true},"Two":{"X":100.138,"Y":0.0,"Z":81.841,"ID":6,"Active":true},"Three":{"X":87.332,"Y":0.0,"Z":87.27,"ID":5,"Active":true},"Four":{"X":107.157,"Y":0.0,"Z":107.792,"ID":7,"Active":true}}
-```
+[Garuda](https://ff14.toolboxgaming.space/?id=882261013862561&preview=1){: .btn .btn-blue }
+[Ifrit](https://ff14.toolboxgaming.space/?id=562530446784261&preview=1){: .btn .btn-blue }
+[Titan](https://ff14.toolboxgaming.space/?id=982261963862561&preview=1){: .btn .btn-blue }
+[Lahabrea](https://ff14.toolboxgaming.space/?id=430631425646261&preview=1){: .btn .btn-blue }
+[Predation](https://ff14.toolboxgaming.space/?id=530635345646261&preview=1){: .btn .btn-blue }
+[Annihilation](https://ff14.toolboxgaming.space/?id=930637786646261&preview=1){: .btn .btn-blue }
+[Suppression](https://ff14.toolboxgaming.space/?id=192261294862561&preview=1){: .btn .btn-blue }
 
 ### PoV Videos
 by Kur Rumi
@@ -116,11 +109,11 @@ D3                                D4
 
 ### Buff Timings
 
-<div id="timingwindow">
-<div id="burstwindowwrap">
-<div id="window" markdown=1>
-<div id="windowheader">
-<h2 id="windowtitle">2-Minute Windows</h2>
+<div class="timingwindow">
+<div class="burstwindowwrap">
+<div class="window" markdown=1>
+<div class="windowheader">
+<div class="windowtitle">2-Minute Windows</div>
 <img src="{{ site.baseurl }}/assets/images/icons/phys.webp" alt="dmgup" style="height: 40px; float: right">
 </div>
 
@@ -133,10 +126,10 @@ D3                                D4
 
 </div>
 </div>
-<div id="potwindowwrap">
-<div id="window" markdown=1>
-<div id="windowheader">
-<h2 id="windowtitle">Pot Windows</h2>
+<div class="potwindowwrap">
+<div class="window" markdown=1>
+<div class="windowheader">
+<div class="windowtitle">Pot Windows</div>
 <img src="{{ site.baseurl }}/assets/images/icons/pot.webp" alt="pot" style="height: 40px; float: right">
 </div>
 
@@ -147,6 +140,13 @@ D3                                D4
 </div>
 </div>
 </div>
+
+### Waymarks
+These can be imported using an XIV Launcher Plugin.
+
+```
+{"Name":"Imported","MapID":539,"A":{"X":100.061,"Y":0.0,"Z":92.092,"ID":0,"Active":true},"B":{"X":106.897,"Y":0.0,"Z":100.122,"ID":1,"Active":true},"C":{"X":100.219,"Y":0.0,"Z":107.013,"ID":2,"Active":true},"D":{"X":93.161,"Y":0.0,"Z":100.149,"ID":3,"Active":true},"One":{"X":100.119,"Y":0.0,"Z":100.181,"ID":4,"Active":true},"Two":{"X":100.138,"Y":0.0,"Z":81.841,"ID":6,"Active":true},"Three":{"X":87.332,"Y":0.0,"Z":87.27,"ID":5,"Active":true},"Four":{"X":107.157,"Y":0.0,"Z":107.792,"ID":7,"Active":true}}
+```
 
 # Written Guide
 

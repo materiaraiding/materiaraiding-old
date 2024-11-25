@@ -69,7 +69,7 @@ By Kobe
 
 {% include videoembed.html videoid="eN3IzaXPGQg" %}
 
-### Toolboxes
+### Toolbox/Raidplan
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
 [Barbarous Barrage Toolbox](https://raidplan.io/plan/CWX-puH0h72E14CF){: .btn .btn-blue }

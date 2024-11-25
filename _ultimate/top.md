@@ -21,21 +21,21 @@ discussionlink: https://discord.com/channels/944115415385247784/1055803481820246
 1. TOC
 {:toc}
 
-### Toolboxes
+### Toolbox/Raidplan
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
-[P1 Beetle](https://ff14.toolboxgaming.space/?id=758088204654761&preview=1){: .btn }
-[P2 M&F](https://ff14.toolboxgaming.space/?id=043186470764761&preview=1){: .btn }
-[P3 Final Omega](https://ff14.toolboxgaming.space/?id=949384711756761&preview=1){: .btn }
-[P4 Blue Screen](https://ff14.toolboxgaming.space/?id=595188367474761&preview=1){: .btn }
+[P1 Beetle](https://ff14.toolboxgaming.space/?id=758088204654761&preview=1){: .btn .btn-blue }
+[P2 M&F](https://ff14.toolboxgaming.space/?id=043186470764761&preview=1){: .btn .btn-blue }
+[P3 Final Omega](https://ff14.toolboxgaming.space/?id=949384711756761&preview=1){: .btn .btn-blue }
+[P4 Blue Screen](https://ff14.toolboxgaming.space/?id=595188367474761&preview=1){: .btn .btn-blue }
 
-[P5 Dynamis Delta](https://ff14.toolboxgaming.space/?id=732288275415761&preview=1){: .btn }
-[P5 Dynamis Sigma](https://ff14.toolboxgaming.space/?id=107380954136761&preview=1){: .btn }
-[P5 Dynamis Omega](https://ff14.toolboxgaming.space/?id=078384491946761&preview=1){: .btn }
+[P5 Dynamis Delta](https://ff14.toolboxgaming.space/?id=732288275415761&preview=1){: .btn .btn-blue }
+[P5 Dynamis Sigma](https://ff14.toolboxgaming.space/?id=107380954136761&preview=1){: .btn .btn-blue }
+[P5 Dynamis Omega](https://ff14.toolboxgaming.space/?id=078384491946761&preview=1){: .btn .btn-blue }
 
-[P6 Alpha Omega](https://ff14.toolboxgaming.space/?id=829484027197761&preview=1){: .btn }
+[P6 Alpha Omega](https://ff14.toolboxgaming.space/?id=829484027197761&preview=1){: .btn .btn-blue }
 
-[All TOP Positions](https://ff14.toolboxgaming.space/?id=510586440608761&preview=1){: .btn }
+[All TOP Positions](https://ff14.toolboxgaming.space/?id=510586440608761&preview=1){: .btn .btn-blue }
 
 ### PoV Videos
 Videos covering clears by different roles.
@@ -67,11 +67,11 @@ Code for Waymark Plugin
 
 ### Buff Timings
 
-<div id="timingwindow">
-<div id="burstwindowwrap">
-<div id="window" markdown=1>
-<div id="windowheader">
-<h2 id="windowtitle">2-Minute Windows</h2>
+<div class="timingwindow">
+<div class="burstwindowwrap">
+<div class="window" markdown=1>
+<div class="windowheader">
+<div class="windowtitle">2-Minute Windows</div>
 <img src="{{ site.baseurl }}/assets/images/icons/phys.webp" alt="dmgup" style="height: 40px; float: right">
 </div>
 
@@ -96,10 +96,10 @@ Cont..
 
 </div>
 </div>
-<div id="potwindowwrap">
-<div id="window" markdown=1>
-<div id="windowheader">
-<h2 id="windowtitle">Pot Windows</h2>
+<div class="potwindowwrap">
+<div class="window" markdown=1>
+<div class="windowheader">
+<div class="windowtitle">Pot Windows</div>
 <img src="{{ site.baseurl }}/assets/images/icons/pot.webp" alt="pot" style="height: 40px; float: right">
 </div>
 

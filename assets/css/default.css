@@ -76,53 +76,50 @@ html,
 
 /* Buff and Pot Timing Windows */
 
-#timingwindow {
-    display: flex; 
-    flex-direction: row; 
-    gap: 10px;
-    flex-wrap: wrap;
-    align-items: start;
+.timingwindow {
+    display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     margin-top: 1.5em;
+    column-gap: 0.5rem;
+    row-gap: 0.5rem;
 }
 
-#potwindowwrap {
+.potwindowwrap {
     border: 0px solid #aaa;
     border-radius: 6px;
-    max-width: 463px;
     background: linear-gradient(135deg, #fffdfd, #f77d7d);
     padding: 0.13em;
-    flex-grow: 1;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
 }
 
-#burstwindowwrap {
+.burstwindowwrap {
     border: 0px solid #aaa;
     border-radius: 6px;
-    max-width: 463px;
     background: linear-gradient(135deg, #fffdfd, #7dcaf7);
     padding: 0.13em;
-    flex-grow: 1;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
 }
 
-#window {
+.window {
     border: 0px solid #aaa;
     border-radius: 4px;
     background-color: #302d36;
     padding: 0.5em 0.5em 0.5em 0.7em;
+    height: 100%;
 }
 
-#windowheader {
+.windowheader {
     display: flex; 
     flex-direction: row; 
     justify-content: space-between; 
     align-items: center;
 }
 
-#windowtitle {
+.windowtitle {
     display: inline-block;
     font-size: 1.3em;
     margin-top: 0em;
+    font-weight: 600;
 }
 
 .center {

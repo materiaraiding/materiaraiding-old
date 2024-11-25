@@ -55,7 +55,7 @@ By Kobe
 
 {% include videoembed.html videoid="4nN8KSS2EGs" %}
 
-### Toolboxes
+### Toolbox/Raidplan
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
 [Mouser Toolbox](https://raidplan.io/plan/bZmdPoU2lde6UbSu){: .btn .btn-blue }

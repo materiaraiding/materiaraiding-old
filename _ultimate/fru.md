@@ -27,7 +27,8 @@ Currently Futures UNwritten...
 1. TOC
 {:toc}
 
-### Toolboxes
+### Toolbox/Raidplan
+Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
 ### PoV Videos
 
