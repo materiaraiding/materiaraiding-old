@@ -18,7 +18,7 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 ### Credits
 {: .no_toc }
 - Written guide by Juno
-- Diagrams by Juno, Em, MUR
+- Diagrams by Juno, Em, Pipiro, MUR
 
 ### Table of Contents
 {: .no_toc }
@@ -33,6 +33,8 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 [P1 KB Stacks/Enums](https://raidplan.io/plan/skr96BcfbTlcJzmJ){: .btn .btn-blue }
 [P1 Tethers (Credit Kindred)](https://raidplan.io/plan/lYh_0GmQp42ho9B0){: .btn .btn-blue }
 [P1 Towers Fixed Ranged](https://raidplan.io/plan/abSWBVZClS5m1HwD){: .btn .btn-blue }
+
+[Phase 2 - Shiva](https://raidplan.io/plan/UWRJc6PQhPjdgNSI){: .btn .btn-blue }
 
 ### PoV Videos
 
