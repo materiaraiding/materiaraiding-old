@@ -33,7 +33,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 [P1 Proteans](https://raidplan.io/plan/kTBKrMTcNdb71p0V){: .btn .btn-blue }
 [P1 KB Stacks/Enums](https://raidplan.io/plan/skr96BcfbTlcJzmJ){: .btn .btn-blue }
 [P1 Tethers (Credit Kindred)](https://raidplan.io/plan/lYh_0GmQp42ho9B0){: .btn .btn-blue }
-[P1 Towers](https://raidplan.io/plan/7EhT7X5af3veWcmI){: .btn .btn-blue }
+[P1 Towers Fixed Ranged](https://raidplan.io/plan/abSWBVZClS5m1HwD){: .btn .btn-blue }
 
 ### PoV Videos
 
