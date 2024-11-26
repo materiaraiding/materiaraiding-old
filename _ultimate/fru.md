@@ -18,7 +18,7 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 ### Credits
 {: .no_toc }
 - Written guide by Juno
-- Diagrams by Juno, MUR
+- Diagrams by Juno, Em, MUR
 
 ### Table of Contents
 {: .no_toc }
@@ -61,6 +61,8 @@ These proteans will repeat in the position they are baited, and then alternate t
 
 For **Fire Aspected** Cyclonic Break, Support players will rotate CCW into the safe spot, and DPS players will rotate CW into the safe spot.
 For **Lightning Aspected** Cyclonic Break each player will move to the following spread:
+
+[P1 Proteans](https://raidplan.io/plan/kTBKrMTcNdb71p0V){: .btn .btn-blue }
 
 {% include image.html path="https://github.com/user-attachments/assets/f2acb5d8-d021-437c-abde-aa16659e11b8" %}
 
