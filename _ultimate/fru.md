@@ -10,11 +10,10 @@ image: eden.webp
 discussionlink: https://discord.com/channels/944115415385247784/1303228301015384106
 ---
 
-Currently Futures UNwritten...
-
 {: .warning }
+> ## IMPORTANT
 > This guide will be written using prog strats and is mainly an explanation of how mechanics work and their failure conditions.
-> This guide will be updated as strats are standardised in the OCE community.
+> This guide will be updated as strats are standardised in the OCE community, everything is subject to change.
 
 ### Credits
 {: .no_toc }
