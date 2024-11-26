@@ -50,11 +50,17 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 Throughout this phase Fatebreaker will aspect his abilities with either Fire or Lightning.
 
->Fire Aspected **Cyclonic Break** will resolve in a role-based partner stack. 
->Lightning Aspected **Cyclonic Break** will resolve in large spread AOEs on each player.
->
->Fire Aspected **Strike Break** will result in a very strong knockback after the initial hit.
->Lightning Aspected **Strike Break** will result in the line AOE expanding to 2x it's width after the initial hit.
+Fire Aspected **Cyclonic Break**
+: Role-based partner stack.
+
+Lightning Aspected **Cyclonic Break**
+: Large spread AOEs on each player.
+
+Fire Aspected **Strike Break**
+: Very strong knockback after the initial hit.
+
+Lightning Aspected **Strike Break**
+: Line AOE expanding to 2x it's width after the initial hit.
 
 After a few heavy hitting auto attacks, Fatebreaker will cast **Cyclonic Break** which will target each player with proteans.
 These proteans will repeat in the position they are baited, and then alternate to the previous safe spot twice.
