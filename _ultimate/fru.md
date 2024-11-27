@@ -30,21 +30,9 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
 [P1 Proteans & Utopian Sky](https://raidplan.io/plan/WlRr-qtrUTEPiaJZ){: .btn .btn-blue }
-[P1 KB Stacks/Enums](https://raidplan.io/plan/skr96BcfbTlcJzmJ){: .btn .btn-blue }
-[P1 Tethers (Credit Kindred)](https://raidplan.io/plan/lYh_0GmQp42ho9B0){: .btn .btn-blue }
 [P1 Towers Fixed Ranged](https://raidplan.io/plan/abSWBVZClS5m1HwD){: .btn .btn-blue }
 
 [Phase 2 - Shiva](https://raidplan.io/plan/UWRJc6PQhPjdgNSI){: .btn .btn-blue }
-
-### PoV Videos
-
-### Mitigation Plan
-
-### Cheatsheet
-
-### Waymarks
-
-### Buff Timings
 
 ### Diagrams (Early Prog Plan)
 By Kobe
@@ -58,17 +46,23 @@ By Kobe
 {% include image.html width="600px" path="https://github.com/user-attachments/assets/7b066a72-4327-49b0-ab88-39129b02f892" %}
 {% include image.html width="600px" path="https://github.com/user-attachments/assets/24ec7b38-c181-4c25-bdba-dded10d78b65" %}
 
+---
+
 ### Utopian Sky
 {: .no_toc }
 {% include image.html width="600px" path="https://github.com/user-attachments/assets/9bfeb30f-c39a-4031-affe-178f028a58c1" %}
 {% include image.html width="600px" path="https://github.com/user-attachments/assets/99085f52-285b-4906-a00c-6bd966415411" %}
 {% include image.html width="600px" path="https://github.com/user-attachments/assets/9004eb75-6af7-4ad3-b384-e9a621a742ff" %}
 
+---
+
 ### Tethers 1
 {: .no_toc }
 {% include image.html width="600px" path="https://github.com/user-attachments/assets/9a361e22-93b6-4626-9ff6-affacda26bde" %}
 {% include image.html width="600px" path="https://github.com/user-attachments/assets/949fcd1e-c96c-4232-b6cd-7f7170ce0b3a" %}
 {% include image.html width="600px" path="https://github.com/user-attachments/assets/ca78a90f-ff7d-4d58-a147-8a2496f72c63" %}
+
+---
 
 ### Tethers 2
 {: .no_toc }
@@ -79,11 +73,23 @@ By Kobe
 {% include image.html width="600px" path="https://github.com/user-attachments/assets/3b91c1db-9025-4dc0-9ff8-a388557812aa" %}
 {% include image.html width="600px" path="https://github.com/user-attachments/assets/6c22f419-3016-48d6-9354-c01b6441a6c9" %}
 
+---
+
 ### Towers
 {: .no_toc }
 {% include image.html width="600px" path="https://github.com/user-attachments/assets/9c9b1b59-d875-4cf2-8455-cc72afa87cce" %}
 
 </details>
+
+### PoV Videos
+
+### Mitigation Plan
+
+### Cheatsheet
+
+### Waymarks
+
+### Buff Timings
 
 # Phase 1: Fatebreaker
 
