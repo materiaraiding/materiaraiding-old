@@ -34,53 +34,6 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 [Phase 2 - Shiva](https://raidplan.io/plan/UWRJc6PQhPjdgNSI){: .btn .btn-blue }
 
-### Diagrams (Early Prog Plan)
-By Kobe
-
-<details markdown=1>
-<summary>Phase 1 Diagrams</summary>
-
-### Basic Spread and Pairs/Spreads
-{: .no_toc }
-{% include image.html width="600px" path="https://github.com/user-attachments/assets/cfc624e3-a416-4927-9e3d-5c3b5c22e9c1" %}
-{% include image.html width="600px" path="https://github.com/user-attachments/assets/7b066a72-4327-49b0-ab88-39129b02f892" %}
-{% include image.html width="600px" path="https://github.com/user-attachments/assets/24ec7b38-c181-4c25-bdba-dded10d78b65" %}
-
----
-
-### Utopian Sky
-{: .no_toc }
-{% include image.html width="600px" path="https://github.com/user-attachments/assets/9bfeb30f-c39a-4031-affe-178f028a58c1" %}
-{% include image.html width="600px" path="https://github.com/user-attachments/assets/99085f52-285b-4906-a00c-6bd966415411" %}
-{% include image.html width="600px" path="https://github.com/user-attachments/assets/9004eb75-6af7-4ad3-b384-e9a621a742ff" %}
-
----
-
-### Tethers 1
-{: .no_toc }
-{% include image.html width="600px" path="https://github.com/user-attachments/assets/9a361e22-93b6-4626-9ff6-affacda26bde" %}
-{% include image.html width="600px" path="https://github.com/user-attachments/assets/949fcd1e-c96c-4232-b6cd-7f7170ce0b3a" %}
-{% include image.html width="600px" path="https://github.com/user-attachments/assets/ca78a90f-ff7d-4d58-a147-8a2496f72c63" %}
-
----
-
-### Tethers 2
-{: .no_toc }
-{% include image.html width="600px" path="https://github.com/user-attachments/assets/f4c71595-303c-4673-a375-3f11a8a7b053" %}
-{% include image.html width="600px" path="https://github.com/user-attachments/assets/8b0ce6d4-f346-42a7-b8d7-3263ef686e79" %}
-{% include image.html width="600px" path="https://github.com/user-attachments/assets/2ed0a8b8-5dce-4c1c-ad0c-71cb858c433e" %}
-{% include image.html width="600px" path="https://github.com/user-attachments/assets/d3538d27-39bf-428f-82d6-90125f71a714" %}
-{% include image.html width="600px" path="https://github.com/user-attachments/assets/3b91c1db-9025-4dc0-9ff8-a388557812aa" %}
-{% include image.html width="600px" path="https://github.com/user-attachments/assets/6c22f419-3016-48d6-9354-c01b6441a6c9" %}
-
----
-
-### Towers
-{: .no_toc }
-{% include image.html width="600px" path="https://github.com/user-attachments/assets/9c9b1b59-d875-4cf2-8455-cc72afa87cce" %}
-
-</details>
-
 ### PoV Videos
 
 ### Mitigation Plan
