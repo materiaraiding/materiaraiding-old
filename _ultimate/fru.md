@@ -30,6 +30,7 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
 [P1 Proteans & Utopian Sky](https://raidplan.io/plan/WlRr-qtrUTEPiaJZ){: .btn .btn-blue }
+[P1 Tethers 2 East/West](https://raidplan.io/plan/TOsL-pQk0vGJXBS7){: .btn .btn-blue }
 [P1 Towers Fixed Ranged](https://raidplan.io/plan/abSWBVZClS5m1HwD){: .btn .btn-blue }
 
 [Phase 2 - Shiva](https://raidplan.io/plan/UWRJc6PQhPjdgNSI){: .btn .btn-blue }
