@@ -33,7 +33,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 [P1 Tethers 2 East/West](https://raidplan.io/plan/TOsL-pQk0vGJXBS7){: .btn .btn-blue }
 [P1 Towers Fixed Ranged](https://raidplan.io/plan/abSWBVZClS5m1HwD){: .btn .btn-blue }
 
-[Phase 2 - Shiva](https://raidplan.io/plan/UWRJc6PQhPjdgNSI){: .btn .btn-blue }
+[Phase 2 - Diamond Dust](https://raidplan.io/plan/hV-43Ecic05fvBBL){: .btn .btn-blue }
 
 ### PoV Videos
 
@@ -47,7 +47,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 ### Buff Timings
 
-# Phase 1: Fatebreaker
+## Phase 1: Fatebreaker
 
 Throughout this phase Fatebreaker will aspect his abilities with either Fire or Lightning.
 
@@ -137,3 +137,6 @@ The remaining players will split evenly so West/East both have 4 players.
 
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/9c9b1b59-d875-4cf2-8455-cc72afa87cce" %}
 
+## Phase 2 - Shiva
+
+[Phase 2 - Diamond Dust](https://raidplan.io/plan/hV-43Ecic05fvBBL){: .btn .btn-blue }
