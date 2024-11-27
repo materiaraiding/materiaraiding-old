@@ -103,11 +103,15 @@ After the spreads or stacks resolve, Fatebreaker will drop into the middle of th
 
 Immediately following the Cyclonic Break, players will either move North or South to avoid the Strike Break. To the north, a Fire Aspected clone will begin to cast Strike Break. At the same time, two random players will be targeted for light party stacks via a **Bound of Faith** cast. 
 
-Light party 1 will move slightly to the north, and Light party 2 will move slightly to the south. If a swap is required, melee will flex as needed. Using the knock back from Strike Break, each party will be knocked North East/West and South East/West depending where the safespot is. 
+Light party 1 will move slightly to the north, and Light party 2 will move slightly to the south. If a swap is required, melee will flex as needed. Using the knock back from Strike Break, each party will be knocked North East/West and South East/West depending where the safespot is.
+
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/9a361e22-93b6-4626-9ff6-affacda26bde" %}
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/949fcd1e-c96c-4232-b6cd-7f7170ce0b3a" %}
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/ca78a90f-ff7d-4d58-a147-8a2496f72c63" %}
 
 If these light parties are not an even 4/4 split, players will be hit with a heavy damage down.
 
-Fatebreaker will then appear in the center of the arena nad cast "Burnished Glory", a hard hitting raidwide with a bleed attached.
+Fatebreaker will then appear in the center of the arena and cast "Burnished Glory", a hard hitting raidwide with a bleed attached.
 
 Following this, Fatebreaker casts:
 
@@ -121,16 +125,6 @@ These tethers are slightly different to the previous Bound of Faith mechanics in
 
 To resolve this, the party will line up south of Fatebreaker. As the tethers are placed, the 1st and 3rd tether will go to the West of Fatebreaker, and 2nd and 4th tether players will go to the East of Fatebreaker.
 The remaining players will split evenly so West/East both have 4 players. 
-
-
-
-### Tethers 1
-
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/9a361e22-93b6-4626-9ff6-affacda26bde" %}
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/949fcd1e-c96c-4232-b6cd-7f7170ce0b3a" %}
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/ca78a90f-ff7d-4d58-a147-8a2496f72c63" %}
-
-### Tethers 2
 
 [P1 Tethers 2 East/West](https://raidplan.io/plan/TOsL-pQk0vGJXBS7){: .btn .btn-blue }
 
