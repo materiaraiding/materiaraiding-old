@@ -113,12 +113,10 @@ If these light parties are not an even 4/4 split, players will be hit with a hea
 
 ### Tethers 2
 
+[P1 Tethers 2 East/West](https://raidplan.io/plan/TOsL-pQk0vGJXBS7){: .btn .btn-blue }
+
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/f4c71595-303c-4673-a375-3f11a8a7b053" %}
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/8b0ce6d4-f346-42a7-b8d7-3263ef686e79" %}
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/2ed0a8b8-5dce-4c1c-ad0c-71cb858c433e" %}
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/d3538d27-39bf-428f-82d6-90125f71a714" %}
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/3b91c1db-9025-4dc0-9ff8-a388557812aa" %}
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/6c22f419-3016-48d6-9354-c01b6441a6c9" %}
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/018171a6-3c2a-4c59-a9a1-737a7881e494" %}
 
 ### Towers
 
