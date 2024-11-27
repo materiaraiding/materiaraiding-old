@@ -29,7 +29,7 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 ### Toolbox/Raidplan
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
-[P1 Proteans](https://raidplan.io/plan/kTBKrMTcNdb71p0V){: .btn .btn-blue }
+[P1 Proteans & Utopian Sky](https://raidplan.io/plan/WlRr-qtrUTEPiaJZ){: .btn .btn-blue }
 [P1 KB Stacks/Enums](https://raidplan.io/plan/skr96BcfbTlcJzmJ){: .btn .btn-blue }
 [P1 Tethers (Credit Kindred)](https://raidplan.io/plan/lYh_0GmQp42ho9B0){: .btn .btn-blue }
 [P1 Towers Fixed Ranged](https://raidplan.io/plan/abSWBVZClS5m1HwD){: .btn .btn-blue }
