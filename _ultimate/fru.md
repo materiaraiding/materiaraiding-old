@@ -125,8 +125,42 @@ Fatebreaker will begin the mechanic by targeting a random player with either a *
 
 These tethers are slightly different to the previous Bound of Faith mechanics in that **Fire** tethers will launch a large conal light party stack at the nearest player, whilst **Lightning** tethers will launch 3 large conal AOEs on the nearest players.
 
-To resolve this, the party will line up south of Fatebreaker. As the tethers are placed, the 1st and 3rd tether will go to the West of Fatebreaker, and 2nd and 4th tether players will go to the East of Fatebreaker.
-The remaining players will split evenly so West/East both have 4 players. 
+To resolve this, the party will line up south of Fatebreaker. As the tethers are placed, the 1st and 3rd tether will go to the West of Fatebreaker, and 2nd and 4th tether will go to the East of Fatebreaker. 
+
+The 1st and 2nd tethers will start by placing themselves on the hitbox of the boss, with the 3rd and 4th tethers slighlty outside the hitbox in front of them.
+
+The remaining players will split evenly so West/East both have 4 players. The player closest to the side they end up on (East/West most) will take the north position during Lightning Baits, with the remaining player filling the south position.
+
+As the tethers begin to resolve, players need to pay attention to whether it is a fire of a lightning tether to be in the correct position.
+
+{: .note }
+> Because the tether colour disappears quickly on the first tether, it can be useful to commit this one to memory.
+
+Once a tether goes off on each side, the tethered players should swap positions.
+
+After another **Burnished Glory**, Fatebreaker will do anotber **Powder Mark** tankbuster befote casting the final mechanic:
+
+### Burst Strike / Enum Towers
+
+Fatebreaker will begin to channel burst strike and 3 towers will appear on the West or East wall. These towers will require 6 members from the team to soak them, with a maximum of 4 players in one tower.
+
+H1 H2 and D4 will anchor the towers from North to South and the remaining players D1 D2 and D3 will flex into any open spots from North to South.
+
+If Burst Strike is Fire Aspected, players will ride the knockback into their respective tower.
+
+If Burst Strike is Lightning Aspected, players can simply step out into their tower immediately.
+
+Whilst this is happening, the tanks will be utilising the opposite half of the arena to resolve their **Powder Mark** debuff in the same manner as the previous tankbusters.
+
+Finally, Fatebreaker will cast his enrage:
+
+### Burnished Glory
+
+## Phase 2: Usurper of Frost
+
+Phase 2 begins with a tankbuster **Quadruple Slap, before starting the first major mechanic:
+
+### Diamond Dust
 
 [P1 Tethers 2 East/West](https://raidplan.io/plan/TOsL-pQk0vGJXBS7){: .btn .btn-blue }
 
