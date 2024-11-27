@@ -126,15 +126,18 @@ After the initial hit of **Powder Mark Trail**, Fatebreaker will cast the trio o
 
 This mechanic can be Fire or Lightning aspected. Fire will result in 2 light party stacks targeted on each healer, and Lightning will result in large AOEs on each player.
 
-Fatebreaker will go untargetable and jump away as fog fills the arena. Each non-tank will then spread to the wall on their protean positions where a clone of Fatebreaker will be seen. 
+Fatebreaker will go untargetable and jump away as fog fills the arena. Party members will spread to the wall in protean positions with ST and D4 swapped. ST and MT will resolve their (debuff) by moving slightly closer together at the wall.
 
-The tanks will resolve their (debuff) before also spreading to the wall.
+{% include image.html width="600px" path="https://github.com/user-attachments/assets/9bfeb30f-c39a-4031-affe-178f028a58c1" %}
 
 While at the wall, 3 clones will raise their arms. The players who's clones arms have raised will walk into the center of the arena, and any player directly opposite them will also walk in. 
 This will result in 2 people remaining on the wall and subsequently form a small triangular safe spot. 
 
 After arriving at the safespot, the party will either stack or spread. The spread is identical to **Sanctity** from DSR. 
 The DPS can move 3.5 notches from the star on the arena edge to determine a safe distance from the healer.
+
+{% include image.html width="600px" path="https://github.com/user-attachments/assets/99085f52-285b-4906-a00c-6bd966415411" %}
+{% include image.html width="600px" path="https://github.com/user-attachments/assets/9004eb75-6af7-4ad3-b384-e9a621a742ff" %}
 
 After the spreads or stacks resolve, Fatebreaker will drop into the middle of the room **untargetable** and begin to cast another aspected Cyclonic Break. Another Lightning Aspected Fatebreaker clone will spawn on the West of the arena casting Strike Break. As the proteans resolve, another clone will spawn in the middle of the arena that is either Fire or Lightning Aspected. What is **NOT** aspected here will be the safespot in the upcoming mechanic.
 
