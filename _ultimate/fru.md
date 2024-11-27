@@ -113,9 +113,8 @@ These proteans will repeat in the position they are baited, and then alternate t
 For **Fire Aspected** Cyclonic Break, Support players will rotate CCW into the safe spot, and DPS players will rotate CW into the safe spot.
 For **Lightning Aspected** Cyclonic Break each player will move to the following spread:
 
-[P1 Proteans](https://raidplan.io/plan/kTBKrMTcNdb71p0V){: .btn .btn-blue }
-
-{% include image.html path="https://github.com/user-attachments/assets/f2acb5d8-d021-437c-abde-aa16659e11b8" %}
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/7b066a72-4327-49b0-ab88-39129b02f892" %}
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/24ec7b38-c181-4c25-bdba-dded10d78b65" %}
 
 After this resolves, Fatebreaker will cast **Powder Mark Trail**, hitting the MT with a heavy tankbuster and marking them with 15s (debuff) debuff.
 
