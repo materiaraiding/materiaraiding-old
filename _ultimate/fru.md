@@ -43,6 +43,8 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 ### Waymarks
 
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/29e198e0-eeae-44bd-b639-e70bf19156d3" %}
+
 ### Buff Timings
 
 # Phase 1: Fatebreaker
