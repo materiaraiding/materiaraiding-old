@@ -18,7 +18,7 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 ### Credits
 {: .no_toc }
 - Written guide by Juno
-- Diagrams by Juno, Em, Pipiro, MUR
+- Diagrams by Juno, Em, Pipiro, Kobe, MUR
 
 ### Table of Contents
 {: .no_toc }
