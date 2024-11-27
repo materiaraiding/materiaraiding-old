@@ -74,7 +74,7 @@ For **Lightning Aspected** Cyclonic Break each player will move into the same pr
 
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/24ec7b38-c181-4c25-bdba-dded10d78b65" %}
 
-After this resolves, Fatebreaker will cast **Powder Mark Trail**, hitting the MT with a heavy tankbuster and marking them with 15s debuff of the same name.
+After this resolves, Fatebreaker will cast **Powder Mark Trail**, hitting the MT with a heavy tankbuster and marking them with a 15s debuff of the same name.
 
 Once this debuff falls off, the marked player and the closest ally to them will take a small circular AOE tankbuster.
 
@@ -88,7 +88,7 @@ Fatebreaker will go untargetable and jump away as fog fills the arena. Party mem
 
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/9bfeb30f-c39a-4031-affe-178f028a58c1" %}
 
-While at the wall, 3 clones will raise their arms. The players who's clones arms have raised will walk into the center of the arena, and any player directly opposite them will also walk in. 
+While at the wall, 3 clones will raise their arms. Any clone with an arm raised with dash through the arena in a large cleave. The players who's clones arms have raised will walk into the center of the arena, and any player directly opposite them will also walk in. 
 This will result in 2 people remaining on the wall and subsequently form a small triangular safe spot. 
 
 After arriving at the safespot, the party will either stack or spread. The spread is identical to **Strength** from DSR. 
