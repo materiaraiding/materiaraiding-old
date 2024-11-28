@@ -7,8 +7,8 @@
 
 
 <!-- Image on the page -->
-<div id="img-{{ modalid }}" class="imageembedbox" onclick="document.getElementById('Modal-{{ modalid }}').style.display = 'block';">
-    <figure style="display: inline-block;">
+<div id="img-{{ modalid }}" class="imageembedbox">
+    <figure style="display: inline-block;" onclick="document.getElementById('Modal-{{ modalid }}').style.display = 'block';">
         <img class="imageembed" src="{{ imagepath }}" width="{{ include.width }}">
         <figcaption>{{ include.caption }}</figcaption>
     </figure>

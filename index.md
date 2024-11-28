@@ -26,7 +26,7 @@ nav_order: 1
 </div>
 </div>
 
-<div class="section" markdown="1">
+<div class="section justify" markdown="1">
 ## Looking for a group? 🚩
 
 Check out the **Looking-for-members** or **Looking-for-group** channels in the Materia Raiding discord to find or create your own static team.
@@ -34,7 +34,7 @@ Check out the **Looking-for-members** or **Looking-for-group** channels in the M
 [Visit the OCE Party Finder Channels](https://discord.gg/EySn5dRj65){: .btn }
 </div>
 
-<div class="section" markdown="1">
+<div class="section justify" markdown="1">
 ## About 📜
 
 This site was put together to help combine various resources and guides into one comprehensive resource, our strategies are a collaboration of guides and tools from various other FF14 communities.

@@ -1,4 +1,11 @@
-<div style="display: flex; flex-wrap: wrap; gap: 0.6em;">
+<div class="navblock">
+    <div class="navcolumn">
+        <h2><img class="guide_titleimg" src='{{ site.baseurl }}/assets/images/icons/trial.webp'/>Extreme</h2>
+        {% assign pages_in_order = site.extreme | sort: "nav_order" %}
+        {% for page in pages_in_order %}
+        <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.webp');">{{ page.title }}</div>
+        {% endfor %}
+    </div>
     <div class="navcolumn">
         <h2><img class="guide_titleimg" src='{{ site.baseurl }}/assets/images/icons/raid.webp'/>Savage</h2>
         {% assign pages_in_order = site.savage | sort: "nav_order" %}
@@ -9,13 +16,6 @@
     <div class="navcolumn">
         <h2><img class="guide_titleimg" src='{{ site.baseurl }}/assets/images/icons/highendduty.webp'/>Ultimate</h2>
         {% assign pages_in_order = site.ultimate | sort: "nav_order" %}
-        {% for page in pages_in_order %}
-            <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.webp');">{{ page.title }}</div>
-        {% endfor %}
-    </div>
-    <div class="navcolumn">
-        <h2><img class="guide_titleimg" src='{{ site.baseurl }}/assets/images/icons/trial.webp'/>Extreme</h2>
-        {% assign pages_in_order = site.extreme | sort: "nav_order" %}
         {% for page in pages_in_order %}
             <div class="navlink" onclick="location.href='{{ site.baseurl }}{{ page.permalink }}';" style="background-image: var(--gradient),url('{{ site.baseurl }}/assets/images/banners/{{ page.title }}.webp');">{{ page.title }}</div>
         {% endfor %}

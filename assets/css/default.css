@@ -139,8 +139,9 @@ html,
 /* Custom Embeds */
 
 .imageembedbox {
-    cursor: pointer;
     margin-bottom: 1em;
+    display: flex;
+    justify-content: center;
 }
 
 .imageembed {
@@ -148,6 +149,7 @@ html,
     outline: 2px solid rgba(255, 255, 255, 0);
     outline-offset: -2px;
     transition: 0.1s;
+    cursor: pointer;
 }
 
 .imageembed:hover {
@@ -179,7 +181,6 @@ figcaption {
     background-color: #222125;
     border-radius: 6px;
     padding: 1em;
-    text-align: justify;
 }
 
 @media only screen and (max-width: 1000px) {
@@ -188,7 +189,6 @@ figcaption {
         background-color: #222125;
         border-radius: 4px;
         padding: 1em;
-        text-align: justify;
     }
 }
 
@@ -196,6 +196,9 @@ figcaption {
     margin-top: 0em;
 }
 
+.justify {
+    text-align: justify;
+}
 
 /* Image Modal */
 
