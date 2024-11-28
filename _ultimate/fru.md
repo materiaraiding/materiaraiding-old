@@ -121,7 +121,13 @@ The DPS can move 3.5 notches from the star on the arena edge to determine a safe
 
 After the spreads or stacks resolve, Fatebreaker will drop into the middle of the room **untargetable** and begin to cast another aspected Cyclonic Break. Another Lightning Aspected Fatebreaker clone will spawn on the West of the arena casting Strike Break. As the proteans resolve, another clone will spawn in the middle of the arena that is either Fire or Lightning Aspected. What is **NOT** aspected here will be the safespot in the upcoming mechanic.
 
-Immediately following the Cyclonic Break, players will either move North or South to avoid the Strike Break. To the north, a Fire Aspected clone will begin to cast Strike Break. At the same time, two random players will be targeted for light party stacks via a **Bound of Faith** cast. 
+Immediately following the Cyclonic Break, players will either move North or South to avoid the Strike Break. 
+
+So far ive seen light party 1 move north, and light party 2 move south to make the adjust for tethers easier (this may change due to movement for D1/D4 but also downtime lmao)
+
+Once the partner stack/spread is resolved it is possible to make your way North/South **while** dodging proteans.
+
+To the north, a Fire Aspected clone will begin to cast Strike Break. At the same time, two random players will be targeted for light party stacks via a **Bound of Faith** cast. 
 
 Light party 1 will move slightly to the north, and Light party 2 will move slightly to the south. If a swap is required, melee will flex as needed. Using the knock back from Strike Break, each party will be knocked North East/West and South East/West depending where the safespot is.
 
