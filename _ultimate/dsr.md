@@ -24,14 +24,13 @@ discussionlink: https://discord.com/channels/944115415385247784/9549645606060155
 ### Toolbox/Raidplan
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
-[Phase 1: Knights](https://ff14.toolboxgaming.space/?id=199680719834861&preview=1){: .btn .btn-blue }
-[Phase 2: Thordan](https://ff14.toolboxgaming.space/?id=110786314454861&preview=1){: .btn .btn-blue }
-[Phase 3: Nidhogg](https://ff14.toolboxgaming.space/?id=654299805191961&preview=1){: .btn .btn-blue }
-[Phase 4: Eyes](https://ff14.toolboxgaming.space/?id=674291612991961&preview=1){: .btn .btn-blue }
-[Phase 5: Dark Thordan: Wrath](https://ff14.toolboxgaming.space/?id=143466228734561&preview=1){: .btn .btn-blue }
-[Phase 5: Dark Thordan: Death](https://ff14.toolboxgaming.space/?id=268588669900861&preview=1){: .btn .btn-blue }
-[Phase 6: Double Dragons](https://ff14.toolboxgaming.space/?id=610785126654861&preview=1){: .btn .btn-blue }
-[Phase 7: Dragon King Thordan](){: .btn .btn-blue }
+{% include raidplan.html title="Phase 1: Knights" link="https://ff14.toolboxgaming.space/?id=199680719834861&preview=1" %}
+{% include raidplan.html title="Phase 2: Thordan" link="https://ff14.toolboxgaming.space/?id=110786314454861&preview=1" %}
+{% include raidplan.html title="Phase 3: Nidhogg" link="https://ff14.toolboxgaming.space/?id=654299805191961&preview=1" %}
+{% include raidplan.html title="Phase 4: Eyes" link="https://ff14.toolboxgaming.space/?id=674291612991961&preview=1" %}
+{% include raidplan.html title="Phase 5: Dark Thordan: Wrath" link="https://ff14.toolboxgaming.space/?id=143466228734561&preview=1" %}
+{% include raidplan.html title="Phase 5: Dark Thordan: Death" link="https://ff14.toolboxgaming.space/?id=268588669900861&preview=1" %}
+{% include raidplan.html title="Phase 6: Double Dragons" link="https://ff14.toolboxgaming.space/?id=610785126654861&preview=1" %}
 
 ### PoVs Videos
 Videos covering clears by different roles.

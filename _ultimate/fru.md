@@ -64,6 +64,8 @@ These can be imported using an XIV Launcher Plugin.
 
 ## Phase 1: Fatebreaker
 
+{% include raidplan.html title="P1 - Proteans & Utopian Sky" link="https://raidplan.io/plan/WlRr-qtrUTEPiaJZ" %}
+
 Throughout this phase Fatebreaker will aspect his abilities with either Fire or Lightning.
 
 Fire **Cyclonic Break**
@@ -151,6 +153,8 @@ Following this, Fatebreaker casts:
 
 ### Fall of Faith / Tethers 2
 
+{% include raidplan.html title="P1 - Tethers 2 East/West" link="https://raidplan.io/plan/TOsL-pQk0vGJXBS7" %}
+
 Fatebreaker will begin the mechanic by targeting a random player with either a **Fire Aspected** or **Lightning Aspected** Fall of Faith.
 
 3 clones will spawn from NW to NE, each one tethering a new player with Fire/Lightning.
@@ -174,14 +178,14 @@ As the tethers begin to resolve, players need to pay attention to whether it is 
 
 Once a tether goes off on each side, the tethered players should swap positions.
 
-{% include raidplan.html title="P1 - Tethers 2 East/West" link="https://raidplan.io/plan/TOsL-pQk0vGJXBS7" %}
-
 {% include image.html width="500px" path="tether2.webp" %}
 {% include image.html width="500px" path="Slide43.webp" %}
 
 After another **Burnished Glory**, Fatebreaker will do anotber **Powder Mark** tankbuster befote casting the final mechanic:
 
 ### Burst Strike / Enum Towers
+
+{% include raidplan.html title="P1 - Towers Fixed Casters" link="https://raidplan.io/plan/abSWBVZClS5m1HwD" %}
 
 Fatebreaker will begin to channel burst strike and 3 towers will appear on the West or East wall. These towers will require 6 members from the team to soak them, with a maximum of 4 players in one tower.
 
