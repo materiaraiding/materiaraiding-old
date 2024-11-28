@@ -179,7 +179,7 @@ After another **Burnished Glory**, Fatebreaker will do anotber **Powder Mark** t
 
 Fatebreaker will begin to channel burst strike and 3 towers will appear on the West or East wall. These towers will require 6 members from the team to soak them, with a maximum of 4 players in one tower.
 
-From North to South, players will pair up in the towers in the order: H1/D1 - H2/D2 - D4/D3.
+From North to South, players will pair up in the towers in the order: H1/D1 - D4/D2 - H2/D3.
 
 If a tower only has one pillar, then the D1/D2/D3 will move to the next available tower from North to South.
 
