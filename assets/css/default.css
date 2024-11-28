@@ -237,3 +237,40 @@ figcaption {
         padding: 0.5rem;
     }
 }
+
+/* Raidplan Link */
+
+.raidplan {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 0.5rem 0.5rem 0.7rem;
+    border-radius: 5px;
+    background-color: #222125;
+    align-items: center;
+    margin-block-start: 0.8em;
+    margin-block-end: 0.8em;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), 0 4px 10px rgba(0, 0, 0, 0.12);
+}
+
+.raidplan_title {
+    color: #f77d7d;
+    font-weight: 600;
+    font-size: 1.05rem;
+}
+
+.raidplan_button {
+    cursor: pointer;
+    font-weight: 600;
+    padding: 0.2rem 0.9rem 0.2rem 0.9rem;
+    transition: 0.1s;
+    border-radius: 4px;
+    background-color: #fa226a;
+    background-image: linear-gradient(#f77d7d, #f75f5f);
+    text-shadow: 2px 3px 5px rgba(0,0,0,0.5);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), 0 4px 10px rgba(0, 0, 0, 0.12);
+}
+
+.raidplan_button:hover {
+    background-color: #fa226a;
+    background-image: linear-gradient(#e97070, #eb5353);
+}

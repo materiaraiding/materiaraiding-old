@@ -28,11 +28,11 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 ### Toolbox/Raidplan
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
-[Phase 1 - Proteans & Utopian Sky](https://raidplan.io/plan/WlRr-qtrUTEPiaJZ){: .btn .btn-blue }
-[Phase 1 - Tethers 2 East/West](https://raidplan.io/plan/TOsL-pQk0vGJXBS7){: .btn .btn-blue }
-[Phase 1 - Fixed Ranged](https://raidplan.io/plan/abSWBVZClS5m1HwD){: .btn .btn-blue }
+{% include raidplan.html title="P1 - Proteans & Utopian Sky" link="https://raidplan.io/plan/WlRr-qtrUTEPiaJZ" %}
+{% include raidplan.html title="P1 - Tethers 2 East/West" link="https://raidplan.io/plan/TOsL-pQk0vGJXBS7" %}
+{% include raidplan.html title="P1 - Towers Fixed Casters" link="https://raidplan.io/plan/abSWBVZClS5m1HwD" %}
 
-[Phase 2 - Diamond Dust](https://raidplan.io/plan/h521rrvlPhF-ajjp){: .btn .btn-blue }
+{% include raidplan.html title="P2 - Diamond Dust" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
 
 ---
 
@@ -168,7 +168,7 @@ As the tethers begin to resolve, players need to pay attention to whether it is 
 
 Once a tether goes off on each side, the tethered players should swap positions.
 
-[P1 Tethers 2 East/West](https://raidplan.io/plan/TOsL-pQk0vGJXBS7){: .btn .btn-blue }
+{% include raidplan.html title="P1 - Tethers 2 East/West" link="https://raidplan.io/plan/TOsL-pQk0vGJXBS7" %}
 
 {% include image.html width="500px" path="tether2.webp" %}
 {% include image.html width="500px" path="Slide43.webp" %}
@@ -201,4 +201,4 @@ Phase 2 begins with a tankbuster **Quadruple Slap, before starting the first maj
 
 ### Diamond Dust
 
-[Phase 2 - Diamond Dust](https://raidplan.io/plan/h521rrvlPhF-ajjp){: .btn .btn-blue }
+{% include raidplan.html title="P2 - Diamond Dust" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
