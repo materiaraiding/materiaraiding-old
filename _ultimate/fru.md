@@ -33,8 +33,8 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include raidplan.html title="P1 - Towers Fixed Casters" link="https://raidplan.io/plan/abSWBVZClS5m1HwD" %}
 
 {% include raidplan.html title="P2 - Diamond Dust" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
+{% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
 {% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/WVd2siF6qMYAjzrv" %}
-
 
 ---
 
@@ -238,3 +238,5 @@ For Axe Kick Players will find relative North and immediately move out to their 
 
 AOE players should always place themselves on intercardinals when facing relative North
 
+{% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
+{% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/WVd2siF6qMYAjzrv" %}
