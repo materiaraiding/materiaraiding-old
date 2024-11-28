@@ -480,7 +480,7 @@ Your goal is to position the three marked players in such a way that they bait t
 
 There are 8 possible locations for the Dragons to spawn. Only 5 dragons will spawn.
 
-{% include image.html path="239670444-c687614b-96af-4f14-b6d3-5f42866b8482.png" %}
+{% include image.html path="239670444-c687614b-96af-4f14-b6d3-5f42866b8482.webp" %}
 
 You need to bait the dives in such a way to avoid the middle of the room, such as the following example where RED is the first dive, YELLOW is the second dive and BLUE is the third dive.
 

@@ -212,7 +212,7 @@ The possible combinations are:
 | Skates | Shield |
 | Skates | Sword  |
 
-{% include image.html path="357671492-7b6a6296-1ab6-4b0c-a795-6f2907919b15.png" %}
+{% include image.html path="357671492-7b6a6296-1ab6-4b0c-a795-6f2907919b15.webp" %}
 
 {: .note }
 > The "cursed" pattern (F-Staff & M-Shield) can be easily resolved by using the far edges of the waymarks eitherside of the male.
@@ -431,7 +431,7 @@ Two **Blue Tether Players** will also receive **Hello, Distant World** {% includ
 
 **Blues Tethers** will then go to **Beetle Omega**, and **Christmas Tethers** to **Final Omega**. Both pairs of tethers will line up parallel to the edge of the arena on their respective side. This is so that  there is a tether closer to the center of the arena (**Inner Tether**), and a tether closer to the edge of the arena (**Outer Tether**). 
 
-{% include image.html path="239018857-1d95a258-2f1d-4b07-9c57-42f650ce9b60.png" %}
+{% include image.html path="239018857-1d95a258-2f1d-4b07-9c57-42f650ce9b60.webp" %}
 
 Much like phase 3, breaking tethers results in a **large raid-wide hit** as well as inflicting **Thrice-come Ruin** <img src="{{ site.baseurl }}/assets/images/icons/Thrice come Ruin.webp" class="statusicon"> on the party. However if the tether debuffs expire the party is killed. As such, we want to gradually break all 4 throughout the course of the mechanic so that the damage does not kill the party whilst not letting the tethers expire.
 

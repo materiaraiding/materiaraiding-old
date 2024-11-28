@@ -732,7 +732,7 @@ Non-tank players should make their way to their positions that they predetermine
 
 Meanwhile, tanks should stand slightly apart in the middle of the southwest quadrant. Note the Garuda sisters standing behind the D and C Waymarks - your job is to intercept the {% glossary Mistral Song %} they will cast on other players. Below is a screenshot taken from Kur Rumi's OT POV:
 
-{% include image.html width="700px" path="382996515-a7b89d4e-cd72-45fa-9d8d-96efd90b2f20.png" %}
+{% include image.html width="700px" path="382996515-a7b89d4e-cd72-45fa-9d8d-96efd90b2f20.webp" %}
 
 See how when {% glossary Mistral Song %} affected players stand on the yellow spot, both tanks will successfully intercept the attack - this best describes how and why tanks should stand slightly apart within the southwest quadrant.
 

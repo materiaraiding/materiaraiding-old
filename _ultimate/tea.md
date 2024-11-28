@@ -62,8 +62,8 @@ Space = Hold to select numbers
 ### Cheatsheets and Visual Guides
 
 {% include image.html width="400px" path="teacheatsheet.webp" %}
-{% include image.html width="400px" path="308899790-f58044da-89ba-4708-8d26-83ce7df50675.png" %}
-{% include image.html width="400px" path="308899673-4583252e-31eb-43f2-a0c3-d97cf40ca2c0.png" %}
+{% include image.html width="400px" path="308899790-f58044da-89ba-4708-8d26-83ce7df50675.webp" %}
+{% include image.html width="400px" path="308899673-4583252e-31eb-43f2-a0c3-d97cf40ca2c0.webp" %}
 
 ### Buff Timings
 

@@ -11,7 +11,6 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 ---
 
 {: .warning }
-> ## IMPORTANT
 > This guide will be written using prog strats and is mainly an explanation of how mechanics work and their failure conditions.
 > This guide will be updated as strats are standardised in the OCE community, everything is subject to change.
 
@@ -25,34 +24,37 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 
 1. TOC
 {:toc}
-
+---
 ### Toolbox/Raidplan
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
-[P1 Proteans & Utopian Sky](https://raidplan.io/plan/WlRr-qtrUTEPiaJZ){: .btn .btn-blue }
-[P1 Tethers 2 East/West](https://raidplan.io/plan/TOsL-pQk0vGJXBS7){: .btn .btn-blue }
-[P1 Towers Fixed Ranged](https://raidplan.io/plan/abSWBVZClS5m1HwD){: .btn .btn-blue }
+[Phase 1 - Proteans & Utopian Sky](https://raidplan.io/plan/WlRr-qtrUTEPiaJZ){: .btn .btn-blue }
+[Phase 1 - Tethers 2 East/West](https://raidplan.io/plan/TOsL-pQk0vGJXBS7){: .btn .btn-blue }
+[Phase 1 - Fixed Ranged](https://raidplan.io/plan/abSWBVZClS5m1HwD){: .btn .btn-blue }
 
 [Phase 2 - Diamond Dust](https://raidplan.io/plan/h521rrvlPhF-ajjp){: .btn .btn-blue }
 
-
-
-### PoV Videos
+---
 
 ### Mitigation Plan
+
+[Materia FRU Mitty Spreadsheet](https://docs.google.com/spreadsheets/d/10ZSxFpqJxcbaswpU_JR9L6nU3PjouNz_GONghM6lw2A/edit?gid=1960553822){: .btn .btn-green }
 
 {: .note }
 > This is an early mit plan and currently being tested, this may change in the future.
 
-[Materia FRU Mitty Spreadsheet](https://docs.google.com/spreadsheets/d/10ZSxFpqJxcbaswpU_JR9L6nU3PjouNz_GONghM6lw2A/edit?gid=1960553822)
-
-### Cheatsheet
+---
 
 ### Waymarks
+These can be imported using an XIV Launcher Plugin.
 
-{% include image.html width="300px" path="https://github.com/user-attachments/assets/29e198e0-eeae-44bd-b639-e70bf19156d3" %}
+```
+{"Name":"Imported","MapID":1006,"A":{"X":100.094,"Y":0.0,"Z":90.075,"ID":0,"Active":true},"B":{"X":109.803,"Y":0.0,"Z":100.034,"ID":1,"Active":true},"C":{"X":100.067,"Y":0.0,"Z":109.832,"ID":2,"Active":true},"D":{"X":90.194,"Y":0.0,"Z":99.835,"ID":3,"Active":true},"One":{"X":92.963,"Y":0.0,"Z":92.844,"ID":4,"Active":true},"Two":{"X":106.965,"Y":0.0,"Z":92.737,"ID":5,"Active":true},"Three":{"X":106.921,"Y":0.0,"Z":107.016,"ID":6,"Active":true},"Four":{"X":92.832,"Y":0.0,"Z":106.994,"ID":7,"Active":true}}
+```
 
-### Buff Timings
+{% include image.html width="300px" path="fruwaymarks.webp" %}
+
+---
 
 ## Phase 1: Fatebreaker
 
@@ -73,15 +75,15 @@ Lightning **Strike Break**
 After a few heavy hitting auto attacks, Fatebreaker will cast **Cyclonic Break** which will target each player with proteans.
 These proteans will repeat in the position they are baited, and then alternate to the previous safe spot twice.
 
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/cfc624e3-a416-4927-9e3d-5c3b5c22e9c1" %}
+{% include image.html width="500px" path="390189825-cfc624e3-a416-4927-9e3d-5c3b5c22e9c1.webp" %}
 
 For **Fire Aspected** Cyclonic Break, each player will rotate into a pair stack, then alternating between proteans.
 
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/7b066a72-4327-49b0-ab88-39129b02f892" %}
+{% include image.html width="500px" path="390189848-7b066a72-4327-49b0-ab88-39129b02f892.webp" %}
 
 For **Lightning Aspected** Cyclonic Break each player will move into the same proteans but with ranged behind the melee for spreads, then alternate between proteans.
 
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/24ec7b38-c181-4c25-bdba-dded10d78b65" %}
+{% include image.html width="500px" path="390189871-24ec7b38-c181-4c25-bdba-dded10d78b65.webp" %}
 
 After this resolves, Fatebreaker will cast **Powder Mark Trail**, hitting the MT with a heavy tankbuster and marking them with a 15s debuff of the same name.
 
@@ -95,7 +97,7 @@ This mechanic can be Fire or Lightning aspected. Fire will result in 2 light par
 
 Fatebreaker will go untargetable and jump away as fog fills the arena. Party members will spread to the wall in protean positions with ST and D4 swapped. ST and MT will resolve their Powder Mark by moving slightly closer together at the wall.
 
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/9bfeb30f-c39a-4031-affe-178f028a58c1" %}
+{% include image.html width="500px" path="390190034-9bfeb30f-c39a-4031-affe-178f028a58c1.webp" %}
 
 Clones will spawn on each cardinal and intercardinal, but can only be seen when standing next to them. As such all players will walk to the wall within their respective protean position.
 
@@ -104,6 +106,8 @@ While at the wall, 3 random clones will raise their arms, indicating they will c
 Because only the players who are next to these clones can see them, if a player sees a raised arm they will walk to the middle of the arena.
 
 If the person opposite you walks in, **you must walk in as well, even if your clone has a lowered arm**.
+
+{% include image.html width="500px" path="Slide14.webp" %}
 
 This will result in 2 people remaining on the wall and subsequently form a small triangular safe spot. 
 
@@ -114,8 +118,8 @@ Light party 2 will take any safe spot from NE - S
 After arriving at the safespot, the party will either stack or spread. The spread is identical to **Strength** from DSR. 
 The DPS can move 3.5 notches from the star on the arena edge to determine a safe distance from the healer.
 
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/99085f52-285b-4906-a00c-6bd966415411" %}
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/9004eb75-6af7-4ad3-b384-e9a621a742ff" %}
+{% include image.html width="500px" path="Slide17.webp" %}
+{% include image.html width="500px" path="Slide18.webp" %}
 
 ### Tethers 1
 
@@ -125,9 +129,7 @@ Immediately following the Cyclonic Break, players will either move North or Sout
 
 Light party 1 will move slightly to the north, and Light party 2 will move slightly to the south. If a swap is required, melee will flex as needed. Using the knock back from Strike Break, each party will be knocked North East/West and South East/West depending where the safespot is.
 
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/9a361e22-93b6-4626-9ff6-affacda26bde" %}
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/949fcd1e-c96c-4232-b6cd-7f7170ce0b3a" %}
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/ca78a90f-ff7d-4d58-a147-8a2496f72c63" %}
+{% include image.html width="500px" path="Slide27.webp" %}
 
 If these light parties are not an even 4/4 split, players will be hit with a heavy damage down.
 
@@ -162,8 +164,8 @@ Once a tether goes off on each side, the tethered players should swap positions.
 
 [P1 Tethers 2 East/West](https://raidplan.io/plan/TOsL-pQk0vGJXBS7){: .btn .btn-blue }
 
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/f4c71595-303c-4673-a375-3f11a8a7b053" %}
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/018171a6-3c2a-4c59-a9a1-737a7881e494" %}
+{% include image.html width="500px" path="tether2.webp" %}
+{% include image.html width="500px" path="Slide43.webp" %}
 
 After another **Burnished Glory**, Fatebreaker will do anotber **Powder Mark** tankbuster befote casting the final mechanic:
 
@@ -179,7 +181,7 @@ If Burst Strike is Fire Aspected, players will ride the knockback into their res
 
 If Burst Strike is Lightning Aspected, players can simply step out into their tower immediately.
 
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/9c9b1b59-d875-4cf2-8455-cc72afa87cce" %}
+{% include image.html width="500px" path="Slide61.webp" %}
 
 Whilst this is happening, the tanks will be utilising the opposite half of the arena to resolve their **Powder Mark** debuff in the same manner as the previous tankbusters.
 
