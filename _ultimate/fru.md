@@ -33,7 +33,9 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 [P1 Tethers 2 East/West](https://raidplan.io/plan/TOsL-pQk0vGJXBS7){: .btn .btn-blue }
 [P1 Towers Fixed Ranged](https://raidplan.io/plan/abSWBVZClS5m1HwD){: .btn .btn-blue }
 
-[Phase 2 - Shiva](https://raidplan.io/plan/UWRJc6PQhPjdgNSI){: .btn .btn-blue }
+[Phase 2 - Diamond Dust](https://raidplan.io/plan/h521rrvlPhF-ajjp){: .btn .btn-blue }
+
+
 
 ### PoV Videos
 
@@ -52,7 +54,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 ### Buff Timings
 
-# Phase 1: Fatebreaker
+## Phase 1: Fatebreaker
 
 Throughout this phase Fatebreaker will aspect his abilities with either Fire or Lightning.
 
@@ -95,8 +97,19 @@ Fatebreaker will go untargetable and jump away as fog fills the arena. Party mem
 
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/9bfeb30f-c39a-4031-affe-178f028a58c1" %}
 
-While at the wall, 3 clones will raise their arms. Any clone with an arm raised with dash through the arena in a large cleave. The players who's clones arms have raised will walk into the center of the arena, and any player directly opposite them will also walk in. 
+Clones will spawn on each cardinal and intercardinal, but can only be seen when standing next to them. As such all players will walk to the wall within their respective protean position.
+
+While at the wall, 3 random clones will raise their arms, indicating they will cleave through the arena.
+
+Because only the players who are next to these clones can see them, if a player sees a raised arm they will walk to the middle of the arena.
+
+If the person opposite you walks in, **you must walk in as well, even if your clone has a lowered arm**.
+
 This will result in 2 people remaining on the wall and subsequently form a small triangular safe spot. 
+
+Light party 1 will take any safe spot from SW - N
+
+Light party 2 will take any safe spot from NE - S
 
 After arriving at the safespot, the party will either stack or spread. The spread is identical to **Strength** from DSR. 
 The DPS can move 3.5 notches from the star on the arena edge to determine a safe distance from the healer.
@@ -128,17 +141,56 @@ Fatebreaker will begin the mechanic by targeting a random player with either a *
 
 3 clones will spawn from NW to NE, each one tethering a new player with Fire/Lightning.
 
+All of the tethers here are randomized. It is entirely possible to get all one colour.
+
 These tethers are slightly different to the previous Bound of Faith mechanics in that **Fire** tethers will launch a large conal light party stack at the nearest player, whilst **Lightning** tethers will launch 3 large conal AOEs on the nearest players.
 
-To resolve this, the party will line up south of Fatebreaker. As the tethers are placed, the 1st and 3rd tether will go to the West of Fatebreaker, and 2nd and 4th tether players will go to the East of Fatebreaker.
-The remaining players will split evenly so West/East both have 4 players. 
+To resolve this, the party will line up south of Fatebreaker. As the tethers are placed, the 1st and 3rd tether will go to the West of Fatebreaker, and 2nd and 4th tether will go to the East of Fatebreaker. 
+
+The 1st and 2nd tethers will start by placing themselves on the hitbox of the boss, with the 3rd and 4th tethers slighlty outside the hitbox in front of them.
+
+The remaining 4 non-tether players will split evenly so West/East both have 4 players. 
+
+The two most west players will move west group and the two most east players will move to the east group.
+
+As the tethers begin to resolve, players need to pay attention to whether it is a fire of a lightning tether to be in the correct position.
+
+{: .note }
+> Because the tether colour disappears quickly on the first tether, it can be useful to commit this one to memory.
+
+Once a tether goes off on each side, the tethered players should swap positions.
 
 [P1 Tethers 2 East/West](https://raidplan.io/plan/TOsL-pQk0vGJXBS7){: .btn .btn-blue }
 
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/f4c71595-303c-4673-a375-3f11a8a7b053" %}
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/018171a6-3c2a-4c59-a9a1-737a7881e494" %}
 
-### Towers
+After another **Burnished Glory**, Fatebreaker will do anotber **Powder Mark** tankbuster befote casting the final mechanic:
+
+### Burst Strike / Enum Towers
+
+Fatebreaker will begin to channel burst strike and 3 towers will appear on the West or East wall. These towers will require 6 members from the team to soak them, with a maximum of 4 players in one tower.
+
+From North to South, players will pair up in the towers in the order: H1/D1 - H2/D2 - D4/D3.
+
+If a tower only has one pillar, then the D1/D2/D3 will move to the next available tower from North to South.
+
+If Burst Strike is Fire Aspected, players will ride the knockback into their respective tower.
+
+If Burst Strike is Lightning Aspected, players can simply step out into their tower immediately.
 
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/9c9b1b59-d875-4cf2-8455-cc72afa87cce" %}
 
+Whilst this is happening, the tanks will be utilising the opposite half of the arena to resolve their **Powder Mark** debuff in the same manner as the previous tankbusters.
+
+Finally, Fatebreaker will cast his enrage:
+
+### Burnished Glory
+
+## Phase 2: Usurper of Frost
+
+Phase 2 begins with a tankbuster **Quadruple Slap, before starting the first major mechanic:
+
+### Diamond Dust
+
+[Phase 2 - Diamond Dust](https://raidplan.io/plan/h521rrvlPhF-ajjp){: .btn .btn-blue }
