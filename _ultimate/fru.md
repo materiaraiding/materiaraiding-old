@@ -125,6 +125,8 @@ Fatebreaker will begin the mechanic by targeting a random player with either a *
 
 3 clones will spawn from NW to NE, each one tethering a new player with Fire/Lightning.
 
+All of the tethers here are randomized. It is entirely possible to get all one colour.
+
 These tethers are slightly different to the previous Bound of Faith mechanics in that **Fire** tethers will launch a large conal light party stack at the nearest player, whilst **Lightning** tethers will launch 3 large conal AOEs on the nearest players.
 
 To resolve this, the party will line up south of Fatebreaker. As the tethers are placed, the 1st and 3rd tether will go to the West of Fatebreaker, and 2nd and 4th tether will go to the East of Fatebreaker. 
