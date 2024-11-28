@@ -33,7 +33,9 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 [P1 Tethers 2 East/West](https://raidplan.io/plan/TOsL-pQk0vGJXBS7){: .btn .btn-blue }
 [P1 Towers Fixed Ranged](https://raidplan.io/plan/abSWBVZClS5m1HwD){: .btn .btn-blue }
 
-[Phase 2 - Diamond Dust](https://raidplan.io/plan/hV-43Ecic05fvBBL){: .btn .btn-blue }
+[Phase 2 - Diamond Dust](https://raidplan.io/plan/h521rrvlPhF-ajjp){: .btn .btn-blue }
+
+
 
 ### PoV Videos
 
@@ -138,6 +140,11 @@ As the tethers begin to resolve, players need to pay attention to whether it is 
 
 Once a tether goes off on each side, the tethered players should swap positions.
 
+[P1 Tethers 2 East/West](https://raidplan.io/plan/TOsL-pQk0vGJXBS7){: .btn .btn-blue }
+
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/f4c71595-303c-4673-a375-3f11a8a7b053" %}
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/018171a6-3c2a-4c59-a9a1-737a7881e494" %}
+
 After another **Burnished Glory**, Fatebreaker will do anotber **Powder Mark** tankbuster befote casting the final mechanic:
 
 ### Burst Strike / Enum Towers
@@ -149,6 +156,8 @@ H1 H2 and D4 will anchor the towers from North to South and the remaining player
 If Burst Strike is Fire Aspected, players will ride the knockback into their respective tower.
 
 If Burst Strike is Lightning Aspected, players can simply step out into their tower immediately.
+
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/9c9b1b59-d875-4cf2-8455-cc72afa87cce" %}
 
 Whilst this is happening, the tanks will be utilising the opposite half of the arena to resolve their **Powder Mark** debuff in the same manner as the previous tankbusters.
 
@@ -162,15 +171,4 @@ Phase 2 begins with a tankbuster **Quadruple Slap, before starting the first maj
 
 ### Diamond Dust
 
-[P1 Tethers 2 East/West](https://raidplan.io/plan/TOsL-pQk0vGJXBS7){: .btn .btn-blue }
-
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/f4c71595-303c-4673-a375-3f11a8a7b053" %}
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/018171a6-3c2a-4c59-a9a1-737a7881e494" %}
-
-### Towers
-
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/9c9b1b59-d875-4cf2-8455-cc72afa87cce" %}
-
-## Phase 2 - Shiva
-
-[Phase 2 - Diamond Dust](https://raidplan.io/plan/hV-43Ecic05fvBBL){: .btn .btn-blue }
+[Phase 2 - Diamond Dust](https://raidplan.io/plan/h521rrvlPhF-ajjp){: .btn .btn-blue }
