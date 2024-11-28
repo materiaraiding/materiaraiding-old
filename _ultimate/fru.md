@@ -195,10 +195,34 @@ Finally, Fatebreaker will cast his enrage:
 
 ### Burnished Glory
 
-## Phase 2: Usurper of Frost
+## Phase 2: Usurper of Frost (Shiva)
 
 Phase 2 begins with a tankbuster **Quadruple Slap, before starting the first major mechanic:
 
 ### Diamond Dust
 
 {% include raidplan.html title="P2 - Diamond Dust" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
+
+After flashbanging your monitor, Shiva will rise into the air and spawn 2 large AOEs opposite eachother on the edge of the arena. 
+
+Looking from NW to E, the AOE that is in this quadrant will become **RELATIVE NORTH**.
+
+Either DPS or Supports will then be marked by 4 purple (name) AOEs that will spawn a star shaped AOE after a delay.
+
+Our goal in this mechanic is to place these AOE markers in specific positions such that we form safe spots within Relative North and Relative South.
+
+Shiva will then cast 1 of 2 abilities:
+
+**Axe Kick/Cleave**: Shiva will do a large AOE, reaching to the outside ring of the arena.
+**Scythe Kick/Reap**: Shiva will do a small donut AOE, the safespot being half way between  the center and the inner-most ring 
+
+(images for both)
+
+Because the AOEs are role based we split into ranged/melee partners for the following resolutions:
+
+### Axe Kick
+
+For Axe Kick Players will find Relative North and immediately move out to their positions as shown in the image below. 
+
+AOE players should always place themselves
+
