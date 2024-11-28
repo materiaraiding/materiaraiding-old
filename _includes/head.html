@@ -14,8 +14,9 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
-  <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-default.css' | relative_url }}">
   {% assign cacheBust = site.time | date:'?v=%s' %}
+  <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-default.css' | relative_url | append: cacheBust }}">
+
   <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-head-nav.css' | relative_url | append: cacheBust }}" id="jtd-head-nav-stylesheet">
 
   <style id="jtd-nav-activation">
