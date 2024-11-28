@@ -205,11 +205,11 @@ Phase 2 begins with a tankbuster **Quadruple Slap, before starting the first maj
 
 After flashbanging your monitor, Shiva will rise into the air and spawn 2 large AOEs opposite eachother on the edge of the arena. 
 
-Looking from NW to E, the AOE that is in this quadrant will become **RELATIVE NORTH**.
+Looking from NW to E, the AOE that is in this quadrant will become **relative North**.
 
 Either DPS or Supports will then be marked by 4 purple (name) AOEs that will spawn a star shaped AOE after a delay.
 
-Our goal in this mechanic is to place these AOE markers in specific positions such that we form safe spots within Relative North and Relative South.
+Our goal in this mechanic is to place these AOE markers in specific positions such that we form safe spots within relative North and relative South.
 
 Shiva will then cast 1 of 2 abilities:
 
@@ -222,7 +222,7 @@ Because the AOEs are role based we split into ranged/melee partners for the foll
 
 ### Axe Kick
 
-For Axe Kick Players will find Relative North and immediately move out to their positions as shown in the image below. 
+For Axe Kick Players will find relative North and immediately move out to their positions as shown in the image below. 
 
-AOE players should always place themselves
+AOE players should always place themselves on intercardinals when facing relative North
 
