@@ -36,6 +36,12 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 ---
 
+### Video Guide
+
+{% include videoembed.html videoid="4p2K2u8aloU" %}
+
+---
+
 ### Mitigation Plan
 
 [Materia FRU Mitty Spreadsheet](https://docs.google.com/spreadsheets/d/10ZSxFpqJxcbaswpU_JR9L6nU3PjouNz_GONghM6lw2A/edit?gid=1960553822){: .btn .btn-green }
