@@ -39,6 +39,11 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 ### Mitigation Plan
 
+{: .note }
+> This is an early mit plan and currently being tested, this may change in the future.
+
+[Materia FRU Mitty Spreadsheet](https://docs.google.com/spreadsheets/d/10ZSxFpqJxcbaswpU_JR9L6nU3PjouNz_GONghM6lw2A/edit?gid=1960553822)
+
 ### Cheatsheet
 
 ### Waymarks
