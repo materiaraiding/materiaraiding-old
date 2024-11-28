@@ -111,7 +111,7 @@ Light party 1 will take any safe spot from SW - N
 
 Light party 2 will take any safe spot from NE - S
 
-After arriving at the safespot, the party will either stack or spread. The spread is identical to **Strength** from DSR. 
+After arriving at the safespot, the party will either stack or spread. The spread can be seen in the image below. 
 The DPS can move 3.5 notches from the star on the arena edge to determine a safe distance from the healer.
 
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/99085f52-285b-4906-a00c-6bd966415411" %}
