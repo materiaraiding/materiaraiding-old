@@ -33,6 +33,8 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include raidplan.html title="P1 - Towers Fixed Casters" link="https://raidplan.io/plan/abSWBVZClS5m1HwD" %}
 
 {% include raidplan.html title="P2 - Diamond Dust" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
+{% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/WVd2siF6qMYAjzrv" %}
+
 
 ---
 
