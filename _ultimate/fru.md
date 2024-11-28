@@ -131,7 +131,9 @@ To resolve this, the party will line up south of Fatebreaker. As the tethers are
 
 The 1st and 2nd tethers will start by placing themselves on the hitbox of the boss, with the 3rd and 4th tethers slighlty outside the hitbox in front of them.
 
-The remaining players will split evenly so West/East both have 4 players. The player closest to the side they end up on (East/West most) will take the north position during Lightning Baits, with the remaining player filling the south position.
+The remaining 4 non-tether players will split evenly so West/East both have 4 players. 
+
+The two most west players will move west group and the two most east players will move to the east group.
 
 As the tethers begin to resolve, players need to pay attention to whether it is a fire of a lightning tether to be in the correct position.
 
