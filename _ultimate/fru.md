@@ -94,13 +94,17 @@ Fatebreaker will go untargetable and jump away as fog fills the arena. Party mem
 
 Clones will spawn on each cardinal and intercardinal, but can only be seen when standing next to them. As such all players will walk to the wall within their respective protean position.
 
-While at the wall, 3 random clones will raise their arms. A raised arm means that clone will cleave through the arena.
+While at the wall, 3 random clones will raise their arms, indicating they will cleave through the arena.
 
 Because only the players who are next to these clones can see them, if a player sees a raised arm they will walk to the middle of the arena.
 
-If the person opposite you walks in, **you must wlak in as well, even if your clone has a lowered arm**.
+If the person opposite you walks in, **you must walk in as well, even if your clone has a lowered arm**.
 
 This will result in 2 people remaining on the wall and subsequently form a small triangular safe spot. 
+
+Light party 1 will take any safe spot from SW - N
+
+Light party 2 will take any safe spot from NE - S
 
 After arriving at the safespot, the party will either stack or spread. The spread is identical to **Strength** from DSR. 
 The DPS can move 3.5 notches from the star on the arena edge to determine a safe distance from the healer.
