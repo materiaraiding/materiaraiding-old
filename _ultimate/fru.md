@@ -252,5 +252,5 @@ AOE players should always place themselves on intercardinals when facing relativ
 
 ### Light Rampant
 
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/4833ec45-a358-4320-b436-e3a163e71554" %}
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/e6d9faac-5e19-4035-ac5d-9c0b672314e4" %}
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/59a5a98d-b20f-450c-a272-8391282d475d" %}
