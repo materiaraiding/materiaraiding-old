@@ -275,7 +275,7 @@ After dropping 5(?) puddles, Shiva will cast **Redress**, requiring each player 
 
 This redress will swap both the real Shiva and the clone, as well as covering the floor with ice.
 
-This ice will slide you FAR (i'm talking across the entire arena in one movement), so players should position close to the arenas edge.
+This ice will slide you across nearly the entire width of the arena in one movement, so players should position close to the arenas edge to avoid walling themselves.
 
 Shiva will then cast either:
 
@@ -320,8 +320,38 @@ After this mechanic resolves the mirrors will despawn and Shiva will cast:
 
 ### Light Rampant
 
+{% include raidplan.html title="P2 - Light Rampant" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
+
+(There are currently two strats floating around. I will be writing about the strat Kobe has made diagrams for, however I may write a short addendum for AB1234 for anyone willing to use it. There are upsides and downsides to both and it is essentially personal preference as they both achieve the same result.)
+
+Shiva will go untargetable and the party should line up as seen in the image below, with DPS south and Supports north. Shortly after the cast finishes, 6 players will be tethered together with 2 of them having large white orbs above their heads, signifying they are being targeted for a light party stack later.
+
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/aaf94dfc-e064-4ae1-b58b-b874e49d6f53" %}
+
+These tethers will explode if the distance between two players is too short, so they must be stretched to an adequate distance (close to 80-90% of the arena length) to satisfy the mechanic.
+
+The 2 remaining players will be targeted with AOEs marks similar to the puddles in Stillness/Silence.
+
+At the same time, 6 towers will appear around the arena.
+
+Players must quickly form a hexagon shape, using the 3 North waymarks and the 3 South waymarks. Some players (D1/H2) may have to walk to the opposite cardinal to form the hexagon
+
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/e6d9faac-5e19-4035-ac5d-9c0b672314e4" %}
+
+The N/S players will then swap positions, and the NE/NW players will swap positions. All the tethers players will then quickly spread out to the tower on their cardinal/intercardinal.
+
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/59a5a98d-b20f-450c-a272-8391282d475d" %}
 
-{% include raidplan.html title="P2 - Light Rampant" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
+The 2 AOE players will start in the inner ring on the Arena at N/S and rotate CW to drop 5(?) puddle AOES each.
+
+After resolving the towers, Northern and Southern tether players should group up at North and South respectively. Each AOE player should also join a separate light party after they drop their puddles.
+
+AOEs will then spawn around the arena in a Y shape, going off in 2 sets of 3. Players will WAIT for their light party stack to go off, before shifting to the closest safespot CW, and then moving BACK into the next safespot.
+
+As this mechanic has been going on, players have been accruing stacks of (buff). Up until now the stacks have been self-contained as there is no way to change them without resolving the mechanic in the process (towers/etc/etc). If a player gains more than 3 stacks, the raid will wipe.
+
+As each group makes their final dodge, a 4 player tower will appear in the center of the arena. Players with **2** stacks of (buff) should walk into the tower to soak it.
+
+
+
+
