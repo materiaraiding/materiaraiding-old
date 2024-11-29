@@ -218,18 +218,21 @@ Phase 2 begins with a tankbuster **Quadruple Slap**, before starting the first m
 
 {% include raidplan.html title="P2 - Diamond Dust" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
 
-After flashbanging your monitor, Shiva will rise into the air and spawn 2 large AOEs opposite eachother on the edge of the arena. 
+After spawning a clone of her self, and flashbanging your monitor, Shiva will rise into the air and spawn 2 large AOEs opposite eachother on the edge of the arena. 
+(clarification on clone here)
+
+These will be followed by another 6 AOEs that fill the edge of the arena but only the first 2 are important and the rest can be ignored.
 
 Looking from NW to E, the AOE that is in this quadrant will become **relative North**.
 
-Either DPS or Supports will then be marked by 4 purple (name) AOEs that will spawn a star shaped AOE after a delay.
+Either DPS or Supports will then be marked by 4 purple (name) AOEs that will spawn a star shaped AOE after a delay. Theses AOEs should always be placed on intercardinals when facing relative North.
 
 Our goal in this mechanic is to place these AOE markers in specific positions such that we form safe spots within relative North and relative South.
 
 Shiva will then cast 1 of 2 abilities:
 
 **Axe Kick/Cleave**: Shiva will do a large AOE, reaching to the outside ring of the arena.
-**Scythe Kick/Reap**: Shiva will do a small donut AOE, the safespot being half way between  the center and the inner-most ring 
+**Scythe Kick/Reap**: Shiva will do a small donut AOE, the safespot being half way between the center and the inner-most ring 
 
 (images for both)
 
@@ -237,20 +240,83 @@ Because the AOEs are role based we split into ranged/melee partners for the foll
 
 ### Axe Kick
 
-For Axe Kick Players will find relative North and immediately move out to their positions as shown in the image below. 
+For Axe Kick, Shiva will begin by shouting out **"Cleave"**. Players will find relative North and immediately move out to their positions as shown in the image below. 
 
-AOE players should always place themselves on intercardinals when facing relative North
+The non-AOE players will stand just outside the outer ring on the arena floor to bait out proximity based protean AOEs. Leaning slightly towards the relative cardinal marker may help with clipping the AOE player. Meanwhile, AOE players should move as far out as they can and place their AOEs on intercardinals.
 
-{% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
-{% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/WVd2siF6qMYAjzrv" %}
+### Scythe Kick
+
+For Scythe Kick, Shiva will begin by shouting **"Reap"**. Players will find relative North and immediately move out to their positions as shown in the image below. 
+
+The non-AOE players will stand as close as possible to Shiva. It is possible to use the small diamond shapes on the floor to align yourself. The AOE players **must also** also start extremely close to Shiva as the donut AOE is extremely small (**The inner ring is NOT the safe spot, it is actually about **half** the diameter of that ring). After the initial cleave goes off, all the AOE players will quickly move out and place their AOE on the middle ring on the Arena's floor.
+
+After dropping their puddles, everyone will quickly rush back to the center of the arena. Shiva will shortly do a knockback and Light Party 1 will ride this to the relative North as this will be the safespot formed from the AOEs. Light Party 2 will ride this KB to the relative South. 
+
+{: .note }
+> Moving slightly closer to the wall after your KB can help alleviate some poor AOE placement.
 
 ### Stillness/Silence
 
 {% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
 
+After or before the knockback, players should identify **where** the clone of Shiva is (she'll be wearing a white outfit instead of Shiva's blueish armour). 
+
+As each lightparty will be taking stacks that leave a bleed puddle we want both light parties to leave these puddles in desireable positions, as well as set up each party for favourable movement in the upcoming mechanic.
+
+After identifying the clone:
+If a lightparty is less than or equal to 90 degrees away from the clone they should rotate **AWAY** from the clone whilst dropping their puddles along the arenas edge.
+
+If a lightparty is more than 90 degrees away from the clone they should rotate **TO** the clone and attempt to position them behind her.
+
+After dropping 5(?) puddles, Shiva will cast **Redress**, requiring each player to look away less they be (status effect). 
+
+{: .note }
+> There is a short period where you finish dropping your puddles and can move before the gaze goes off, allowing you to either get behind or directly across from the Shiva clone.
+
+This redress will swap both the real Shiva and the clone, as well as covering the floor with ice.
+
+This ice will slide you FAR (i'm talking across the entire arena in one movement), so players should position close to the arenas edge.
+
+Shiva will then cast either:
+
+**Stillness** and say "", which is a 270 degree cleave that covers the entire arena in front of her
+
+or
+
+**Silence** and say "", which is a small cleave that covers the wedge of arena behind her.
+
+Immediately after she will cast the opposite, requiring players to slide across the arena into the opposite safe spot. 
+
+{: .warning }
+> This snapshot for the second cleave is INCREDIBLY unforgiving. I recommend watching your emnity list and sliding the second you see the first cast finish.
+
+Immediately following this Shiva will become targetable, appearing back in the arena's center and the ice floor will dissappear
+
+She will then cast a heavy hitting line stack, **(line stack name)**, before casting:
+
 ### Mirror Mirror
 
 {% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/WVd2siF6qMYAjzrv" %}
+
+Shiva will spawn 3 mirrors along one wall. There will be **2 red** mirrors and **1 blue** mirror and all 3 will always be 45 degrees away from one another.
+
+During this mechanic, every mirror will repeat the mechanics that Shiva is doing, however **red** mirrors will do it after a significant delay.
+
+The MT will start by pulling the boss across the arena from the blue mirror. Melee dps and the ST will stick close to the boss, whilst the healers and ranged players will step out next to the blue mirror.
+
+Shiva will then cast **Scythe Kick**, requiring the melees to be close to the boss, and the ranged players being close to the mirror.
+
+As this cast goes off, 4 proximity based AOEs will launch at the players closest to the source (Shiva/Mirror). Ranged players should be careful with pointing their protean directly through the middle as they will cleave the melees.
+
+The lineup for these AOEs can be seen below:
+
+(image)
+
+Immediately after, the MT will pull the boss to the first Red mirror clockwise of their position. The ranged players will also rotate to the first Red mirror clockwise, and everyone will spread for another Scythe Kick + Protean combo.
+
+All players but specifically the DPS players should be careful with their proteans here. In some patterns it's possible to be 90 degrees from the other red mirror, meaning that the DPS should squeeze closer to the Support player furthest away from the other mirror to ensure no clipping occurs.
+
+After this mechanic resolves the mirrors will despawn and Shiva will cast:
 
 ### Light Rampant
 
