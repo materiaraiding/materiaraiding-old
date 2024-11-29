@@ -1,6 +1,7 @@
 ---
 layout: guide
 title: UWU
+description: Materia Resources and Guide for The Weapon's Refrain (Ultimate).
 permalink: /uwu
 longtitle: The Weapon's Refrain (Ultimate)
 nav_order: 2

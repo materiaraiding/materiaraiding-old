@@ -93,6 +93,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-glossary_tooltip (~> 1.5)
+  jekyll-seo-tag
   jekyll-sitemap
   just-the-docs (= 0.10.0)
   webrick (~> 1.8)

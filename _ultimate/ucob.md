@@ -1,6 +1,7 @@
 ---
 layout: guide
 title: UCOB
+description: Materia Resources and Guide for The Unending Coil of Bahamut (Ultimate).
 permalink: /ucob
 longtitle: The Unending Coil of Bahamut (Ultimate)
 nav_order: 1

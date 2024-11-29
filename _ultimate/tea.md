@@ -1,6 +1,7 @@
 ---
 layout: guide
 title: TEA
+description: Materia Resources and Guide for The Epic of Alexander (Ultimate).
 permalink: /tea
 longtitle: The Epic of Alexander (Ultimate)
 nav_order: 3

@@ -1,6 +1,7 @@
 ---
 layout: guide
 title: FRU
+description: Materia Resources and Guide for Future's Rewritten (Ultimate).
 permalink: /fru
 longtitle: Future's Rewritten (Ultimate)
 nav_order: 6

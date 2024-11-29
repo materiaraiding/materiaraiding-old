@@ -1,6 +1,7 @@
 ---
 layout: guide
 title: TOP
+description: Materia Resources and Guide for The Omega Protocol (Ultimate).
 permalink: /top
 longtitle: The Omega Protocol (Ultimate)
 nav_order: 5

@@ -32,6 +32,7 @@ emoji:
 plugins:
   - jekyll-glossary_tooltip
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 callouts_level: loud
 

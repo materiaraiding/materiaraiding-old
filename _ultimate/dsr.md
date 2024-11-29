@@ -1,6 +1,7 @@
 ---
 layout: guide
 title: DSR
+description: Materia Resources and Guide for Dragonsong's Reprise (Ultimate).
 permalink: /dsr
 longtitle: Dragonsong's Reprise (Ultimate)
 nav_order: 4
