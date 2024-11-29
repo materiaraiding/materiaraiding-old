@@ -241,3 +241,16 @@ AOE players should always place themselves on intercardinals when facing relativ
 
 {% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
 {% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/WVd2siF6qMYAjzrv" %}
+
+### Stillness/Silence
+
+{% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
+
+### Mirror Mirror
+
+{% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/WVd2siF6qMYAjzrv" %}
+
+### Light Rampant
+
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/4833ec45-a358-4320-b436-e3a163e71554" %}
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/59a5a98d-b20f-450c-a272-8391282d475d" %}
