@@ -8,6 +8,7 @@ gem "just-the-docs", "0.10.0" # pinned to the current release
 
 group :jekyll_plugins do
    gem 'jekyll-glossary_tooltip', '~> 1.5'
+   gem 'jekyll-sitemap'
 end
 
 gem "webrick", "~> 1.8"

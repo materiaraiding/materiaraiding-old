@@ -2,7 +2,7 @@ title: Materia Raiding
 description: Tools and Guides provided by the Materia Raiding Community
 theme: just-the-docs
 repository: materiaraiding/materiaraiding # for github-metadata
-
+tagline: Materia FFXIV Raid Guides
 
 url: https://materiaraiding.com
 
@@ -31,6 +31,7 @@ emoji:
 
 plugins:
   - jekyll-glossary_tooltip
+  - jekyll-sitemap
 
 callouts_level: loud
 

@@ -30,7 +30,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 {% include raidplan.html title="P1 - Proteans & Utopian Sky" link="https://raidplan.io/plan/WlRr-qtrUTEPiaJZ" %}
 {% include raidplan.html title="P1 - Tethers 2 East/West" link="https://raidplan.io/plan/TOsL-pQk0vGJXBS7" %}
-{% include raidplan.html title="P1 - Towers Fixed Casters" link="https://raidplan.io/plan/abSWBVZClS5m1HwD" %}
+{% include raidplan.html title="P1 - Towers Fixed Casters" link="https://raidplan.io/plan/0_j5V0mV8UZVrmKa" %}
 
 {% include raidplan.html title="P2 - Diamond Dust" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
 {% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
@@ -183,11 +183,11 @@ Once a tether goes off on each side, the tethered players should swap positions.
 {% include image.html width="500px" path="tether2.webp" %}
 {% include image.html width="500px" path="Slide43.webp" %}
 
-After another **Burnished Glory**, Fatebreaker will do anotber **Powder Mark** tankbuster befote casting the final mechanic:
+After another **Burnished Glory**, Fatebreaker will do anotber **Powder Mark** {% include status.html name="Powder Mark" %} tankbuster before casting the final mechanic:
 
 ### Burst Strike / Enum Towers
 
-{% include raidplan.html title="P1 - Towers Fixed Casters" link="https://raidplan.io/plan/abSWBVZClS5m1HwD" %}
+{% include raidplan.html title="P1 - Towers Fixed Casters" link="https://raidplan.io/plan/0_j5V0mV8UZVrmKa" %}
 
 Fatebreaker will begin to channel burst strike and 3 towers will appear on the West or East wall. These towers will require 6 members from the team to soak them, with a maximum of 4 players in one tower.
 
@@ -206,10 +206,10 @@ Whilst this is happening, the tanks will be utilising the opposite half of the a
 Finally, Fatebreaker will cast his enrage:
 
 ### Burnished Glory
-
+---
 ## Phase 2: Usurper of Frost (Shiva)
 
-Phase 2 begins with a tankbuster **Quadruple Slap, before starting the first major mechanic:
+Phase 2 begins with a tankbuster **Quadruple Slap**, before starting the first major mechanic:
 
 ### Diamond Dust
 
