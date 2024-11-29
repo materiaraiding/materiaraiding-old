@@ -18,7 +18,7 @@ nav_order: 1
 
 <div class="homepagesections" markdown="1">
 <div class="section" markdown="1">
-## Join us on Discord 💬
+<h2 style="margin-top: 0em;">Join us on Discord 💬</h2>
 
 <div class="discordlinks">
     <div class="navlinkdiscord" onclick="window.open('https://discord.gg/EySn5dRj65')"><img class="discordlogo" src='{{ site.baseurl }}/assets/images/icons/discord-mark-white.svg'/>Materia Raiding Discord</div>
@@ -27,7 +27,7 @@ nav_order: 1
 </div>
 
 <div class="section justify" markdown="1">
-## Looking for a group? 🚩
+<h2 style="margin-top: 0em;">Looking for a group? 🚩</h2>
 
 Check out the **Looking-for-members** or **Looking-for-group** channels in the Materia Raiding discord to find or create your own static team.
 
@@ -35,7 +35,7 @@ Check out the **Looking-for-members** or **Looking-for-group** channels in the M
 </div>
 
 <div class="section justify" markdown="1">
-## About 📜
+<h2 style="margin-top: 0em;">About 📜</h2>
 
 This site was put together to help combine various resources and guides into one comprehensive resource, our strategies are a collaboration of guides and tools from various other FF14 communities.
 
@@ -47,7 +47,7 @@ This website uses github pages, you can submit your own changes and suggestions 
 </div>
 
 <div class="section" markdown="1">
-## Key Contributors 📝
+<h2 style="margin-top: 0em;">Key Contributors 📝</h2>
 - Em Gram (Website and Github Management) 🦆
 - Juno Dax
 - Noz Leafhill
