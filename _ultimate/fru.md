@@ -36,7 +36,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include raidplan.html title="P2 - Diamond Dust" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
 {% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
 {% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/WVd2siF6qMYAjzrv" %}
-{% include raidplan.html title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/555twAePqVEC2ERn" %}
+{% include raidplan.html title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
 {% include raidplan.html title="P2 - Light Rampant - Adjust Strat" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
 
 
@@ -336,7 +336,7 @@ Shiva will then cast:
 
 <details markdown=1>
 <summary>Light Rampant - AB1234 Strat</summary>
-{% include raidplan.html title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/555twAePqVEC2ERn" %}
+{% include raidplan.html title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
 
 (Writeup in progress)
 
