@@ -499,7 +499,7 @@ The second set of baits and rewinds will then go off. Use the same prio as befor
 
 The **30s Fire Debuff** players will then step out to take their AOEs.
 
-The final set of Traffic Light baits will then go off and everyone will stack mid. **ALL players should look OUT of the arena at their clockspot.**
+The final set of Traffic Light baits will then go off and everyone will stack mid. **ALL players should look OUT of the arena towards their clockspot.**
 
 Rewind will pull everyone back to their recorded position and the **Water Stack**, **Gazes** and **Eruptions** will all go off at once.
 
