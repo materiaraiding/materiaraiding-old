@@ -407,10 +407,52 @@ Once all the Light Crystals are destroyed, Players must DPS ice veil below 50% t
 
 ## Phase 3: Oracle of Darkness (Gaia)
 
-(Written guide coming soon)
+Gaia will start out the phase with **Hell's Judgement**, a raidwide that will set every players HP to 1.
+
+This is immediately followed by: 
 
 ### Ultimate Relativity
 
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/51248c3a-912d-4645-a796-3b464eb24ae3" %}
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/8c6703b8-b170-4a67-ac16-457941e7b631" %}
+
+This mechanic is quite dense. I recommend looking through toolboxes in addition to the written guide, to get a clearer understanding of positions.
+
+After a heavy hitting raidwide, several "Spell in waiting" debuffs will be assigned to each player:
+
+**Dark Fire** - Large circle AOE.
+
+**Dark Blizzard** - Large donut AOE.
+
+**Dark Eruption** - Medium circle AOE
+
+**Shadoweye** - Gaze centered on the player.
+
+**Unholy Darkness** - Party Stack
+
+**Dark Water** - a stack, generally taken by a light party.
+
+**Return** - A players position will be recorded for later.
+
+These buffs will be distibuted amongst each role group to look like the following:
+
+**Supports**
+2 Supports with 30s Fire Debuff
+1 Support with 20s Fire Debuff
+
+**DPS**
+1 DPS with 20s Fire Debuff
+2 DPS with 10s Fire Debuff
+
+As well as:
+1 DPS with 30s Debuff and 1 Support with Short Rewind Ice
+**OR**
+1 Support with 10s Fire Debuff and 1 DPS with Long Rewind Ice.
+
+(Credit to Ewaens XIVPlan)
+
+As well as this, 8 hourglass/traffic lights will appear around the arena. Gaia will then tether 3 of them in a Y shape with yellow tethers, and 2 others with a purple tether.
+
+Yellow Tethered Traffic Lights **go first**, and Purple Tethered Traffic Lights **go last**.
+
 
