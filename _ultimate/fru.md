@@ -381,20 +381,13 @@ Ryne will become frozen in an **Ice Veil** in the center of the arena, and 8 Cry
 
 There will be 4 **Crystals of Light** on Intercardinals and 4 **Crystals of Dark** on Cardinals. 
 
-(will write up later)
+Melee players will begin to attack the Light Crystal on their spread position, and Range players will attack the Light Crystals adjacent to them.
 
-Ryne frozen in center **Ice Veil**
+**Do NOT damage the Dark Crystals**. These crystals must be kept alive as it provides the Ice veil with a vulnerability up debuff.
 
-4 Crystal of Light
-4 Crystal of Dark
+As the party begins attacking these Crystals, **Light Crystals** will target the nearest player with a circle AOE and **Dark Crystals** will target the nearest player with a protean AOE. These AOEs will be baited by the player who is on the same spread position as the Crystal (Circle AOE/Melee & Protean AOE/Ranged).
 
-Must kill crystal of light, keep Crystal of Dark alive
-
-Light Crystals bait circle AOEs on closest player. (Melee players)
-
-Dark Crystals bait protean AOEs on closest player. (Ranged players)
-
-Players must DPS ice veil below 50%. Killing Light Crystals gives up vuln up
+Once all the Light Crystals are destroyed, Players must DPS ice veil below 50% to transition to the next phase:
 
 --- 
 
