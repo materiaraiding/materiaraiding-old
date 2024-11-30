@@ -312,7 +312,9 @@ The lineup for these AOEs can be seen below:
 
 (image)
 
-Immediately after, the MT will pull the boss to the first Red mirror clockwise of their position. The ranged players will also rotate to the first red mirror clockwise, and everyone will spread for another Scythe Kick + Protean combo.
+Immediately after, the MT will pull the boss to the closest red mirror to the boss, and the ranged will move to the closest red mirror to the blue mirror and everyone will spread for another Scythe Kick + Protean combo.
+
+In the case that the mirrors spawn: **RED, BLUE, RED**, the melees will move to the first Red mirror clockwise of their position. The ranged players will also rotate to the first red mirror clockwise.
 
 All players but specifically the DPS players should be careful with their proteans here. In some patterns it's possible to be 90 degrees from the other red mirror, meaning that the DPS should squeeze closer to the Support player furthest away from the other mirror to ensure no clipping occurs.
 
