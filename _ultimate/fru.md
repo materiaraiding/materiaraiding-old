@@ -140,7 +140,7 @@ After the spreads or stacks resolve, Fatebreaker will drop into the middle of th
 
 Immediately following the Cyclonic Break, players will either move North or South to avoid the Burnt Strike. 
 
-So far ive seen light party 1 move north, and light party 2 move south to make the adjust for tethers easier (this may change due to movement for D1/D4 but also downtime lmao)
+So far I've seen light party 1 move north, and light party 2 move south to make the adjust for tethers easier (this may change due to movement for D1/D4 but also downtime lmao)
 
 Once the partner stack/spread is resolved it is possible to make your way North/South **while** dodging proteans.
 
