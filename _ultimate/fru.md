@@ -393,7 +393,7 @@ All players will spread as seen in the image below and close to the centre of th
 
 Ryne will become frozen in an **Ice Veil** in the centre of the arena, and 8 Crystals will spawn around the arena. 
 
-There will be 4 **Crystals of Light** on Intercardinals and 4 **Crystals of Dark** on Cardinals. 
+There will be 4 **Crystals of Light** on Cardinals and 4 **Crystals of Dark** on Intercardinals. 
 
 Melee players will begin to attack the Light Crystal on their spread position, and Range players will attack the Light Crystals adjacent to them.
 
