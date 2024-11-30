@@ -188,19 +188,19 @@ Once a tether goes off on each side, the tethered players should swap positions.
 
 After another **Burnished Glory**, Fatebreaker will do anotber **Powder Mark** {% include status.html name="Powder Mark" %} tankbuster before casting the final mechanic:
 
-### Burst Strike / Enum Towers
+### Burnt Strike / Enum Towers
 
 {% include raidplan.html title="P1 - Towers Fixed Casters" link="https://raidplan.io/plan/0_j5V0mV8UZVrmKa" %}
 
-Fatebreaker will begin to channel burst strike and 3 towers will appear on the West or East wall. These towers will require 6 members from the team to soak them, with a maximum of 4 players in one tower.
+Fatebreaker will begin to channel Burnt Strike and 3 towers will appear on the West or East wall. These towers will require 6 members from the team to soak them, with a maximum of 4 players in one tower.
 
 From North to South, players will pair up in the towers in the order: H1/D1 - D4/D2 - H2/D3.
 
 If a tower only has one pillar, then the D1/D2/D3 will move to the next available tower from North to South.
 
-If Burst Strike is Fire Aspected, players will ride the knockback into their respective tower.
+If Burnt Strike is Fire Aspected, players will ride the knockback into their respective tower.
 
-If Burst Strike is Lightning Aspected, players can simply step out into their tower immediately.
+If Burnt Strike is Lightning Aspected, players can simply step out into their tower immediately.
 
 {% include image.html width="500px" path="Slide61.webp" %}
 
