@@ -339,7 +339,7 @@ Shiva will then cast:
 
 Shiva will go untargetable and the party should line up as seen in the image below, with DPS south and Supports north. Shortly after the cast finishes, 6 players will be tethered together with 2 of them having large white orbs above their heads, signifying they are being targeted for a light party stack later.
 
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/aaf94dfc-e064-4ae1-b58b-b874e49d6f53" %}
+{% include image.html width="500px" path="LR1.webp" %}
 
 These tethers will explode if the distance between two players is too short, so they must be stretched to an adequate distance (close to 80-90% of the arena length) to satisfy the mechanic.
 
@@ -349,11 +349,13 @@ At the same time, 6 towers will appear around the arena.
 
 Players must quickly form a hexagon shape, using the 3 North waymarks and the 3 South waymarks. Some players (D1/H2) may have to walk to the opposite cardinal to form the hexagon
 
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/e6d9faac-5e19-4035-ac5d-9c0b672314e4" %}
+{% include image.html width="500px" path="LR2.webp" %}
 
 The N/S players will then swap positions, and the NE/NW players will also swap positions. All the tether players will then quickly spread out to the tower on their cardinal/intercardinal.
 
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/59a5a98d-b20f-450c-a272-8391282d475d" %}
+{% include image.html width="500px" path="LR3.webp" %}
+
+{% include image.html width="500px" path="LR4.webp" %}
 
 The 2 AOE players will start in the inner ring on the Arena at N/S and rotate CW to drop 5 puddle AOES each.
 
