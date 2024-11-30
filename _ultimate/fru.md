@@ -112,7 +112,7 @@ Fatebreaker will go untargetable and jump away as fog fills the arena. Party mem
 
 {% include image.html width="500px" path="390190034-9bfeb30f-c39a-4031-affe-178f028a58c1.webp" %}
 
-Clones will spawn on each cardinal and intercardinal, but can only be seen when standing next to them. As such all players will walk to the wall within their respective protean position.
+Clones will spawn on each cardinal and intercardinal but can only be seen when standing next to them. As such all players will walk to the wall within their respective protean position.
 
 While at the wall, 3 random clones will raise their arms, indicating they will cleave through the arena.
 
@@ -140,13 +140,13 @@ After the spreads or stacks resolve, Fatebreaker will drop into the middle of th
 
 Immediately following the Cyclonic Break, players will either move North or South to avoid the Burnt Strike. 
 
-So far I've seen light party 1 move north, and light party 2 move south to make the adjust for tethers easier (this may change due to movement for D1/D4 but also downtime lmao)
+So far, I've seen light party 1 move north, and light party 2 move south to make the adjust for tethers easier (this may change due to movement for D1/D4 but also downtime lmao)
 
 Once the partner stack/spread is resolved it is possible to make your way North/South **while** dodging proteans.
 
 To the north, a Fire Aspected clone will begin to cast Burnt Strike. At the same time, two random players will be targeted for light party stacks via a **Bound of Faith** cast. 
 
-Light party 1 will move slightly to the north, and Light party 2 will move slightly to the south. If a swap is required, melee will flex as needed. Using the knock back from Burnt Strike, each party will be knocked North East/West and South East/West depending where the safespot is.
+Light party 1 will move slightly to the north, and Light party 2 will move slightly to the south. If a swap is required, melee will flex as needed. Using the knock back from Burnt Strike, each party will be knocked North-East/West and South-East/West depending on where the safespot is.
 
 {% include image.html width="500px" path="Slide27.webp" %}
 
@@ -170,11 +170,11 @@ These tethers are slightly different to the previous Bound of Faith mechanics in
 
 To resolve this, the party will line up south of Fatebreaker. As the tethers are placed, the 1st and 3rd tether will go to the West of Fatebreaker, and 2nd and 4th tether will go to the East of Fatebreaker. 
 
-The 1st and 2nd tethers will start by placing themselves on the hitbox of the boss, with the 3rd and 4th tethers slighlty outside the hitbox in front of them.
+The 1st and 2nd tethers will start by placing themselves on the hitbox of the boss, with the 3rd and 4th tethers slightly outside the hitbox in front of them.
 
 The remaining 4 non-tether players will split evenly so West/East both have 4 players. 
 
-The two most west players will move west group and the two most east players will move to the east group.
+The two most west players will move to the west group and the two most east players will move to the east group.
 
 As the tethers begin to resolve, players need to pay attention to whether it is a fire of a lightning tether to be in the correct position.
 
@@ -186,13 +186,13 @@ Once a tether goes off on each side, the tethered players should swap positions.
 {% include image.html width="500px" path="tether2.webp" %}
 {% include image.html width="500px" path="Slide43.webp" %}
 
-After another **Burnished Glory**, Fatebreaker will do anotber **Powder Mark** {% include status.html name="Powder Mark" %} tankbuster before casting the final mechanic:
+After another **Burnished Glory**, Fatebreaker will do another **Powder Mark** {% include status.html name="Powder Mark" %} tankbuster before casting the final mechanic:
 
 ### Burnt Strike / Enum Towers
 
 {% include raidplan.html title="P1 - Towers Fixed Casters" link="https://raidplan.io/plan/0_j5V0mV8UZVrmKa" %}
 
-Fatebreaker will begin to channel Burnt Strike and 3 towers will appear on the West or East wall. These towers will require 6 members from the team to soak them, with a maximum of 4 players in one tower.
+Fatebreaker will begin to channel Burnt Strike, and 3 towers will appear on the West or East wall. These towers will require 6 members from the team to soak them, with a maximum of 4 players in one tower.
 
 From North to South, players will pair up in the towers in the order: H1/D1 - D4/D2 - H2/D3.
 
@@ -218,7 +218,7 @@ Phase 2 begins with a tankbuster **Quadruple Slap**, before starting the first m
 
 {% include raidplan.html title="P2 - Diamond Dust" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
 
-After spawning a clone of her self, and flashbanging your monitor, Shiva will rise into the air and spawn 2 large AOEs opposite eachother on the edge of the arena. 
+After spawning a clone of herself, and flashbanging your monitor, Shiva will rise into the air and spawn 2 large AOEs opposite each other on the edge of the arena. 
 (clarification on clone here)
 
 These will be followed by another 6 AOEs that fill the edge of the arena but only the first 2 are important and the rest can be ignored.
@@ -233,7 +233,7 @@ Shiva will then cast 1 of 2 abilities:
 
 **Axe Kick/Cleave**: Shiva will do a large AOE, reaching to the outside ring of the arena.
 
-**Scythe Kick/Reap**: Shiva will do a small donut AOE, the safespot being half way between the center and the inner-most ring 
+**Scythe Kick/Reap**: Shiva will do a small donut AOE, the safespot being halfway between the centre and the inner-most ring.
 
 (images for both)
 
@@ -249,9 +249,9 @@ The non-AOE players will stand just outside the outer ring on the arena floor to
 
 For Scythe Kick, Shiva will begin by shouting **"Reap"**. Players will find relative North and immediately move out to their positions as shown in the image below. 
 
-The non-AOE players will stand as close as possible to Shiva. It is possible to use the small diamond shapes on the floor to align yourself. The AOE players **must also** also start extremely close to Shiva as the donut AOE is extremely small (**The inner ring is NOT the safe spot, it is actually about **half** the diameter of that ring). After the initial cleave goes off, all the AOE players will quickly move out and place their AOE on the middle ring on the Arena's floor.
+The non-AOE players will stand as close as possible to Shiva. It is possible to use the small diamond shapes on the floor to align yourself. The AOE players **must also** also start extremely close to Shiva as the donut AOE is extremely small (**The inner ring is NOT the safe spot; it is actually about **half** the diameter of that ring). After the initial cleave goes off, all the AOE players will quickly move out and place their AOE on the middle ring on the Arena's floor.
 
-After dropping their puddles, everyone will quickly rush back to the center of the arena. Shiva will shortly do a knockback and Light Party 1 will ride this to the relative North as this will be the safespot formed from the AOEs. Light Party 2 will ride this KB to the relative South. 
+After dropping their puddles, everyone will quickly rush back to the centre of the arena. Shiva will shortly do a knockback and Light Party 1 will ride this to the relative North as this will be the safespot formed from the AOEs. Light Party 2 will ride this KB to the relative South. 
 
 {: .note }
 > Moving slightly closer to the wall after your KB can help alleviate some poor AOE placement.
@@ -262,7 +262,7 @@ After dropping their puddles, everyone will quickly rush back to the center of t
 
 Just after the AOEs are dropped, players should identify **where** the clone of Shiva is (she'll be wearing a white outfit instead of Shiva's blueish armour), as this is where **real** Shiva will be later. 
 
-Each light party will be taking stacks that leave a bleed puddle. We want both light parties to leave these puddles in desireable positions, as well as set up each party for favourable movement in the upcoming mechanic.
+Each light party will be taking stacks that leave a bleed puddle. We want both light parties to leave these puddles in desirable positions, as well as set up each party for favourable movement in the upcoming mechanic.
 
 After identifying the clone:
 If a lightparty is less than or equal to 90 degrees away from the clone they should rotate **AWAY** from the clone whilst dropping their puddles along the arenas edge.
@@ -280,18 +280,18 @@ This ice will slide you across nearly the entire width of the arena in one movem
 
 Shiva will then cast either:
 
-**Twin Stillness** and say **"In Stillness, freeze"**, which is a 270 degree cleave that covers the entire arena in front of her
+**Twin Stillness** and say, **"In Stillness, freeze"**, which is a 270 degree cleave that covers the entire arena in front of her.
 
-or
+OR
 
-**Twin Silence** and say **"Sink into Silence"**, which is a small cleave that covers the wedge of arena behind her.
+**Twin Silence** and say, **"Sink into Silence"**, which is a small cleave that covers the wedge of arena behind her.
 
 Immediately after she will cast the opposite, requiring players to slide across the arena into the opposite safe spot. 
 
 {: .warning }
-> This snapshot for the second cleave is INCREDIBLY unforgiving. I recommend watching your emnity list and sliding the second you see the first cast finish.
+> This snapshot for the second cleave is INCREDIBLY unforgiving. I recommend watching your enmity list and sliding the second you see the first cast finish.
 
-Immediately following this Shiva will become targetable, appearing back in the arena's center and the ice floor will dissappear
+Immediately following this Shiva will become targetable, appearing back in the arena's centre and the ice floor will disappear.
 
 She will then cast a heavy hitting line stack, **Hallowed Ray**, before casting:
 
@@ -303,9 +303,9 @@ Shiva will spawn 3 mirrors along the edges of the arena. There will be **2 RED m
 
 During this mechanic, every mirror will repeat the mechanics that Shiva is doing, however **red** mirrors will do it after a significant delay.
 
-The MT will start by pulling the boss across the arena from the blue mirror. Melee dps and both tanks will stick close to the boss, whilst the healers and ranged players will step out next to the blue mirror.
+The MT will start by pulling the boss across the arena from the blue mirror. Melee DPS and both tanks will stick close to the boss, whilst the healers and ranged players will step out next to the blue mirror.
 
-Shiva will then cast **Scythe Kick**, requiring the melees to be close to the boss, and the ranged players being close to the mirror.
+Shiva will then cast **Scythe Kick**, requiring the melees to be close to the boss, and the ranged players being close to the blue mirror.
 
 As this cast goes off, 4 proximity based AOEs will launch at the players closest to the source (Shiva/Mirror). Ranged players should be careful with pointing their protean directly through the middle as they will cleave the melees.
 
@@ -313,9 +313,9 @@ The lineup for these AOEs can be seen below:
 
 {% include image.html width="500px" path="MM1.webp" %}
 
-Immediately after, the MT will pull the boss to the closest red mirror to the boss, and the ranged will move to the closest red mirror to the blue mirror and everyone will spread for another Scythe Kick + Protean combo.
+Immediately after, the MT will pull the boss to the closest red mirror to the boss, and the ranged will move to the closest red mirror to the blue mirror, and everyone will spread for another Scythe Kick + Protean combo.
 
-In the case that the mirrors spawn: **RED, BLUE, RED**, the melees will move to the first Red mirror clockwise of their position. The ranged players will also rotate to the first red mirror clockwise.
+In the case that the mirrors spawn: **RED, BLUE, RED**, the melees will move to the first red mirror clockwise of their position. The ranged players will also rotate to the first red mirror clockwise.
 
 All players but specifically the DPS players should be careful with their proteans here. In some patterns it's possible to be 90 degrees from the other red mirror, meaning that the DPS should squeeze closer to the Support player furthest away from the other mirror to ensure no clipping occurs.
 
@@ -335,9 +335,9 @@ Shiva will then cast:
 
 {% include raidplan.html title="P2 - Light Rampant" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
 
-(There are currently two strats floating around. I will be writing about the strat Kobe has made diagrams for, however I may write a short addendum for AB1234 for anyone willing to use it. There are upsides and downsides to both and it is essentially personal preference as they both achieve the same result.)
+(There are currently two strats floating around. I will be writing about the strat Kobe has made diagrams for; however, I may write a short addendum for AB1234 for anyone willing to use it. There are upsides and downsides to both, and it is essentially personal preference as they both achieve the same result.)
 
-Shiva will go untargetable and the party should line up as seen in the image below, with DPS south and Supports north. Shortly after the cast finishes, 6 players will be tethered together with 2 of them having large white orbs above their heads, signifying they are being targeted for a light party stack later.
+Shiva will go untargetable, and the party should line up as seen in the image below, with DPS south and Supports north. Shortly after the cast finishes, 6 players will be tethered together with 2 of them having large white orbs above their heads, signifying they are being targeted for a light party stack later.
 
 {% include image.html width="500px" path="LR1.webp" %}
 
@@ -347,7 +347,7 @@ The 2 remaining players will be targeted with AOEs marks similar to the puddles 
 
 At the same time, 6 towers will appear around the arena.
 
-Players must quickly form a hexagon shape, using the 3 North waymarks and the 3 South waymarks. Some players (D1/H2) may have to walk to the opposite cardinal to form the hexagon
+Players must quickly form a hexagon shape, using the 3 North waymarks and the 3 South waymarks. Some players (D1/H2) may have to walk to the opposite cardinal to form the hexagon.
 
 {% include image.html width="500px" path="LR2.webp" %}
 
@@ -365,7 +365,7 @@ AOEs will then spawn around the arena in a Y shape, going off in 2 sets of 3. Pl
 
 As this mechanic has been going on, players have been accruing stacks of **Lightsteeped**. Up until now the stacks have been self-contained as there is no way to change them without resolving the mechanic in the process (towers/light party stack). If a player gains more than 4 stacks, the raid will wipe.
 
-As each group makes their final dodge, a 4 player tower will appear in the center of the arena. Players with **2** stacks of Lightsteeped should walk into the tower to soak it.
+As each group makes their final dodge, a 4 player tower will appear in the centre of the arena. Players with **2** stacks of Lightsteeped should walk into the tower to soak it.
 
 This is immediately followed by another **Banish 3**, and **House of Light**, which will hit every player with a protean AOE and increase their Lightsteeped stacks to 4.
 
@@ -375,11 +375,11 @@ Shiva must be brought below 20% health before she finishes casting her enrage:
 ---
 ## Intermission
 
-All players will spread as seen in the image below and close to the center of the arena, as there will be a short ranged knock back.
+All players will spread as seen in the image below and close to the centre of the arena, as there will be a short ranged knock back.
 
 (protean spread here)
 
-Ryne will become frozen in an **Ice Veil** in the center of the arena, and 8 Crystals will spawn around the arena. 
+Ryne will become frozen in an **Ice Veil** in the centre of the arena, and 8 Crystals will spawn around the arena. 
 
 There will be 4 **Crystals of Light** on Intercardinals and 4 **Crystals of Dark** on Cardinals. 
 
