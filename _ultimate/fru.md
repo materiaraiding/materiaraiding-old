@@ -348,7 +348,7 @@ Players must quickly form a hexagon shape, using the 3 North waymarks and the 3 
 
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/e6d9faac-5e19-4035-ac5d-9c0b672314e4" %}
 
-The N/S players will then swap positions, and the NE/NW players will swap positions. All the tethers players will then quickly spread out to the tower on their cardinal/intercardinal.
+The N/S players will then swap positions, and the NE/NW players will also swap positions. All the tether players will then quickly spread out to the tower on their cardinal/intercardinal.
 
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/59a5a98d-b20f-450c-a272-8391282d475d" %}
 
