@@ -240,7 +240,7 @@ Because the AOEs are role based we split into ranged/melee partners for the foll
 
 ### Axe Kick
 
-For Axe Kick, Shiva will begin by shouting out **"Cleave"**. Players will find relative North and immediately move out to their positions as shown in the image below. 
+For Axe Kick, Shiva will begin by shouting **"Cleave"**. Players will find relative North and immediately move out to their positions as shown in the image below. 
 
 The non-AOE players will stand just outside the outer ring on the arena floor to bait out proximity based protean AOEs. Leaning slightly towards the relative cardinal marker may help with clipping the AOE player. Meanwhile, AOE players should move as far out as they can and place their AOEs on intercardinals.
 
@@ -259,7 +259,7 @@ After dropping their puddles, everyone will quickly rush back to the center of t
 
 {% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
 
-After or before the knockback, players should identify **where** the clone of Shiva is (she'll be wearing a white outfit instead of Shiva's blueish armour). 
+Just after the AOEs are dropped, players should identify **where** the clone of Shiva is (she'll be wearing a white outfit instead of Shiva's blueish armour), as this is where **real** Shiva will be later. 
 
 Each light party will be taking stacks that leave a bleed puddle. We want both light parties to leave these puddles in desireable positions, as well as set up each party for favourable movement in the upcoming mechanic.
 
