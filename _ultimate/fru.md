@@ -311,7 +311,7 @@ As this cast goes off, 4 proximity based AOEs will launch at the players closest
 
 The lineup for these AOEs can be seen below:
 
-(image)
+{% include image.html width="500px" path="MM1.webp" %}
 
 Immediately after, the MT will pull the boss to the closest red mirror to the boss, and the ranged will move to the closest red mirror to the blue mirror and everyone will spread for another Scythe Kick + Protean combo.
 
@@ -323,11 +323,11 @@ After this mechanic resolves the mirrors will despawn and Shiva will cast **Bani
 
 If this halo has **1 orb**, the party must group up in pairs as seen in the image below:
 
-(image)
+{% include image.html width="500px" path="BANISHPARTNERS.webp" %}
 
 If this halo has **4 orbs**, the party must spread as seen in the image below:
 
-(image)
+{% include image.html width="500px" path="BANISHSPREAD.webp" %}
 
 Shiva will then cast:
 
