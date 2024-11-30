@@ -298,11 +298,11 @@ She will then cast a heavy hitting line stack, **Hallowed Ray**, before casting:
 
 {% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/WVd2siF6qMYAjzrv" %}
 
-Shiva will spawn 3 mirrors along one wall. There will be **2 red** mirrors and **1 blue** mirror and all 3 will always be 45 degrees away from one another.
+Shiva will spawn 3 mirrors along one wall. There will be **2 RED mirrors** and **1 BLUE mirror** and all 3 will always be 45 degrees away from one another.
 
 During this mechanic, every mirror will repeat the mechanics that Shiva is doing, however **red** mirrors will do it after a significant delay.
 
-The MT will start by pulling the boss across the arena from the blue mirror. Melee dps and the ST will stick close to the boss, whilst the healers and ranged players will step out next to the blue mirror.
+The MT will start by pulling the boss across the arena from the blue mirror. Melee dps and both tanks will stick close to the boss, whilst the healers and ranged players will step out next to the blue mirror.
 
 Shiva will then cast **Scythe Kick**, requiring the melees to be close to the boss, and the ranged players being close to the mirror.
 
@@ -312,7 +312,7 @@ The lineup for these AOEs can be seen below:
 
 (image)
 
-Immediately after, the MT will pull the boss to the first Red mirror clockwise of their position. The ranged players will also rotate to the first Red mirror clockwise, and everyone will spread for another Scythe Kick + Protean combo.
+Immediately after, the MT will pull the boss to the first Red mirror clockwise of their position. The ranged players will also rotate to the first red mirror clockwise, and everyone will spread for another Scythe Kick + Protean combo.
 
 All players but specifically the DPS players should be careful with their proteans here. In some patterns it's possible to be 90 degrees from the other red mirror, meaning that the DPS should squeeze closer to the Support player furthest away from the other mirror to ensure no clipping occurs.
 
