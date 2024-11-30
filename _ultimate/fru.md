@@ -489,7 +489,9 @@ Here is a timeline of events:
 
 After sorting the starting positions, **10s Fire Debuff** players will step out to take their AOE between their respective Traffic Light and the wall. If you are an **Ice** debuff stay stacked in middle.
 
-Shortly after, the first set of Traffic Lights will go off. Players can essentially just stare at their Traffic Light until the spinning arrow appears around its base for an indication of when they should step out to bait. At the same time, the 1st set of Rewinds will go off. Players with **Water/Gaze** should loose spread mid, with **Water standing on the direct center**. It is important **Gaze** players don't stack right on top of eachother as the may accidentally gaze one another later. Players with **Eruption** should stand on their Traffic light.
+Shortly after, the first set of Traffic Lights will go off. Players can essentially just stare at their Traffic Light until the spinning arrow appears around its base for an indication of when they should step out to bait. At the same time, the 1st set of Rewinds will go off. Players with **Water/Gaze** should loose spread mid, with **Water standing on the direct center**. 
+
+It is important **Gaze** players don't stack right on top of eachother as the may accidentally gaze one another later. Players with **Eruption** should stand just in front of their Traffic light.
 
 Afterwards **20s Fire Debuff** players will step out to take their AOE. 
 
