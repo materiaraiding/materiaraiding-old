@@ -147,7 +147,7 @@ Once the partner stack/spread is resolved it is possible to make your way North/
 
 To the north, a Fire Aspected clone will begin to cast Burnt Strike. At the same time, two random players will be targeted for light party stacks via a **Bound of Faith** cast. 
 
-Light party 1 will move slightly to the north, and Light party 2 will move slightly to the south. If a swap is required, the melee DPS will flex as needed. Using the knock back from Burnt Strike, each party will be knocked North-East/West and South-East/West depending on where the safespot is.
+Light party 1 will move slightly to the north, and Light party 2 will move slightly to the south. If a swap is required, the priority for flexing is MTRH. Using the knock back from Burnt Strike, each party will be knocked North-East/West and South-East/West depending on where the safespot is.
 
 {% include image.html width="500px" path="Slide27.webp" %}
 
