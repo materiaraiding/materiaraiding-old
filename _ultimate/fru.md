@@ -299,7 +299,7 @@ She will then cast a heavy hitting line stack, **Hallowed Ray**, before casting:
 
 {% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/WVd2siF6qMYAjzrv" %}
 
-Shiva will spawn 3 mirrors along one wall. There will be **2 RED mirrors** and **1 BLUE mirror** and all 3 will always be 45 degrees away from one another.
+Shiva will spawn 3 mirrors along the edges of the arena. There will be **2 RED mirrors** and **1 BLUE mirror**.
 
 During this mechanic, every mirror will repeat the mechanics that Shiva is doing, however **red** mirrors will do it after a significant delay.
 
