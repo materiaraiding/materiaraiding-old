@@ -461,4 +461,43 @@ As well as:
 
 As well as this, 8 hourglass/traffic lights will appear around the arena. Gaia will then tether 3 of them in a Y shape with yellow tethers, and 2 others with a purple tether.
 
-Yellow Tethered Traffic Lights **go first**, and Purple Tethered Traffic Lights **go last**.
+These Traffic Lights will spawn baited rotating AOEs that cleave 180(?) degrees in front of them. Yellow Tethered Traffic Lights **go first**, and Purple Tethered Traffic Lights **go last**.
+
+There are 2 ways you can orient this arena. Either using the lone yellow traffic light as Relative North, or the empty space between the 2 close yellow traffic lights. **Either method works as the strats don't interfere with eachother, so use what you are comfortable with.**
+
+All of this sounds incredibly intimdating and complicated, but it can be simplified for each person.
+
+
+
+Once the cast bar goes off players will find Relative North. For this example I will be using the **lone yellow traffic light** as North.
+
+DPS will line up north D1 - D4, and Supports will line up south MT - H2. Any DPS with a **10s Fire Debuff** will step out of the line up and take the NE and NW traffic lights (whichever they are closest to).
+
+Any Support with a **30s Fire Debuff** will step out of the line up and take the SE and SW traffic lights (whichever they are closest to).
+
+The DPS and Support players with a **20s Fire Debuff** will go E/W respectively.
+
+And finally, either: A Support with the **10s Fire Debuff** or **20s Ice Debuff** will go South, and a DPS with the **30s Fire Debuff** or **10s Ice Debuff** will go North
+
+This will leave the spreads looking something like this:
+
+(image)
+
+As the mechanic begins, players who are currently not solving a mechanic should stack in the middle of the arena. 
+
+Here is a timeline of events:
+
+After sorting the starting positions, **10s Fire Debuff** players will step out to take their AOE between their respective Traffic Light and the wall. If you are an **Ice** debuff stay stacked in middle.
+
+Shortly after, the first set of Traffic Lights will go off. Players can essentially just stare at their Traffic Light until the spinning arrow appears around its base for an indication of when they should step out to bait. At the same time, the 1st set of Rewinds will go off. Players with **Water/Gaze** should loose spread mid, with **Water standing on the direct center**. It is important **Gaze** players don't stack right on top of eachother as the may accidentally gaze one another later. Players with **Eruption** should stand on their Traffic light.
+
+Afterwards **20s Fire Debuff** players will step out to take their AOE. 
+
+The second set of baits and rewinds will then go off. Use the same prio as before: **Water/Gaze** mid, **Eruptions** on Traffic Lights. If you have nothing to do just AFK.
+
+The **30s Fire Debuff** players will then step out to take their AOEs.
+
+The final set of Traffic Light baits will then go off and everyone will stack mid. **ALL players should look OUT of the arena at their clockspot.**
+
+Rewind will pull everyone back to their recorded position and the **Water Stack** **Gazes** and **Eruptions** will all go off at once.
+
