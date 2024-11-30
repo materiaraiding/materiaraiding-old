@@ -225,13 +225,14 @@ These will be followed by another 6 AOEs that fill the edge of the arena but onl
 
 Looking from NW to E, the AOE that is in this quadrant will become **relative North**.
 
-Either DPS or Supports will then be marked by 4 purple (name) AOEs that will spawn a star shaped AOE after a delay. Theses AOEs should always be placed on intercardinals when facing relative North.
+Either DPS or Supports will then be marked by 4 orange Frigid Stone AOEs that will spawn a star shaped AOE after a delay. Theses AOEs should always be placed on intercardinals when facing relative North.
 
 Our goal in this mechanic is to place these AOE markers in specific positions such that we form safe spots within relative North and relative South.
 
 Shiva will then cast 1 of 2 abilities:
 
 **Axe Kick/Cleave**: Shiva will do a large AOE, reaching to the outside ring of the arena.
+
 **Scythe Kick/Reap**: Shiva will do a small donut AOE, the safespot being half way between the center and the inner-most ring 
 
 (images for both)
@@ -366,11 +367,19 @@ As each group makes their final dodge, a 4 player tower will appear in the cente
 
 This is immediately followed by another **Banish 3**, and **House of Light**, which will hit every player with a protean AOE.
 
-Shiva will then cast her enrage:
+Shiva must be brought below 20% health before she finishes casting her enrage:
 
 ### Absolute Zero
 ---
 ## Intermission
+
+All players will spread as seen in the image below and close to the center of the arena, as there will be a short ranged knock back.
+
+(protean spread here)
+
+Ryne will become frozen in an **Ice Veil** in the center of the arena, and 8 Crystals will spawn around the arena. 
+
+There will be 4 **Crystals of Light** on Intercardinals and 4 **Crystals of Dark** on Cardinals. 
 
 (will write up later)
 
@@ -385,7 +394,7 @@ Light Crystals bait circle AOEs on closest player. (Melee players)
 
 Dark Crystals bait protean AOEs on closest player. (Ranged players)
 
-Players must DPS ice veil below certain percentage. Killing Light Crystals gives up vuln up
+Players must DPS ice veil below 50%. Killing Light Crystals gives up vuln up
 
 --- 
 
