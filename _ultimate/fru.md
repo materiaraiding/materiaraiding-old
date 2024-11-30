@@ -36,8 +36,9 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include raidplan.html title="P2 - Diamond Dust" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
 {% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
 {% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/WVd2siF6qMYAjzrv" %}
-{% include raidplan.html title="P2 - Light Rampant" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
-{% include raidplan.html title="P2 - Light Rampant - ALT Strat AB1234" link="https://raidplan.io/plan/555twAePqVEC2ERn" %}
+{% include raidplan.html title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/555twAePqVEC2ERn" %}
+{% include raidplan.html title="P2 - Light Rampant - Adjust Strat" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
+
 
 ---
 
@@ -333,8 +334,17 @@ Shiva will then cast:
 
 ### Light Rampant
 
+<details markdown=1>
+<summary>Light Rampant - AB1234 Strat</summary>
+{% include raidplan.html title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/555twAePqVEC2ERn" %}
+
+(Writeup in progress)
+
+</details>
+
+<details markdown=1>
+<summary>Light Rampant - Adjust Strat</summary>
 {% include raidplan.html title="P2 - Light Rampant" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
-{% include raidplan.html title="P2 - Light Rampant - ALT Strat AB1234" link="https://raidplan.io/plan/555twAePqVEC2ERn" %}
 
 (There are currently two strats floating around. I will be writing about the strat Kobe has made diagrams for; however, I may write a short addendum for AB1234 for anyone willing to use it. There are upsides and downsides to both, and it is essentially personal preference as they both achieve the same result.)
 
@@ -361,6 +371,7 @@ The N/S players will then swap positions, and the NE/NW players will also swap p
 The 2 AOE players will start in the inner ring on the Arena at N/S and rotate CW to drop 5 puddle AOES each.
 
 After resolving the towers, Northern and Southern tether players should group up at North and South respectively. Each AOE player should also join a separate light party after they drop their puddles.
+</details>
 
 AOEs will then spawn around the arena in a Y shape, going off in 2 sets of 3. Players will WAIT for their light party stack to go off, before shifting to the closest safespot CW, and then moving BACK into the next safespot.
 
