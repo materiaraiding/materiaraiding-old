@@ -70,7 +70,7 @@ These can be imported using an XIV Launcher Plugin.
 
 ## Phase 1: Fatebreaker
 
-{% include raidplan.html title="P1 - Proteans & Utopian Sky" link="https://raidplan.io/plan/WlRr-qtrUTEPiaJZ" %}
+{% include raidplan.html  iframe="true" title="P1 - Proteans & Utopian Sky" link="https://raidplan.io/plan/WlRr-qtrUTEPiaJZ" %}
 
 Throughout this phase Fatebreaker will aspect his abilities with either Fire or Lightning.
 
@@ -159,7 +159,7 @@ Following this, Fatebreaker casts:
 
 ### Fall of Faith / Tethers 2
 
-{% include raidplan.html title="P1 - Tethers 2 East/West" link="https://raidplan.io/plan/TOsL-pQk0vGJXBS7" %}
+{% include raidplan.html  iframe="true" title="P1 - Tethers 2 East/West" link="https://raidplan.io/plan/TOsL-pQk0vGJXBS7" %}
 
 Fatebreaker will begin the mechanic by targeting a random player with either a **Fire Aspected** or **Lightning Aspected** Fall of Faith.
 
@@ -191,7 +191,7 @@ After another **Burnished Glory**, Fatebreaker will do another **Powder Mark** {
 
 ### Burnt Strike / Enum Towers
 
-{% include raidplan.html title="P1 - Towers Fixed Casters" link="https://raidplan.io/plan/0_j5V0mV8UZVrmKa" %}
+{% include raidplan.html  iframe="true" title="P1 - Towers Fixed Casters" link="https://raidplan.io/plan/0_j5V0mV8UZVrmKa" %}
 
 Fatebreaker will begin to channel Burnt Strike, and 3 towers will appear on the West or East wall. These towers will require 6 members from the team to soak them, with a maximum of 4 players in one tower.
 
@@ -217,7 +217,7 @@ Phase 2 begins with a tankbuster **Quadruple Slap**, before starting the first m
 
 ### Diamond Dust
 
-{% include raidplan.html title="P2 - Diamond Dust" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
+{% include raidplan.html  iframe="true" title="P2 - Diamond Dust" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
 
 After spawning a clone of herself, and flashbanging your monitor, Shiva will rise into the air and spawn 2 large AOEs opposite each other on the edge of the arena. 
 (clarification on clone here)
@@ -259,7 +259,7 @@ After dropping their puddles, everyone will quickly rush back to the centre of t
 
 ### Stillness/Silence
 
-{% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
+{% include raidplan.html iframe="true"  title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
 
 Just after the AOEs are dropped, players should identify **where** the clone of Shiva is (she'll be wearing a white outfit instead of Shiva's blueish armour), as this is where **real** Shiva will be later. 
 
@@ -298,7 +298,7 @@ She will then cast a heavy hitting line stack, **Hallowed Ray**, before casting:
 
 ### Mirror Mirror
 
-{% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/WVd2siF6qMYAjzrv" %}
+{% include raidplan.html  iframe="true" title="P2 - Mirror Mirror" link="https://raidplan.io/plan/WVd2siF6qMYAjzrv" %}
 
 Shiva will spawn 3 mirrors along the edges of the arena. There will be **2 RED mirrors** and **1 BLUE mirror**.
 
@@ -336,7 +336,7 @@ Shiva will then cast:
 
 <details markdown=1>
 <summary>Light Rampant - AB1234 Strat</summary>
-{% include raidplan.html title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
+{% include raidplan.html iframe="true" title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
 
 (Writeup in progress)
 
@@ -344,7 +344,7 @@ Shiva will then cast:
 
 <details markdown=1>
 <summary>Light Rampant - Adjust Strat</summary>
-{% include raidplan.html title="P2 - Light Rampant - Adjust Strat" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
+{% include raidplan.html iframe="true" title="P2 - Light Rampant - Adjust Strat" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
 
 (There are currently two strats floating around. I will be writing about the strat Kobe has made diagrams for; however, I may write a short addendum for AB1234 for anyone willing to use it. There are upsides and downsides to both, and it is essentially personal preference as they both achieve the same result.)
 
@@ -457,5 +457,3 @@ As well as:
 As well as this, 8 hourglass/traffic lights will appear around the arena. Gaia will then tether 3 of them in a Y shape with yellow tethers, and 2 others with a purple tether.
 
 Yellow Tethered Traffic Lights **go first**, and Purple Tethered Traffic Lights **go last**.
-
-

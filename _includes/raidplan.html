@@ -1,4 +1,9 @@
 <div class="raidplan">
-    <div class="raidplan_title">{{ include.title }}</div>
-    <div class="raidplan_button" onclick="window.open('{{ include.link }}')">View Raidplan</div>
+    <div class="raidplan_links">
+        <div class="raidplan_title">{{ include.title }}</div>
+        <div class="raidplan_button" onclick="window.open('{{ include.link }}')">View Raidplan</div>
+    </div>
+{% if include.iframe == "true" %}
+<iframe scrolling="no" class="raidplan_iframe" src="{{ include.link }}" onload="this.style.height=(this.contentDocument.body.scrollHeight+45) +'px';"></iframe>
+{% endif %}
 </div>

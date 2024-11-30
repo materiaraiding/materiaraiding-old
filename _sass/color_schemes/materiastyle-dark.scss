@@ -240,16 +240,33 @@ figcaption {
 /* Raidplan Link */
 
 .raidplan {
-	display: flex;
-	justify-content: space-between;
 	padding: 0.5rem 0.5rem 0.5rem 0.7rem;
 	border-radius: 5px;
 	background-color: $sidebar-color;
-	align-items: center;
 	margin-block-start: 0.8em;
 	margin-block-end: 0.8em;
 	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), 0 4px 10px rgba(0, 0, 0, 0.12);
 }
+
+.raidplan_links {
+	align-items: center;
+	display: flex;
+	justify-content: space-between;
+}
+
+.raidplan_iframe {
+	border:none; 
+	width: 100%; 
+	height: 800px;
+	margin-top: 0.6em;
+}
+@media only screen and (max-width: 1000px) {
+	.raidplan_iframe {
+		display: none;
+	}
+}
+
+
 .raidplan_title {
 	color: $materia-red;
 	font-weight: 600;
