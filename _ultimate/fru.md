@@ -389,7 +389,8 @@ Players must DPS ice veil below certain percentage. Killing Light Crystals gives
 
 ## Phase 3: Oracle of Darkness (Gaia)
 
+### Ultimate Relativity
 
-
-
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/51248c3a-912d-4645-a796-3b464eb24ae3" %}
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/8c6703b8-b170-4a67-ac16-457941e7b631" %}
 
