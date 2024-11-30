@@ -268,7 +268,7 @@ If a lightparty is less than or equal to 90 degrees away from the clone they sho
 
 If a lightparty is more than 90 degrees away from the clone they should rotate **TO** the clone and attempt to position them behind her.
 
-After dropping 5(?) puddles, Shiva will cast **Redress**, requiring each player to look away less they be (status effect). 
+After dropping 4 puddles, Shiva will cast **Redress**, requiring each player to look away less they be (status effect). 
 
 {: .note }
 > There is a short period where you finish dropping your puddles and can move before the gaze goes off, allowing you to either get behind or directly across from the Shiva clone.
@@ -279,11 +279,11 @@ This ice will slide you across nearly the entire width of the arena in one movem
 
 Shiva will then cast either:
 
-**Stillness** and say "", which is a 270 degree cleave that covers the entire arena in front of her
+**Twin Stillness** and say **"In Stillness, freeze"**, which is a 270 degree cleave that covers the entire arena in front of her
 
 or
 
-**Silence** and say "", which is a small cleave that covers the wedge of arena behind her.
+**Twin Silence** and say **"Sink into Silence"**, which is a small cleave that covers the wedge of arena behind her.
 
 Immediately after she will cast the opposite, requiring players to slide across the arena into the opposite safe spot. 
 
@@ -292,7 +292,7 @@ Immediately after she will cast the opposite, requiring players to slide across 
 
 Immediately following this Shiva will become targetable, appearing back in the arena's center and the ice floor will dissappear
 
-She will then cast a heavy hitting line stack, **(line stack name)**, before casting:
+She will then cast a heavy hitting line stack, **Hallowed Ray**, before casting:
 
 ### Mirror Mirror
 
@@ -316,7 +316,17 @@ Immediately after, the MT will pull the boss to the first Red mirror clockwise o
 
 All players but specifically the DPS players should be careful with their proteans here. In some patterns it's possible to be 90 degrees from the other red mirror, meaning that the DPS should squeeze closer to the Support player furthest away from the other mirror to ensure no clipping occurs.
 
-After this mechanic resolves the mirrors will despawn and Shiva will cast:
+After this mechanic resolves the mirrors will despawn and Shiva will cast **Banish III**, forming a halo on her head.
+
+If this halo has **1 orb**, the party must group up in pairs as seen in the image below:
+
+(image)
+
+If this halo has **4 orbs**, the party must spread as seen in the image below:
+
+(image)
+
+Shiva will then cast:
 
 ### Light Rampant
 
@@ -342,15 +352,43 @@ The N/S players will then swap positions, and the NE/NW players will swap positi
 
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/59a5a98d-b20f-450c-a272-8391282d475d" %}
 
-The 2 AOE players will start in the inner ring on the Arena at N/S and rotate CW to drop 5(?) puddle AOES each.
+The 2 AOE players will start in the inner ring on the Arena at N/S and rotate CW to drop 5 puddle AOES each.
 
 After resolving the towers, Northern and Southern tether players should group up at North and South respectively. Each AOE player should also join a separate light party after they drop their puddles.
 
 AOEs will then spawn around the arena in a Y shape, going off in 2 sets of 3. Players will WAIT for their light party stack to go off, before shifting to the closest safespot CW, and then moving BACK into the next safespot.
 
-As this mechanic has been going on, players have been accruing stacks of (buff). Up until now the stacks have been self-contained as there is no way to change them without resolving the mechanic in the process (towers/etc/etc). If a player gains more than 3 stacks, the raid will wipe.
+As this mechanic has been going on, players have been accruing stacks of **Lightsteeped**. Up until now the stacks have been self-contained as there is no way to change them without resolving the mechanic in the process (towers/light party stack). If a player gains more than 3 stacks, the raid will wipe.
 
-As each group makes their final dodge, a 4 player tower will appear in the center of the arena. Players with **2** stacks of (buff) should walk into the tower to soak it.
+As each group makes their final dodge, a 4 player tower will appear in the center of the arena. Players with **2** stacks of Lightsteeped should walk into the tower to soak it.
+
+This is immediately followed by another **Banish 3**, and **House of Light**, which will hit every player with a protean AOE.
+
+Shiva will then cast her enrage:
+
+### Absolute Zero
+---
+## Intermission
+
+(will write up later)
+
+Ryne frozen in center **Ice Veil**
+
+4 Crystal of Light
+4 Crystal of Dark
+
+Must kill crystal of light, keep Crystal of Dark alive
+
+Light Crystals bait circle AOEs on closest player. (Melee players)
+
+Dark Crystals bait protean AOEs on closest player. (Ranged players)
+
+Players must DPS ice veil below certain percentage. Killing Light Crystals gives up vuln up
+
+--- 
+
+## Phase 3: Oracle of Darkness (Gaia)
+
 
 
 
