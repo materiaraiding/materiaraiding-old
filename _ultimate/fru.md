@@ -407,6 +407,8 @@ Once all the Light Crystals are destroyed, Players must DPS ice veil below 50% t
 
 ## Phase 3: Oracle of Darkness (Gaia)
 
+(Written guide coming soon)
+
 ### Ultimate Relativity
 
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/51248c3a-912d-4645-a796-3b464eb24ae3" %}
