@@ -344,7 +344,7 @@ Shiva will then cast:
 
 <details markdown=1>
 <summary>Light Rampant - Adjust Strat</summary>
-{% include raidplan.html title="P2 - Light Rampant" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
+{% include raidplan.html title="P2 - Light Rampant - Adjust Strat" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
 
 (There are currently two strats floating around. I will be writing about the strat Kobe has made diagrams for; however, I may write a short addendum for AB1234 for anyone willing to use it. There are upsides and downsides to both, and it is essentially personal preference as they both achieve the same result.)
 
