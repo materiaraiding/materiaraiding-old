@@ -413,6 +413,8 @@ This is immediately followed by:
 
 ### Ultimate Relativity
 
+{% include raidplan.html title="P3 - Light Rampant - Ultimate Relativity" link="https://tinyurl.com/4bwsr94e" %}
+
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/51248c3a-912d-4645-a796-3b464eb24ae3" %}
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/8c6703b8-b170-4a67-ac16-457941e7b631" %}
 
