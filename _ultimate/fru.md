@@ -483,8 +483,6 @@ This will leave the spreads looking something like this:
 
 (image)
 
-As the mechanic begins, players who are currently not solving a mechanic should stack in the middle of the arena. 
-
 Here is a timeline of events:
 
 After sorting the starting positions, **10s Fire Debuff** players will step out to take their AOE between their respective Traffic Light and the wall. If you are an **Ice** debuff stay stacked in middle.
