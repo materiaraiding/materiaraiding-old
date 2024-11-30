@@ -261,7 +261,7 @@ After dropping their puddles, everyone will quickly rush back to the center of t
 
 After or before the knockback, players should identify **where** the clone of Shiva is (she'll be wearing a white outfit instead of Shiva's blueish armour). 
 
-As each lightparty will be taking stacks that leave a bleed puddle we want both light parties to leave these puddles in desireable positions, as well as set up each party for favourable movement in the upcoming mechanic.
+Each light party will be taking stacks that leave a bleed puddle. We want both light parties to leave these puddles in desireable positions, as well as set up each party for favourable movement in the upcoming mechanic.
 
 After identifying the clone:
 If a lightparty is less than or equal to 90 degrees away from the clone they should rotate **AWAY** from the clone whilst dropping their puddles along the arenas edge.
