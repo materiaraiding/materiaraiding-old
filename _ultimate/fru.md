@@ -361,11 +361,11 @@ After resolving the towers, Northern and Southern tether players should group up
 
 AOEs will then spawn around the arena in a Y shape, going off in 2 sets of 3. Players will WAIT for their light party stack to go off, before shifting to the closest safespot CW, and then moving BACK into the next safespot.
 
-As this mechanic has been going on, players have been accruing stacks of **Lightsteeped**. Up until now the stacks have been self-contained as there is no way to change them without resolving the mechanic in the process (towers/light party stack). If a player gains more than 3 stacks, the raid will wipe.
+As this mechanic has been going on, players have been accruing stacks of **Lightsteeped**. Up until now the stacks have been self-contained as there is no way to change them without resolving the mechanic in the process (towers/light party stack). If a player gains more than 4 stacks, the raid will wipe.
 
 As each group makes their final dodge, a 4 player tower will appear in the center of the arena. Players with **2** stacks of Lightsteeped should walk into the tower to soak it.
 
-This is immediately followed by another **Banish 3**, and **House of Light**, which will hit every player with a protean AOE.
+This is immediately followed by another **Banish 3**, and **House of Light**, which will hit every player with a protean AOE and increase their Lightsteeped stacks to 4.
 
 Shiva must be brought below 20% health before she finishes casting her enrage:
 
