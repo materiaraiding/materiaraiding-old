@@ -266,9 +266,10 @@ Just after the AOEs are dropped, players should identify **where** the clone of 
 Each light party will be taking stacks that leave a bleed puddle. We want both light parties to leave these puddles in desirable positions, as well as set up each party for favourable movement in the upcoming mechanic.
 
 After identifying the clone:
-If a lightparty is less than 90 degrees away from the clone they should rotate **AWAY** from the clone whilst dropping their puddles along the arenas edge.
 
-If a lightparty is equal to or more than 90 degrees away from the clone they should rotate **TO** the clone and attempt to position them behind her.
+Lightparties will rotate clockwise along the edge of the arena whilst dropping their puddles.
+
+If a lightparty is less 90 degrees away from the clone, then rotate counter-clockwise.
 
 After dropping 4 puddles, Shiva will cast **Redress**, requiring each player to look away less they be (status effect). 
 
