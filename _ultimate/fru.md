@@ -452,7 +452,7 @@ As well as:
 
 1 Support with 10s Fire Debuff and 1 DPS with Long Rewind Ice.
 
-(Credit to Ewaens XIVPlan)
+(Credit to Fae Fiyaa & Ewaen)
 
 As well as this, 8 hourglass/traffic lights will appear around the arena. Gaia will then tether 3 of them in a Y shape with yellow tethers, and 2 others with a purple tether.
 
