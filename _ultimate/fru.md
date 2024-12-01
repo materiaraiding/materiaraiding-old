@@ -426,6 +426,8 @@ Melee players will begin to attack the Light Crystal on their spread position, a
 
 As the party begins attacking these Crystals, **Light Crystals** will target the nearest player with a circle AOE and **Dark Crystals** will target the nearest player with a protean AOE. These AOEs will be baited by the player who is on the same spread position as the Crystal (Circle AOE/Melee & Protean AOE/Ranged).
 
+**Light Crystals** also spawn a tether after a short period. This tether will drop large puddle AOEs. Melee players will take this and bait these AOEs around their crystal.
+
 Once all the Light Crystals are destroyed, Players must DPS ice veil below 50% to transition to the next phase:
 
 --- 
@@ -528,13 +530,15 @@ All of this sounds incredibly intimdating and complicated, but it can be simplif
 
 Once the cast bar goes off players will find Relative North. For this example I will be using the **lone yellow traffic light** as North.
 
-DPS will line up north D1 - D4, and Supports will line up south MT - H2. Any DPS with a **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will step out of the line up and take the NE and NW traffic lights (whichever they are closest to).
+DPS will look at their party list to determine which spread they are taking, in the priority D3-D1-D2-D4 looking at relative North. Supports will do the same with the priority H1 MT ST H2. 
+
+Any DPS with a **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will use their priority take the NE and NW traffic lights (whichever they are closest to).
 
 Any Support with a **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will step out of the line up and take the SE and SW traffic lights (whichever they are closest to).
 
 The DPS and Support players with a **20s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will go E/W respectively.
 
-And finally, either: A Support with the **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **20s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go South, and a DPS with the **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **10s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go North
+And finally, either: A Support with the **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **20s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go South, and a DPS with the **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **20s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go North
 
 This will leave the spreads looking something like this:
 
@@ -546,7 +550,7 @@ After sorting the starting positions, **10s Fire Debuff{% include status.html na
 
 At the same time as fire debuffs are being solved, a **Unholy Darkness{% include status.html name="Spell-in-Waiting: Unholy Darkness" %}** party stack will occur in middle, so players who are not resolving a mechanic should AFK in the center of the arena. 
 
-Shortly after, the first set of Traffic Lights will go off. Players can essentially just stare at their Traffic Light until the spinning arrow appears around its base for an indication of when they should step out to bait. At the same time, the 1st set of Rewinds will go off. Players with **Water{% include status.html name="Spell-in-Waiting: Dark Water III" %}/Gaze{% include status.html name="Spell-in-Waiting: Shadoweye" %}** should loose spread mid, with **Water{% include status.html name="Spell-in-Waiting: Dark Water III" %} standing on the direct center**. 
+Shortly after, the first set of Traffic Lights will go off. Players can essentially just stare at their Traffic Light until the spinning arrow appears around its base for an indication of when they should step out to bait. At the same time, the 1st set of Rewinds will go off. Players with **Water{% include status.html name="Spell-in-Waiting: Dark Water III" %}/Gaze{% include status.html name="Spell-in-Waiting: Shadoweye" %}** should loose spread mid, with **Water{% include status.html name="Spell-in-Waiting: Dark Water III" %} standing closer to the center**. 
 
 It is important **Gaze{% include status.html name="Spell-in-Waiting: Shadoweye" %}** players don't stack right on top of eachother as the may accidentally gaze one another later. Players with **Eruption{% include status.html name="Spell-in-Waiting: Dark Eruption" %}** should stand just in front of their Traffic light.
 
