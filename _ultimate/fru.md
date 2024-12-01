@@ -535,7 +535,7 @@ Any Support with a **30s Fire Debuff{% include status.html name="Spell-in-Waitin
 
 The DPS and Support players with a **20s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will go E/W respectively.
 
-And finally, either: A Support with the **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **20s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go South, and a DPS with the **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **10s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go North
+And finally, either: A Support with the **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **20s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go South, and a DPS with the **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **20s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go North
 
 This will leave the spreads looking something like this:
 
