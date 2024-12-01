@@ -271,7 +271,7 @@ After identifying the clone:
 
 Lightparties will rotate clockwise along the edge of the arena whilst dropping their puddles.
 
-If a lightparty is less 90 degrees away from the clone, then rotate counter-clockwise.
+If a lightparty is less 90 degrees away from the clone, then rotate AWAY from Shiva.
 
 After dropping 4 puddles, Shiva will cast **Redress**, requiring each player to look away less they be (status effect). 
 
