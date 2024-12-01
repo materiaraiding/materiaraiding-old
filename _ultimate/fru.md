@@ -547,6 +547,8 @@ Here is a timeline of events:
 
 After sorting the starting positions, **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** players will step out to take their AOE between their respective Traffic Light and the wall. If you are an **Ice debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** stay stacked in middle.
 
+At the same time as fire debuffs are being solved, a **Unholy Darkness{% include status.html name="Spell-in-Waiting: Unholy Darkness" %}** party stack will occur in middle, so players who are not resolving a mechanic should AFK in the center of the arena. 
+
 Shortly after, the first set of Traffic Lights will go off. Players can essentially just stare at their Traffic Light until the spinning arrow appears around its base for an indication of when they should step out to bait. At the same time, the 1st set of Rewinds will go off. Players with **Water{% include status.html name="Spell-in-Waiting: Dark Water III" %}/Gaze{% include status.html name="Spell-in-Waiting: Shadoweye" %}** should loose spread mid, with **Water{% include status.html name="Spell-in-Waiting: Dark Water III" %} standing on the direct center**. 
 
 It is important **Gaze{% include status.html name="Spell-in-Waiting: Shadoweye" %}** players don't stack right on top of eachother as the may accidentally gaze one another later. Players with **Eruption{% include status.html name="Spell-in-Waiting: Dark Eruption" %}** should stand just in front of their Traffic light.
