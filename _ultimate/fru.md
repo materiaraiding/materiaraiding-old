@@ -347,15 +347,33 @@ Shiva will then cast:
 {% include raidplan.html iframe="true" title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
 {% include raidplan.html iframe="true" title="AB1234 Bonus Examples" link="https://raidplan.io/plan/_lzxCSo-2uza1IJa" %}
 
-(Writeup in progress)
+Shiva will go untargetable, and the party should line up as seen in the image below, with DPS south and Supports north. Shortly after the cast finishes, 6 players will be tethered together with 2 of them having large white orbs above their heads, signifying they are being targeted for a light party stack later.
+
+These tethers will explode if the distance between two players is too short, so they must be stretched to an adequate distance (close to 80-90% of the arena length) to satisfy the mechanic.
+
+The 2 remaining players will be targeted with AOEs marks similar to the puddles in Stillness/Silence.
+
+At the same time, 6 towers will appear around the arena.
+
+The 2 orbs in the circle will be labelled A and B, and every non-orb tether player after that will be labelled 1, 2, 3 and 4.
+
+Using these labels, we can assign a tower for each player:
+
+(image of towers and AB 1234)
+
+To determine which orb is A, look at the tether players clock wise from yourself until you hit an orb. 
+
+You can also determine which orb is A by counting AFTER both orbs, resulting in the order 1234AB
+
+The 2 AOE players will start in the inner ring on the Arena at W/E and rotate CW to drop 5 puddle AOES each.
+
+After resolving the towers, players A13 will group up at North West, and players B24 will group up at South East. Each AOE player should also join a separate light party after they drop their puddles (Starting East ends up North West, starting West ends up South East).
 
 </details>
 
 <details markdown=1>
 <summary>Light Rampant - Adjust Strat</summary>
 {% include raidplan.html iframe="true" title="P2 - Light Rampant - Adjust Strat" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
-
-(There are currently two strats floating around. I will be writing about the strat Kobe has made diagrams for; however, I may write a short addendum for AB1234 for anyone willing to use it. There are upsides and downsides to both, and it is essentially personal preference as they both achieve the same result.)
 
 Shiva will go untargetable, and the party should line up as seen in the image below, with DPS south and Supports north. Shortly after the cast finishes, 6 players will be tethered together with 2 of them having large white orbs above their heads, signifying they are being targeted for a light party stack later.
 
