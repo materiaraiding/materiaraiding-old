@@ -425,6 +425,8 @@ Melee players will begin to attack the Light Crystal on their spread position, a
 
 As the party begins attacking these Crystals, **Light Crystals** will target the nearest player with a circle AOE and **Dark Crystals** will target the nearest player with a protean AOE. These AOEs will be baited by the player who is on the same spread position as the Crystal (Circle AOE/Melee & Protean AOE/Ranged).
 
+**Light Crystals** also spawn a tether after a short period. This tether will drop large puddle AOEs. Melee players will take this and bait these AOEs around their crystal.
+
 Once all the Light Crystals are destroyed, Players must DPS ice veil below 50% to transition to the next phase:
 
 --- 
