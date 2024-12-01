@@ -382,7 +382,7 @@ As this mechanic has been going on, players have been accruing stacks of **Light
 
 As each group makes their final dodge, a 4 player tower will appear in the centre of the arena. Players with **2** stacks of Lightsteeped should walk into the tower to soak it.
 
-This is immediately followed by another **Banish 3**, and **House of Light**, which will hit every player with a protean AOE and increase their Lightsteeped stacks to 4.
+This is immediately followed by another **Banish 3**, and **House of Light**, which will hit every player with a protean AOE and increase their Lightsteeped stacks to 4. Resolve this in Phase 1 clock spots and pairs for Banish III.
 
 Shiva must be brought below 20% health before she finishes casting her enrage:
 
