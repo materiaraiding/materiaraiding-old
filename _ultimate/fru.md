@@ -41,7 +41,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include raidplan.html title="P2 - Light Rampant - Adjust Strat" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
 #### Phase 3
 {% include raidplan.html title="P3 - Ultimate Relativity" link="https://tinyurl.com/4bwsr94e" %}
-{% include raidplan.html title="P3 - Apoc" link="https://raidplan.io/plan/LHo-pVsKlTnXcbBC" %}
+{% include raidplan.html title="P3 - Apocalypse" link="https://raidplan.io/plan/LHo-pVsKlTnXcbBC" %}
 
 ---
 
