@@ -29,16 +29,18 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 ### Toolbox/Raidplan
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
+#### Phase 1
 {% include raidplan.html title="P1 - Proteans & Utopian Sky" link="https://raidplan.io/plan/WlRr-qtrUTEPiaJZ" %}
 {% include raidplan.html title="P1 - Tethers 2 East/West" link="https://raidplan.io/plan/TOsL-pQk0vGJXBS7" %}
 {% include raidplan.html title="P1 - Towers Fixed Casters" link="https://raidplan.io/plan/0_j5V0mV8UZVrmKa" %}
-
-{% include raidplan.html title="P2 - Diamond Dust" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
+#### Phase 2
+{% include raidplan.html title="P2 - Diamond Dust - Relative North" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
 {% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
 {% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/WVd2siF6qMYAjzrv" %}
 {% include raidplan.html title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
 {% include raidplan.html title="P2 - Light Rampant - Adjust Strat" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
-
+#### Phase 3
+{% include raidplan.html title="P3 - Ultimate Relativity" link="https://tinyurl.com/4bwsr94e" %}
 
 ---
 
@@ -212,6 +214,7 @@ Whilst this is happening, the tanks will be utilising the opposite half of the a
 Finally, Fatebreaker will cast his enrage:
 
 ### Burnished Glory
+{: .no_toc }
 ---
 ## Phase 2: Usurper of Frost (Shiva)
 
@@ -243,12 +246,14 @@ Shiva will then cast 1 of 2 abilities:
 Because the AOEs are role based we split into ranged/melee partners for the following resolutions:
 
 ### Axe Kick
+{: .no_toc }
 
 For Axe Kick, Shiva will begin by shouting **"Cleave"**. Players will find relative North and immediately move out to their positions as shown in the image below. 
 
 The non-AOE players will stand just outside the outer ring on the arena floor to bait out proximity based protean AOEs. Leaning slightly towards the relative cardinal marker may help with clipping the AOE player. Meanwhile, AOE players should move as far out as they can and place their AOEs on intercardinals.
 
 ### Scythe Kick
+{: .no_toc }
 
 For Scythe Kick, Shiva will begin by shouting **"Reap"**. Players will find relative North and immediately move out to their positions as shown in the image below. 
 
@@ -387,6 +392,7 @@ This is immediately followed by another **Banish 3**, and **House of Light**, wh
 Shiva must be brought below 20% health before she finishes casting her enrage:
 
 ### Absolute Zero
+{: .no_toc }
 ---
 ## Intermission
 
@@ -416,10 +422,20 @@ This is immediately followed by:
 
 ### Ultimate Relativity
 
-{% include raidplan.html title="P3 - Light Rampant - Ultimate Relativity" link="https://tinyurl.com/4bwsr94e" %}
+{% include raidplan.html title="P3 - Ultimate Relativity" link="https://tinyurl.com/4bwsr94e" %}
 
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/51248c3a-912d-4645-a796-3b464eb24ae3" %}
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/8c6703b8-b170-4a67-ac16-457941e7b631" %}
+{% include image.html width="400px" path="URDPS.webp" %}
+{% include image.html width="400px" path="URSUPP.webp" %}
+
+<details markdown=1>
+<summary>Flipped Version</summary>
+Images flipped upside down if you prefer looking at it this way. The strat is exactly the same and compatible with the images above. 
+
+
+{% include image.html width="400px" path="URflippedDPS.webp" %}
+{% include image.html width="400px" path="URflippedSUPP.webp" %}
+
+</details>
 
 This mechanic is quite dense. I recommend looking through toolboxes in addition to the written guide, to get a clearer understanding of positions.
 
