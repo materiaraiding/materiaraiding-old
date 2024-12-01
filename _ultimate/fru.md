@@ -343,7 +343,7 @@ Shiva will then cast:
 ### Light Rampant
 
 <details markdown=1>
-<summary>Light Rampant - AB1234 Strat</summary>
+
 {% include raidplan.html iframe="true" title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
 {% include raidplan.html iframe="true" title="AB1234 Bonus Examples" link="https://raidplan.io/plan/_lzxCSo-2uza1IJa" %}
 
@@ -369,10 +369,8 @@ The 2 AOE players will start in the inner ring on the Arena at W/E and rotate CW
 
 After resolving the towers, players A13 will group up at North West, and players B24 will group up at South East. Each AOE player should also join a separate light party after they drop their puddles (Starting East ends up North West, starting West ends up South East).
 
-</details>
-
 <details markdown=1>
-<summary>Light Rampant - Adjust Strat</summary>
+<summary>Light Rampant - Alternative Strat - Adjusts</summary>
 {% include raidplan.html iframe="true" title="P2 - Light Rampant - Adjust Strat" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
 
 Shiva will go untargetable, and the party should line up as seen in the image below, with DPS south and Supports north. Shortly after the cast finishes, 6 players will be tethered together with 2 of them having large white orbs above their heads, signifying they are being targeted for a light party stack later.
