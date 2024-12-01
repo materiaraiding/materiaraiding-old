@@ -345,6 +345,7 @@ Shiva will then cast:
 <details markdown=1>
 <summary>Light Rampant - AB1234 Strat</summary>
 {% include raidplan.html iframe="true" title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
+{% include raidplan.html iframe="true" title="AB1234 Bonus Examples" link="https://raidplan.io/plan/_lzxCSo-2uza1IJa" %}
 
 (Writeup in progress)
 
@@ -441,37 +442,62 @@ This mechanic is quite dense. I recommend looking through toolboxes in addition 
 
 After a heavy hitting raidwide, several "Spell in waiting" debuffs will be assigned to each player:
 
-| Debuff       | Explanation       |
-|:-------------|:------------------|
-|Dark Fire|Large circle AOE|
-|Dark Blizzard|Large donut AOE|
-|Dark Eruption|Medium circle AOE|
-|Shadoweye|Gaze centered on the player|
-|Unholy Darkness|Party Stack|
-|Dark Water| A stack, generally taken by a light party|
-|Return|A players position will be recorded for later|
+<table>
+  <tr>
+    <th>Debuff</th>
+    <th>Explanation</th>
+  </tr>
+  <tr>
+    <td>Dark Fire{% include status.html name="Spell-in-Waiting: Dark Fire III" %}</td>
+    <td>Large circle AOE</td>
+  </tr>
+    <tr>
+    <td>Dark Blizzard{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}</td>
+    <td>Large donut AOE</td>
+  </tr>
+  <tr>
+    <td>Dark Eruption{% include status.html name="Spell-in-Waiting: Dark Eruption" %}</td>
+    <td>Medium circle AOE</td>
+  </tr>
+    <tr>
+    <td>Shadoweye{% include status.html name="Spell-in-Waiting: Shadoweye" %}</td>
+    <td>Gaze centered on the player</td>
+  </tr>
+    <tr>
+    <td>Unholy Darkness{% include status.html name="Spell-in-Waiting: Unholy Darkness" %}</td>
+    <td>Party Stack</td>
+  </tr>
+    <tr>
+    <td>Dark Water{% include status.html name="Spell-in-Waiting: Dark Water III" %}</td>
+    <td>A stack, generally taken by a light party</td>
+  </tr>
+    <tr>
+    <td>Return{% include status.html name="Spell-in-Waiting: Return" %}</td>
+    <td>A players position will be recorded for later</td>
+  </tr>
+</table>
 
 These buffs will be distributed amongst each role group to look like the following:
 
 **Supports**
 
-2 Supports with 30s Fire Debuff
+2 Supports with 30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}
 
-1 Support with 20s Fire Debuff
+1 Support with 20s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}
 
 **DPS**
 
-1 DPS with 20s Fire Debuff
+1 DPS with 20s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}
 
-2 DPS with 10s Fire Debuff
+2 DPS with 10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}
 
 As well as:
 
-1 DPS with 30s Debuff and 1 Support with Short Rewind Ice
+1 DPS with 30s Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %} and 1 Support with Short Rewind Ice{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}
 
 **OR**
 
-1 Support with 10s Fire Debuff and 1 DPS with Long Rewind Ice.
+1 Support with 10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %} and 1 DPS with Long Rewind Ice{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}.
 
 (Credit to Fae Fiyaa & Ewaen)
 
@@ -487,13 +513,13 @@ All of this sounds incredibly intimdating and complicated, but it can be simplif
 
 Once the cast bar goes off players will find Relative North. For this example I will be using the **lone yellow traffic light** as North.
 
-DPS will line up north D1 - D4, and Supports will line up south MT - H2. Any DPS with a **10s Fire Debuff** will step out of the line up and take the NE and NW traffic lights (whichever they are closest to).
+DPS will line up north D1 - D4, and Supports will line up south MT - H2. Any DPS with a **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will step out of the line up and take the NE and NW traffic lights (whichever they are closest to).
 
-Any Support with a **30s Fire Debuff** will step out of the line up and take the SE and SW traffic lights (whichever they are closest to).
+Any Support with a **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will step out of the line up and take the SE and SW traffic lights (whichever they are closest to).
 
-The DPS and Support players with a **20s Fire Debuff** will go E/W respectively.
+The DPS and Support players with a **20s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will go E/W respectively.
 
-And finally, either: A Support with the **10s Fire Debuff** or **20s Ice Debuff** will go South, and a DPS with the **30s Fire Debuff** or **10s Ice Debuff** will go North
+And finally, either: A Support with the **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **20s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go South, and a DPS with the **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **10s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go North
 
 This will leave the spreads looking something like this:
 
@@ -501,19 +527,19 @@ This will leave the spreads looking something like this:
 
 Here is a timeline of events:
 
-After sorting the starting positions, **10s Fire Debuff** players will step out to take their AOE between their respective Traffic Light and the wall. If you are an **Ice** debuff stay stacked in middle.
+After sorting the starting positions, **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** players will step out to take their AOE between their respective Traffic Light and the wall. If you are an **Ice debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** stay stacked in middle.
 
-Shortly after, the first set of Traffic Lights will go off. Players can essentially just stare at their Traffic Light until the spinning arrow appears around its base for an indication of when they should step out to bait. At the same time, the 1st set of Rewinds will go off. Players with **Water/Gaze** should loose spread mid, with **Water standing on the direct center**. 
+Shortly after, the first set of Traffic Lights will go off. Players can essentially just stare at their Traffic Light until the spinning arrow appears around its base for an indication of when they should step out to bait. At the same time, the 1st set of Rewinds will go off. Players with **Water{% include status.html name="Spell-in-Waiting: Dark Water III" %}/Gaze{% include status.html name="Spell-in-Waiting: Shadoweye" %}** should loose spread mid, with **Water{% include status.html name="Spell-in-Waiting: Dark Water III" %} standing on the direct center**. 
 
-It is important **Gaze** players don't stack right on top of eachother as the may accidentally gaze one another later. Players with **Eruption** should stand just in front of their Traffic light.
+It is important **Gaze{% include status.html name="Spell-in-Waiting: Shadoweye" %}** players don't stack right on top of eachother as the may accidentally gaze one another later. Players with **Eruption{% include status.html name="Spell-in-Waiting: Dark Eruption" %}** should stand just in front of their Traffic light.
 
-Afterwards **20s Fire Debuff** players will step out to take their AOE. 
+Afterwards **20s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** players will step out to take their AOE. 
 
-The second set of baits and rewinds will then go off. Use the same prio as before: **Water/Gaze** mid, **Eruptions** on Traffic Lights. If you have nothing to do just AFK.
+The second set of baits and rewinds will then go off. Use the same prio as before: **Water{% include status.html name="Spell-in-Waiting: Dark Water III" %}/Gaze{% include status.html name="Spell-in-Waiting: Shadoweye" %}** mid, **Eruptions{% include status.html name="Spell-in-Waiting: Dark Eruption" %}** on Traffic Lights. If you have nothing to do just AFK.
 
-The **30s Fire Debuff** players will then step out to take their AOEs.
+The **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** players will then step out to take their AOEs.
 
 The final set of Traffic Light baits will then go off and everyone will stack mid. **ALL players should look OUT of the arena towards their clockspot.**
 
-Rewind will pull everyone back to their recorded position and the **Water Stack**, **Gazes** and **Eruptions** will all go off at once.
+Rewind will pull everyone back to their recorded position and the **Water Stack{% include status.html name="Spell-in-Waiting: Dark Water III" %}**, **Gazes{% include status.html name="Spell-in-Waiting: Shadoweye" %}** and **Eruptions{% include status.html name="Spell-in-Waiting: Dark Eruption" %}** will all go off at once.
 
