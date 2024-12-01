@@ -529,7 +529,9 @@ All of this sounds incredibly intimdating and complicated, but it can be simplif
 
 Once the cast bar goes off players will find Relative North. For this example I will be using the **lone yellow traffic light** as North.
 
-DPS will line up north D1 - D4, and Supports will line up south MT - H2. Any DPS with a **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will step out of the line up and take the NE and NW traffic lights (whichever they are closest to).
+DPS will look at their party list to determine which spread they are taking, in the priority D3-D1-D2-D4 looking at relative North. Supports will do the same with the priority H1 MT ST H2. 
+
+Any DPS with a **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will use their priority take the NE and NW traffic lights (whichever they are closest to).
 
 Any Support with a **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will step out of the line up and take the SE and SW traffic lights (whichever they are closest to).
 
