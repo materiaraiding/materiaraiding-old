@@ -252,7 +252,7 @@ The non-AOE players will stand just outside the outer ring on the arena floor to
 
 For Scythe Kick, Shiva will begin by shouting **"Reap"**. Players will find relative North and immediately move out to their positions as shown in the image below. 
 
-The non-AOE players will stand as close as possible to Shiva. It is possible to use the small diamond shapes on the floor to align yourself. The AOE players **must also** also start extremely close to Shiva as the donut AOE is extremely small (**The inner ring is NOT the safe spot; it is actually about **half** the diameter of that ring). After the initial cleave goes off, all the AOE players will quickly move out and place their AOE on the middle ring on the Arena's floor.
+The non-AOE players will stand as close as possible to Shiva. It is possible to use the small diamond shapes on the floor to align yourself. The AOE players **must also** also start extremely close to Shiva as the donut AOE is extremely small (**The inner ring is NOT the safe spot; it is actually about half the diameter of that ring**). After the initial cleave goes off, all the AOE players will quickly move out and place their AOE on the middle ring on the Arena's floor.
 
 After dropping their puddles, everyone will quickly rush back to the centre of the arena. Shiva will shortly do a knockback and Light Party 1 will ride this to the relative North as this will be the safespot formed from the AOEs. Light Party 2 will ride this KB to the relative South. 
 
@@ -271,7 +271,7 @@ After identifying the clone:
 
 Lightparties will rotate clockwise along the edge of the arena whilst dropping their puddles.
 
-If a lightparty is less 90 degrees away from the clone, then rotate AWAY from Shiva.
+If a lightparty is 45 degrees away from the clone, then rotate AWAY from her.
 
 After dropping 4 puddles, Shiva will cast **Redress**, requiring each player to look away less they be (status effect). 
 
