@@ -342,8 +342,6 @@ Shiva will then cast:
 
 ### Light Rampant
 
-<details markdown=1>
-
 {% include raidplan.html iframe="true" title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
 {% include raidplan.html iframe="true" title="AB1234 Bonus Examples" link="https://raidplan.io/plan/_lzxCSo-2uza1IJa" %}
 
