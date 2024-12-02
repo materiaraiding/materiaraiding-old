@@ -50,9 +50,13 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 ---
 
-### Video Guide
-By Kobe
+### Video Guides
+
+#### Phase 1 by Kobe
 {% include videoembed.html videoid="4p2K2u8aloU" %}
+
+#### Ultimate Relativity Walkthrough by Pham
+{% include videoembed.html videoid="8yUHFHkDM4o" %}
 
 ---
 
@@ -417,7 +421,7 @@ Shiva must be brought below 20% health before she finishes casting her enrage:
 
 All players will spread as seen in the image below and close to the centre of the arena, as there will be a short ranged knock back.
 
-![image](https://github.com/user-attachments/assets/8e57dd7b-d92c-461e-8a67-c140f424be05)
+{% include image.html width="400px" path="fruintermission.webp" %}
 
 Ryne will become frozen in an **Ice Veil** in the centre of the arena, and 8 Crystals will spawn around the arena. 
 
@@ -431,7 +435,7 @@ As the party begins attacking these Crystals, **Light Crystals** will target the
 
 **Light Crystals** also spawn a tether after a short period. This tether will drop large puddle AOEs. Melee players will take this and bait these AOEs around their crystal.
 
-Once all the Light Crystals are destroyed, Players must DPS ice veil below 50% to transition to the next phase:
+Once all the Light Crystals are destroyed, Players must DPS ice veil below 50% to transition to the next phase. Gaia will deal exactly **50% damage** to the crystal to break it.
 
 --- 
 
