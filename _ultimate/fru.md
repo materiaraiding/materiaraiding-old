@@ -14,11 +14,15 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 {: .warning }
 > This guide will be written using prog strats and is mainly an explanation of how mechanics work and their failure conditions.
 > This guide will be updated as strats are standardised in the OCE community, everything is subject to change.
+> 
+> Help us build this guide by contributing on [Github](https://github.com/materiaraiding/materiaraiding/edit/main/_ultimate/fru.md)
 
 ### Credits
 {: .no_toc }
 - Written guide by Juno
 - Diagrams by Juno, Em, Pipiro, Kobe, MUR
+- Mit Plan by Ikuya Kirishima
+- Video Guide by Kobe
 
 ### Table of Contents
 {: .no_toc }
@@ -52,11 +56,9 @@ By Kobe
 ---
 
 ### Mitigation Plan
+By Ikuya Kirishima
 
-[Materia FRU Mitty Spreadsheet](https://docs.google.com/spreadsheets/d/10ZSxFpqJxcbaswpU_JR9L6nU3PjouNz_GONghM6lw2A/edit?gid=1960553822){: .btn .btn-green }
-
-{: .note }
-> This is an early mit plan and currently being tested, this may change in the future.
+[Materia FRU Mitty](https://docs.google.com/spreadsheets/d/10ZSxFpqJxcbaswpU_JR9L6nU3PjouNz_GONghM6lw2A/edit?gid=1960553822){: .btn .btn-green }
 
 ---
 
