@@ -14,6 +14,8 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 {: .warning }
 > This guide will be written using prog strats and is mainly an explanation of how mechanics work and their failure conditions.
 > This guide will be updated as strats are standardised in the OCE community, everything is subject to change.
+> 
+> Help us build this guide by contributing on [Github](https://github.com/materiaraiding/materiaraiding/edit/main/_ultimate/fru.md)
 
 ### Credits
 {: .no_toc }
