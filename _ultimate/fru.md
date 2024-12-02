@@ -45,7 +45,8 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include raidplan.html title="P2 - Light Rampant - Adjust Strat" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
 #### Phase 3
 {% include raidplan.html title="P3 - Ultimate Relativity" link="https://tinyurl.com/mr3kx45t" %}
-{% include raidplan.html title="P3 - Apocalypse" link="https://raidplan.io/plan/LHo-pVsKlTnXcbBC" %}
+{% include raidplan.html title="P3 - Apocalypse - Panto Prio" link="https://raidplan.io/plan/IgplCzDtBaLB7Kfu" %}
+{% include raidplan.html title="P3 - Apocalypse - Role Split" link="https://raidplan.io/plan/LHo-pVsKlTnXcbBC" %}
 
 ---
 
@@ -416,7 +417,7 @@ Shiva must be brought below 20% health before she finishes casting her enrage:
 
 All players will spread as seen in the image below and close to the centre of the arena, as there will be a short ranged knock back.
 
-(protean spread here)
+![image](https://github.com/user-attachments/assets/8e57dd7b-d92c-461e-8a67-c140f424be05)
 
 Ryne will become frozen in an **Ice Veil** in the centre of the arena, and 8 Crystals will spawn around the arena. 
 
@@ -530,17 +531,19 @@ All of this sounds incredibly intimdating and complicated, but it can be simplif
 
 
 
-Once the cast bar goes off players will find Relative North. For this example I will be using the **lone yellow traffic light** as North.
+Once the cast bar goes off players will find Relative North. For this example I will be using the **2 yellow traffic lights** as North.
 
 DPS will look at their party list to determine which spread they are taking, in the priority D3-D1-D2-D4 looking at relative North. Supports will do the same with the priority H1 MT ST H2. 
 
-Any DPS with a **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will use their priority take the NE and NW traffic lights (whichever they are closest to).
+(This only works if the party is on the same page 
 
-Any Support with a **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will step out of the line up and take the SE and SW traffic lights (whichever they are closest to).
+Any DPS with a **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will use their priority take the SE and SW traffic lights (whichever they are closest to).
 
-The DPS and Support players with a **20s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will go E/W respectively.
+Any Support with a **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will step out of the line up and take the NE and NW traffic lights (whichever they are closest to).
 
-And finally, either: A Support with the **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **20s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go South, and a DPS with the **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **20s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go North
+The DPS and Support players with a **20s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will go W/E respectively.
+
+And finally, either: A Support with the **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **20s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go North, and a DPS with the **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **20s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go South.
 
 This will leave the spreads looking something like this:
 
@@ -568,4 +571,5 @@ Rewind will pull everyone back to their recorded position and the **Water Stack{
 
 ### Apocalypse
 
-{% include raidplan.html title="P3 - Apoc" link="https://raidplan.io/plan/LHo-pVsKlTnXcbBC" %}
+{% include raidplan.html title="P3 - Apocalypse - Panto Prio" link="https://raidplan.io/plan/IgplCzDtBaLB7Kfu" %}
+{% include raidplan.html title="P3 - Apocalypse - Role Split" link="https://raidplan.io/plan/LHo-pVsKlTnXcbBC" %}
