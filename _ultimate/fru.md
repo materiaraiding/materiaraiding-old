@@ -21,6 +21,8 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 {: .no_toc }
 - Written guide by Juno
 - Diagrams by Juno, Em, Pipiro, Kobe, MUR
+- Mit Plan by Ikuya Kirishima
+- Video Guide by Kobe
 
 ### Table of Contents
 {: .no_toc }
@@ -54,6 +56,7 @@ By Kobe
 ---
 
 ### Mitigation Plan
+By Ikuya Kirishima
 
 [Materia FRU Mitty Spreadsheet](https://docs.google.com/spreadsheets/d/10ZSxFpqJxcbaswpU_JR9L6nU3PjouNz_GONghM6lw2A/edit?gid=1960553822){: .btn .btn-green }
 
