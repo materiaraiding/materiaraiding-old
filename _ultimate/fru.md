@@ -416,7 +416,7 @@ Shiva must be brought below 20% health before she finishes casting her enrage:
 
 All players will spread as seen in the image below and close to the centre of the arena, as there will be a short ranged knock back.
 
-(protean spread here)
+![image](https://github.com/user-attachments/assets/8e57dd7b-d92c-461e-8a67-c140f424be05)
 
 Ryne will become frozen in an **Ice Veil** in the centre of the arena, and 8 Crystals will spawn around the arena. 
 
