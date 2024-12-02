@@ -58,7 +58,7 @@ By Kobe
 ### Mitigation Plan
 By Ikuya Kirishima
 
-[Materia FRU Mitty Spreadsheet](https://docs.google.com/spreadsheets/d/10ZSxFpqJxcbaswpU_JR9L6nU3PjouNz_GONghM6lw2A/edit?gid=1960553822){: .btn .btn-green }
+[Materia FRU Mitty](https://docs.google.com/spreadsheets/d/10ZSxFpqJxcbaswpU_JR9L6nU3PjouNz_GONghM6lw2A/edit?gid=1960553822){: .btn .btn-green }
 
 ---
 
