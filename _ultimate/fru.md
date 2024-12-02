@@ -531,17 +531,19 @@ These Traffic Lights will spawn baited rotating AOEs that cleave 180(?) degrees 
 
 There are 2 ways you can orient this arena. Either using the lone yellow traffic light as Relative North, or the empty space between the 2 close yellow traffic lights. **Either method works, however if you are using the priority method below, you will have to reverse the prio for **lone yellow north**
 
-All of this sounds incredibly intimdating and complicated, but it can be simplified for each person.
+All of this sounds incredibly intimidating and complicated, but it can be simplified for each person.
 
 Once the cast bar goes off players will find Relative North. For this example I will be using the **2 yellow traffic lights** as North.
 
 DPS will look at their party list to determine which spread they are taking, in the priority D3-D1-D2-D4 looking at relative North. Supports will do the same with the priority H1 MT ST H2. 
 
-Any DPS with a **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will use their priority take the SE and SW traffic lights.
+Any DPS with a **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will use their priority take the SW and SE traffic lights. 
 
-Any Support with a **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will use their priority and take the NE and NW traffic lights.
+Any Support with a **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will use their priority and take the NW and NE traffic lights.
 
-The DPS and Support players with a **20s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will go W/E respectively.
+An example of this would be if I'm D1 and both D3 and myself get a 10s Fire, the D3 would take SW and I would take SE.
+
+The DPS and Support players with a **20s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will go East (DPS) and West (Supports) respectively.
 
 And finally, either: A Support with the **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **20s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go North, and a DPS with the **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **20s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go South.
 
