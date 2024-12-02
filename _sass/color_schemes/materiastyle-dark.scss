@@ -24,6 +24,17 @@ $materia-red-dk: #fa226a;
 
 @import "./vendor/OneDarkJekyll/syntax"; // this is the one-dark-vivid atom syntax theme
 
+/* Sitewide Formatting */
+
+html {
+	scrollbar-color: #959396 transparent;
+}
+
+strong {
+	color: $materia-red;
+}
+
+
 /* Guide Page Title Styles */
 
 .guide_subtitle {
@@ -97,9 +108,6 @@ $materia-red-dk: #fa226a;
 	&:hover {
 		scrollbar-color: #959396 transparent;
 	}
-}
-html {
-	scrollbar-color: #959396 transparent;
 }
 
 /* Buff and Pot Timing Windows */

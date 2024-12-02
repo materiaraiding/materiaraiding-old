@@ -8,7 +8,7 @@
             "type": "PowerShell",
             "request": "launch",
             "name": "Run Local Server",
-            "script": "bundle exec jekyll serve",
+            "script": "bundle exec jekyll serve --livereload",
             "args": [],
         }
     ]
