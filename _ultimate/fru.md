@@ -532,7 +532,7 @@ Any Support with a **30s Fire Debuff{% include status.html name="Spell-in-Waitin
 
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/35406216-91d9-490e-96f2-5335d159e6aa" %}
 
-An example of this would be if I'm D1 and both D4 and myself get a 10s Fire, the D3 would take SW and I would take SE.
+An example of this would be if I'm D1 and both D4 and myself get a 10s Fire, the D4 would take SE and I would take SW.
 
 The DPS and Support players with a **20s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will go East (DPS) and West (Supports) respectively.
 
