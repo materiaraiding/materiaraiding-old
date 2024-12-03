@@ -449,6 +449,7 @@ This is immediately followed by:
 ### Ultimate Relativity
 
 {% include raidplan.html title="P3 - Ultimate Relativity" link="https://tinyurl.com/mr3kx45t" %}
+{% include raidplan.html title="P3 - Ultimate Relativity - Brainded Prios" link="https://raidplan.io/plan/onPepIwluXH7zUwj" %}
 
 {% include image.html width="400px" path="URDPS.webp" %}
 {% include image.html width="400px" path="URSUPP.webp" %}
