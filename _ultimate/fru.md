@@ -449,19 +449,6 @@ This is immediately followed by:
 
 {% include raidplan.html title="P3 - Ultimate Relativity" link="https://raidplan.io/plan/onPepIwluXH7zUwj" %}
 
-{% include image.html width="400px" path="URDPS.webp" %}
-{% include image.html width="400px" path="URSUPP.webp" %}
-
-<details markdown=1>
-<summary>Flipped Version</summary>
-Images flipped upside down if you prefer looking at it this way. The strat is exactly the same and compatible with the images above. 
-
-
-{% include image.html width="400px" path="URflippedDPS.webp" %}
-{% include image.html width="400px" path="URflippedSUPP.webp" %}
-
-</details>
-
 This mechanic is quite dense. I recommend looking through toolboxes in addition to the written guide, to get a clearer understanding of positions.
 
 After a heavy hitting raidwide, several "Spell in waiting" debuffs will be assigned to each player:
@@ -574,6 +561,20 @@ The **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire II
 The final set of Traffic Light baits will then go off and everyone will stack mid. **ALL players should look OUT of the arena towards their clockspot.**
 
 Rewind will pull everyone back to their recorded position and the **Water Stack{% include status.html name="Spell-in-Waiting: Dark Water III" %}**, **Gazes{% include status.html name="Spell-in-Waiting: Shadoweye" %}** and **Eruptions{% include status.html name="Spell-in-Waiting: Dark Eruption" %}** will all go off at once.
+
+The following cheatsheets can help summarize the process of events through this mech, these can be useful to help with learning positions: 
+
+{% include image.html width="400px" path="URDPS.webp" %}
+{% include image.html width="400px" path="URSUPP.webp" %}
+
+<details markdown=1>
+<summary>Flipped Version</summary>
+Images flipped upside down if you prefer looking at it this way. The strat is exactly the same and compatible with the images above. 
+
+{% include image.html width="400px" path="URflippedDPS.webp" %}
+{% include image.html width="400px" path="URflippedSUPP.webp" %}
+
+</details>
 
 ### Apocalypse
 
