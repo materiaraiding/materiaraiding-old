@@ -538,6 +538,11 @@ The DPS and Support players with a **20s Fire Debuff{% include status.html name=
 
 And finally, either: A Support with the **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **20s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go North, and a DPS with the **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **20s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go South.
 
+{: .note }
+> You do **NOT** need to form a lineup to find your positions, this prio system resolves so that **Ranged and Healers are always static** and **ONLY melee players flex** by looking at one other party member to determine which direction they go. 
+> 
+> For Example: ST will always take NE traffic light (balls north relative) **unless** they have the same debuff as H2.
+
 This will leave the spreads looking something like this:
 
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/73535466-35e5-43f1-a2fd-ad669d9fb5a8" %}
