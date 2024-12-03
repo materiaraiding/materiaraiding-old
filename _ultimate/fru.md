@@ -40,7 +40,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 #### Phase 2
 {% include raidplan.html title="P2 - Diamond Dust - Relative North" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
 {% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
-{% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/WVd2siF6qMYAjzrv" %}
+{% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/Afu9BSbQrAWriPfY" %}
 {% include raidplan.html title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
 {% include raidplan.html title="P2 - Light Rampant - Adjust Strat" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
 #### Phase 3
@@ -314,7 +314,7 @@ She will then cast a heavy hitting line stack, **Hallowed Ray**, before casting:
 
 ### Mirror Mirror
 
-{% include raidplan.html  iframe="true" title="P2 - Mirror Mirror" link="https://raidplan.io/plan/WVd2siF6qMYAjzrv" %}
+{% include raidplan.html  iframe="true" title="P2 - Mirror Mirror" link="https://raidplan.io/plan/Afu9BSbQrAWriPfY" %}
 
 Shiva will spawn 3 mirrors along the edges of the arena. There will be **2 RED mirrors** and **1 BLUE mirror**.
 
