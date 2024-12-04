@@ -352,7 +352,7 @@ Shiva will then cast:
 {% include raidplan.html iframe="true" title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
 {% include raidplan.html iframe="true" title="AB1234 Bonus Examples" link="https://raidplan.io/plan/_lzxCSo-2uza1IJa" %}
 
-Shiva will go untargetable, and the party should line up as seen in the image below, with DPS south and Supports north. Shortly after the cast finishes, 6 players will be tethered together with 2 of them having large white orbs above their heads, signifying they are being targeted for a light party stack later.
+Shiva will go untargetable. Shortly after the cast finishes, 6 players will be tethered together with 2 of them having large white orbs above their heads, signifying they are being targeted for a light party stack later.
 
 These tethers will explode if the distance between two players is too short, so they must be stretched to an adequate distance (close to 80-90% of the arena length) to satisfy the mechanic.
 
@@ -364,7 +364,7 @@ The 2 orbs in the circle will be labelled A and B, and every non-orb tether play
 
 Using these labels, we can assign a tower for each player:
 
-(image of towers and AB 1234)
+{% include image.html width="500px" path="AB1234.webp" %}
 
 To determine which orb is A, look at the tether players clock wise from yourself until you hit an orb. 
 
