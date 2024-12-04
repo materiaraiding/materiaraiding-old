@@ -374,35 +374,6 @@ The 2 AOE players will start in the inner ring on the Arena at W/E and rotate CW
 
 After resolving the towers, players A13 will group up at North West, and players B24 will group up at South East. Each AOE player should also join a separate light party after they drop their puddles (Starting East ends up North West, starting West ends up South East).
 
-<details markdown=1>
-<summary>Light Rampant - Alternative Strat - Adjusts</summary>
-{% include raidplan.html iframe="true" title="P2 - Light Rampant - Adjust Strat" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
-
-Shiva will go untargetable, and the party should line up as seen in the image below, with DPS south and Supports north. Shortly after the cast finishes, 6 players will be tethered together with 2 of them having large white orbs above their heads, signifying they are being targeted for a light party stack later.
-
-{% include image.html width="500px" path="LR1.webp" %}
-
-These tethers will explode if the distance between two players is too short, so they must be stretched to an adequate distance (close to 80-90% of the arena length) to satisfy the mechanic.
-
-The 2 remaining players will be targeted with AOEs marks similar to the puddles in Stillness/Silence.
-
-At the same time, 6 towers will appear around the arena.
-
-Players must quickly form a hexagon shape, using the 3 North waymarks and the 3 South waymarks. Some players (D1/H2) may have to walk to the opposite cardinal to form the hexagon.
-
-{% include image.html width="500px" path="LR2.webp" %}
-
-The N/S players will then swap positions, and the NE/NW players will also swap positions. All the tether players will then quickly spread out to the tower on their cardinal/intercardinal.
-
-{% include image.html width="500px" path="LR3.webp" %}
-
-{% include image.html width="500px" path="LR4.webp" %}
-
-The 2 AOE players will start in the inner ring on the Arena at N/S and rotate CW to drop 5 puddle AOES each.
-
-After resolving the towers, Northern and Southern tether players should group up at North and South respectively. Each AOE player should also join a separate light party after they drop their puddles.
-</details>
-
 AOEs will then spawn around the arena in a Y shape, going off in 2 sets of 3. Players will WAIT for their light party stack to go off, before shifting to the closest safespot CW, and then moving BACK into the next safespot.
 
 As this mechanic has been going on, players have been accruing stacks of **Lightsteeped**. Up until now the stacks have been self-contained as there is no way to change them without resolving the mechanic in the process (towers/light party stack). If a player gains more than 4 stacks, the raid will wipe.
