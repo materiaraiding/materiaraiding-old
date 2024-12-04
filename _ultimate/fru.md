@@ -523,7 +523,7 @@ Once the cast bar goes off players will find Relative North. For this example I 
 
 DPS will look at their party list to determine which spread they are taking, in the priority D3-D1-D2-D4 looking at relative North. Supports will do the same with the priority H1 MT ST H2. 
 
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/bc4f2028-1f87-4bc4-8670-5fa6c3246f30" %}
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/65792737-0d86-4540-8169-1385a5a92d4f" %}
 
 Any DPS with a **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will use their priority take the SW and SE traffic lights. 
 
