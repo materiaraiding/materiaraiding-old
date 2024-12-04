@@ -45,7 +45,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include raidplan.html title="P2 - Light Rampant - Adjust Strat" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
 #### Phase 3
 {% include raidplan.html title="P3 - Ultimate Relativity" link="https://raidplan.io/plan/onPepIwluXH7zUwj" %}
-{% include raidplan.html title="P3 - Apocalypse - Panto Prio" link="https://raidplan.io/plan/IgplCzDtBaLB7Kfu" %}
+{% include raidplan.html title="P3 - Apocalypse - Panto Prio" link="https://raidplan.io/plan/sGHAFfW5Xhnp-SOl" %}
 {% include raidplan.html title="P3 - Apocalypse - Role Split" link="https://raidplan.io/plan/LHo-pVsKlTnXcbBC" %}
 
 ---
@@ -583,5 +583,5 @@ Images flipped upside down if you prefer looking at it this way. The strat is ex
 
 ### Apocalypse
 
-{% include raidplan.html title="P3 - Apocalypse - Panto Prio" link="https://raidplan.io/plan/IgplCzDtBaLB7Kfu" %}
+{% include raidplan.html title="P3 - Apocalypse - Panto Prio" link="https://raidplan.io/plan/sGHAFfW5Xhnp-SOl" %}
 {% include raidplan.html title="P3 - Apocalypse - Role Split" link="https://raidplan.io/plan/LHo-pVsKlTnXcbBC" %}
