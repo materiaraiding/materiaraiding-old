@@ -36,7 +36,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 #### Phase 1
 {% include raidplan.html title="P1 - Proteans & Utopian Sky" link="https://raidplan.io/plan/WlRr-qtrUTEPiaJZ" %}
 {% include raidplan.html title="P1 - Tethers 2 East/West" link="https://raidplan.io/plan/TOsL-pQk0vGJXBS7" %}
-{% include raidplan.html title="P1 - Towers Fixed Casters" link="https://raidplan.io/plan/0_j5V0mV8UZVrmKa" %}
+{% include raidplan.html title="P1 - Towers Fixed Casters" link="https://raidplan.io/plan/Gfbp6n3NgBHgNqI1" %}
 #### Phase 2
 {% include raidplan.html title="P2 - Diamond Dust - Relative North" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
 {% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
@@ -202,7 +202,7 @@ After another **Burnished Glory**, Fatebreaker will do another **Powder Mark** {
 
 ### Burnt Strike / Enum Towers
 
-{% include raidplan.html  iframe="true" title="P1 - Towers Fixed Casters" link="https://raidplan.io/plan/0_j5V0mV8UZVrmKa" %}
+{% include raidplan.html  iframe="true" title="P1 - Towers Fixed Casters" link="https://raidplan.io/plan/Gfbp6n3NgBHgNqI1" %}
 
 Fatebreaker will begin to channel Burnt Strike, and 3 towers will appear on the West or East wall. These towers will require 6 members from the team to soak them, with a maximum of 4 players in one tower.
 
