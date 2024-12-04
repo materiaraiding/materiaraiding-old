@@ -42,12 +42,10 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
 {% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/Afu9BSbQrAWriPfY" %}
 {% include raidplan.html title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
-{% include raidplan.html title="P2 - Light Rampant - Adjust Strat" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
 #### Phase 3
 {% include raidplan.html title="P3 - Ultimate Relativity" link="https://raidplan.io/plan/onPepIwluXH7zUwj" %}
 {% include raidplan.html title="P3 - Apocalypse - LP Prio" link="https://raidplan.io/plan/XkX51G5h5_0DStk7" %}
 {% include raidplan.html title="P3 - Apocalypse - LP Prio + fixed spread" link="https://raidplan.io/plan/sGHAFfW5Xhnp-SOl" %}
-{% include raidplan.html title="P3 - Apocalypse - Role Prio" link="https://raidplan.io/plan/LHo-pVsKlTnXcbBC" %}
 
 ---
 
@@ -586,4 +584,3 @@ Images flipped upside down if you prefer looking at it this way. The strat is ex
 
 {% include raidplan.html title="P3 - Apocalypse - LP Prio" link="https://raidplan.io/plan/XkX51G5h5_0DStk7" %}
 {% include raidplan.html title="P3 - Apocalypse - LP Prio + fixed spread" link="https://raidplan.io/plan/sGHAFfW5Xhnp-SOl" %}
-{% include raidplan.html title="P3 - Apocalypse - Role Prio" link="https://raidplan.io/plan/LHo-pVsKlTnXcbBC" %}
