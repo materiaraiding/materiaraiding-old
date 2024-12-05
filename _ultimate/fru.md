@@ -397,15 +397,17 @@ Ryne will become frozen in an **Ice Veil** in the centre of the arena, and 8 Cry
 
 There will be 4 **Crystals of Light** on Cardinals and 4 **Crystals of Dark** on Intercardinals. 
 
-Melee players will begin to attack the Light Crystal on their spread position, and Range players will attack the Light Crystals adjacent to them.
+Melee players will begin to attack the Light Crystal on their spread position, and Range players will attack the Light Crystals adjacent to them (attacking the **clockwise** one first).
 
 **Do NOT damage the Dark Crystals**. These crystals must be kept alive as it provides the Ice veil with a vulnerability up debuff.
 
 As the party begins attacking these Crystals, **Light Crystals** will target the nearest player with a circle AOE and **Dark Crystals** will target the nearest player with a protean AOE. These AOEs will be baited by the player who is on the same spread position as the Crystal (Circle AOE/Melee & Protean AOE/Ranged).
 
+**Ranged** players must bait these proteans out of the arena. If a **Light Crystal** is hit by a protean it will gain a **vulnerability down** buff and become difficult to kill. 
+
 **Light Crystals** also spawn a tether after a short period. This tether will drop large puddle AOEs. Melee players will take this and bait these AOEs around their crystal.
 
-Once all the Light Crystals are destroyed, Players must DPS ice veil below 50% to transition to the next phase. Gaia will deal exactly **50% damage** to the crystal to break it.
+Once all the Light Crystals are destroyed, Players must DPS ice veil below 50% to transition to the next phase. Gaia will deal exactly **50% damage** to the crystal to break it (if all **Light Crystals** were destroyed.
 
 --- 
 
@@ -523,7 +525,7 @@ After sorting the starting positions, **10s Fire Debuff{% include status.html na
 
 At the same time as fire debuffs are being solved, a **Unholy Darkness{% include status.html name="Spell-in-Waiting: Unholy Darkness" %}** party stack will occur in middle, so players who are not resolving a mechanic should AFK in the center of the arena. 
 
-Shortly after, the first set of Traffic Lights will go off. Players can essentially just stare at their Traffic Light until the spinning arrow appears around its base for an indication of when they should step out to bait. At the same time, the 1st set of Rewinds will go off. Players with **Water{% include status.html name="Spell-in-Waiting: Dark Water III" %}/Gaze{% include status.html name="Spell-in-Waiting: Shadoweye" %}** should come close to the center whilst being in line woth their Traffic Light, with **Water{% include status.html name="Spell-in-Waiting: Dark Water III" %} standing slightly closer to the center**. 
+Shortly after, the first set of Traffic Lights will go off. Players can essentially just stare at their Traffic Light until the spinning arrow appears around its base for an indication of when they should step out to bait. At the same time, the 1st set of Rewinds will go off. Players with **Water{% include status.html name="Spell-in-Waiting: Dark Water III" %}/Gaze{% include status.html name="Spell-in-Waiting: Shadoweye" %}** should come close to the center whilst being in line with their Traffic Light, with **Water{% include status.html name="Spell-in-Waiting: Dark Water III" %} standing slightly closer to the center**. 
 
 It is important **Gaze{% include status.html name="Spell-in-Waiting: Shadoweye" %}** players don't stack right on top of eachother as the may accidentally gaze one another later. Players with **Eruption{% include status.html name="Spell-in-Waiting: Dark Eruption" %}** should stand just in front of their Traffic light.
 
