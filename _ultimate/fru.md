@@ -54,6 +54,9 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 #### Phase 1 by Kobe
 {% include videoembed.html videoid="4p2K2u8aloU" %}
 
+#### Phase 2 by Kobe
+{% include videoembed.html videoid="YYs2D0-n_oM" %}
+
 #### Ultimate Relativity Walkthrough by Pham
 {% include videoembed.html videoid="8yUHFHkDM4o" %}
 
