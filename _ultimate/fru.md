@@ -34,15 +34,18 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
 #### Phase 1
+{: .no_toc }
 {% include raidplan.html title="P1 - Proteans & Utopian Sky" link="https://raidplan.io/plan/WlRr-qtrUTEPiaJZ" %}
 {% include raidplan.html title="P1 - Tethers 2 East/West" link="https://raidplan.io/plan/TOsL-pQk0vGJXBS7" %}
 {% include raidplan.html title="P1 - Towers - Static" link="https://raidplan.io/plan/Gfbp6n3NgBHgNqI1" %}
 #### Phase 2
+{: .no_toc }
 {% include raidplan.html title="P2 - Diamond Dust - Relative North" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
 {% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
 {% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/Afu9BSbQrAWriPfY" %}
 {% include raidplan.html title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
 #### Phase 3
+{: .no_toc }
 {% include raidplan.html title="P3 - Ultimate Relativity" link="https://raidplan.io/plan/zgK08_yfqMrUg-fG" %}
 {% include raidplan.html title="P3 - Apocalypse - LP Prio" link="https://raidplan.io/plan/XkX51G5h5_0DStk7" %}
 {% include raidplan.html title="P3 - Apocalypse - LP Prio + fixed spread" link="https://raidplan.io/plan/sGHAFfW5Xhnp-SOl" %}
@@ -52,9 +55,11 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 ### Video Guides
 
 #### Phase 1 by Kobe
+{: .no_toc }
 {% include videoembed.html videoid="4p2K2u8aloU" %}
 
 #### Phase 2 by Kobe
+{: .no_toc }
 {% include videoembed.html videoid="YYs2D0-n_oM" %}
 
 #### Ultimate Relativity Walkthrough by Pham
