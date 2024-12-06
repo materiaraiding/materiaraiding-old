@@ -572,7 +572,7 @@ Gaia will follow Ultimate Relativity with a (name **Party Stack** and a (name) *
 
 sketchy write up (will fix when i have time)
 
-Gaia will begin to cast **Hextuple Apocalypse**, granting 6 players 3 stack different stack debuffs. In pairs of 2, these stacks will have the timers: **10s, 29s, and 38s**.
+Gaia will begin to cast **Hextuple Apocalypse**, granting 6 players 3 different stack debuffs. In pairs of 2, these stacks will have the timers: **10s, 29s, and 38s**.
 
 Gaia will then cast glowing lights along lines in the floor that will indicate a safespot for the upcoming AOEs.
 
