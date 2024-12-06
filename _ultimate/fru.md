@@ -574,7 +574,7 @@ sketchy write up (will fix when i have time)
 
 Light Party 1 will move slightly West of the boss and Light Party 2 will more slightly East.
 
-In their Light Parties, each player will form a small square to indicate the position that each player will take a spread AOE later in the mechanic.
+In their Light Parties, each player will form a small square to indicate the position that players will take a spread AOE later in the mechanic.
 
 (image, ranged back melee front etc)
 
