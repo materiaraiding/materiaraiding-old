@@ -576,6 +576,8 @@ Light Party 1 will move slightly West of the boss and Light Party 2 will more sl
 
 In their Light Parties, each player will form a small square to indicate the position that each player will take a spread AOE later in the mechanic.
 
+(image, ranged back melee front etc)
+
 Gaia will begin to cast **Hextuple Apocalypse**, granting 6 players 3 different stack debuffs. In pairs of 2, these stacks will have the timers: **10s, 29s, and 38s**.
 
 Using the priority system below (which you may recognise from TOP), players with the same stack timer (or lack of stack) as another in their Light Party will flex to the opposite party. 
