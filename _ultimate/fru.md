@@ -582,7 +582,7 @@ Gaia will begin to cast **Hextuple Apocalypse**, granting 6 players 3 different 
 
 Using the priority system below (which you may recognise from TOP), players with the same stack timer (or lack of stack) as another in their Light Party will flex to the opposite party so that stacks will not overlap.
 
-As two players will be flexing, each player will simply fill the hole in the square that the previous person has left.
+As 2 or 4 players will be flexing, each player will simply fill the hole in the square that the previous person has left.
 
 (image)(example of flex)
 
