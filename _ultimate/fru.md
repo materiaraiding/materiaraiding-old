@@ -415,7 +415,7 @@ As the party begins attacking these Crystals, **Light Crystals** will target the
 
 **Light Crystals** also spawn a tether after a short period. This tether will drop large puddle AOEs. Melee players will take this and bait these AOEs around their crystal.
 
-Once all the Light Crystals are destroyed, Players must DPS ice veil below 50% to transition to the next phase. Gaia will deal exactly **50% damage** to the crystal to break it (if all **Light Crystals** were destroyed.
+Once all the Light Crystals are destroyed, Players must DPS ice veil below 50% to transition to the next phase. Gaia will deal exactly **50% damage** to the crystal to break it (if all **Light Crystals** were destroyed).
 
 --- 
 
@@ -563,7 +563,7 @@ Images flipped upside down if you prefer looking at it this way. The strat is ex
 
 </details>
 
-Gaia will follow Ultimate Relativity with a (name **Party Stack** and a (name) **Dual Tank Buster**
+Gaia will follow Ultimate Relativity with a **Shockwave Pulsar** **Party Stack** and a **Black Halo** **Dual Tank Buster**
 
 ### Apocalypse
 
@@ -578,7 +578,7 @@ In their Light Parties, each player will form a small square to indicate the pos
 
 (image, ranged back melee front etc)
 
-Gaia will begin to cast **Hextuple Apocalypse**, granting 6 players 3 different stack debuffs. In pairs of 2, these stacks will have the timers: **10s, 29s, and 38s**.
+Gaia will begin to cast **Dark Water III**, granting 6 players 3 different **Water** stack debuffs. In pairs of 2, these stacks will have the timers: **10s, 29s, and 38s**.
 
 Using the priority system below (which you may recognise from TOP), players with the same stack timer (or lack of stack) as another in their Light Party will flex to the opposite party so that stacks will not overlap.
 
@@ -588,7 +588,7 @@ As 2 or 4 players will be flexing, each player will simply fill the hole in the 
 
 **Players will stay in these "flexed groups" for the remainder of the mechanic.**
 
-Gaia will then cast glowing lights along lines in the floor that will indicate a safespot for the upcoming AOEs.
+After the **1st Stack** goes off, Gaia will cast **Apocalypse**, and glowing lights along the lines in the floor will begin to move out and rotate around the arena, indicating a safespot for the upcoming AOEs.
 
 These lights will always be 180 degrees from eachother and will both rotate clockwise or counter clockwise.
 
@@ -596,4 +596,21 @@ The safe spot will be **1 waymark back** from the direction they rotated.
 
 For example: if the lights went to N/S and rotated counter clockwise, the safespot would be NE/SW.
 
+Each Light Party will then go to their corresponding light as they cast from Gaia (same prio as phase 1).
 
+Once the safespot is identified, each party will move into it and spread out using the aforementioned "square" spread.
+
+The AOEs will then begin to go off as each party spreads. After the 2nd set of AOEs, each spread will go off and the party will rush along the **cardinal or intercardinal** that the safespot was on, and stand just outside the innermost circle of the arena for the **2nd stack**.
+
+As soon as the **2nd stack** resolves a tank must immediately run to the **next available safe spot** to bait **Darkest Dance**, a tankbuster that is baited on the **furthest player away**.
+
+{: .note }
+> The tank can simply watch the AOEs rotate as the safespots will always be 180 degrees from eachother as they rotate. After the stack goes off they can sprint to the next upcoming safespot.
+
+Both parties will follow Gaia to this **new north**, and **keeping the same flexed parties**, Light Party 1 will go slightly West of Gaia, and Light Party 2 will go slightly East of Gaia. 
+
+Gaia will then knock back the party towards the wall. **Each Light Party should make their way toward Gaia to ensure that everyone can reach the stack**. Shortly after this knockback the **3rd and final stack** resolves.
+
+After another **Shockwave Pulsar**, Gaia must be damaged below 20% HP before she casts her enrage:
+
+### Memory's End
