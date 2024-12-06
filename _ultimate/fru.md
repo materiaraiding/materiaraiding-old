@@ -574,7 +574,7 @@ sketchy write up (will fix when i have time)
 
 Gaia will begin to cast **Hextuple Apocalypse**, granting 6 players 3 types of stack markers. all of these stacks will have a different timer (i think its like 15 25 and 35 or something will check later)
 
-she will then cast glowijg lights along lines in the floor that will indicate a safespot for the upcoming AOEs.
+she will then cast glowing lights along lines in the floor that will indicate a safespot for the upcoming AOEs.
 
 these lights will always be 180 degrees from eachother and will both rotate clockwise or counter clockwise.
 
