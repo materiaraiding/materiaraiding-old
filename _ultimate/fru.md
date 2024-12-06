@@ -374,11 +374,11 @@ Using these labels, we can assign a tower for each player:
 
 {% include image.html width="500px" path="AB1234.webp" %}
 
-To determine which orb is A, look at the tether players clock wise from yourself until you hit an orb. 
+To determine which orb is A, look at the tether players clockwise from yourself until you hit an orb. 
 
 You can also determine which orb is A by counting AFTER both orbs, resulting in the order 1234AB
 
-The 2 AOE players will start in the inner ring on the Arena at W/E and rotate CW to drop 5 puddle AOES each.
+The 2 AOE players will start in the inner ring on the Arena at West/East and rotate clockwise to drop 5 puddle AOEs each.
 
 After resolving the towers, players A13 will group up at North West, and players B24 will group up at South East. Each AOE player should also join a separate light party after they drop their puddles (Starting East ends up North West, starting West ends up South East).
 
