@@ -563,14 +563,12 @@ Images flipped upside down if you prefer looking at it this way. The strat is ex
 
 </details>
 
-Gaia will follow Ultimate Relativity with a **Shockwave Pulsar** **Party Stack** and a **Black Halo** **Dual Tank Buster**
+Gaia will follow Ultimate Relativity with a **Party Stack**, a **Shockwave Pulsar** raidwide, and a **Black Halo** **Dual Tank Buster Cleave**
 
 ### Apocalypse
 
 {% include raidplan.html title="P3 - Apocalypse - LP Prio" link="https://raidplan.io/plan/XkX51G5h5_0DStk7" %}
 {% include raidplan.html title="P3 - Apocalypse - LP Prio + fixed spread" link="https://raidplan.io/plan/sGHAFfW5Xhnp-SOl" %}
-
-sketchy write up (will fix when i have time)
 
 Light Party 1 will move slightly West of the boss and Light Party 2 will more slightly East.
 
@@ -596,7 +594,7 @@ The safe spot will be **1 waymark back** from the direction they rotated.
 
 For example: if the lights went to N/S and rotated counter clockwise, the safespot would be NE/SW.
 
-Each Light Party will then go to their corresponding light as they cast from Gaia (using the same positions as Utopian Sky from phase 1).
+Each Light Party will then spread for a **Spirit Taker** AOE on a random player, and then each Party will go to their corresponding light as they cast from Gaia (using the same positions as Utopian Sky from phase 1).
 
 Once the safespot is identified, each party will move into it and spread out using the aforementioned "square" spread.
 
