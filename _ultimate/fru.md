@@ -580,7 +580,7 @@ In their Light Parties, each player will form a small square to indicate the pos
 
 Gaia will begin to cast **Hextuple Apocalypse**, granting 6 players 3 different stack debuffs. In pairs of 2, these stacks will have the timers: **10s, 29s, and 38s**.
 
-Using the priority system below (which you may recognise from TOP), players with the same stack timer (or lack of stack) as another in their Light Party will flex to the opposite party. 
+Using the priority system below (which you may recognise from TOP), players with the same stack timer (or lack of stack) as another in their Light Party will flex to the opposite party so that stacks will not overlap.
 
 As two players will be flexing, each player will simply fill the hole in the square that the previous person has left.
 
