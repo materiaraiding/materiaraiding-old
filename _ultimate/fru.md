@@ -47,7 +47,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 #### Phase 3
 {: .no_toc }
 {% include raidplan.html title="P3 - Ultimate Relativity" link="https://raidplan.io/plan/zgK08_yfqMrUg-fG" %}
-{% include raidplan.html title="P3 - Apocalypse - LP Prio" link="https://raidplan.io/plan/XkX51G5h5_0DStk7" %}
+{% include raidplan.html title="P3 - Apocalypse - LP Prio" link="https://raidplan.io/plan/LZwXKA645GGmjEO2" %}
 {% include raidplan.html title="P3 - Apocalypse - LP Prio + fixed spread" link="https://raidplan.io/plan/sGHAFfW5Xhnp-SOl" %}
 
 ---
