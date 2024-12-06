@@ -618,3 +618,7 @@ Shortly after this knockback the **3rd and final stack** resolves.
 After another **Shockwave Pulsar**, Gaia must be damaged below 20% HP before she casts her enrage:
 
 ### Memory's End
+{: .no_toc }
+
+## Phase 4: Enter the Dragon (AKA Ryne & Gaia)
+
