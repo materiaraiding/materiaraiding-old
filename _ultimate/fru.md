@@ -572,13 +572,13 @@ Gaia will follow Ultimate Relativity with a (name **Party Stack** and a (name) *
 
 sketchy write up (will fix when i have time)
 
-Gaia will begin to cast **Hextuple Apocalypse**, granting 6 players 3 types of stack markers. all of these stacks will have a different timer (i think its like 15 25 and 35 or something will check later)
+Gaia will begin to cast **Hextuple Apocalypse**, granting 6 players 3 stack different stack debuffs. In pairs of 2, these stacks will have the timers: **10s, 29s, and 38s**.
 
-she will then cast glowing lights along lines in the floor that will indicate a safespot for the upcoming AOEs.
+Gaia will then cast glowing lights along lines in the floor that will indicate a safespot for the upcoming AOEs.
 
-these lights will always be 180 degrees from eachother and will both rotate clockwise or counter clockwise.
+These lights will always be 180 degrees from eachother and will both rotate clockwise or counter clockwise.
 
-the safe spot will be **one way mark back** from the direction they rotated
+The safe spot will be **1 waymark back** from the direction they rotated.
 
-for example if the AOEs went to N/S and rotated counter clockwise, the safespot would be NE/SW.
+For example: if the lights went to N/S and rotated counter clockwise, the safespot would be NE/SW.
 
