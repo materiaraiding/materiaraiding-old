@@ -567,7 +567,7 @@ Gaia will follow Ultimate Relativity with a **Party Stack**, a **Shockwave Pulsa
 
 ### Apocalypse
 
-{% include raidplan.html title="P3 - Apocalypse - LP Prio" link="https://raidplan.io/plan/XkX51G5h5_0DStk7" %}
+{% include raidplan.html title="P3 - Apocalypse - LP Prio" link="https://raidplan.io/plan/LZwXKA645GGmjEO2" %}
 {% include raidplan.html title="P3 - Apocalypse - LP Prio + fixed spread" link="https://raidplan.io/plan/sGHAFfW5Xhnp-SOl" %}
 
 Light Party 1 will move slightly West of the boss and Light Party 2 will more slightly East.
