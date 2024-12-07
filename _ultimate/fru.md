@@ -291,7 +291,7 @@ After identifying the clone:
 
 Lightparties will rotate clockwise along the edge of the arena whilst dropping their puddles.
 
-If a lightparty is 45 degrees away from the clone, then rotate AWAY from her.
+Light parties will always rotate CW along the wall UNLESS the Shiva clone is directly 45 Degrees CW of your starting position, in which case your light party will rotate CCW.
 
 After dropping 4 puddles, Shiva will cast **Redress**, requiring each player to look away less they be (status effect). 
 
