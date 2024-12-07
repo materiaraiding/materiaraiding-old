@@ -48,8 +48,6 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {: .no_toc }
 {% include raidplan.html title="P3 - Ultimate Relativity" link="https://raidplan.io/plan/zgK08_yfqMrUg-fG" %}
 {% include raidplan.html title="P3 - Apocalypse - LP Prio" link="https://raidplan.io/plan/LZwXKA645GGmjEO2" %}
-{% include raidplan.html title="P3 - Apocalypse - LP Prio + fixed spread" link="https://raidplan.io/plan/sGHAFfW5Xhnp-SOl" %}
-
 ---
 
 ### Video Guides
@@ -568,7 +566,6 @@ Gaia will follow Ultimate Relativity with a **Party Stack**, a **Shockwave Pulsa
 ### Apocalypse
 
 {% include raidplan.html title="P3 - Apocalypse - LP Prio" link="https://raidplan.io/plan/LZwXKA645GGmjEO2" %}
-{% include raidplan.html title="P3 - Apocalypse - LP Prio + fixed spread" link="https://raidplan.io/plan/sGHAFfW5Xhnp-SOl" %}
 
 Light Party 1 will move slightly West of the boss and Light Party 2 will more slightly East.
 
