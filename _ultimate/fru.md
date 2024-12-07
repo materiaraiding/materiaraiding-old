@@ -620,3 +620,6 @@ After another **Shockwave Pulsar**, Gaia must be damaged below 20% HP before she
 
 ## Phase 4: Enter the Dragon (AKA Ryne & Gaia)
 
+{% include raidplan.html title="P4 - Darklit Dragonsong" link="https://raidplan.io/plan/pcrbL0iqrAYMKFV3" %}
+
+{% include videoembed.html videoid="PD6m6SzlxSI" %}
