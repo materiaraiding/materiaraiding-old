@@ -76,11 +76,12 @@ By Ikuya Kirishima
 
 ---
 
-### Waymarks
+### Waymarks NEW
 These can be imported using an XIV Launcher Plugin.
 
+Updated for P4 stuff*
 ```
-{"Name":"Imported","MapID":1006,"A":{"X":100.094,"Y":0.0,"Z":90.075,"ID":0,"Active":true},"B":{"X":109.803,"Y":0.0,"Z":100.034,"ID":1,"Active":true},"C":{"X":100.067,"Y":0.0,"Z":109.832,"ID":2,"Active":true},"D":{"X":90.194,"Y":0.0,"Z":99.835,"ID":3,"Active":true},"One":{"X":92.963,"Y":0.0,"Z":92.844,"ID":4,"Active":true},"Two":{"X":106.965,"Y":0.0,"Z":92.737,"ID":5,"Active":true},"Three":{"X":106.921,"Y":0.0,"Z":107.016,"ID":6,"Active":true},"Four":{"X":92.832,"Y":0.0,"Z":106.994,"ID":7,"Active":true}}
+{"Name":"cardinal exalines, intercard dragon & rewinds 1A","MapID":1006,"A":{"X":100.0,"Y":0.0,"Z":93.0,"ID":0,"Active":true},"B":{"X":107.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":107.0,"ID":2,"Active":true},"D":{"X":93.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":91.575,"Y":0.0,"Z":91.575,"ID":4,"Active":true},"Two":{"X":108.425,"Y":0.0,"Z":91.575,"ID":5,"Active":true},"Three":{"X":108.425,"Y":0.0,"Z":108.425,"ID":6,"Active":true},"Four":{"X":91.575,"Y":0.0,"Z":108.425,"ID":7,"Active":true}}
 ```
 
 {% include image.html width="300px" path="fruwaymarks.webp" %}
