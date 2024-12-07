@@ -295,7 +295,7 @@ Lightparties will rotate clockwise along the edge of the arena whilst dropping t
 
 Light parties will always rotate CW along the wall UNLESS the Shiva clone is directly 45 Degrees CW of your starting position, in which case your light party will rotate CCW.
 
-After dropping 4 puddles, Shiva will cast **Redress**, requiring each player to look away less they be (status effect). 
+After dropping 4 puddles, the Shiva clone (outside the arena) will cast **Redress**, requiring each player to look away less they be stunned. 
 
 {: .note }
 > There is a short period where you finish dropping your puddles and can move before the gaze goes off, allowing you to either get behind or directly across from the Shiva clone.
@@ -316,6 +316,9 @@ Immediately after she will cast the opposite, requiring players to slide across 
 
 {: .warning }
 > This snapshot for the second cleave is INCREDIBLY unforgiving. I recommend watching your enmity list and sliding the second you see the first cast finish.
+
+{: .note }
+> Some patterns may require a Light Party to move faster to get behind Shiva.
 
 Immediately following this Shiva will become targetable, appearing back in the arena's centre and the ice floor will disappear.
 
