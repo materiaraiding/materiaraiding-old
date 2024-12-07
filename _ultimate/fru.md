@@ -623,3 +623,7 @@ After another **Shockwave Pulsar**, Gaia must be damaged below 20% HP before she
 {% include raidplan.html title="P4 - Darklit Dragonsong" link="https://raidplan.io/plan/pcrbL0iqrAYMKFV3" %}
 
 {% include videoembed.html videoid="PD6m6SzlxSI" %}
+
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/3e20e1e4-3064-4c47-a282-1e3066f1bb43" %}
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/731ebe35-e181-4e5a-82d5-1ce1321fe3e4" %}
+
