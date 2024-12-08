@@ -648,7 +648,7 @@ The memory crystal will pulse and Oracle of Darkness (Gaia) will appear and tele
 
 Both bosses will then cast:
 
-### Darklight Dragonsong
+### Darklit Dragonsong
 
 All players will be assigned 3 stacks of **Lightsteeped**
 
