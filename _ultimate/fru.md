@@ -52,6 +52,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 #### Phase 4
 {: .no_toc }
 {% include raidplan.html title="P4 - Darklit Dragonsong" link="https://raidplan.io/plan/pcrbL0iqrAYMKFV3" %}
+{% include raidplan.html title="P4 - Crystallize Time" link="https://raidplan.io/plan/GIXItxnLI2MJma73" %}
 ---
 
 ### Video Guides
