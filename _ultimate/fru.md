@@ -634,3 +634,44 @@ After another **Shockwave Pulsar**, Gaia must be damaged below 20% HP before she
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/3e20e1e4-3064-4c47-a282-1e3066f1bb43" %}
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/731ebe35-e181-4e5a-82d5-1ce1321fe3e4" %}
 
+
+{: .everyone }
+> All players should keep a close eye on both bosses health here. Immediately after the first mechanic is a **hand of pain** style health check. If the health differential is greater than 5%(?) the party will wipe.
+> The boss that is too high HP will be tethered during the **Ahk Morn** cast.
+
+
+Gaia will become untargetable and disappear. Usurper of Frost (Ryne) will then appear **true South**, and a memory crystal will appear **true North**.
+
+Hraesvelgr will coil around Ryne. Baited AOEs will appear under each player once his wings sprout. The party will stack (?), and quickly move (?) after his wings come out.
+
+The memory crystal will pulse and Oracle of Darkness (Gaia) will appear and teleport to South.
+
+Both bosses will then cast:
+
+### Darklight Dragonsong
+
+All players will be assigned 3 stacks of **Lightsteeped**
+
+2 random players will be assigned a **Water Stack** that will go off in **19s**.
+
+2 other random supports and 2 random DPS will be tethered with Light Rampant chains and 2 towers will appear that require 2 players in each to soak.
+
+Ryne will also cast 4 proximity based AOEs from her that will be baited by the 4 remaining non-tether players.
+
+To begin, each player will stack mid as Ryne transformed before quickly moving to the following lineup with **supports true North** and **DPS true South**
+
+The tether players will quickly determine what shape the tether is currently in and make a bowtie shape. This is to ensure 2 players from each side can soak stacks while still satisfying the length requirement for the tethers.
+
+Once the bowtie is formed, the tether players will stand in their towers, and the 4 remaining players will shuffle close to Ryne to bait out the AOEs. If both stacks are on the same North/South side of the room, the AOE players will swap with eachother to ensure they will end up on opposite sides.
+
+After the towers and AOEs resolve, Ryne will cast **Hallowed Wings**, cleaving one half of the arena. The party will shift over into the safespot and take the **Water Stack**.
+
+A tank will **immediately** run to **true East** or **true West** (whichever is closest) to bait out a **Somber Dance** tankbuster, followed by another **Somber Dance** baited on the closest person.
+
+The crystal will then pulse with an **Edge of Oblivion** raidwide and both bosses will move to the middle. Light Party 1 will stack North and Light Party 2 will stack South for **Akh Morn**, a **hand of pain HP check**.
+
+This will then be followed by a **Morn Afah** party stack that the party will take in the center of the arena.
+
+Both bosses will move and then cast:
+
+### Crystallize Time
