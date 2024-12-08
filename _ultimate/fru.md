@@ -367,8 +367,6 @@ Shiva will then cast:
 {% include raidplan.html iframe="true" title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
 {% include raidplan.html iframe="true" title="AB1234 Bonus Examples" link="https://raidplan.io/plan/_lzxCSo-2uza1IJa" %}
 
-{% include raidplan.html title="P2 - Light Rampant - Alternative Adjust Strat" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
-
 Shiva will go untargetable. Shortly after the cast finishes, 6 players will be tethered together with 2 of them having large white orbs above their heads, signifying they are being targeted for a light party stack later.
 
 These tethers will explode if the distance between two players is too short, so they must be stretched to an adequate distance (close to 80-90% of the arena length) to satisfy the mechanic.
@@ -400,6 +398,31 @@ As each group makes their final dodge, a 4 player tower will appear in the centr
 This is immediately followed by another **Banish 3**, and **House of Light**, which will hit every player with a protean AOE and increase their Lightsteeped stacks to 4. Resolve this in Phase 1 clock spots and pairs for Banish III.
 
 Shiva must be brought below 20% health before she finishes casting her enrage:
+
+<details markdown=1>
+<summary>Light Rampant - Alternative Strat - 4/4</summary>
+{% include raidplan.html iframe="true" title="P2 - Light Rampant - Adjust Strat" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
+  
+Shiva will go untargetable, and the party should line up as seen in the image below, with DPS south and Supports north. Shortly after the cast finishes, 6 players will be tethered together with 2 of them having large white orbs above their heads, signifying they are being targeted for a light party stack later.
+  
+{% include image.html width="500px" path="LR1.webp" %}
+  
+These tethers will explode if the distance between two players is too short, so they must be stretched to an adequate distance (close to 80-90% of the arena length) to satisfy the mechanic.
+The 2 remaining players will be targeted with AOEs marks similar to the puddles in Stillness/Silence.
+At the same time, 6 towers will appear around the arena.
+  
+Players must quickly form a hexagon shape, using the 3 North waymarks and the 3 South waymarks. Some players (D1/H2) may have to walk to the opposite cardinal to form the hexagon.
+  
+{% include image.html width="500px" path="LR2.webp" %}
+  
+The N/S players will then swap positions, and the NE/NW players will also swap positions. All the tether players will then quickly spread out to the tower on their cardinal/intercardinal.
+  
+{% include image.html width="500px" path="LR3.webp" %}
+{% include image.html width="500px" path="LR4.webp" %}
+  
+The 2 AOE players will start in the inner ring on the Arena at N/S and rotate CW to drop 5 puddle AOES each.
+After resolving the towers, Northern and Southern tether players should group up at North and South respectively. Each AOE player should also join a separate light party after they drop their puddles.
+</details>
 
 ### Absolute Zero
 {: .no_toc }
