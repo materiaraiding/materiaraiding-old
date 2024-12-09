@@ -17,6 +17,10 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 > 
 > Help us build this guide by contributing on [Github](https://github.com/materiaraiding/materiaraiding/edit/main/_ultimate/fru.md)
 
+{: .recentchanges }
+> - 10/12/24: Changed P1 Tether 1 Prio from MTRH to TMRH
+> - 10/12/24: Changed 4/4 lineup order to match other datacenters
+
 ### Credits
 {: .no_toc }
 - Written guide by Juno
@@ -44,7 +48,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
 {% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/gFwpXMjpVgxgcnpi" %}
 {% include raidplan.html title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
-{% include raidplan.html title="P2 - Light Rampant - Adjust Strat" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
+{% include raidplan.html title="P2 - Light Rampant - 4/4 Strat" link="https://raidplan.io/plan/VI5eMECB1_yN4u8G" %}
 #### Phase 3
 {: .no_toc }
 {% include raidplan.html title="P3 - Ultimate Relativity" link="https://raidplan.io/plan/zgK08_yfqMrUg-fG" %}
@@ -169,7 +173,7 @@ Once the partner stack/spread is resolved it is possible to make your way North/
 
 To the north, a Fire Aspected clone will begin to cast Burnt Strike. At the same time, two random players will be targeted for light party stacks via a **Bound of Faith** cast. 
 
-Light party 1 will move slightly to the north, and Light party 2 will move slightly to the south. If a swap is required, the priority for the tether that is swapping light party is MTRH. The opposite melee DPS will always flex across to match this movement.
+Light party 1 will move slightly to the north, and Light party 2 will move slightly to the south. If a swap is required, the priority for the tether that is swapping light party is **TMRH**. The opposite melee DPS will always flex across to match this movement.
 
 Using the knock back from Burnt Strike, each party will be knocked North-East/West and South-East/West depending on where the safespot is.
 
@@ -399,7 +403,7 @@ AOEs will then spawn around the arena in a Y shape, going off in 2 sets of 3. Pl
 
 <details markdown=1>
 <summary>Light Rampant - 4/4 Strat</summary>
-{% include raidplan.html iframe="true" title="P2 - Light Rampant - Adjust Strat" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
+{% include raidplan.html iframe="true" title="P2 - Light Rampant - 4/4 Strat" link="https://raidplan.io/plan/VI5eMECB1_yN4u8G" %}
   
 Shiva will go untargetable, and the party should line up as seen in the image below, with DPS south and Supports north. Shortly after the cast finishes, 6 players will be tethered together with 2 of them having large white orbs above their heads, signifying they are being targeted for a light party stack later.
   
