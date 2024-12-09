@@ -49,6 +49,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {: .no_toc }
 {% include raidplan.html title="P3 - Ultimate Relativity" link="https://raidplan.io/plan/zgK08_yfqMrUg-fG" %}
 {% include raidplan.html title="P3 - Apocalypse - LP Prio" link="https://raidplan.io/plan/LZwXKA645GGmjEO2" %}
+{% include raidplan.html title="P3 - Apocalypse - Role Splits" link="https://raidplan.io/plan/LHo-pVsKlTnXcbBC" %}
 #### Phase 4
 {: .no_toc }
 {% include raidplan.html title="P4 - Darklit Dragonsong" link="https://raidplan.io/plan/pcrbL0iqrAYMKFV3" %}
