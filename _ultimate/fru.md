@@ -365,6 +365,9 @@ Shiva will then cast:
 
 ### Light Rampant
 
+<details markdown=1>
+<summary>Light Rampant - AB1234 Strat</summary>
+
 {% include raidplan.html iframe="true" title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
 {% include raidplan.html iframe="true" title="AB1234 Bonus Examples" link="https://raidplan.io/plan/_lzxCSo-2uza1IJa" %}
 
@@ -392,13 +395,7 @@ After resolving the towers, players A13 will group up at North West, and players
 
 AOEs will then spawn around the arena in a Y shape, going off in 2 sets of 3. Players will WAIT for their light party stack to go off, before shifting to the closest safespot CW, and then moving BACK into the next safespot.
 
-As this mechanic has been going on, players have been accruing stacks of **Lightsteeped**. Up until now the stacks have been self-contained as there is no way to change them without resolving the mechanic in the process (towers/light party stack). If a player gains more than 4 stacks, the raid will wipe.
-
-As each group makes their final dodge, a 4 player tower will appear in the centre of the arena. Players with **2** stacks of Lightsteeped should walk into the tower to soak it.
-
-This is immediately followed by another **Banish 3**, and **House of Light**, which will hit every player with a protean AOE and increase their Lightsteeped stacks to 4. Resolve this in Phase 1 clock spots and pairs for Banish III.
-
-Shiva must be brought below 20% health before she finishes casting her enrage:
+</details>
 
 <details markdown=1>
 <summary>Light Rampant - Alternative Strat - 4/4</summary>
@@ -424,6 +421,14 @@ The N/S players will then swap positions, and the NE/NW players will also swap p
 The 2 AOE players will start in the inner ring on the Arena at N/S and rotate CW to drop 5 puddle AOES each.
 After resolving the towers, Northern and Southern tether players should group up at North and South respectively. Each AOE player should also join a separate light party after they drop their puddles.
 </details>
+
+As this mechanic has been going on, players have been accruing stacks of **Lightsteeped**. Up until now the stacks have been self-contained as there is no way to change them without resolving the mechanic in the process (towers/light party stack). If a player gains more than 4 stacks, the raid will wipe.
+
+As each group makes their final dodge, a 4 player tower will appear in the centre of the arena. Players with **2** stacks of Lightsteeped should walk into the tower to soak it.
+
+This is immediately followed by another **Banish 3**, and **House of Light**, which will hit every player with a protean AOE and increase their Lightsteeped stacks to 4. Resolve this in Phase 1 clock spots and pairs for Banish III.
+
+Shiva must be brought below 20% health before she finishes casting her enrage:
 
 ### Absolute Zero
 {: .no_toc }
