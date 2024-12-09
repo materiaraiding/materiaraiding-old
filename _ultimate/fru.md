@@ -26,7 +26,7 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 - Written guide by Juno
 - Diagrams by Juno, Em, Pipiro, Kobe, MUR
 - Mit Plan by Ikuya Kirishima
-- Video Guide by Kobe
+- Video Guides by Kobe, Pham
 
 ### Table of Contents
 {: .no_toc }
@@ -610,6 +610,7 @@ Gaia will follow Ultimate Relativity with a **Party Stack**, a **Shockwave Pulsa
 ### Apocalypse
 
 {% include raidplan.html title="P3 - Apocalypse - LP Prio" link="https://raidplan.io/plan/LZwXKA645GGmjEO2" %}
+{% include raidplan.html title="Bonus: How to read safespots" link="https://raidplan.io/plan/SYfwDA0JzSE68tFH/edit" %}
 
 Light Party 1 will move slightly West of the boss and Light Party 2 will more slightly East.
 
