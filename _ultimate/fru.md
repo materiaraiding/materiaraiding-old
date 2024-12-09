@@ -72,6 +72,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include videoembed.html videoid="B_-7MUa4ULY" %}
 
 #### Ultimate Relativity Walkthrough by Pham
+{: .no_toc }
 {% include videoembed.html videoid="8yUHFHkDM4o" %}
 
 ---
@@ -83,10 +84,9 @@ By Ikuya Kirishima
 
 ---
 
-### Waymarks NEW
+### Waymarks
 These can be imported using an XIV Launcher Plugin.
 
-Updated for P4 stuff*
 ```
 {"Name":"cardinal exalines, intercard dragon & rewinds 1A","MapID":1006,"A":{"X":100.0,"Y":0.0,"Z":93.0,"ID":0,"Active":true},"B":{"X":107.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":107.0,"ID":2,"Active":true},"D":{"X":93.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":91.575,"Y":0.0,"Z":91.575,"ID":4,"Active":true},"Two":{"X":108.425,"Y":0.0,"Z":91.575,"ID":5,"Active":true},"Three":{"X":108.425,"Y":0.0,"Z":108.425,"ID":6,"Active":true},"Four":{"X":91.575,"Y":0.0,"Z":108.425,"ID":7,"Active":true}}
 ```
