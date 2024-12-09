@@ -398,7 +398,7 @@ AOEs will then spawn around the arena in a Y shape, going off in 2 sets of 3. Pl
 </details>
 
 <details markdown=1>
-<summary>Light Rampant - Alternative Strat - 4/4</summary>
+<summary>Light Rampant - 4/4 Strat</summary>
 {% include raidplan.html iframe="true" title="P2 - Light Rampant - Adjust Strat" link="https://raidplan.io/plan/Pi1nM--NqEkn2if5" %}
   
 Shiva will go untargetable, and the party should line up as seen in the image below, with DPS south and Supports north. Shortly after the cast finishes, 6 players will be tethered together with 2 of them having large white orbs above their heads, signifying they are being targeted for a light party stack later.
