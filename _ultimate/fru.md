@@ -18,9 +18,9 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 > Help us build this guide by contributing on [Github](https://github.com/materiaraiding/materiaraiding/edit/main/_ultimate/fru.md)
 
 {: .recentchanges }
-> - 10/12/24: Changed Phase 1 Tether 1 flex prio to TMRH (was MTRH)
-> - 10/12/24: Changed 4/4 lineup order to match other datacenters
-> - 10/12/24: Added Bonus Apoc raidplan for reading safespots
+> - 10/12/24: [Changed Phase 1 Tether 1 flex prio to TMRH (was MTRH)](https://materiaraiding.com/fru#tethers-1)
+> - 10/12/24: [Changed 4/4 lineup order to match other datacenters](http://materiaraiding.com/fru#light-rampant)
+> - 10/12/24: [Added Bonus Apoc raidplan for reading safespots](https://materiaraiding.com/fru#apocalypse)
 
 ### Credits
 {: .no_toc }
