@@ -20,6 +20,7 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 {: .recentchanges }
 > - 10/12/24: Changed Phase 1 Tether 1 flex prio to TMRH (was MTRH)
 > - 10/12/24: Changed 4/4 lineup order to match other datacenters
+> - 10/12/24: Added Bonus Apoc raidplan for reading safespots
 
 ### Credits
 {: .no_toc }
