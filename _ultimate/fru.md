@@ -659,7 +659,6 @@ After another **Shockwave Pulsar**, Gaia must be damaged below 20% HP before she
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/3e20e1e4-3064-4c47-a282-1e3066f1bb43" %}
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/731ebe35-e181-4e5a-82d5-1ce1321fe3e4" %}
 
-
 {: .everyone }
 > All players should keep a close eye on both bosses health here. Immediately after the first mechanic is a **hand of pain** style health check. If the health differential is greater than 5%(?) the party will wipe.
 > The boss that is too high HP will be tethered during the **Ahk Morn** cast.
@@ -700,3 +699,5 @@ This will then be followed by a **Morn Afah** party stack that the party will ta
 Both bosses will move and then cast:
 
 ### Crystallize Time
+
+{% include raidplan.html title="P4 - Crystallize Time" link="https://raidplan.io/plan/GIXItxnLI2MJma73" %}
