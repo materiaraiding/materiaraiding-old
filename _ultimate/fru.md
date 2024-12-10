@@ -675,9 +675,9 @@ After another **Shockwave Pulsar**, Gaia must be damaged below 20% HP before she
 > The boss that is too high HP will be tethered during the **Ahk Morn** cast.
 
 
-Gaia will become untargetable and disappear. Usurper of Frost (Ryne) will then appear **true South**, and a memory crystal will appear **true North**.
+Gaia will become untargetable and disappear. Usurper of Frost (Ryne) will then appear **true North/South**, and a memory crystal will appear **true North/South**.
 
-Hraesvelgr will coil around Ryne. Baited AOEs will appear under each player once his wings sprout. The party will stack (?), and quickly move (?) after his wings come out.
+Hraesvelgr will coil around Ryne. Baited AOEs will appear under each player once his wings sprout. The party will stack relative west of Ryne (waymark 1 or 4), and quickly move after his wings come out.
 
 The memory crystal will pulse and Oracle of Darkness (Gaia) will appear and teleport to South.
 
