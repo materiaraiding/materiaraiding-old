@@ -18,9 +18,11 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 > Help us build this guide by contributing on [Github](https://github.com/materiaraiding/materiaraiding/edit/main/_ultimate/fru.md)
 
 {: .recentchanges }
-> - 10/12/24: [Changed Phase 1 Tether 1 flex prio to TMRH (was MTRH)](https://materiaraiding.com/fru#tethers-1)
-> - 10/12/24: [Changed 4/4 lineup order to match other datacenters](http://materiaraiding.com/fru#light-rampant)
-> - 10/12/24: [Added Bonus Apoc raidplan for reading safespots](https://materiaraiding.com/fru#apocalypse)
+> - 10/12/24: Changed Phase 1 Tether 1 flex prio to TMRH (was MTRH)
+> - 10/12/24: Changed 4/4 lineup order to match other datacenters
+> - 10/12/24: Added Bonus Apoc raidplan for reading safespots
+> - 10/12/24: Changed primary Diamond Dust strat to Color Partners (was Relative North)
+> - 10/12/24: Changed primary Light Rampant strat to 4:4 (was AB1234)
 
 ### Credits
 {: .no_toc }
@@ -45,12 +47,12 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include raidplan.html title="P1 - Towers - Static" link="https://raidplan.io/plan/Gfbp6n3NgBHgNqI1" %}
 #### Phase 2
 {: .no_toc }
-{% include raidplan.html title="P2 - Diamond Dust - Relative North" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
-{% include raidplan.html title="P2 - Diamond Dust - Relative North" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
+{% include raidplan.html title="P2 - Diamond Dust - Color Partners" link="https://raidplan.io/plan/NzZWtqr5SbDehlgb" %}
+{% include raidplan.html title="P2 - Diamond Dust - Relative North - Old Strat" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
 {% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
 {% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/gFwpXMjpVgxgcnpi" %}
 {% include raidplan.html title="P2 - Light Rampant - 4/4 Strat" link="https://raidplan.io/plan/VI5eMECB1_yN4u8G" %}
-{% include raidplan.html title="P2 - Light Rampant - AB1234 - Alt Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
+{% include raidplan.html title="P2 - Light Rampant - AB1234 - Old Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
 #### Phase 3
 {: .no_toc }
 {% include raidplan.html title="P3 - Ultimate Relativity" link="https://raidplan.io/plan/zgK08_yfqMrUg-fG" %}
@@ -248,6 +250,11 @@ Phase 2 begins with a tankbuster **Quadruple Slap**, before starting the first m
 
 ### Diamond Dust
 
+{% include raidplan.html title="P2 - Diamond Dust - Color Partners" link="https://raidplan.io/plan/NzZWtqr5SbDehlgb" %}
+
+<details markdown=1>
+<summary>Diamond Dust - Relative North - Old Strat</summary>
+
 {% include raidplan.html  iframe="true" title="P2 - Diamond Dust" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
 
 After spawning a clone of herself, and flashbanging your monitor, Shiva will rise into the air and spawn 2 large AOEs opposite each other on the edge of the arena. 
@@ -289,6 +296,8 @@ After dropping their puddles, everyone will quickly rush back to the centre of t
 
 {: .note }
 > Moving slightly closer to the wall after your KB can help alleviate some poor AOE placement.
+
+</details>
 
 ### Stillness/Silence
 
@@ -397,9 +406,9 @@ After resolving the towers, Northern and Southern tether players should group up
 </details>
 
 <details markdown=1>
-<summary>Light Rampant - AB1234 Strat</summary>
+<summary>Light Rampant - AB1234 - Old Strat</summary>
 
-{% include raidplan.html iframe="true" title="P2 - Light Rampant - AB1234 - Alt Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
+{% include raidplan.html iframe="true" title="P2 - Light Rampant - AB1234 - Old Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
 {% include raidplan.html iframe="true" title="AB1234 Bonus Examples" link="https://raidplan.io/plan/_lzxCSo-2uza1IJa" %}
 
 Shiva will go untargetable. Shortly after the cast finishes, 6 players will be tethered together with 2 of them having large white orbs above their heads, signifying they are being targeted for a light party stack later.
