@@ -50,7 +50,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
 {% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/gFwpXMjpVgxgcnpi" %}
 {% include raidplan.html title="P2 - Light Rampant - 4/4 Strat" link="https://raidplan.io/plan/VI5eMECB1_yN4u8G" %}
-{% include raidplan.html title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
+{% include raidplan.html title="P2 - Light Rampant - AB1234 - Alt Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
 #### Phase 3
 {: .no_toc }
 {% include raidplan.html title="P3 - Ultimate Relativity" link="https://raidplan.io/plan/zgK08_yfqMrUg-fG" %}
@@ -399,7 +399,7 @@ After resolving the towers, Northern and Southern tether players should group up
 <details markdown=1>
 <summary>Light Rampant - AB1234 Strat</summary>
 
-{% include raidplan.html iframe="true" title="P2 - Light Rampant - AB1234 Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
+{% include raidplan.html iframe="true" title="P2 - Light Rampant - AB1234 - Alt Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
 {% include raidplan.html iframe="true" title="AB1234 Bonus Examples" link="https://raidplan.io/plan/_lzxCSo-2uza1IJa" %}
 
 Shiva will go untargetable. Shortly after the cast finishes, 6 players will be tethered together with 2 of them having large white orbs above their heads, signifying they are being targeted for a light party stack later.
