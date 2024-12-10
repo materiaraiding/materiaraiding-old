@@ -20,6 +20,5 @@ try {
     write-host "Writing JSON data to data file directory"
     $data | ConvertTo-Json | Set-Content -Path './_data/status.json'
 } catch {
-    write-host "Something went wrong with fetching XIVApi data, maybe the API is down?"
-    New-Item -path './_data' -name 'status.json'
+    write-host "Something went wrong with fetching XIVApi data, maybe the API is down?, using old status file."
 }
