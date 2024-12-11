@@ -56,7 +56,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include raidplan.html title="P2 - Light Rampant - AB1234 - Old Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
 #### Phase 3
 {: .no_toc }
-{% include raidplan.html title="P3 - Ultimate Relativity" link="https://raidplan.io/plan/zgK08_yfqMrUg-fG" %}
+{% include raidplan.html title="P3 - Ultimate Relativity" link="https://raidplan.io/plan/oYnDQe4ZbVaoxA5r" %}
 {% include raidplan.html title="P3 - Apocalypse - LP Prio" link="https://raidplan.io/plan/LZwXKA645GGmjEO2" %}
 #### Phase 4
 {: .no_toc }
@@ -481,7 +481,7 @@ This is immediately followed by:
 
 ### Ultimate Relativity
 
-{% include raidplan.html title="P3 - Ultimate Relativity" link="https://raidplan.io/plan/zgK08_yfqMrUg-fG" %}
+{% include raidplan.html title="P3 - Ultimate Relativity" link="https://raidplan.io/plan/oYnDQe4ZbVaoxA5r" %}
 
 This mechanic is quite dense. I recommend looking through toolboxes in addition to the written guide, to get a clearer understanding of positions.
 
