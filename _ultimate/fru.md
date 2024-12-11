@@ -52,7 +52,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include raidplan.html title="P2 - Diamond Dust - Relative North - Old Strat" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
 {% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
 {% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/gFwpXMjpVgxgcnpi" %}
-{% include raidplan.html title="P2 - Light Rampant - 4/4 Strat" link="https://raidplan.io/plan/VI5eMECB1_yN4u8G" %}
+{% include raidplan.html title="P2 - Light Rampant - 4/4 Strat" link="https://raidplan.io/plan/pgz322Znkd_Srn8n" %}
 {% include raidplan.html title="P2 - Light Rampant - AB1234 - Old Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
 #### Phase 3
 {: .no_toc }
@@ -387,7 +387,7 @@ Shiva will then cast:
 
 <details markdown=1>
 <summary>Light Rampant - 4/4 Strat</summary>
-{% include raidplan.html iframe="true" title="P2 - Light Rampant - 4/4 Strat" link="https://raidplan.io/plan/VI5eMECB1_yN4u8G" %}
+{% include raidplan.html iframe="true" title="P2 - Light Rampant - 4/4 Strat" link="https://raidplan.io/plan/pgz322Znkd_Srn8n" %}
   
 Shiva will go untargetable, and the party should line up as seen in the image below, with DPS south and Supports north. Shortly after the cast finishes, 6 players will be tethered together with 2 of them having large white orbs above their heads, signifying they are being targeted for a light party stack later.
   
