@@ -62,6 +62,10 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {: .no_toc }
 {% include raidplan.html title="P4 - Darklit Dragonsong" link="https://raidplan.io/plan/pcrbL0iqrAYMKFV3" %}
 {% include raidplan.html title="P4 - Crystallize Time" link="https://raidplan.io/plan/GIXItxnLI2MJma73" %}
+#### Phase 5
+{: .no_toc }
+More coming soon...
+{% include raidplan.html title="P5 - Wings & Towers" link="https://docs.google.com/presentation/d/1SLQpfdSyldjtzbe7hXUCOufRZ8DeYFEJwSS6C1iRBrI" %}
 ---
 
 ### Video Guides
@@ -723,3 +727,12 @@ Both bosses will move and then cast:
 ### Crystallize Time
 
 {% include raidplan.html title="P4 - Crystallize Time" link="https://raidplan.io/plan/GIXItxnLI2MJma73" %}
+
+## Phase 5
+
+post exa lines akh morns, h1 left h2 right looking at boss relative
+
+{% include raidplan.html title="P5 - Wings & Towers" link="https://docs.google.com/presentation/d/1SLQpfdSyldjtzbe7hXUCOufRZ8DeYFEJwSS6C1iRBrI" %}
+
+line stacks - swap order TMRH (edited)
+
