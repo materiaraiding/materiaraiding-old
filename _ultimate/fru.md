@@ -678,19 +678,12 @@ After another **Shockwave Pulsar**, Gaia must be damaged below 20% HP before she
 
 ## Phase 4: Enter the Dragon (AKA Ryne & Gaia)
 
-{% include raidplan.html title="P4 - Darklit Dragonsong" link="https://raidplan.io/plan/pcrbL0iqrAYMKFV3" %}
-
-{% include videoembed.html videoid="PD6m6SzlxSI" %}
-
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/3e20e1e4-3064-4c47-a282-1e3066f1bb43" %}
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/731ebe35-e181-4e5a-82d5-1ce1321fe3e4" %}
-
 {: .everyone }
 > All players should keep a close eye on both bosses health here. Immediately after the first mechanic is a **hand of pain** style health check. If the health differential is greater than 5%(?) the party will wipe.
 > The boss that is too high HP will be tethered during the **Ahk Morn** cast.
 
 
-Gaia will become untargetable and disappear. Usurper of Frost (Ryne) will then appear **true North/South**, and a memory crystal will appear **true North/South**.
+Gaia will become untargetable and disappear. Usurper of Frost (Ryne) will then appear **true North/South**, and a memory crystal will appear **true North**.
 
 Hraesvelgr will coil around Ryne. Baited AOEs will appear under each player once his wings sprout. The party will stack relative west of Ryne (waymark 1 or 4), and quickly move after his wings come out.
 
@@ -699,6 +692,8 @@ The memory crystal will pulse and Oracle of Darkness (Gaia) will appear and tele
 Both bosses will then cast:
 
 ### Darklit Dragonsong
+
+{% include raidplan.html title="P4 - Darklit Dragonsong" link="https://raidplan.io/plan/pcrbL0iqrAYMKFV3" %}
 
 All players will be assigned 3 stacks of **Lightsteeped**
 
@@ -727,6 +722,11 @@ Both bosses will move and then cast:
 ### Crystallize Time
 
 {% include raidplan.html title="P4 - Crystallize Time" link="https://raidplan.io/plan/GIXItxnLI2MJma73" %}
+
+{% include videoembed.html videoid="PD6m6SzlxSI" %}
+
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/3e20e1e4-3064-4c47-a282-1e3066f1bb43" %}
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/731ebe35-e181-4e5a-82d5-1ce1321fe3e4" %}
 
 ## Phase 5
 
