@@ -656,6 +656,8 @@ Each Light Party will then spread for a **Spirit Taker** AOE on a random player,
 
 Once the safespot is identified, each party will move into it and spread out using the aforementioned "square" spread.
 
+{% include videoembed.html videoid="MvJAh0-uPTY" %}
+
 The AOEs will then begin to go off as each party spreads. After the 2nd set of AOEs, each spread will go off and the party will rush along the **cardinal or intercardinal** that the safespot was on, and stand just outside the innermost circle of the arena for the **2nd stack**.
 
 As soon as the **2nd stack** resolves a tank must immediately run to the **next available safe spot** to bait **Darkest Dance**, a tankbuster that is baited on the **furthest player away**.
