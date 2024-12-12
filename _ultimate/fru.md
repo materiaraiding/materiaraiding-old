@@ -656,6 +656,13 @@ Each Light Party will then spread for a **Spirit Taker** AOE on a random player,
 
 Once the safespot is identified, each party will move into it and spread out using the aforementioned "square" spread.
 
+{: .note }
+> The players at the front can keep full melee uptime but must be careful, as the inner exploding AOE is quite large. I recommend breaking max melee and tapping forward until you're just able to hit Gaia.
+>
+> If you are up the front, I would also save **sprint** for the 2nd AOE hit and simply step forward into the center rather than running along the safe cardinal/intercardinal.
+>
+> Both of these can be seen in the video below.
+
 {% include videoembed.html videoid="MvJAh0-uPTY" %}
 
 The AOEs will then begin to go off as each party spreads. After the 2nd set of AOEs, each spread will go off and the party will rush along the **cardinal or intercardinal** that the safespot was on, and stand just outside the innermost circle of the arena for the **2nd stack**.
