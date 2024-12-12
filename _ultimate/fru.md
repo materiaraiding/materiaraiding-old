@@ -48,7 +48,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include raidplan.html title="P1 - Towers - Static" link="https://raidplan.io/plan/Gfbp6n3NgBHgNqI1" %}
 #### Phase 2
 {: .no_toc }
-{% include raidplan.html title="P2 - Diamond Dust - Color Partners" link="https://raidplan.io/plan/2CACgZ5VfsZdZUT5" %}
+{% include raidplan.html title="P2 - Diamond Dust - Color Partners" link="https://raidplan.io/plan/PPYgcTqAr4DXZE50" %}
 {% include raidplan.html title="P2 - Diamond Dust - Relative North - Old Strat" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
 {% include raidplan.html title="P2 - Silence/Stillness" link="https://raidplan.io/plan/sbGvvKgbVlTjJLqe" %}
 {% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/gFwpXMjpVgxgcnpi" %}
@@ -255,7 +255,7 @@ Phase 2 begins with a tankbuster **Quadruple Slap**, before starting the first m
 
 ### Diamond Dust
 
-{% include raidplan.html title="P2 - Diamond Dust - Color Partners" link="https://raidplan.io/plan/2CACgZ5VfsZdZUT5" %}
+{% include raidplan.html title="P2 - Diamond Dust - Color Partners" link="https://raidplan.io/plan/PPYgcTqAr4DXZE50" %}
 
 <details markdown=1>
 <summary>Diamond Dust - Relative North - Old Strat</summary>
