@@ -735,10 +735,16 @@ Both bosses will move and then cast:
 
 {% include raidplan.html title="P4 - Crystallize Time" link="https://raidplan.io/plan/GIXItxnLI2MJma73" %}
 
-{% include videoembed.html videoid="PD6m6SzlxSI" %}
+#### Puddle Soaks - Early
+{: .no_toc }
+```
+STACK - B
+WATER - 3
+DARK - D
+ICE - 4
+```
 
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/3e20e1e4-3064-4c47-a282-1e3066f1bb43" %}
-{% include image.html width="500px" path="https://github.com/user-attachments/assets/731ebe35-e181-4e5a-82d5-1ce1321fe3e4" %}
+{% include videoembed.html videoid="PD6m6SzlxSI" %}
 
 ## Phase 5
 
