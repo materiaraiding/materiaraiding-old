@@ -88,6 +88,9 @@ More coming soon...
 ### Mitigation Plan
 By Ikuya Kirishima
 
+{: .important }
+The mit sheets is **NOT** intended to be taken as gospel, but rather a general guideline to how you can setup your CDs through the fight. **Talk with your party** and work out what CD timings you are using together.
+
 [Materia FRU Mitty](https://docs.google.com/spreadsheets/d/10ZSxFpqJxcbaswpU_JR9L6nU3PjouNz_GONghM6lw2A/edit?gid=1960553822){: .btn .btn-green }
 
 ---
