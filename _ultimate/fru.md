@@ -70,14 +70,18 @@ More coming soon...
 
 ### Video Guides
 
-#### Phase 1 by Kobe
+#### Phase 1
 {: .no_toc }
 {% include videoembed.html videoid="4p2K2u8aloU" %}
 
-#### Phase 2 by Kobe
+#### Phase 2
 {: .no_toc }
 {% include videoembed.html videoid="YYs2D0-n_oM" %}
 {% include videoembed.html videoid="B_-7MUa4ULY" %}
+
+#### Phase 3
+{: .no_toc }
+{% include videoembed.html videoid="QZzuMStV26U" %}
 
 #### Ultimate Relativity Walkthrough by Pham
 {: .no_toc }
