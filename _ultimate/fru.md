@@ -695,11 +695,11 @@ After another **Shockwave Pulsar**, Gaia must be damaged below 20% HP before she
 ## Phase 4: Enter the Dragon (AKA Ryne & Gaia)
 
 {: .everyone }
-> All players should keep a close eye on both bosses health here. Immediately after the first mechanic is a **hand of pain** style health check. If the health differential is greater than 5%(?) the party will wipe.
+> All players should keep a close eye on both bosses health here. Immediately after the first mechanic is a **hand of pain** style health check. If the health differential is greater than 5% the party will wipe.
 > The boss that is too high HP will be tethered during the **Ahk Morn** cast.
 
 
-Gaia will become untargetable and disappear. Usurper of Frost (Ryne) will then appear **true North/South**, and a memory crystal will appear **true North**.
+Gaia will become untargetable and disappear. Usurper of Frost (Ryne) will then appear **true North/South**, and a memory crystal will appear **true North**. Ryne will always spawn opposite of where Gaia phased previously.
 
 Hraesvelgr will coil around Ryne. Baited AOEs will appear under each player once his wings sprout. The party will stack relative west of Ryne (waymark 1 or 3), and quickly move after his wings come out.
 
@@ -729,9 +729,9 @@ After the towers and AOEs resolve, Ryne will cast **Hallowed Wings**, cleaving o
 
 A tank will **immediately** run to **true East** or **true West** (whichever is closest) to bait out a **Somber Dance** tankbuster, followed by another **Somber Dance** baited on the closest person.
 
-The crystal will then pulse with an **Edge of Oblivion** raidwide and both bosses will move to the middle. Light Party 1 will stack North and Light Party 2 will stack South for **Akh Morn**, a **hand of pain HP check**.
+The crystal will then pulse with an **Edge of Oblivion** raidwide and both bosses will move to the middle. Light Party 1 will stack North and Light Party 2 will stack South for **Akh Morn**. Because these stacks are baited on tank emnity, both tanks must have aggro of each boss.
 
-This will then be followed by a **Morn Afah** party stack that the party will take in the center of the arena.
+This will then be followed by a **Morn Afah**, a party stack that acts like a **hand of pain HP check**. The party will take the stack in the center of the arena.
 
 Both bosses will move and then cast:
 
