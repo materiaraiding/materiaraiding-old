@@ -762,7 +762,7 @@ Within the Wyrmclaw debuffs, there will be 2 aero players and 2 ice players. Usi
 
 **Red** players must intercept dragonheads that will begin to travel around the arena from North to South. Intercepting these dragons will cleanse the debuff, and cause a large AOE explosion aswell as leaving behind a small puddle on the floor. This puddle must be picked up by a **Blue** player to successfully cleanse their own debuff. Allowing either of these debuffs to remain unresolved, will immediately kill the player.
 
-As well as these Red and Blue buffs everyone will also gain an additionally debuff. As mentioned prior, Red players will have 2 aero and 2 ice. Blue players will have 1 **Ice**, 1 **Water**, 1 **Unholy Darkness**, and 1 **Eruption**.
+As well as these Red and Blue buffs everyone will also gain an additionally debuff. As mentioned prior Red players will have 2 aero and 2 ice. Blue players will have 1 **Ice**, 1 **Water**, 1 **Unholy Darkness**, and 1 **Eruption**.
 
 
 
