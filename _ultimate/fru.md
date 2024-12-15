@@ -732,7 +732,7 @@ After the towers and AOEs resolve, Gaia will cast **Sprit Taker**, targeting a r
 {: .warning}
 > Be extremely careful with placement of Spirit Taker, as if the crystal at North takes any optional damage it will be destroyed and the party will be unable to reach phase 5.
 
-A tank will **immediately** run to **true East** or **true West** (whichever is closest) to bait out a **Somber Dance** tankbuster, followed by another **Somber Dance** baited on the closest person.
+A tank will **immediately** run to **true East** or **true West** (whichever is furthest) to bait out a **Somber Dance** tankbuster, followed by another **Somber Dance** baited on the closest person.
 
 The crystal will then pulse with an **Edge of Oblivion** raidwide and both bosses will move to the middle. Light Party 1 will stack North and Light Party 2 will stack South for **Akh Morn**. Because these stacks are baited on tank emnity, both tanks must have aggro of each boss.
 
