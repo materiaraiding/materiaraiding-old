@@ -521,11 +521,11 @@ After a heavy hitting raidwide, several "Spell in waiting" debuffs will be assig
   </tr>
     <tr>
     <td>Unholy Darkness{% include status.html name="Spell-in-Waiting: Unholy Darkness" %}</td>
-    <td>Party Stack</td>
+    <td>Party Stack that must be resolved with 5 players</td>
   </tr>
     <tr>
     <td>Dark Water{% include status.html name="Spell-in-Waiting: Dark Water III" %}</td>
-    <td>A stack, generally taken by a light party</td>
+    <td>A stack that must be resolved with 4 players</td>
   </tr>
     <tr>
     <td>Return{% include status.html name="Spell-in-Waiting: Return" %}</td>
@@ -727,7 +727,10 @@ The tether players will quickly determine what shape the tether is currently in 
 
 Once the bowtie is formed, the tether players will stand in their towers, and the 4 remaining players will shuffle close to Ryne to bait out the AOEs. If both stacks are on the same North/South side of the room, the AOE players will swap with eachother to ensure they will end up on opposite sides.
 
-After the towers and AOEs resolve, Ryne will cast **Hallowed Wings**, cleaving one half of the arena. The party will shift over into the safespot and take the **Water Stack**.
+After the towers and AOEs resolve, Gaia will cast **Sprit Taker**, targeting a random player again. All players will roughly spread to resolve this. Immediately after Ryne will cast **Hallowed Wings**, cleaving one half of the arena. The party will shift over into the safespot and take the **Water Stack**.
+
+{: .warning}
+> Be extremely careful with placement of Spirit Taker, as if the crystal at North takes any optional damage it will be destroyed and the party will be unable to reach phase 5.
 
 A tank will **immediately** run to **true East** or **true West** (whichever is closest) to bait out a **Somber Dance** tankbuster, followed by another **Somber Dance** baited on the closest person.
 
@@ -751,6 +754,21 @@ ICE - 4
 ```
 
 {% include videoembed.html videoid="PD6m6SzlxSI" %}
+
+This mechanic is extremely dense and has many minute details that must be taken into consideration. I **highly** recommend watching as many POVs as possible, as well as studying the toolbox in addition to this guide.
+
+As Crystallize Time is cast Traffic Lights will spawn, and everyone will be assigned debuffs. The Traffic Lights have two possible spawn iterations, where the mechanic solve is simply flipped horizontally.
+
+Additionally, there will be 4 players with a **Wyrmclaw (Red)** debuff, and 4 players with a **Wyrmfang (Blue)** debuff. 
+Within the Wyrmclaw debuffs, there will be 2 aero players and 2 ice players. Using the priority system below, these players will sort themselves so that one aero and one ice are on East and West of the arena.
+
+**Red** players must intercept dragonheads that will begin to travel around the arena from North to South. Intercepting these dragons will cleanse the debuff, and cause a large AOE explosion aswell as leaving behind a small puddle on the floor. This puddle must be picked up by a **Blue** player to successfully cleanse their own debuff. Allowing either of these debuffs to remain unresolved, will immediately kill the player.
+
+As well as these Red and Blue buffs everyone will also gain an additionally debuff. As mentioned prior Red players will have 2 aero and 2 ice. Blue players will have 1 **Ice**, 1 **Water**, 1 **Unholy Darkness**, and 1 **Eruption**.
+
+
+
+Work in Progress
 
 ## Phase 5
 
