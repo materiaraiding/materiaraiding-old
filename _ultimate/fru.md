@@ -744,15 +744,6 @@ Both bosses will move and then cast:
 
 {% include raidplan.html title="P4 - Crystallize Time" link="https://raidplan.io/plan/GIXItxnLI2MJma73" %}
 
-#### Puddle Soaks - Early
-{: .no_toc }
-```
-STACK - B
-WATER - 3
-DARK - D
-ICE - 4
-```
-
 {% include videoembed.html videoid="PD6m6SzlxSI" %}
 
 This mechanic is extremely dense and has many minute details that must be taken into consideration. I **highly** recommend watching as many POVs as possible, as well as studying the toolbox in addition to this guide.
@@ -760,9 +751,25 @@ This mechanic is extremely dense and has many minute details that must be taken 
 As Crystallize Time is cast Traffic Lights will spawn, and everyone will be assigned debuffs. The Traffic Lights have two possible spawn iterations, where the mechanic solve is simply flipped horizontally.
 
 Additionally, there will be 4 players with a **Wyrmclaw (Red)** debuff, and 4 players with a **Wyrmfang (Blue)** debuff. 
-Within the Wyrmclaw debuffs, there will be 2 aero players and 2 ice players. Using the priority system below, these players will sort themselves so that one aero and one ice are on East and West of the arena.
+Within the Wyrmclaw debuffs, there will be 2 aero players and 2 ice players. Using a lineup/prio system below, these players will sort themselves so that one aero and one ice are on East and West of the arena.
+
+From left to right:
+`West - H1 D3 D1 MT ST D2 D4 H2 - East`
+
+Ice Debuffs will step up, Aero debuffs will step down, look at the two players standing north/south of the lineup to determine who goes East/West.
+
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/a625f6c7-a1f0-4eaf-abb4-5bd787ccfb4a" %}
 
 **Red** players must intercept dragonheads that will begin to travel around the arena from North to South. Intercepting these dragons will cleanse the debuff, and cause a large AOE explosion aswell as leaving behind a small puddle on the floor. This puddle must be picked up by a **Blue** player to successfully cleanse their own debuff. Allowing either of these debuffs to remain unresolved, will immediately kill the player.
+
+Puddle soaks are determined by your debuff and the waymark nearest the puddle. 
+
+```
+STACK - B
+WATER - 3
+DARK - D
+ICE - 4
+```
 
 As well as these Red and Blue buffs everyone will also gain an additionally debuff. As mentioned prior Red players will have 2 aero and 2 ice. Blue players will have 1 **Ice**, 1 **Water**, 1 **Unholy Darkness**, and 1 **Eruption**.
 
