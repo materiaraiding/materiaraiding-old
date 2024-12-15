@@ -663,6 +663,8 @@ Each Light Party will then spread for a **Spirit Taker** AOE on a random player,
 
 Once the safespot is identified, each party will move into it and spread out using the aforementioned "square" spread.
 
+{% include image.html width="500px" path="apocspread.webp" %}
+
 {: .note }
 > The players at the front can keep full melee uptime but must be careful, as the inner exploding AOE is quite large. I recommend breaking max melee and tapping forward until you're just able to hit Gaia.
 >
