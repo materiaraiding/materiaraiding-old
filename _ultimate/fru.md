@@ -732,7 +732,7 @@ After the towers and AOEs resolve, Gaia will cast **Sprit Taker**, targeting a r
 {: .warning}
 > Be extremely careful with placement of Spirit Taker, as if the crystal at North takes any optional damage it will be destroyed and the party will be unable to reach phase 5.
 
-A tank will **immediately** run to **true East** or **true West** (whichever is closest) to bait out a **Somber Dance** tankbuster, followed by another **Somber Dance** baited on the closest person.
+A tank will **immediately** run to **true East** or **true West** (whichever is furthest) to bait out a **Somber Dance** tankbuster, followed by another **Somber Dance** baited on the closest person.
 
 The crystal will then pulse with an **Edge of Oblivion** raidwide and both bosses will move to the middle. Light Party 1 will stack North and Light Party 2 will stack South for **Akh Morn**. Because these stacks are baited on tank emnity, both tanks must have aggro of each boss.
 
@@ -744,31 +744,47 @@ Both bosses will move and then cast:
 
 {% include raidplan.html title="P4 - Crystallize Time" link="https://raidplan.io/plan/GIXItxnLI2MJma73" %}
 
-#### Puddle Soaks - Early
-{: .no_toc }
+{% include videoembed.html videoid="PD6m6SzlxSI" %}
+
+This mechanic is extremely dense and has many minute details that must be taken into consideration. I **highly** recommend watching as many POVs as possible, as well as studying the toolbox in addition to this guide.
+
+As Crystallize Time is cast, 4 players will be assigned a **Wyrmclaw (Red)** debuff, and 4 players with a **Wyrmfang (Blue)** debuff. 
+Within the **Red** debuffs, there will be 2 aero players and 2 ice players. Using a lineup/prio system below, these players will sort themselves so that one aero and one ice are on East and West of the arena.
+
+From left to right:
+`West - H1 D3 D1 MT ST D2 D4 H2 - East`
+
+Ice Debuffs will step up, Aero debuffs will step down, look at the two players standing north/south of the lineup to determine who goes East/West.
+
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/a625f6c7-a1f0-4eaf-abb4-5bd787ccfb4a" %}
+
+**Red** players must intercept dragonheads that will begin to travel around the arena from North to South. Intercepting these dragons will cleanse the debuff, and cause a large AOE explosion aswell as leaving behind a small puddle on the floor. This puddle must be picked up by a **Blue** player to successfully cleanse their own debuff. Allowing either of these debuffs to remain unresolved, will immediately kill the player.
+
+As well as these Red and Blue buffs everyone will also gain an additional debuff. As mentioned prior Red players will have 2 aero and 2 ice. Blue players will have 1 **Ice**, 1 **Water**, 1 **Unholy Darkness**, and 1 **Eruption**.
+
+As **Blue** players will need to soak a debuff, we use these debuffs to indicate who takes which puddle. As each puddle is left in the proximity of a waymark, **Blue** players will take puddles following the list below:
+
 ```
 STACK - B
 WATER - 3
 DARK - D
 ICE - 4
 ```
+In addition to debuffs going out, 6 Traffic Lights will spawn. The Traffic Lights have two possible spawn iterations, where the mechanic solve is simply flipped horizontally.
 
-{% include videoembed.html videoid="PD6m6SzlxSI" %}
+With the crystal being true North, 1 **Yellow Tether** will always be North/South and 1 **Purple Tether** will either be North West/South East or North East/South West. These Traffic Lights will blow up in a large circular AOE, the hitbox of which can be seen on the arena floor.
 
-This mechanic is extremely dense and has many minute details that must be taken into consideration. I **highly** recommend watching as many POVs as possible, as well as studying the toolbox in addition to this guide.
+To break up this mechanic, I'll first write through the resolution for all **Blue** players:
 
-As Crystallize Time is cast Traffic Lights will spawn, and everyone will be assigned debuffs. The Traffic Lights have two possible spawn iterations, where the mechanic solve is simply flipped horizontally.
+The assigned **Red Aero** player, and all the **non-Eruption Blue** debuff players will go to the South **Purple Tether**. The **Eruption Blue** debuff player will go to the North **Purple Tether**
 
-Additionally, there will be 4 players with a **Wyrmclaw (Red)** debuff, and 4 players with a **Wyrmfang (Blue)** debuff. 
-Within the Wyrmclaw debuffs, there will be 2 aero players and 2 ice players. Using the priority system below, these players will sort themselves so that one aero and one ice are on East and West of the arena.
-
-**Red** players must intercept dragonheads that will begin to travel around the arena from North to South. Intercepting these dragons will cleanse the debuff, and cause a large AOE explosion aswell as leaving behind a small puddle on the floor. This puddle must be picked up by a **Blue** player to successfully cleanse their own debuff. Allowing either of these debuffs to remain unresolved, will immediately kill the player.
-
-As well as these Red and Blue buffs everyone will also gain an additionally debuff. As mentioned prior Red players will have 2 aero and 2 ice. Blue players will have 1 **Ice**, 1 **Water**, 1 **Unholy Darkness**, and 1 **Eruption**.
+After the **Yellow Tether** traffic lights go off, players (including the eruption player) will shift slightly into where the AOE was. Immediately, the **Water, Ice, and Aero** will all go off at once, launching the **Blue** players to the opposite side of the arena, and they will immediately stack with the **Eruption** & **Ice** player of that side to resolve **Unholy Darkness**.
 
 
 
 Work in Progress
+
+
 
 ## Phase 5
 
