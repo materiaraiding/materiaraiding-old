@@ -717,15 +717,21 @@ All players will be assigned 3 stacks of **Lightsteeped**
 
 2 random players will be assigned a **Water Stack** that will go off in **19s**.
 
-2 other random supports and 2 random DPS will be tethered with Light Rampant chains and 2 towers will appear that require 2 players in each to soak.
+1 Tank, 1 Healer and 2 random DPS will be tethered with Light Rampant chains and 2 towers will appear that require 2 players in each to soak.
 
-Ryne will also cast 4 proximity based AOEs from her that will be baited by the 4 remaining non-tether players.
+Ryne will also cast 4 proximity based Protean AOEs from her that will be baited by the 4 remaining non-tether players.
 
 To begin, each player will stack mid as Ryne transformed before quickly moving to the following lineup with **supports true North** and **DPS true South**
 
-The tether players will quickly determine what shape the tether is currently in and make a bowtie shape. This is to ensure 2 players from each side can soak stacks while still satisfying the length requirement for the tethers.
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/1efa326f-0514-4f6a-9f28-34ccc126b966" %}
 
-Once the bowtie is formed, the tether players will stand in their towers, and the 4 remaining players will shuffle close to Ryne to bait out the AOEs. If both stacks are on the same North/South side of the room, the AOE players will swap with eachother to ensure they will end up on opposite sides.
+The tether players will quickly determine what shape the tether is currently in and make a bowtie shape. This is to ensure 2 players from each side can soak towers while still satisfying the length requirement for the tethers.
+
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/661063e9-26ec-4725-bbdc-8281f6b5e73b" %}
+
+Once the bowtie is formed, the tether players will stand in their towers, and the 4 remaining players will split left/right and shuffle close to Ryne to bait out the Proteans. If both water stacks are on the same North/South side of the room, the untethered AOE player will swap with the untethered player on their side of the room to ensure the water stacks are split north/south.
+
+{% include image.html width="500px" path="https://github.com/user-attachments/assets/dfeae866-9934-4def-a4ed-2eb951b55c0f" %}
 
 After the towers and AOEs resolve, Gaia will cast **Sprit Taker**, targeting a random player again. All players will roughly spread to resolve this. Immediately after Ryne will cast **Hallowed Wings**, cleaving one half of the arena. The party will shift over into the safespot and take the **Water Stack**.
 
