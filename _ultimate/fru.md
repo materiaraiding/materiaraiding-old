@@ -117,10 +117,6 @@ P5: Polarizing Swap Order: TMRH
 {: .no_toc }
 {% include videoembed.html videoid="QZzuMStV26U" %}
 
-#### Ultimate Relativity Walkthrough by Pham
-{: .no_toc }
-{% include videoembed.html videoid="8yUHFHkDM4o" %}
-
 ---
 
 ### Mitigation Plan
@@ -824,8 +820,6 @@ After the **Yellow Tether** traffic lights go off, players (including the erupti
 
 Work in Progress
 
-
-
 ## Phase 5
 
 {% include raidplan.html title="P5 - Fulgent Blade (Exas)" link="https://raidplan.io/plan/xE5dM62WDf6sYUYf" %}
@@ -833,6 +827,4 @@ Work in Progress
 {% include raidplan.html title="P5 - Wings & Towers" link="https://raidplan.io/plan/Bf91HcD3ckk_S-Lw" %}
 
 {% include raidplan.html title="P5 - Polarizing Strikes" link="https://raidplan.io/plan/ca2GGs51v5uKGpz1" %}
-
-line stacks - swap order TMRH (edited)
 
