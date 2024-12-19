@@ -33,7 +33,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include raidplan.html title="Phase 5: Dark Thordan: Death" link="https://ff14.toolboxgaming.space/?id=268588669900861&preview=1" %}
 {% include raidplan.html title="Phase 6: Double Dragons" link="https://ff14.toolboxgaming.space/?id=610785126654861&preview=1" %}
 
-### PoVs Videos
+### POVs
 Videos covering clears by different roles.
 
 [DPS](https://youtu.be/FMr8XWq-mXs){: .btn }

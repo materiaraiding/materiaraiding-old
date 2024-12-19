@@ -38,7 +38,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 [All TOP Positions](https://ff14.toolboxgaming.space/?id=510586440608761&preview=1){: .btn .btn-blue }
 
-### PoV Videos
+### PoVs
 Videos covering clears by different roles.
 
 [DPS](https://www.youtube.com/watch?v=BKGcoU_Entc){: .btn }

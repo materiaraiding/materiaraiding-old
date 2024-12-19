@@ -20,14 +20,12 @@ longtitle: Future's Rewritten (Ultimate)
 - Video Guides by Kobe, Pham
 
 {: .warning }
-
 > This guide will be written using prog strats and is mainly an explanation of how mechanics work and their failure conditions.
 > This guide will be updated as strats are standardised in the OCE community, everything is subject to change.
 > 
 > Help us build this guide by contributing on [GitHub](https://github.com/materiaraiding/materiaraiding/edit/main/_ultimate/fru.md)
 
 {: .recentchanges }
-
 > - 19/12/24: Added P5 resources
 
 ### Table of Contents
@@ -133,7 +131,6 @@ P5: Polarizing Swap Order: TMRH
 By Ikuya Kirishima
 
 {: .important }
-
 > The mit sheets is **NOT** intended to be taken as gospel, but rather a general guideline to how you can set up your CDs through the fight. **Talk with your party** and work out what CD timings you are using together.
 > >
 > [**I understand, take me to the mit sheet**](https://docs.google.com/spreadsheets/d/10ZSxFpqJxcbaswpU_JR9L6nU3PjouNz_GONghM6lw2A/edit?gid=1960553822)
@@ -266,7 +263,6 @@ The two most west players will move to the west group and the two most east play
 As the tethers begin to resolve, players need to pay attention to whether it is a fire of a lightning tether to be in the correct position.
 
 {: .note }
-
 > Because the tether colour disappears quickly on the first tether, it can be useful to commit this one to memory.
 
 Once a tether goes off on each side, the tethered players should swap positions.
@@ -352,7 +348,6 @@ The non-AOE players will stand as close as possible to Shiva. It is possible to 
 After dropping their puddles, everyone will quickly rush back to the centre of the arena. Shiva will shortly do a knockback and Light Party 1 will ride this to the relative North as this will be the safespot formed from the AOEs. Light Party 2 will ride this KB to the relative South. 
 
 {: .note }
-
 > Moving slightly closer to the wall after your KB can help alleviate some poor AOE placement.
 
 </details>
@@ -374,7 +369,6 @@ Light parties will always rotate CW along the wall UNLESS the Shiva clone is dir
 After dropping 4 puddles, the Shiva clone (outside the arena) will cast **Redress**, requiring each player to look away less they be stunned. 
 
 {: .note }
-
 > There is a short period where you finish dropping your puddles and can move before the gaze goes off, allowing you to either get behind or directly across from the Shiva clone.
 
 This redress will swap both the real Shiva and the clone, as well as covering the floor with ice.
@@ -392,11 +386,9 @@ OR
 Immediately after she will cast the opposite, requiring players to slide across the arena into the opposite safe spot. 
 
 {: .warning }
-
 > This snapshot for the second cleave is INCREDIBLY unforgiving. I recommend watching your enmity list and sliding the second you see the first cast finish.
 
 {: .note }
-
 > Some patterns may require a Light Party to move faster to get behind Shiva.
 
 Immediately following this Shiva will become targetable, appearing back in the arena's centre and the ice floor will disappear.
@@ -635,7 +627,6 @@ The DPS and Support players with a **20s Fire Debuff{% include status.html name=
 And finally, either: A Support with the **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **20s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go North, and a DPS with the **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **20s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go South.
 
 {: .note }
-
 > You do **NOT** need to form a lineup to find your positions, this prio system resolves so that **Ranged and Healers are always static** and **ONLY melee players flex** by looking at one other party member to determine which direction they go. 
 > 
 > For Example: If they have 30s Fire Debuff, ST will always take NE traffic light (balls north relative) **unless** they have the same debuff as H2.
@@ -699,8 +690,6 @@ Using the priority system below (which you may recognise from TOP), players with
 
 As 2 or 4 players will be flexing, each player will simply fill the hole in the square that the previous person has left.
 
-(image)(example of flex)
-
 **Players will stay in these "flexed groups" for the remainder of the mechanic.**
 
 After the **1st Stack** goes off, Gaia will cast **Apocalypse**, and glowing lights along the lines in the floor will begin to move out and rotate around the arena, indicating a safespot for the upcoming AOEs.
@@ -718,11 +707,10 @@ Once the safespot is identified, each party will move into it and spread out usi
 {% include image.html width="500px" path="/assets/images/apocspread.webp" %}
 
 {: .note }
-
 > The players at the front can keep full melee uptime but must be careful, as the inner exploding AOE is quite large. I recommend breaking max melee and tapping forward until you're just able to hit Gaia.
-> >
+>
 > If you are up the front, I would also save **sprint** for the 2nd AOE hit and simply step forward into the center rather than running along the safe cardinal/intercardinal.
-> >
+>
 > Both of these can be seen in the video below.
 
 {% include videoembed.html videoid="MvJAh0-uPTY" %}
@@ -732,7 +720,6 @@ The AOEs will then begin to go off as each party spreads. After the 2nd set of A
 As soon as the **2nd stack** resolves a tank must immediately run to the **next available safe spot** to bait **Darkest Dance**, a tankbuster that is baited on the **furthest player away**.
 
 {: .note }
-
 > The tank can simply watch the AOEs rotate as the safespots will always be 180 degrees from eachother. After the stack goes off they can sprint to the next upcoming safespot.
 
 Both parties will follow Gaia to this **new north**, and **keeping the same flexed parties**, Light Party 1 will go slightly West of Gaia, and Light Party 2 will go slightly East of Gaia. 
@@ -751,7 +738,6 @@ After another **Shockwave Pulsar**, Gaia must be damaged below 20% HP before she
 ## Phase 4: Enter the Dragon (AKA Ryne & Gaia)
 
 {: .everyone }
-
 > All players should keep a close eye on both bosses health here. Immediately after the first mechanic is a **hand of pain** style health check. If the health differential is greater than 5% the party will wipe.
 > The boss that is too high HP will be tethered during the **Ahk Morn** cast.
 
@@ -790,7 +776,6 @@ Once the bowtie is formed, the tether players will stand in their towers, and th
 After the towers and AOEs resolve, Gaia will cast **Sprit Taker**, targeting a random player again. All players will roughly spread to resolve this. Immediately after Ryne will cast **Hallowed Wings**, cleaving one half of the arena. The party will shift over into the safespot and take the **Water Stack**.
 
 {: .warning}
-
 > Be extremely careful with placement of Spirit Taker, as if the crystal at North takes any optional damage it will be destroyed and the party will be unable to reach phase 5.
 
 A tank will **immediately** run to **true East** or **true West** (whichever is furthest) to bait out a **Somber Dance** tankbuster, followed by another **Somber Dance** baited on the closest person.

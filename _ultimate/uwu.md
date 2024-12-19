@@ -36,7 +36,7 @@ UWU has multiple Toolboxes and each are listed here in order of phases in the fi
 [Annihilation](https://ff14.toolboxgaming.space/?id=930637786646261&preview=1){: .btn .btn-blue }
 [Suppression](https://ff14.toolboxgaming.space/?id=192261294862561&preview=1){: .btn .btn-blue }
 
-### PoV Videos
+### PoVs
 by Kur Rumi
 
 [DPS (D4)](https://www.youtube.com/watch?v=tD4w2xntOaI){: .btn }
