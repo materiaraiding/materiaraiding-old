@@ -10,6 +10,7 @@ image: eden.webp
 nav_order: 6
 longtitle: Future's Rewritten (Ultimate)
 ---
+
 ### Credits
 {: .no_toc }
 
@@ -507,6 +508,7 @@ Shiva must be brought below 20% health before she finishes casting her enrage:
 
 ### Absolute Zero
 {: .no_toc }
+
 ---
 
 ## Intermission
