@@ -64,6 +64,44 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include raidplan.html title="P5 - Polarizing Strikes" link="https://raidplan.io/plan/ca2GGs51v5uKGpz1" %}
 ---
 
+### Strat Summary
+Quick summary of strats for MUR:
+
+```
+Base Spreads:
+D3 MT D4
+H1 *  ST
+D1 H2 D2
+
+P1: Tether 1 LP1 north/LP2 south | TMRH swap prio
+
+P2: DD Colour Partners
+Mirror Mirror: Supports Far | DPS Close
+4:4 LR North H1H2MTST
+       South D3D4D1D2
+
+P3: LP Apoc (non-fixed spreads): H1D3D1MTSTD2D4H2 Prio
+
+P4: Darklit lineup same as LR but intercard pairs
+North H1H2 MTST
+South D3D4 D1D2
+Hourglass = Left DPS+Tank Swap - Box = Right DPS+Tank Swap
+Tank invuln Somber, invuln prio WAR>DRK>GNB NO PLD
+LP1 North LP2 South Akh Morn
+
+P4: CT Red Debuff Lineup: H1D3D1MTSTD2D4H2 Prio
+Fast Dragons
+STACK - B
+WATER - 3
+DARK - D
+ICE - 4
+
+P5: Polarizing Swap Order: TMRH
+```
+
+
+---
+
 ### Video Guides
 
 #### Phase 1
