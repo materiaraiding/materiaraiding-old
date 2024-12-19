@@ -65,9 +65,8 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 #### Phase 5
 {: .no_toc }
 {% include raidplan.html title="P5 - Fulgent Blade (Exas)" link="https://raidplan.io/plan/xE5dM62WDf6sYUYf" %}
-{% include raidplan.html title="P5 - Wings & Towers" link="https://docs.google.com/presentation/d/1SLQpfdSyldjtzbe7hXUCOufRZ8DeYFEJwSS6C1iRBrI" %}
-
-
+{% include raidplan.html title="P5 - Wings & Towers" link="https://raidplan.io/plan/Bf91HcD3ckk_S-Lw" %}
+{% include raidplan.html title="P5 - Polarizing Strikes" link="https://raidplan.io/plan/ca2GGs51v5uKGpz1" %}
 ---
 
 ### Video Guides
@@ -796,9 +795,11 @@ Work in Progress
 
 ## Phase 5
 
-post exa lines akh morns, h1 left h2 right looking at boss relative
+{% include raidplan.html title="P5 - Fulgent Blade (Exas)" link="https://raidplan.io/plan/xE5dM62WDf6sYUYf" %}
 
-{% include raidplan.html title="P5 - Wings & Towers" link="https://docs.google.com/presentation/d/1SLQpfdSyldjtzbe7hXUCOufRZ8DeYFEJwSS6C1iRBrI" %}
+{% include raidplan.html title="P5 - Wings & Towers" link="https://raidplan.io/plan/Bf91HcD3ckk_S-Lw" %}
+
+{% include raidplan.html title="P5 - Polarizing Strikes" link="https://raidplan.io/plan/ca2GGs51v5uKGpz1" %}
 
 line stacks - swap order TMRH (edited)
 
