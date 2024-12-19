@@ -18,12 +18,7 @@ discussionlink: https://discord.com/channels/944115415385247784/1303228301015384
 > Help us build this guide by contributing on [Github](https://github.com/materiaraiding/materiaraiding/edit/main/_ultimate/fru.md)
 
 {: .recentchanges }
-> - 10/12/24: Changed Phase 1 Tether 1 flex prio to TMRH (was MTRH)
-> - 10/12/24: Changed 4/4 lineup order to match other datacenters
-> - 10/12/24: Added Bonus Apoc raidplan for reading safespots
-> - 10/12/24: Changed primary Diamond Dust strat to Color Partners (was Relative North)
-> - 10/12/24: Changed primary Light Rampant strat to 4:4 (was AB1234)
-> - 10/12/24: Updated Darklit starting prio to H1H2MTST to match 4:4 LR
+> - 19/12/24: Added P5 resources
 
 ### Credits
 {: .no_toc }
