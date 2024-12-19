@@ -64,8 +64,10 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include raidplan.html title="P4 - Crystallize Time" link="https://raidplan.io/plan/GIXItxnLI2MJma73" %}
 #### Phase 5
 {: .no_toc }
-More coming soon...
+{% include raidplan.html title="P5 - Fulgent Blade (Exas)" link="https://raidplan.io/plan/xE5dM62WDf6sYUYf" %}
 {% include raidplan.html title="P5 - Wings & Towers" link="https://docs.google.com/presentation/d/1SLQpfdSyldjtzbe7hXUCOufRZ8DeYFEJwSS6C1iRBrI" %}
+
+
 ---
 
 ### Video Guides
