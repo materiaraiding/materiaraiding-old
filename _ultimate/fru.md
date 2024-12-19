@@ -10,6 +10,15 @@ image: eden.webp
 nav_order: 6
 longtitle: Future's Rewritten (Ultimate)
 ---
+### Credits
+
+{: .no_toc }
+
+- Written guide by Juno
+- Diagrams by Juno, Em, Pipiro, Kobe, MUR, Ellie
+- Mit Plan by Ikuya Kirishima
+- Video Guides by Kobe, Pham
+
 {: .warning }
 
 > This guide will be written using prog strats and is mainly an explanation of how mechanics work and their failure conditions.
@@ -20,15 +29,6 @@ longtitle: Future's Rewritten (Ultimate)
 {: .recentchanges }
 
 > - 19/12/24: Added P5 resources
-
-### Credits
-
-{: .no_toc }
-
-- Written guide by Juno
-- Diagrams by Juno, Em, Pipiro, Kobe, MUR, Ellie
-- Mit Plan by Ikuya Kirishima
-- Video Guides by Kobe, Pham
 
 ### Table of Contents
 
