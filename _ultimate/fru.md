@@ -11,7 +11,6 @@ nav_order: 6
 longtitle: Future's Rewritten (Ultimate)
 ---
 ### Credits
-
 {: .no_toc }
 
 - Written guide by Juno
@@ -31,7 +30,6 @@ longtitle: Future's Rewritten (Ultimate)
 > - 19/12/24: Added P5 resources
 
 ### Table of Contents
-
 {: .no_toc }
 
 1. TOC
@@ -43,14 +41,12 @@ longtitle: Future's Rewritten (Ultimate)
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
 #### Phase 1
-
 {: .no_toc }
 {% include raidplan.html title="P1 - Proteans & Utopian Sky" link="https://raidplan.io/plan/WlRr-qtrUTEPiaJZ" %}
 {% include raidplan.html title="P1 - Tethers 2 East/West" link="https://raidplan.io/plan/TOsL-pQk0vGJXBS7" %}
 {% include raidplan.html title="P1 - Towers - Static" link="https://raidplan.io/plan/Gfbp6n3NgBHgNqI1" %}
 
 #### Phase 2
-
 {: .no_toc }
 {% include raidplan.html title="P2 - Diamond Dust - Color Partners" link="https://raidplan.io/plan/PPYgcTqAr4DXZE50" %}
 {% include raidplan.html title="P2 - Diamond Dust - Relative North - Old Strat" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
@@ -60,19 +56,16 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include raidplan.html title="P2 - Light Rampant - AB1234 - Old Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
 
 #### Phase 3
-
 {: .no_toc }
 {% include raidplan.html title="P3 - Ultimate Relativity" link="https://raidplan.io/plan/oYnDQe4ZbVaoxA5r" %}
 {% include raidplan.html title="P3 - Apocalypse - LP Prio" link="https://raidplan.io/plan/LZwXKA645GGmjEO2" %}
 
 #### Phase 4
-
 {: .no_toc }
 {% include raidplan.html title="P4 - Darklit Dragonsong" link="https://raidplan.io/plan/pcrbL0iqrAYMKFV3" %}
 {% include raidplan.html title="P4 - Crystallize Time" link="https://raidplan.io/plan/GIXItxnLI2MJma73" %}
 
 #### Phase 5
-
 {: .no_toc }
 {% include raidplan.html title="P5 - Fulgent Blade (Exas)" link="https://raidplan.io/plan/xE5dM62WDf6sYUYf" %}
 {% include raidplan.html title="P5 - Wings & Towers" link="https://raidplan.io/plan/Bf91HcD3ckk_S-Lw" %}
@@ -120,18 +113,15 @@ P5: Polarizing Swap Order: TMRH
 ### Video Guides
 
 #### Phase 1
-
 {: .no_toc }
 {% include videoembed.html videoid="4p2K2u8aloU" %}
 
 #### Phase 2
-
 {: .no_toc }
 {% include videoembed.html videoid="YYs2D0-n_oM" %}
 {% include videoembed.html videoid="B_-7MUa4ULY" %}
 
 #### Phase 3
-
 {: .no_toc }
 {% include videoembed.html videoid="QZzuMStV26U" %}
 
@@ -157,7 +147,7 @@ These can be imported using an XIV Launcher Plugin.
 {"Name":"cardinal exalines, intercard dragon & rewinds 1A","MapID":1006,"A":{"X":100.0,"Y":0.0,"Z":93.0,"ID":0,"Active":true},"B":{"X":107.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":107.0,"ID":2,"Active":true},"D":{"X":93.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":91.575,"Y":0.0,"Z":91.575,"ID":4,"Active":true},"Two":{"X":108.425,"Y":0.0,"Z":91.575,"ID":5,"Active":true},"Three":{"X":108.425,"Y":0.0,"Z":108.425,"ID":6,"Active":true},"Four":{"X":91.575,"Y":0.0,"Z":108.425,"ID":7,"Active":true}}
 ```
 
-{% include image.html width="300px" path="fruwaymarks.webp" %}
+{% include image.html width="300px" path="/assets/images/fruwaymarks.webp" %}
 
 ---
 
@@ -182,15 +172,15 @@ Lightning **Burnt Strike**
 After a few heavy hitting auto attacks, Fatebreaker will cast **Cyclonic Break** which will target each player with proteans.
 These proteans will repeat in the position they are baited, and then alternate to the previous safe spot twice.
 
-{% include image.html width="500px" path="390189825-cfc624e3-a416-4927-9e3d-5c3b5c22e9c1.webp" %}
+{% include image.html width="500px" path="/assets/images/390189825-cfc624e3-a416-4927-9e3d-5c3b5c22e9c1.webp" %}
 
 For **Fire Aspected** Cyclonic Break, each player will rotate into a pair stack, then alternating between proteans.
 
-{% include image.html width="500px" path="390189848-7b066a72-4327-49b0-ab88-39129b02f892.webp" %}
+{% include image.html width="500px" path="/assets/images/390189848-7b066a72-4327-49b0-ab88-39129b02f892.webp" %}
 
 For **Lightning Aspected** Cyclonic Break each player will move into the same proteans but with ranged behind the melee for spreads, then alternate between proteans.
 
-{% include image.html width="500px" path="390189871-24ec7b38-c181-4c25-bdba-dded10d78b65.webp" %}
+{% include image.html width="500px" path="/assets/images/390189871-24ec7b38-c181-4c25-bdba-dded10d78b65.webp" %}
 
 After this resolves, Fatebreaker will cast **Powder Mark Trail**, hitting the MT with a heavy tankbuster and marking them with a 15s debuff of the same name.
 
@@ -204,7 +194,7 @@ This mechanic can be Fire or Lightning aspected. Fire will result in 2 light par
 
 Fatebreaker will go untargetable and jump away as fog fills the arena. Party members will spread to the wall in protean positions with ST and D4 swapped. ST and MT will resolve their Powder Mark by moving slightly closer together at the wall.
 
-{% include image.html width="500px" path="390190034-9bfeb30f-c39a-4031-affe-178f028a58c1.webp" %}
+{% include image.html width="500px" path="/assets/images/390190034-9bfeb30f-c39a-4031-affe-178f028a58c1.webp" %}
 
 Clones will spawn on each cardinal and intercardinal but can only be seen when standing next to them. As such all players will walk to the wall within their respective protean position.
 
@@ -214,7 +204,7 @@ Because only the players who are next to these clones can see them, if a player 
 
 If the person opposite you walks in, **you must walk in as well, even if your clone has a lowered arm**.
 
-{% include image.html width="500px" path="Slide14.webp" %}
+{% include image.html width="500px" path="/assets/images/Slide14.webp" %}
 
 This will result in 2 people remaining on the wall and subsequently form a small triangular safe spot. 
 
@@ -225,8 +215,8 @@ Light party 2 will take any safe spot from NE - S
 After arriving at the safespot, the party will either stack or spread. The spread can be seen in the image below. 
 The DPS can move 3.5 notches from the star on the arena edge to determine a safe distance from the healer.
 
-{% include image.html width="500px" path="Slide17.webp" %}
-{% include image.html width="500px" path="Slide18.webp" %}
+{% include image.html width="500px" path="/assets/images/Slide17.webp" %}
+{% include image.html width="500px" path="/assets/images/Slide18.webp" %}
 
 ### Tethers 1
 
@@ -244,7 +234,7 @@ Light party 1 will move slightly to the north, and Light party 2 will move sligh
 
 Using the knock back from Burnt Strike, each party will be knocked North-East/West and South-East/West depending on where the safespot is.
 
-{% include image.html width="500px" path="Slide27.webp" %}
+{% include image.html width="500px" path="/assets/images/Slide27.webp" %}
 
 If these light parties are not an even 4/4 split, players will be hit with a heavy damage down.
 
@@ -280,8 +270,8 @@ As the tethers begin to resolve, players need to pay attention to whether it is 
 
 Once a tether goes off on each side, the tethered players should swap positions.
 
-{% include image.html width="500px" path="tether2.webp" %}
-{% include image.html width="500px" path="Slide43.webp" %}
+{% include image.html width="500px" path="/assets/images/tether2.webp" %}
+{% include image.html width="500px" path="/assets/images/Slide43.webp" %}
 
 After another **Burnished Glory**, Fatebreaker will do another **Powder Mark** {% include status.html name="Powder Mark" %} tankbuster before casting the final mechanic:
 
@@ -299,15 +289,15 @@ If Burnt Strike is Fire Aspected, players will ride the knockback into their res
 
 If Burnt Strike is Lightning Aspected, players can simply step out into their tower immediately.
 
-{% include image.html width="500px" path="Slide61.webp" %}
+{% include image.html width="500px" path="/assets/images/Slide61.webp" %}
 
 Whilst this is happening, the tanks will be utilising the opposite half of the arena to resolve their **Powder Mark** debuff in the same manner as the previous tankbusters.
 
 Finally, Fatebreaker will cast his enrage:
 
 ### Burnished Glory
-
 {: .no_toc }
+
 ---
 
 ## Phase 2: Usurper of Frost (Shiva)
@@ -345,7 +335,6 @@ Shiva will then cast 1 of 2 abilities:
 Because the AOEs are role based we split into ranged/melee partners for the following resolutions:
 
 ### Axe Kick
-
 {: .no_toc }
 
 For Axe Kick, Shiva will begin by shouting **"Cleave"**. Players will find relative North and immediately move out to their positions as shown in the image below. 
@@ -353,7 +342,6 @@ For Axe Kick, Shiva will begin by shouting **"Cleave"**. Players will find relat
 The non-AOE players will stand just outside the outer ring on the arena floor to bait out proximity based protean AOEs. Leaning slightly towards the relative cardinal marker may help with clipping the AOE player. Meanwhile, AOE players should move as far out as they can and place their AOEs on intercardinals.
 
 ### Scythe Kick
-
 {: .no_toc }
 
 For Scythe Kick, Shiva will begin by shouting **"Reap"**. Players will find relative North and immediately move out to their positions as shown in the image below. 
@@ -430,7 +418,7 @@ As this cast goes off, 4 proximity based AOEs will launch at the players closest
 
 The lineup for these AOEs can be seen below:
 
-{% include image.html width="500px" path="MM1.webp" %}
+{% include image.html width="500px" path="/assets/images/MM1.webp" %}
 
 Immediately after, the MT will pull the boss to the closest red mirror to the boss, and the ranged will move to the closest red mirror to the blue mirror, and everyone will spread for another Scythe Kick + Protean combo.
 
@@ -442,11 +430,11 @@ After this mechanic resolves the mirrors will despawn and Shiva will cast **Bani
 
 If this halo has **1 orb**, the party must group up in pairs as seen in the image below:
 
-{% include image.html width="500px" path="BANISHPARTNERS.webp" %}
+{% include image.html width="500px" path="/assets/images/BANISHPARTNERS.webp" %}
 
 If this halo has **4 orbs**, the party must spread as seen in the image below:
 
-{% include image.html width="500px" path="BANISHSPREAD.webp" %}
+{% include image.html width="500px" path="/assets/images/BANISHSPREAD.webp" %}
 
 Shiva will then cast:
 
@@ -458,7 +446,7 @@ Shiva will then cast:
   
 Shiva will go untargetable, and the party should line up as seen in the image below, with DPS south and Supports north. Shortly after the cast finishes, 6 players will be tethered together with 2 of them having large white orbs above their heads, signifying they are being targeted for a light party stack later.
   
-{% include image.html width="500px" path="LR1.webp" %}
+{% include image.html width="500px" path="/assets/images/LR1.webp" %}
   
 These tethers will explode if the distance between two players is too short, so they must be stretched to an adequate distance (close to 80-90% of the arena length) to satisfy the mechanic.
 The 2 remaining players will be targeted with AOEs marks similar to the puddles in Stillness/Silence.
@@ -466,12 +454,12 @@ At the same time, 6 towers will appear around the arena.
   
 Players must quickly form a hexagon shape, using the 3 North waymarks and the 3 South waymarks. Some players (D1/H2) may have to walk to the opposite cardinal to form the hexagon.
   
-{% include image.html width="500px" path="LR2.webp" %}
+{% include image.html width="500px" path="/assets/images/LR2.webp" %}
   
 The N/S players will then swap positions, and the NE/NW players will also swap positions. All the tether players will then quickly spread out to the tower on their cardinal/intercardinal.
   
-{% include image.html width="500px" path="LR3.webp" %}
-{% include image.html width="500px" path="LR4.webp" %}
+{% include image.html width="500px" path="/assets/images/LR3.webp" %}
+{% include image.html width="500px" path="/assets/images/LR4.webp" %}
   
 The 2 AOE players will start in the inner ring on the Arena at N/S and rotate CW to drop 5 puddle AOES each.
 After resolving the towers, Northern and Southern tether players should group up at North and South respectively. Each AOE player should also join a separate light party after they drop their puddles.
@@ -495,7 +483,7 @@ The 2 orbs in the circle will be labelled A and B, and every non-orb tether play
 
 Using these labels, we can assign a tower for each player:
 
-{% include image.html width="500px" path="AB1234.webp" %}
+{% include image.html width="500px" path="/assets/images/AB1234.webp" %}
 
 To determine which orb is A, look at the tether players clockwise from yourself until you hit an orb. 
 
@@ -518,7 +506,6 @@ This is immediately followed by another **Banish 3**, and **House of Light**, wh
 Shiva must be brought below 20% health before she finishes casting her enrage:
 
 ### Absolute Zero
-
 {: .no_toc }
 ---
 
@@ -526,7 +513,7 @@ Shiva must be brought below 20% health before she finishes casting her enrage:
 
 All players will spread as seen in the image below and close to the centre of the arena, as there will be a short ranged knock back.
 
-{% include image.html width="400px" path="fruintermission.webp" %}
+{% include image.html width="400px" path="/assets/images/fruintermission.webp" %}
 
 Ryne will become frozen in an **Ice Veil** in the centre of the arena, and 8 Crystals will spawn around the arena. 
 
@@ -631,13 +618,13 @@ Once the cast bar goes off players will find Relative North. For this example I 
 
 DPS will look at their party list to determine which spread they are taking, in the priority D3-D1-D2-D4 looking at relative North. Supports will do the same with the priority H1 MT ST H2. 
 
-{% include image.html width="500px" path="392383199-65792737-0d86-4540-8169-1385a5a92d4f.webp" %}
+{% include image.html width="500px" path="/assets/images/392383199-65792737-0d86-4540-8169-1385a5a92d4f.webp" %}
 
 Any DPS with a **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will use their priority take the SW and SE traffic lights. 
 
 Any Support with a **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will use their priority and take the NW and NE traffic lights.
 
-{% include image.html width="500px" path="391797261-35406216-91d9-490e-96f2-5335d159e6aa.webp" %}
+{% include image.html width="500px" path="/assets/images/391797261-35406216-91d9-490e-96f2-5335d159e6aa.webp" %}
 
 An example of this would be if I'm D1 and both D4 and myself get a 10s Fire, the D4 would take SE and I would take SW.
 
@@ -653,7 +640,7 @@ And finally, either: A Support with the **10s Fire Debuff{% include status.html 
 
 This will leave the spreads looking something like this:
 
-{% include image.html width="500px" path="plan (10).webp" %}
+{% include image.html width="500px" path="/assets/images/plan (10).webp" %}
 
 Here is a timeline of events:
 
@@ -677,17 +664,17 @@ Rewind will pull everyone back to their recorded position and the **Water Stack{
 
 The following cheatsheets can help summarize the process of events through this mech, these can be useful to help with learning positions: 
 
-{% include image.html width="400px" path="URDPS.webp" %}
-{% include image.html width="400px" path="URSUPP.webp" %}
+{% include image.html width="400px" path="/assets/images/URDPS.webp" %}
+{% include image.html width="400px" path="/assets/images/URSUPP.webp" %}
 
 <details markdown=1>
 <summary>Flipped Version</summary>
 Images flipped upside down if you prefer looking at it this way. The strat is exactly the same and compatible with the images above. 
 
-{% include image.html width="400px" path="URflippedDPS.webp" %}
-{% include image.html width="400px" path="URflippedSUPP.webp" %}
+{% include image.html width="400px" path="/assets/images/URflippedDPS.webp" %}
+{% include image.html width="400px" path="/assets/images/URflippedSUPP.webp" %}
 
-{% include image.html width="400px" path="URcheatsheet.webp" %}
+{% include image.html width="400px" path="/assets/images/URcheatsheet.webp" %}
 
 </details>
 
@@ -726,7 +713,7 @@ Each Light Party will then spread for a **Spirit Taker** AOE on a random player,
 
 Once the safespot is identified, each party will move into it and spread out using the aforementioned "square" spread.
 
-{% include image.html width="500px" path="apocspread.webp" %}
+{% include image.html width="500px" path="/assets/images/apocspread.webp" %}
 
 {: .note }
 
@@ -757,7 +744,6 @@ Shortly after this knockback the **3rd and final stack** resolves.
 After another **Shockwave Pulsar**, Gaia must be damaged below 20% HP before she casts her enrage:
 
 ### Memory's End
-
 {: .no_toc }
 
 ## Phase 4: Enter the Dragon (AKA Ryne & Gaia)

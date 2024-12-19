@@ -92,11 +92,11 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 ### Cheatsheets
 *Updated as of 13/08/24*
 
-{% include image.html width="400px" path="m4s1.webp" %}
+{% include image.html width="400px" path="/assets/images/m4s1.webp" %}
 
-{% include image.html width="400px" path="m4s2.webp" %}
+{% include image.html width="400px" path="/assets/images/m4s2.webp" %}
 
-{% include image.html width="400px" path="m4s3.webp" %}
+{% include image.html width="400px" path="/assets/images/m4s3.webp" %}
 
 <details markdown=1>
 <summary>Recent Changes</summary>
@@ -124,7 +124,7 @@ A B C D are exactly on the middle of in/out dodges for witch hunt
 {"Name":"M4S OCE","MapID":992,"A":{"X":93.125,"Y":0.001,"Z":93.125,"ID":0,"Active":true},"B":{"X":106.875,"Y":0.001,"Z":93.125,"ID":1,"Active":true},"C":{"X":106.875,"Y":0.0,"Z":106.875,"ID":2,"Active":true},"D":{"X":93.125,"Y":0.0,"Z":106.875,"ID":3,"Active":true},"One":{"X":90.8,"Y":0.0,"Z":155.8,"ID":4,"Active":true},"Two":{"X":109.2,"Y":0.0,"Z":155.8,"ID":5,"Active":true},"Three":{"X":109.2,"Y":0.0,"Z":174.2,"ID":6,"Active":true},"Four":{"X":90.8,"Y":0.001,"Z":174.2,"ID":7,"Active":true}}
 ```
 
-{% include image.html width="400px" path="354851355-0adaf5f6-87a1-4e0a-84a4-5586706feadb.webp" %}
+{% include image.html width="400px" path="/assets/images/354851355-0adaf5f6-87a1-4e0a-84a4-5586706feadb.webp" %}
 
 ## Written Guide
 By Pipiro Piro
@@ -242,7 +242,7 @@ The half room cleave and exploding cubes will render a single quadrant safe in w
 {: .warning }
 These spread AOEs are very big. Melees should ensure they are max melee from the boss in order to avoid clipping the MT. The ST may need to take a GCD of downtime to do the same.
 
-{% include image.html path="355695086-2a53392f-6ada-4c71-ba6c-176c5d4a4f4d.webp" %}
+{% include image.html path="/assets/images/355695086-2a53392f-6ada-4c71-ba6c-176c5d4a4f4d.webp" %}
 
 Wicked Thunder immediately follows this with Wicked Jolt, a hard-hitting line tankbuster that inflicts Magic Vulnerability Up for 5s, forcing either a tankswap or a tank invuln.
 
@@ -261,22 +261,22 @@ The number of times a player is hit while the debuff is active indicates the siz
 
 The boss will now cast **Lightning Cage** spawning the following grid pattern on the floor. This pattern is **always the same** but can spawn in any orientation. Here, we will take the square at the base of the ‘T’ as the new **relative south** for this mechanic. 
 
-{% include image.html path="356537018-9e7010d4-dcb3-45c9-a1ad-92317996ab32.webp" %}
+{% include image.html path="/assets/images/356537018-9e7010d4-dcb3-45c9-a1ad-92317996ab32.webp" %}
 
 To resolve this mechanic, the **LONG** players need to stack on the safe spot at south. **SHORT** players need to head to their respective spots based on the number of times they were hit. To make this easier, we have the 3 hits go **far** to the corners and the 2 hits **close**, against the south set of AOEs at the wall. Supports will always go to the left and DPS will always go to the right, facing **relative north**. See the macro/cheatsheet for these exact spots.
 
-{% include image.html path="356537183-80f158da-52f6-42c3-ba33-d94f538448ac.webp" %}
+{% include image.html path="/assets/images/356537183-80f158da-52f6-42c3-ba33-d94f538448ac.webp" %}
 
 {: .note }
 LONG players should add one to the number of times they are hit as the upcoming spread/stack mechanic will count as damage taken while the debuff is active. As such long 2 hit players will be going far and long 1 hit players will be going short. This is important for the upcoming mechanic if it is stack.
 
 Wicked Thunder will start casting Sideways Spark again, telegraphing a half room cleave. At the same time either 8 small orbs or 4 large orbs will be telegraphed on her body indicating either a spread (Eight Star) or pair stacks (Four Star) respectively. If it is spreads, players can go to their assigned positions and let the mechanic resolve.
 
-{% include image.html path="356537348-1a0cef71-c50a-4bc1-a873-ab3d40e0970a.webp" %}
+{% include image.html path="/assets/images/356537348-1a0cef71-c50a-4bc1-a873-ab3d40e0970a.webp" %}
 
 If it is pairs, the pair stacks will target the long players meaning regular pair stacks cannot be used. Instead, static pair stack positions are assigned based on whether players were far or close as this guarantees a short and long player will be stacked. 
 
-{% include image.html path="356537403-387ecb2e-cada-428e-8cb4-437d2731731c.webp" %}
+{% include image.html path="/assets/images/356537403-387ecb2e-cada-428e-8cb4-437d2731731c.webp" %}
 
 Following this, the boss will spawn the Lightning Cage grid pattern on the floor again, potentially in a different orientation. To resolve this, have the short players move to the safe square south and have long players resolve their debuffs in the same way as before. 
 
@@ -305,7 +305,7 @@ Each source of damage from these debuffs applies a short 2s Magic Vulnerability 
 
 While this mechanic sounds complicated, resolving it is fairly simple. Following each cannon hit, identify which debuff you have and stand in the correct position according to the cheatsheet.
 
-{% include image.html path="356537774-fd2c3662-42f3-49c8-bdda-76e6c568682f.webp" %}
+{% include image.html path="/assets/images/356537774-fd2c3662-42f3-49c8-bdda-76e6c568682f.webp" %}
 
 {: .note }
 There are several floor markings which can be used to help you position yourself. Additionally, Spinning/Roundhouse Conductor players will all have the same buff and stand in the same spots regardless of which debuff they receive. The same applies to players with Remote/Proximate Current.
@@ -318,11 +318,11 @@ Ion Cluster is an incredibly hard-hitting set of mechanics requiring a fairly so
 ### Transition
 Wicked Thunder will cast Electrope Transplant, beginning the transition phase. Transition is a fast-paced phase that while mechanically simple, is quite execution heavy. She will be facing south this entire phase. As such, new spread spots are assigned for this entire phase. 
 
-{% include image.html path="356538081-d758ee8c-94fa-488d-b801-f238d39a861b.webp" %}
+{% include image.html path="/assets/images/356538081-d758ee8c-94fa-488d-b801-f238d39a861b.webp" %}
 
 Wicked Thunder begins by telegraphing narrow proteans targeted at the cardinals and intercardinals. She will cleave these proteans before cleaving the safe spots. This will alternate back and forth, however only the initial cleave is telegraphed, each subsequent cleave is untelegraphed. 
 
-{% include image.html path="356538141-f9aaf815-e02d-4c4c-b45b-a870614a0887.webp" %}
+{% include image.html path="/assets/images/356538141-f9aaf815-e02d-4c4c-b45b-a870614a0887.webp" %}
 
 All players want to be fairly spread while doing these dodges. To ensure this, every pair should be dodging these cleaves in the same manner. To resolve this, start at the safe spot directly clockwise of your assigned waymark with your partner - melees should be close to the boss at max melee while ranged should be further out. Rotate counterclockwise into the marker, dodge the cleave and then rotate clockwise back into the initial safe spot. Rinse and repeat. 
 

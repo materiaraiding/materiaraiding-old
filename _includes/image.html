@@ -2,7 +2,7 @@
 {% if include.path contains "https://" %}
 {% assign imagepath = include.path %}
 {% else %}
-{% assign imagepath = site.baseurl | append: "/assets/images/" | append: include.path %}
+{% assign imagepath = site.baseurl | append: include.path %}
 {% endif %}
 
 

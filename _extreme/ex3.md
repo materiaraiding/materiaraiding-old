@@ -43,11 +43,11 @@ D　　 B
 4　C　3
 
 
-{% include image.html width="500px" path="385579661-2efb5d1b-ce8b-4b4b-8a3c-e03fdadc3ab7.webp" %}
+{% include image.html width="500px" path="/assets/images/385579661-2efb5d1b-ce8b-4b4b-8a3c-e03fdadc3ab7.webp" %}
 
-{% include image.html width="500px" path="386823679-eeb5d19d-deea-44b0-8b1c-ffc011018489.webp" %}
+{% include image.html width="500px" path="/assets/images/386823679-eeb5d19d-deea-44b0-8b1c-ffc011018489.webp" %}
 
-{% include image.html width="500px" path="386823681-307c6049-9f41-44f3-9f03-f114ca69e90b.webp" %}
+{% include image.html width="500px" path="/assets/images/386823681-307c6049-9f41-44f3-9f03-f114ca69e90b.webp" %}
 
 
 ## Waymarks
@@ -56,5 +56,5 @@ For import with Waymark Addon
 
 ```{"Name":"EX3 OCE","MapID":1017,"A":{"X":100.0,"Y":0.0,"Z":81.5,"ID":0,"Active":true},"B":{"X":118.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.5,"ID":2,"Active":true},"D":{"X":81.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":81.5,"Y":0.0,"Z":81.5,"ID":4,"Active":true},"Two":{"X":118.5,"Y":0.0,"Z":81.5,"ID":5,"Active":true},"Three":{"X":118.5,"Y":0.0,"Z":118.5,"ID":6,"Active":true},"Four":{"X":81.5,"Y":0.0,"Z":118.5,"ID":7,"Active":true}}```
 
-{% include image.html width="400px" path="386823661-8dfee9b4-8e99-4e1d-96f2-31bd1b076421.webp" %}
+{% include image.html width="400px" path="/assets/images/386823661-8dfee9b4-8e99-4e1d-96f2-31bd1b076421.webp" %}
 

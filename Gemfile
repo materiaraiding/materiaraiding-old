@@ -10,6 +10,7 @@ group :jekyll_plugins do
    gem 'jekyll-glossary_tooltip', '~> 1.5'
    gem 'jekyll-sitemap'
    gem 'jekyll-seo-tag'
+   gem 'jekyll_img'
 end
 
 gem "webrick", "~> 1.8"

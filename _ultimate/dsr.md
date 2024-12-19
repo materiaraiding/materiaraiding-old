@@ -128,7 +128,7 @@ SGE/WHM:
 
 ### Cheatsheet
 
-{% include image.html width="400px" path="dsrcheatsheet.webp" %}
+{% include image.html width="400px" path="/assets/images/dsrcheatsheet.webp" %}
 
 ### Buff Timings
 
@@ -207,7 +207,7 @@ These 4 players must spread to the north of Grinnaux at max melee, where they wi
 
 At the same time as the prey markers move north, the remaining party members will stack south of Grinnaux and take a large conal AOE stack that gets baited on a random non-prey player.
 
-{% include image.html path="304296844-dffcadb9-58f8-4526-95ed-f950a5434b09.webp" %}
+{% include image.html path="/assets/images/304296844-dffcadb9-58f8-4526-95ed-f950a5434b09.webp" %}
 
 _Image taken from Tessan Twintails DSR video guide_
 

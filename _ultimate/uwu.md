@@ -341,7 +341,7 @@ The {% glossary OT %} will be tethered to a random DPS - try to stay close to th
 
 Ranged players will split and bait 4 {% glossary Eruptions %} at D3 SW and D4 SE, moving up to hit each nail twice with the AoE's. The explosions will cause the nails to grow - once the nails have been hit twice, destroy them in the following order. Killing a nail that has grown twice gives Ifrit a stack to progress his awakening.
 
-{% include image.html path="nails.webp" %}
+{% include image.html path="/assets/images/nails.webp" %}
 
 {: .healers }
 Non-Searing Wind healer - killing a nail results in raidwide damage that amps up with each nail killed. Stay towards the middle ensure the party is topped up.
@@ -437,11 +437,11 @@ Geocrush is very fast. You MUST watch Titan carefully to work out which cardinal
 
 Once he lands, the party should stack directly in front of Titan. Look behind you to check where the bombs spawn at the back of the room - there are two possible combinations. Titan will knock you back (**cannot be cancelled**) and you must land in the safe spot.
 
-{% include image.html width="700px" path="jails.webp" %}
+{% include image.html width="700px" path="/assets/images/jails.webp" %}
 
 Use the boss target marker as a reference for where to stand - you don't need to move far at all.
 
-{% include image.html width="700px" path="jailsleftright.webp" %}
+{% include image.html width="700px" path="/assets/images/jailsleftright.webp" %}
 
 After the knockback, 3 people will have a yellow ticking circle beneath them, indicating they will be trapped in a gaol. In Party Finder, we generally use the melon to order the gaol players with 1, 2 and 3 markers. Before they are trapped, Titan will use {% glossary Landslides %}, this is baited by a random player so it is imperative that everyone runs down the middle after being knocked back to avoid blocking people's pathing, especially for gaol-afflicted players.
 
@@ -458,7 +458,7 @@ After the knockback, 3 people will have a yellow ticking circle beneath them, in
 {: .important }
 Gaols MUST be positioned in-line with the Waymarks. Generally players can stand towards the middle of the Waymark but to be safe, it is a good idea for (if we treat Titan as relative north): Gaol 3 to be a nudge more towards the northern part of their waymark, and Gaol 1 to be a nudge more towards the southern part of their waymark, so they are both closer a tad to Gaol 2 and ensure the chain explosion lands.
 
-{% include image.html path="jailsfinal.webp" %}
+{% include image.html path="/assets/images/jailsfinal.webp" %}
 
 If all three bombs puddles are correctly overlapping, the puddle left by Gaol 1 will be within Titan's hitbox, giving him stacks to progress his awakening. He will fully awaken by the time the puddles disappear. This will greatly increase the speed of mechanics and change their patterns throughout the rest of the fight.
 
@@ -470,7 +470,7 @@ The party can move up to Titan on the left side of the puddles.
 {: .no_toc }
 The party will now stack on the left side looking at Titan, ready to move for {% glossary Weight of the Land %}. Dodge through Titan and prepare for {% glossary Landslides %}. If awakened, each Landslide set will now be immediately followed by a second set of {% glossary Landslides %} between the first set. 
 
-{% include image.html path="landslides.webp" %}
+{% include image.html path="/assets/images/landslides.webp" %}
 
 Watch for the first set - as soon as you see the Landslide visual disappear, you want to **immediately move into the first set of Landslides** to avoid the second set. This is **VERY** fast.
 
@@ -632,15 +632,15 @@ This mechanic can be very overwhelming but it is simplest to break it down into 
 1. First, look for Garuda who will be off-centre and avoid either cardinal on her side of the room - these are out-of-bounds. 
 2. Run to either of the one or two remaining cardinals that do NOT have Titan on them. Take note of where the Ultima Weapon is, as you will need to avoid them later.
 
-{% include image.html path="313371348-2696d8f8-efe3-4b69-afe4-96114650aee6.webp" %}
+{% include image.html path="/assets/images/313371348-2696d8f8-efe3-4b69-afe4-96114650aee6.webp" %}
 
 3. Wait at the wall. Titan will begin {% glossary Landslides %}, you may need to dodge these near the cardinal.
 4. After the first Landslide, immediately dodge into a clear intercardinal, making sure not to dodge towards the Ultima Weapon.
 5. When dodging into an intercardinal you MUST stop at the wall using the pattern on the outside of the room to stop at the 4th visible rune. See the image below: 
 
-{% include image.html path="313372251-7da1c4c4-1447-4921-ae9a-37f7f22d7827.webp" %}
+{% include image.html path="/assets/images/313372251-7da1c4c4-1447-4921-ae9a-37f7f22d7827.webp" %}
 
-{% include image.html path="313372088-64c362b6-208e-4da5-aa0e-a071e6267540.webp" %}
+{% include image.html path="/assets/images/313372088-64c362b6-208e-4da5-aa0e-a071e6267540.webp" %}
 
 Your final goal is to reach one of several possible safespots. Some of the options are VERY tight so make sure you stay close to the wall and use the runes on the wall to find the safe spot accurately. 
 
@@ -705,7 +705,7 @@ Below is how we resolve all these mechanics, depending on your role.
 > 
 > Once we are all north, wait for Ifrit to dash across through the intercardinal - once he does, immediately run to the 2 Waymark (it is worthwhile to use sprint) to not only avoid **Crimson Cyclone**, but also dodge Titan's double {% glossary Landslides %}. After the **Crimson Cyclone**, run inwards to avoid Garuda's **Eye of the Storm** (donut AoE). Just be on the safe edge and do not run too inwards - tanks will be soaking orbs, and there will be a {% glossary Searing Wind %} healer exploding south. The Ultima Weapon will then cast {% glossary Tank Purge %}. As this goes off, Garuda will also {% glossary Feather Rain %}. Dodge.
 
-{% include image.html width="700px" path="anni.webp" %}
+{% include image.html width="700px" path="/assets/images/anni.webp" %}
 
 ### Active Phase
 {: .no_toc }
@@ -733,7 +733,7 @@ Non-tank players should make their way to their positions that they predetermine
 
 Meanwhile, tanks should stand slightly apart in the middle of the southwest quadrant. Note the Garuda sisters standing behind the D and C Waymarks - your job is to intercept the {% glossary Mistral Song %} they will cast on other players. Below is a screenshot taken from Kur Rumi's OT POV:
 
-{% include image.html width="700px" path="382996515-a7b89d4e-cd72-45fa-9d8d-96efd90b2f20.webp" %}
+{% include image.html width="700px" path="/assets/images/382996515-a7b89d4e-cd72-45fa-9d8d-96efd90b2f20.webp" %}
 
 See how when {% glossary Mistral Song %} affected players stand on the yellow spot, both tanks will successfully intercept the attack - this best describes how and why tanks should stand slightly apart within the southwest quadrant.
 
@@ -752,7 +752,7 @@ When you hear the first {% glossary Feather Rain %}, the 2 {% glossary Mistral S
 
 On the other hand, the remaining player who had nothing (who stood with the {% glossary Mistral Song %} players) will be targeted for **Light Pillar**. For a brief period, they will drop small puddles beneath them that are lethal if hit by. So, once that first {% glossary Feather Rain %} occurs, they will do a clockwise loop around the arena (**WITHOUT GOING TO THE WALL**) to keep these away from the party. By the time they reach the B Waymark, the gaol should be dead and they are safe to rejoin the party.
 
-{% include image.html width="700px" path="supp.webp" %}
+{% include image.html width="700px" path="/assets/images/supp.webp" %}
 
 During all of these mechanics, the Ultima Weapon will be casting **Aetherochemical Lasers** (green rectangular AoEs) from their hitbox. These are not baited by anyone and will be aimed at the boss's front or diagonals, and generally insignificant to dodge.
 
