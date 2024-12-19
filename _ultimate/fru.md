@@ -132,7 +132,7 @@ By Ikuya Kirishima
 
 {: .important }
 > The mit sheets is **NOT** intended to be taken as gospel, but rather a general guideline to how you can set up your CDs through the fight. **Talk with your party** and work out what CD timings you are using together.
-> >
+>
 > [**I understand, take me to the mit sheet**](https://docs.google.com/spreadsheets/d/10ZSxFpqJxcbaswpU_JR9L6nU3PjouNz_GONghM6lw2A/edit?gid=1960553822)
 
 ---
@@ -694,10 +694,7 @@ As 2 or 4 players will be flexing, each player will simply fill the hole in the 
 
 After the **1st Stack** goes off, Gaia will cast **Apocalypse**, and glowing lights along the lines in the floor will begin to move out and rotate around the arena, indicating a safespot for the upcoming AOEs.
 
-These lights will always be 180 degrees from eachother and will both rotate clockwise or counterclockwise.
-
-The safe spot will be **1 waymark back** from the direction they rotated.
-
+These lights will always be 180 degrees from eachother and will both rotate clockwise or counterclockwise. The safe spot will be **1 waymark back** from the direction they rotated. 
 For example: if the lights went to N/S and rotated counterclockwise, the safespot would be NE/SW.
 
 Each Light Party will then spread for a **Spirit Taker** AOE on a random player, and then each Party will go to their corresponding light as they cast from Gaia (using the same positions as Utopian Sky from phase 1).
@@ -789,7 +786,6 @@ Both bosses will move and then cast:
 ### Crystallize Time
 
 {% include raidplan.html title="P4 - Crystallize Time" link="https://raidplan.io/plan/GIXItxnLI2MJma73" %}
-
 {% include videoembed.html videoid="PD6m6SzlxSI" %}
 
 This mechanic is extremely dense and has many minute details that must be taken into consideration. I **highly** recommend watching as many POVs as possible, as well as studying the toolbox in addition to this guide.
@@ -832,7 +828,5 @@ Work in Progress
 ## Phase 5
 
 {% include raidplan.html title="P5 - Fulgent Blade (Exas)" link="https://raidplan.io/plan/xE5dM62WDf6sYUYf" %}
-
 {% include raidplan.html title="P5 - Wings & Towers" link="https://raidplan.io/plan/Bf91HcD3ckk_S-Lw" %}
-
 {% include raidplan.html title="P5 - Polarizing Strikes" link="https://raidplan.io/plan/ca2GGs51v5uKGpz1" %}
