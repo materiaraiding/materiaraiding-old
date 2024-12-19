@@ -3,45 +3,54 @@ layout: guide
 title: FRU
 description: Materia Resources and Guide for Future's Rewritten (Ultimate).
 permalink: /fru
-longtitle: Future's Rewritten (Ultimate)
-nav_order: 6
 expansion: Dawntrail
 difficulty: Ultimate
-image: eden.webp
 discussionlink: https://discord.com/channels/944115415385247784/1303228301015384106
+image: eden.webp
+nav_order: 6
+longtitle: Future's Rewritten (Ultimate)
 ---
-
 {: .warning }
+
 > This guide will be written using prog strats and is mainly an explanation of how mechanics work and their failure conditions.
 > This guide will be updated as strats are standardised in the OCE community, everything is subject to change.
 > 
 > Help us build this guide by contributing on [Github](https://github.com/materiaraiding/materiaraiding/edit/main/_ultimate/fru.md)
 
 {: .recentchanges }
+
 > - 19/12/24: Added P5 resources
 
 ### Credits
+
 {: .no_toc }
+
 - Written guide by Juno
 - Diagrams by Juno, Em, Pipiro, Kobe, MUR, Ellie
 - Mit Plan by Ikuya Kirishima
 - Video Guides by Kobe, Pham
 
 ### Table of Contents
+
 {: .no_toc }
 
 1. TOC
 {:toc}
 ---
+
 ### Toolbox/Raidplan
+
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 
 #### Phase 1
+
 {: .no_toc }
 {% include raidplan.html title="P1 - Proteans & Utopian Sky" link="https://raidplan.io/plan/WlRr-qtrUTEPiaJZ" %}
 {% include raidplan.html title="P1 - Tethers 2 East/West" link="https://raidplan.io/plan/TOsL-pQk0vGJXBS7" %}
 {% include raidplan.html title="P1 - Towers - Static" link="https://raidplan.io/plan/Gfbp6n3NgBHgNqI1" %}
+
 #### Phase 2
+
 {: .no_toc }
 {% include raidplan.html title="P2 - Diamond Dust - Color Partners" link="https://raidplan.io/plan/PPYgcTqAr4DXZE50" %}
 {% include raidplan.html title="P2 - Diamond Dust - Relative North - Old Strat" link="https://raidplan.io/plan/h521rrvlPhF-ajjp" %}
@@ -49,15 +58,21 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 {% include raidplan.html title="P2 - Mirror Mirror" link="https://raidplan.io/plan/gFwpXMjpVgxgcnpi" %}
 {% include raidplan.html title="P2 - Light Rampant - 4/4 Strat" link="https://raidplan.io/plan/pgz322Znkd_Srn8n" %}
 {% include raidplan.html title="P2 - Light Rampant - AB1234 - Old Strat" link="https://raidplan.io/plan/zUEBkOqVo0p5FZW-" %}
+
 #### Phase 3
+
 {: .no_toc }
 {% include raidplan.html title="P3 - Ultimate Relativity" link="https://raidplan.io/plan/oYnDQe4ZbVaoxA5r" %}
 {% include raidplan.html title="P3 - Apocalypse - LP Prio" link="https://raidplan.io/plan/LZwXKA645GGmjEO2" %}
+
 #### Phase 4
+
 {: .no_toc }
 {% include raidplan.html title="P4 - Darklit Dragonsong" link="https://raidplan.io/plan/pcrbL0iqrAYMKFV3" %}
 {% include raidplan.html title="P4 - Crystallize Time" link="https://raidplan.io/plan/GIXItxnLI2MJma73" %}
+
 #### Phase 5
+
 {: .no_toc }
 {% include raidplan.html title="P5 - Fulgent Blade (Exas)" link="https://raidplan.io/plan/xE5dM62WDf6sYUYf" %}
 {% include raidplan.html title="P5 - Wings & Towers" link="https://raidplan.io/plan/Bf91HcD3ckk_S-Lw" %}
@@ -65,6 +80,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 ---
 
 ### Strat Summary
+
 Quick summary of strats for MUR:
 
 ```
@@ -99,37 +115,42 @@ ICE - 4
 P5: Polarizing Swap Order: TMRH
 ```
 
-
 ---
 
 ### Video Guides
 
 #### Phase 1
+
 {: .no_toc }
 {% include videoembed.html videoid="4p2K2u8aloU" %}
 
 #### Phase 2
+
 {: .no_toc }
 {% include videoembed.html videoid="YYs2D0-n_oM" %}
 {% include videoembed.html videoid="B_-7MUa4ULY" %}
 
 #### Phase 3
+
 {: .no_toc }
 {% include videoembed.html videoid="QZzuMStV26U" %}
 
 ---
 
 ### Mitigation Plan
+
 By Ikuya Kirishima
 
 {: .important }
+
 > The mit sheets is **NOT** intended to be taken as gospel, but rather a general guideline to how you can setup your CDs through the fight. **Talk with your party** and work out what CD timings you are using together.
->
+> >
 > [**I understand, take me to the mit sheet**](https://docs.google.com/spreadsheets/d/10ZSxFpqJxcbaswpU_JR9L6nU3PjouNz_GONghM6lw2A/edit?gid=1960553822)
 
 ---
 
 ### Waymarks
+
 These can be imported using an XIV Launcher Plugin.
 
 ```
@@ -254,6 +275,7 @@ The two most west players will move to the west group and the two most east play
 As the tethers begin to resolve, players need to pay attention to whether it is a fire of a lightning tether to be in the correct position.
 
 {: .note }
+
 > Because the tether colour disappears quickly on the first tether, it can be useful to commit this one to memory.
 
 Once a tether goes off on each side, the tethered players should swap positions.
@@ -284,8 +306,10 @@ Whilst this is happening, the tanks will be utilising the opposite half of the a
 Finally, Fatebreaker will cast his enrage:
 
 ### Burnished Glory
+
 {: .no_toc }
 ---
+
 ## Phase 2: Usurper of Frost (Shiva)
 
 Phase 2 begins with a tankbuster **Quadruple Slap**, before starting the first major mechanic:
@@ -321,6 +345,7 @@ Shiva will then cast 1 of 2 abilities:
 Because the AOEs are role based we split into ranged/melee partners for the following resolutions:
 
 ### Axe Kick
+
 {: .no_toc }
 
 For Axe Kick, Shiva will begin by shouting **"Cleave"**. Players will find relative North and immediately move out to their positions as shown in the image below. 
@@ -328,6 +353,7 @@ For Axe Kick, Shiva will begin by shouting **"Cleave"**. Players will find relat
 The non-AOE players will stand just outside the outer ring on the arena floor to bait out proximity based protean AOEs. Leaning slightly towards the relative cardinal marker may help with clipping the AOE player. Meanwhile, AOE players should move as far out as they can and place their AOEs on intercardinals.
 
 ### Scythe Kick
+
 {: .no_toc }
 
 For Scythe Kick, Shiva will begin by shouting **"Reap"**. Players will find relative North and immediately move out to their positions as shown in the image below. 
@@ -337,6 +363,7 @@ The non-AOE players will stand as close as possible to Shiva. It is possible to 
 After dropping their puddles, everyone will quickly rush back to the centre of the arena. Shiva will shortly do a knockback and Light Party 1 will ride this to the relative North as this will be the safespot formed from the AOEs. Light Party 2 will ride this KB to the relative South. 
 
 {: .note }
+
 > Moving slightly closer to the wall after your KB can help alleviate some poor AOE placement.
 
 </details>
@@ -358,6 +385,7 @@ Light parties will always rotate CW along the wall UNLESS the Shiva clone is dir
 After dropping 4 puddles, the Shiva clone (outside the arena) will cast **Redress**, requiring each player to look away less they be stunned. 
 
 {: .note }
+
 > There is a short period where you finish dropping your puddles and can move before the gaze goes off, allowing you to either get behind or directly across from the Shiva clone.
 
 This redress will swap both the real Shiva and the clone, as well as covering the floor with ice.
@@ -375,9 +403,11 @@ OR
 Immediately after she will cast the opposite, requiring players to slide across the arena into the opposite safe spot. 
 
 {: .warning }
+
 > This snapshot for the second cleave is INCREDIBLY unforgiving. I recommend watching your enmity list and sliding the second you see the first cast finish.
 
 {: .note }
+
 > Some patterns may require a Light Party to move faster to get behind Shiva.
 
 Immediately following this Shiva will become targetable, appearing back in the arena's centre and the ice floor will disappear.
@@ -488,8 +518,10 @@ This is immediately followed by another **Banish 3**, and **House of Light**, wh
 Shiva must be brought below 20% health before she finishes casting her enrage:
 
 ### Absolute Zero
+
 {: .no_toc }
 ---
+
 ## Intermission
 
 All players will spread as seen in the image below and close to the centre of the arena, as there will be a short ranged knock back.
@@ -614,6 +646,7 @@ The DPS and Support players with a **20s Fire Debuff{% include status.html name=
 And finally, either: A Support with the **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **20s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go North, and a DPS with the **30s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** or **20s Ice Debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** will go South.
 
 {: .note }
+
 > You do **NOT** need to form a lineup to find your positions, this prio system resolves so that **Ranged and Healers are always static** and **ONLY melee players flex** by looking at one other party member to determine which direction they go. 
 > 
 > For Example: If they have 30s Fire Debuff, ST will always take NE traffic light (balls north relative) **unless** they have the same debuff as H2.
@@ -696,10 +729,11 @@ Once the safespot is identified, each party will move into it and spread out usi
 {% include image.html width="500px" path="apocspread.webp" %}
 
 {: .note }
+
 > The players at the front can keep full melee uptime but must be careful, as the inner exploding AOE is quite large. I recommend breaking max melee and tapping forward until you're just able to hit Gaia.
->
+> >
 > If you are up the front, I would also save **sprint** for the 2nd AOE hit and simply step forward into the center rather than running along the safe cardinal/intercardinal.
->
+> >
 > Both of these can be seen in the video below.
 
 {% include videoembed.html videoid="MvJAh0-uPTY" %}
@@ -709,6 +743,7 @@ The AOEs will then begin to go off as each party spreads. After the 2nd set of A
 As soon as the **2nd stack** resolves a tank must immediately run to the **next available safe spot** to bait **Darkest Dance**, a tankbuster that is baited on the **furthest player away**.
 
 {: .note }
+
 > The tank can simply watch the AOEs rotate as the safespots will always be 180 degrees from eachother. After the stack goes off they can sprint to the next upcoming safespot.
 
 Both parties will follow Gaia to this **new north**, and **keeping the same flexed parties**, Light Party 1 will go slightly West of Gaia, and Light Party 2 will go slightly East of Gaia. 
@@ -722,14 +757,15 @@ Shortly after this knockback the **3rd and final stack** resolves.
 After another **Shockwave Pulsar**, Gaia must be damaged below 20% HP before she casts her enrage:
 
 ### Memory's End
+
 {: .no_toc }
 
 ## Phase 4: Enter the Dragon (AKA Ryne & Gaia)
 
 {: .everyone }
+
 > All players should keep a close eye on both bosses health here. Immediately after the first mechanic is a **hand of pain** style health check. If the health differential is greater than 5% the party will wipe.
 > The boss that is too high HP will be tethered during the **Ahk Morn** cast.
-
 
 Gaia will become untargetable and disappear. Usurper of Frost (Ryne) will then appear **true North/South**, and a memory crystal will appear **true North**. Ryne will always spawn opposite of where Gaia phased previously.
 
@@ -766,6 +802,7 @@ Once the bowtie is formed, the tether players will stand in their towers, and th
 After the towers and AOEs resolve, Gaia will cast **Sprit Taker**, targeting a random player again. All players will roughly spread to resolve this. Immediately after Ryne will cast **Hallowed Wings**, cleaving one half of the arena. The party will shift over into the safespot and take the **Water Stack**.
 
 {: .warning}
+
 > Be extremely careful with placement of Spirit Taker, as if the crystal at North takes any optional damage it will be destroyed and the party will be unable to reach phase 5.
 
 A tank will **immediately** run to **true East** or **true West** (whichever is furthest) to bait out a **Somber Dance** tankbuster, followed by another **Somber Dance** baited on the closest person.
@@ -806,6 +843,7 @@ WATER - 3
 DARK - D
 ICE - 4
 ```
+
 In addition to debuffs going out, 6 Traffic Lights will spawn. The Traffic Lights have two possible spawn iterations, where the mechanic solve is simply flipped horizontally.
 
 With the crystal being true North, 1 **Yellow Tether** will always be North/South and 1 **Purple Tether** will either be North West/South East or North East/South West. These Traffic Lights will blow up in a large circular AOE, the hitbox of which can be seen on the arena floor.
@@ -815,8 +853,6 @@ To break up this mechanic, I'll first write through the resolution for all **Blu
 The assigned **Red Aero** player, and all the **non-Eruption Blue** debuff players will go to the South **Purple Tether**. The **Eruption Blue** debuff player will go to the North **Purple Tether**
 
 After the **Yellow Tether** traffic lights go off, players (including the eruption player) will shift slightly into where the AOE was. Immediately, the **Water, Ice, and Aero** will all go off at once, launching the **Blue** players to the opposite side of the arena, and they will immediately stack with the **Eruption** & **Ice** player of that side to resolve **Unholy Darkness**.
-
-
 
 Work in Progress
 
@@ -828,3 +864,4 @@ Work in Progress
 
 {% include raidplan.html title="P5 - Polarizing Strikes" link="https://raidplan.io/plan/ca2GGs51v5uKGpz1" %}
 
+test
