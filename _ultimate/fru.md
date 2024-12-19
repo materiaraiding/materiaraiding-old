@@ -23,7 +23,7 @@ longtitle: Future's Rewritten (Ultimate)
 > This guide will be written using prog strats and is mainly an explanation of how mechanics work and their failure conditions.
 > This guide will be updated as strats are standardised in the OCE community, everything is subject to change.
 > 
-> Help us build this guide by contributing on [Github](https://github.com/materiaraiding/materiaraiding/edit/main/_ultimate/fru.md)
+> Help us build this guide by contributing on [GitHub](https://github.com/materiaraiding/materiaraiding/edit/main/_ultimate/fru.md)
 
 {: .recentchanges }
 
@@ -38,7 +38,7 @@ longtitle: Future's Rewritten (Ultimate)
 
 ### Toolbox/Raidplan
 
-Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
+Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in an easy-to-understand manner.
 
 #### Phase 1
 {: .no_toc }
@@ -133,7 +133,7 @@ By Ikuya Kirishima
 
 {: .important }
 
-> The mit sheets is **NOT** intended to be taken as gospel, but rather a general guideline to how you can setup your CDs through the fight. **Talk with your party** and work out what CD timings you are using together.
+> The mit sheets is **NOT** intended to be taken as gospel, but rather a general guideline to how you can set up your CDs through the fight. **Talk with your party** and work out what CD timings you are using together.
 > >
 > [**I understand, take me to the mit sheet**](https://docs.google.com/spreadsheets/d/10ZSxFpqJxcbaswpU_JR9L6nU3PjouNz_GONghM6lw2A/edit?gid=1960553822)
 
@@ -250,7 +250,7 @@ Fatebreaker will begin the mechanic by targeting a random player with either a *
 
 3 clones will spawn from NW to NE, each one tethering a new player with Fire/Lightning.
 
-All of the tethers here are randomized. It is entirely possible to get all one colour.
+All the tethers here are randomized. It is entirely possible to get all one colour.
 
 These tethers are slightly different to the previous Bound of Faith mechanics in that **Fire** tethers will launch a large conal light party stack at the nearest player, whilst **Lightning** tethers will launch 3 large conal AOEs on the nearest players.
 
@@ -328,7 +328,7 @@ Shiva will then cast 1 of 2 abilities:
 
 **Axe Kick/Cleave**: Shiva will do a large AOE, reaching to the outside ring of the arena.
 
-**Scythe Kick/Reap**: Shiva will do a small donut AOE, the safespot being halfway between the centre and the inner-most ring.
+**Scythe Kick/Reap**: Shiva will do a small donut AOE, the safespot being halfway between the centre and the innermost ring.
 
 (images for both)
 
@@ -346,7 +346,7 @@ The non-AOE players will stand just outside the outer ring on the arena floor to
 
 For Scythe Kick, Shiva will begin by shouting **"Reap"**. Players will find relative North and immediately move out to their positions as shown in the image below. 
 
-The non-AOE players will stand as close as possible to Shiva. It is possible to use the small diamond shapes on the floor to align yourself. The AOE players **must also** also start extremely close to Shiva as the donut AOE is extremely small (**The inner ring is NOT the safe spot; it is actually about half the diameter of that ring**). After the initial cleave goes off, all the AOE players will quickly move out and place their AOE on the middle ring on the Arena's floor.
+The non-AOE players will stand as close as possible to Shiva. It is possible to use the small diamond shapes on the floor to align yourself. The AOE players **must also** start extremely close to Shiva as the donut AOE is tiny (**The inner ring is NOT the safe spot; it is actually about half the diameter of that ring**). After the initial cleave goes off, all the AOE players will quickly move out and place their AOE on the middle ring on the Arena's floor.
 
 After dropping their puddles, everyone will quickly rush back to the centre of the arena. Shiva will shortly do a knockback and Light Party 1 will ride this to the relative North as this will be the safespot formed from the AOEs. Light Party 2 will ride this KB to the relative South. 
 
@@ -362,7 +362,7 @@ After dropping their puddles, everyone will quickly rush back to the centre of t
 
 Just after the AOEs are dropped, players should identify **where** the clone of Shiva is (she'll be wearing a white outfit instead of Shiva's blueish armour), as this is where **real** Shiva will be later. 
 
-Each light party will be taking stacks that leave a bleed puddle. We want both light parties to leave these puddles in desirable positions, as well as set up each party for favourable movement in the upcoming mechanic.
+Each light party will be taking stacks that leave a bleed puddle. We want both light parties to leave these puddles in desirable positions, and set up each party for favourable movement in the upcoming mechanic.
 
 After identifying the clone:
 
@@ -424,7 +424,7 @@ Immediately after, the MT will pull the boss to the closest red mirror to the bo
 
 In the case that the mirrors spawn: **RED, BLUE, RED**, the melees will move to the first red mirror clockwise of their position. The ranged players will also rotate to the first red mirror clockwise.
 
-All players but specifically the DPS players should be careful with their proteans here. In some patterns it's possible to be 90 degrees from the other red mirror, meaning that the DPS should squeeze closer to the Support player furthest away from the other mirror to ensure no clipping occurs.
+All players but specifically the DPS players should be careful with their proteans here. In some patterns it's possible to be 90 degrees from the other red mirror, meaning that the DPS should squeeze closer to the Support player the furthest away from the other mirror to ensure no clipping occurs.
 
 After this mechanic resolves the mirrors will despawn and Shiva will cast **Banish III**, forming a halo on her head.
 
@@ -612,7 +612,7 @@ These Traffic Lights will spawn baited rotating AOEs that cleave 180(?) degrees 
 
 There are 2 ways you can orient this arena. Either using the lone yellow traffic light as Relative North, or the empty space between the 2 close yellow traffic lights. **Either method works, however if you are using the priority method below, you will have to reverse the prio for **lone yellow north**
 
-All of this sounds incredibly intimidating and complicated, but it can be simplified for each person.
+All of these sounds incredibly intimidating and complicated, but it can be simplified for each person.
 
 Once the cast bar goes off players will find Relative North. For this example I will be using the **2 yellow traffic lights** as North (AKA: **Balls North!**)
 
@@ -626,7 +626,7 @@ Any Support with a **30s Fire Debuff{% include status.html name="Spell-in-Waitin
 
 {% include image.html width="500px" path="/assets/images/391797261-35406216-91d9-490e-96f2-5335d159e6aa.webp" %}
 
-An example of this would be if I'm D1 and both D4 and myself get a 10s Fire, the D4 would take SE and I would take SW.
+An example of this would be if I'm D1 and both D4 and I get a 10s Fire, the D4 would take SE and I would take SW.
 
 The DPS and Support players with a **20s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** will go East (DPS) and West (Supports) respectively.
 
@@ -646,13 +646,13 @@ Here is a timeline of events:
 
 After sorting the starting positions, **10s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** players will step out to take their AOE between their respective Traffic Light and the wall. If you are an **Ice debuff{% include status.html name="Spell-in-Waiting: Dark Blizzard III" %}** stay stacked in middle.
 
-At the same time as fire debuffs are being solved, a **Unholy Darkness{% include status.html name="Spell-in-Waiting: Unholy Darkness" %}** party stack will occur in middle, so players who are not resolving a mechanic should AFK in the center of the arena. 
+At the same time as fire debuffs are being solved, an **Unholy Darkness{% include status.html name="Spell-in-Waiting: Unholy Darkness" %}** party stack will occur in middle, so players who are not resolving a mechanic should AFK in the center of the arena. 
 
 Shortly after, the first set of Traffic Lights will go off. Players can essentially just stare at their Traffic Light until the spinning arrow appears around its base for an indication of when they should step out to bait. At the same time, the 1st set of Rewinds will go off. Players with **Water{% include status.html name="Spell-in-Waiting: Dark Water III" %}/Gaze{% include status.html name="Spell-in-Waiting: Shadoweye" %}** should come close to the center whilst being in line with their Traffic Light, with **Water{% include status.html name="Spell-in-Waiting: Dark Water III" %} standing slightly closer to the center**. 
 
 It is important **Gaze{% include status.html name="Spell-in-Waiting: Shadoweye" %}** players don't stack right on top of eachother as the may accidentally gaze one another later. Players with **Eruption{% include status.html name="Spell-in-Waiting: Dark Eruption" %}** should stand just in front of their Traffic light.
 
-Afterwards **20s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** players will step out to take their AOE. 
+Afterward **20s Fire Debuff{% include status.html name="Spell-in-Waiting: Dark Fire III" %}** players will step out to take their AOE. 
 
 The second set of baits and rewinds will then go off. Use the same prio as before: **Water{% include status.html name="Spell-in-Waiting: Dark Water III" %}/Gaze{% include status.html name="Spell-in-Waiting: Shadoweye" %}** mid, **Eruptions{% include status.html name="Spell-in-Waiting: Dark Eruption" %}** on Traffic Lights. If you have nothing to do just AFK.
 
@@ -703,11 +703,11 @@ As 2 or 4 players will be flexing, each player will simply fill the hole in the 
 
 After the **1st Stack** goes off, Gaia will cast **Apocalypse**, and glowing lights along the lines in the floor will begin to move out and rotate around the arena, indicating a safespot for the upcoming AOEs.
 
-These lights will always be 180 degrees from eachother and will both rotate clockwise or counter clockwise.
+These lights will always be 180 degrees from eachother and will both rotate clockwise or counterclockwise.
 
 The safe spot will be **1 waymark back** from the direction they rotated.
 
-For example: if the lights went to N/S and rotated counter clockwise, the safespot would be NE/SW.
+For example: if the lights went to N/S and rotated counterclockwise, the safespot would be NE/SW.
 
 Each Light Party will then spread for a **Spirit Taker** AOE on a random player, and then each Party will go to their corresponding light as they cast from Gaia (using the same positions as Utopian Sky from phase 1).
 
