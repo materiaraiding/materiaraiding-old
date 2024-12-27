@@ -9,7 +9,10 @@ difficulty: Chaotic
 discussionlink: https://discord.com/channels/895516967543390249/1321109667644182653
 ---
 
+### Credits
+{: .no_toc }
+- Toolboxes by Pipiro Piro
+
 ## Raidplan
 
 {% include raidplan.html title="Cloud of Darkness (Chaotic)" link="https://raidplan.io/plan/fs0XZrkKO_SHQ-z3" %}
-
