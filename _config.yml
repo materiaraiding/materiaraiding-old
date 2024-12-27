@@ -96,11 +96,10 @@ just_the_docs:
       name: Savage
     extreme:
       name: Extreme
-    criterion:
-      name: Criterion
     chaotic:
       name: Chaotic
-      nav_fold: true
+    criterion:
+      name: Criterion
     othercontent:
       name: Other Content
     archive:
