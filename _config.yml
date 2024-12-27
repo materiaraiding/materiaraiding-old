@@ -78,6 +78,9 @@ collections:
   criterion:
     permalink: "/:collection/:path/"
     output: true
+  chaotic:
+    permalink: "/:collection/:path/"
+    output: true
   othercontent:
     permalink: "/:collection/:path/"
     output: true
@@ -95,11 +98,15 @@ just_the_docs:
       name: Extreme
     criterion:
       name: Criterion
+    chaotic:
+      name: Chaotic
+      nav_fold: true
     othercontent:
       name: Other Content
     archive:
       name: Archive
       nav_fold: true
+
 
 
 # Back to top link
