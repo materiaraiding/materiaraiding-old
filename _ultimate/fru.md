@@ -124,6 +124,9 @@ P5: Polarizing Swap Order: TMRH
 {: .no_toc }
 {% include videoembed.html videoid="QZzuMStV26U" %}
 
+#### Phase 4
+{: .no_toc }
+{% include videoembed.html videoid="Si7y2rEz6os" %}
 ---
 
 ### Mitigation Plan
