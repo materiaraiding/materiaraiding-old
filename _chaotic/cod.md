@@ -6,6 +6,7 @@ nav_order: 1
 longtitle: The Cloud of Darkness (Chaotic)
 expansion: Dawntrail
 difficulty: Chaotic
+description: Materia Resources and Guide for The Cloud of Darkness (Chaotic)
 discussionlink: https://discord.com/channels/895516967543390249/1321109667644182653
 ---
 
