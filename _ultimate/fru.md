@@ -815,7 +815,7 @@ Ice Debuffs will step up, Aero debuffs will step down, look at the two players s
 
 {% include image.html width="500px" path="https://github.com/user-attachments/assets/a625f6c7-a1f0-4eaf-abb4-5bd787ccfb4a" %}
 
-**Red** players must intercept dragonheads that will begin to travel around the arena from North to South. Intercepting these dragons will cleanse the debuff, and cause a large AOE explosion aswell as leaving behind a small puddle on the floor. This puddle must be picked up by a **Blue** player to successfully cleanse their own debuff. Allowing either of these debuffs to remain unresolved, will immediately kill the player.
+**Red** players must intercept dragonheads that will begin to travel around the arena from North to South. Intercepting these dragons will cleanse the debuff, and cause a large AOE explosion aswell as leaving behind a small puddle on the floor. This puddle must be picked up by a **Blue** player to successfully cleanse their own debuff. Allowing either of these debuffs to remain unresolved will immediately kill the player.
 
 As well as these Red and Blue buffs everyone will also gain an additional debuff. As mentioned prior Red players will have 2 aero and 2 ice. Blue players will have 1 **Ice**, 1 **Water**, 1 **Unholy Darkness**, and 1 **Eruption**.
 
@@ -836,7 +836,25 @@ To break up this mechanic, I'll first write through the resolution for all **Blu
 
 The assigned **Red Aero** player, and all the **non-Eruption Blue** debuff players will go to the South **Purple Tether**. The **Eruption Blue** debuff player will go to the North **Purple Tether**
 
-After the **Yellow Tether** traffic lights go off, players (including the eruption player) will shift slightly into where the AOE was. Immediately, the **Water, Ice, and Aero** will all go off at once, launching the **Blue** players to the opposite side of the arena, and they will immediately stack with the **Eruption** & **Ice** player of that side to resolve **Unholy Darkness**.
+The **Red Aero** and **Eruption** player will stand 2 pips down from the star on the arena's edge so that they are leaning South/North respectively
+
+After the **Yellow Tether** traffic lights go off, the south **Blue** players will immediately move just in front of the **Red Aero** player. Immediately, the **Water, Ice, and Aero** will all go off at once, launching the **Blue** players to the opposite side of the arena, and they will immediately stack with the **Eruption** & **Red Ice** player of that side to resolve **Unholy Darkness**.
+
+After the stack resolves, all North players (**Blue** & **Red Ice**) will shift over to the North Cardinal.
+
+Line Exas will then begin to propogate from either East or West, as well as the final **Purple Tether** AOE going off. 
+
+As safely and quickly as possible, each **Blue** player will begin to make their way to their corresponding waymark to cleanse their debuff. As they move across the arena, a second Exa starting from North or South will begin to move across the arena. 
+
+The starting position of both of these Exas must be remembered, as they are the starting position for a upcoming wild-charge knockback. 
+
+For example if the Exas started West and North, the North West intercardinal will be "safe"
+
+After cleansing their debuff, everyone should run to the safe intercardinal and stack on the waymark as seen below:
+
+{: .note }
+> If a blue player is unable to cleanse their buff in time, they can run to the safe spot, drop their rewind and then run to go cleanse immediately after as there is a short window before the puddle despawns.
+(image)
 
 Work in Progress
 
