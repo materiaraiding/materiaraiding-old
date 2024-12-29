@@ -746,10 +746,13 @@ After another **Shockwave Pulsar**, Gaia must be damaged below 20% HP before she
 > The boss that is too high HP will be tethered during the **Ahk Morn** cast.
 
 {: .tanks }
-> Ryne will be doing two auto attacks on the two players with the highest emnity, rewuiring the OT to have 2nd aggro on Ryne.
+> Ryne will be doing two auto attacks on the two players with the highest emnity, requiring the OT to have 2nd aggro on Ryne.
 
 
 Gaia will become untargetable and disappear. Usurper of Frost (Ryne) will then appear **true North/South**, and a memory crystal will appear **true North**. Ryne will always spawn opposite of where Gaia phased previously.
+
+{: .warning}
+> Be extremely careful with placement of any AOEs (Water Stacks, Eruption, Spirit Taker etc), as if the crystal at North takes any optional damage it will be destroyed and the party will be unable to reach phase 5.
 
 Hraesvelgr will coil around Ryne. Baited AOEs will appear under each player once his wings sprout. The party will stack true west of Ryne (waymark 1 or 4), and quickly move to the center of the arena after the wings sprout from Ryne's body.
 
@@ -786,8 +789,6 @@ Once the bowtie is formed, the tether players will stand in their towers, and th
 
 After the towers and AOEs resolve, Gaia will cast **Sprit Taker**, targeting a random player again. All players will roughly spread to resolve this. Immediately after Ryne will cast **Hallowed Wings**, cleaving one half of the arena. The party will shift over into the safespot and take the **Water Stack**.
 
-{: .warning}
-> Be extremely careful with placement of Spirit Taker, as if the crystal at North takes any optional damage it will be destroyed and the party will be unable to reach phase 5.
 
 A tank will **immediately** run to **true East** or **true West** (whichever is furthest) to bait out a **Somber Dance** tankbuster, followed by another **Somber Dance** baited on the closest person.
 
